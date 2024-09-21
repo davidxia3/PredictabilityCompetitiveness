@@ -15,7 +15,7 @@ chrome_options.add_argument("--headless=new")
 service = ChromeService(executable_path=ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-with open('data/basketball/teams.json', 'r') as file:
+with open('data/nba/teams.json', 'r') as file:
     data = json.load(file)
 
 base_url = "https://www.oddsportal.com/search/results/"
@@ -85,7 +85,7 @@ for team in teams:
                 print("ERROR: no date: " + team)
                 continue
 
-with open("data/basketball/wizards/games.json", "w") as outfile:
+with open("data/nba/wizards/games.json", "w") as outfile:
     json.dump(total_data, outfile, indent=4)
 
 driver.quit()

@@ -21,7 +21,7 @@ month_abbreviation_to_month = {
 team = "mavericks"
 x = 0
 
-with open(f'data/basketball/{team}/games.json', 'r') as file:
+with open(f'data/nba/{team}/games.json', 'r') as file:
     games = json.load(file)
 
 total_data = []
@@ -112,13 +112,13 @@ while i < min(len(games), x+ 900):
 
     gc.collect()
 
-if os.path.getsize(f"data/basketball/{team}/market.json") == 0:
+if os.path.getsize(f"data/nba/{team}/market.json") == 0:
     existing = [] 
 else:
-    with open(f"data/basketball/{team}/market.json", "r") as market:
+    with open(f"data/nba/{team}/market.json", "r") as market:
         existing = json.load(market)
 
-with open(f"data/basketball/{team}/market.json", "w") as outfile:
+with open(f"data/nba/{team}/market.json", "w") as outfile:
     json.dump(existing + total_data, outfile, indent=4)
 
 driver.quit()
