@@ -18,8 +18,8 @@ month_abbreviation_to_month = {
     "Sep": "september", "Oct": "october", "Nov": "november", "Dec": "december"
 }
 
-team = "mavericks"
-x = 0
+team = "wizards"
+x = 900
 
 with open(f'data/nba/{team}/games.json', 'r') as file:
     games = json.load(file)
