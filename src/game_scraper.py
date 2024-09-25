@@ -15,22 +15,26 @@ chrome_options.add_argument("--headless=new")
 service = ChromeService(executable_path=ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-with open('data/nba/teams.json', 'r') as file:
-    data = json.load(file)
-
 base_url = "https://www.oddsportal.com/search/results/"
 
-teams = data["teams"]
+league = "mlb"
+sport = "baseball"
+
+# with open(f'data/{league}/teams.json', 'r') as file:
+#     data = json.load(file)
+
+# teams = data["teams"]
 
 # Testing
-teams = ["Washington Wizards"]
+teams = ["New York Yankees"]
+file_name = "yankees"
 
 total_data = []
 
 for team in teams:
     search_query = team.replace(" ", "+")
 
-    team_url = base_url + search_query + "/basketball/"
+    team_url = base_url + search_query + "/baseball/"
 
     driver.get(team_url)
 
@@ -49,6 +53,8 @@ for team in teams:
         team_url = driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[3]/div/div[2]/div[2]/a").get_attribute("href") + "/"
         driver.get(team_url)
 
+    print(team_url)
+    print(len(driver.find_elements(By.CLASS_NAME, "pagination-link")))
     last_page = int(driver.find_elements(By.CLASS_NAME, "pagination-link")[-2].text)
 
     for page in range(1, last_page + 1):
@@ -75,8 +81,8 @@ for team in teams:
                     game_data["score_1"] = int(lines[2])
                     game_data["score_2"] = int(lines[4])
                     game_data["team_2"] = lines[5]
-                    game_data["game_url"] = game.find_elements(By.TAG_NAME, "a")[-4].get_attribute("href").split("https://www.oddsportal.com/basketball/")[1]
-
+                    
+                    game_data["game_url"] = game.find_elements(By.TAG_NAME, "a")[-4].get_attribute("href").split("https://www.oddsportal.com/" + sport + "/")[1]
                     total_data.append(game_data)
                 except:
                     pass
@@ -85,7 +91,7 @@ for team in teams:
                 print("ERROR: no date: " + team)
                 continue
 
-with open("data/nba/wizards/games.json", "w") as outfile:
+with open("data/" + league + "/" + file_name + "/games.json", "w") as outfile:
     json.dump(total_data, outfile, indent=4)
 
 driver.quit()
