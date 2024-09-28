@@ -1,3 +1,5 @@
+# scrape.py
+
 from selenium import webdriver  
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -5,47 +7,46 @@ import json
 import time
 import os
 import gc
+import sys
 
+# Selenium setup
 options = Options()
 options.add_argument("--headless=new")
 
 driver = webdriver.Chrome(options=options) 
 
-
-
-
+# Month mapping for date formatting
 month_abbreviation_to_month = {
     "Jan": "january", "Feb": "february", "Mar": "march", "Apr": "april",
     "May": "may", "Jun": "june", "Jul": "july", "Aug": "august",
     "Sep": "september", "Oct": "october", "Nov": "november", "Dec": "december"
 }
 
-team = "bluejays"
-league = "mlb"
+# Read script parameters from command line
+team = sys.argv[1] if len(sys.argv) > 1 else "bluejays"  # Default to "bluejays"
+league = sys.argv[2] if len(sys.argv) > 2 else "mlb"     # Default to "mlb"
+start_index = int(sys.argv[3]) if len(sys.argv) > 3 else 0
+chunk_size = 200
+end_index = start_index + chunk_size
+
 sport = "baseball"
 base_url = f'https://www.oddsportal.com/{sport}/'
 
-x=2400
+# Load game data
+data_path = f'data/{league}/{team}/games.json'
+if not os.path.exists(data_path):
+    print(f"Games data for {team} not found. Skipping...")
+    sys.exit(1)
 
-
-
-
-
-
-
-with open(f'data/{league}/{team}/games.json', 'r') as file:
+with open(data_path, 'r') as file:
     games = json.load(file)
 
 total_data = []
-i = 0
+i = start_index
 fails = 0
 
-while i < min(len(games), x+ 800):
-    if i < x:
-        i += 1
-        continue
-
-    print(i)
+while i < min(len(games), end_index):
+    print(f"Scraping game index: {i}")
 
     game = games[i]
     game_url = game["game_url"]
@@ -56,28 +57,16 @@ while i < min(len(games), x+ 800):
         driver.get(base_url + game_url) 
         time.sleep(1)
 
-
-        avg_moneyline_1 = None
-        avg_moneyline_2 = None
-        high_moneyline_1 = None
-        high_moneyline_2 = None
-
         avg_moneyline_1 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[1]/div[2]").text)
-
         avg_moneyline_2 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[1]/div[3]").text)
-     
         high_moneyline_1 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[2]").text)
-
         high_moneyline_2 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[3]").text)
-      
 
         date = driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[1]/div[2]/div[1]/p[2]").text.split(" ")
-        
         day = date[0]
         month_abbreviation = date[1]
         month = month_abbreviation_to_month.get(month_abbreviation, month_abbreviation)
         year = date[2][:-1]
-
 
         game_data = {
             "id": (day + "_" + month + "_" + year + "_" + team_1.replace(" ", "_") + "_" + team_2.replace(" ", "_")).lower(),
@@ -94,20 +83,19 @@ while i < min(len(games), x+ 800):
         }
 
         total_data.append(game_data)
-
         driver.delete_all_cookies()
 
         fails = 0
         i += 1
 
     except Exception as e:
-        print(e)
+        print(f"Error at index {i}: {e}")
         print(game_url)
         fails += 1
         if fails >= 3:
-            print(f"Failed after 3 attempts at index {i}")
+            print(f"Failed after 3 attempts at index {i}. Skipping...")
             fails = 0
-            i += 1 
+            i += 1
         else:
             print(f"Retrying for index {i}, attempt {fails}")
             time.sleep(2)
@@ -115,13 +103,15 @@ while i < min(len(games), x+ 800):
 
     gc.collect()
 
-if os.path.getsize(f"data/{league}/{team}/market.json") == 0:
-    existing = [] 
-else:
-    with open(f"data/{league}/{team}/market.json", "r") as market:
-        existing = json.load(market)
+# Save the data to the market file
+market_file = f"data/{league}/{team}/market.json"
+existing_data = []
 
-with open(f"data/{league}/{team}/market.json", "w") as outfile:
-    json.dump(existing + total_data, outfile, indent=4)
+if os.path.exists(market_file) and os.path.getsize(market_file) > 0:
+    with open(market_file, "r") as market:
+        existing_data = json.load(market)
+
+with open(market_file, "w") as outfile:
+    json.dump(existing_data + total_data, outfile, indent=4)
 
 driver.quit()
