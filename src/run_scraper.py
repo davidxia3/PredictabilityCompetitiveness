@@ -1,10 +1,11 @@
 import subprocess
 import time
 
-teams = ["devils", "ducks",
-         "flames", "flyers", "goldenknights", "hurricanes", "islanders", "jets", "kings", "kraken", "lightning", "mapleleafs",
-         "oilers", "panthers", "penguins", "predators","rangers", "redwings", "sabres", "senators", "sharks", "stars", "wild"]
-league = "nhl"
+teams = ["bears", "bengals", "bills", "broncos", "browns", "buccaneers", "cardinals", "chargers", "chiefs",
+         "colts", "commanders", "cowboys", "dolphins", "eagles", "falcons", "fortyniners", "giants", 
+         "jaguars", "jets", "lions", "packers", "panthers", "patriots", "raiders", "rams", "ravens",
+         "saints", "seahawks", "steelers", "texans", "titans", "vikings"]
+league = "nfl"
 
 
 total_games_per_team = 1800

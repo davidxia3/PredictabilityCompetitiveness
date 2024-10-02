@@ -1,0 +1,2634 @@
+[
+    {
+        "date": "29/Sep",
+        "team_1": "New York Jets",
+        "score_1": 9,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl/new-york-jets-denver-broncos-x0xEKqJD/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 7,
+        "score_2": 26,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl/tampa-bay-buccaneers-denver-broncos-x4SPyrgC/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 6,
+        "score_2": 13,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl/denver-broncos-pittsburgh-steelers-zah8NiY1/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "Seattle Seahawks",
+        "score_1": 26,
+        "score_2": 20,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl/seattle-seahawks-denver-broncos-6NAwKcAC/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 38,
+        "score_2": 12,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl/denver-broncos-arizona-cardinals-xxraxndd/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 2,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl/denver-broncos-green-bay-packers-OIXSI0a6/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "Indianapolis Colts",
+        "score_1": 30,
+        "score_2": 34,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl/indianapolis-colts-denver-broncos-Spgh2KcS/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 27,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/las-vegas-raiders-denver-broncos-61BJMhJ9/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 9,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-los-angeles-chargers-vZVvBeKc/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 26,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-new-england-patriots-xlbZg3q6/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "Detroit Lions",
+        "score_1": 42,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-denver-broncos-0nTKl87Q/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 7,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/los-angeles-chargers-denver-broncos-Au32zInG/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "Houston Texans",
+        "score_1": 22,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/houston-texans-denver-broncos-8tST2wRp/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 29,
+        "score_2": 12,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-cleveland-browns-OlOBd24B/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 21,
+        "score_2": 20,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-minnesota-vikings-bJON1xPg/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 22,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-denver-broncos-jLLHn6Jk/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 9,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-kansas-city-chiefs-ClojQI6I/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 19,
+        "score_2": 17,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-green-bay-packers-hA7TMq0Q/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 19,
+        "score_2": 8,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-denver-broncos-W0GLz6P1/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 21,
+        "score_2": 31,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-new-york-jets-drO8w8uq/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "Chicago Bears",
+        "score_1": 28,
+        "score_2": 31,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/chicago-bears-denver-broncos-WAP5guK5/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "Miami Dolphins",
+        "score_1": 70,
+        "score_2": 20,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/miami-dolphins-denver-broncos-QwSJq4js/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 33,
+        "score_2": 35,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-washington-commanders-hnkCmDiF/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 17,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-las-vegas-raiders-4lk0Lf8M/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 41,
+        "score_2": 0,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-los-angeles-rams-QcUYNLJA/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "San Francisco 49ers",
+        "score_1": 21,
+        "score_2": 20,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/san-francisco-49ers-denver-broncos-6ZYQfNkO/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "Arizona Cardinals",
+        "score_1": 18,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/arizona-cardinals-denver-broncos-QsO63fxR/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 31,
+        "score_2": 28,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-los-angeles-chargers-A3w77ctT/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-denver-broncos-ELeZp9gB/"
+    },
+    {
+        "date": "25/Dec",
+        "team_1": "Los Angeles Rams",
+        "score_1": 51,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-denver-broncos-Y1z0W9vI/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 15,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-arizona-cardinals-Wd0rIJJ7/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 28,
+        "score_2": 34,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-kansas-city-chiefs-GQemijFi/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Baltimore Ravens",
+        "score_1": 10,
+        "score_2": 9,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/baltimore-ravens-denver-broncos-QaZ1p0n1/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Carolina Panthers",
+        "score_1": 23,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/carolina-panthers-denver-broncos-8tIxtoeF/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 22,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-las-vegas-raiders-8McDwhZG/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Tennessee Titans",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-denver-broncos-UBnEUdjn/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 17,
+        "score_2": 21,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/jacksonville-jaguars-denver-broncos-ng4DFwjT/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 9,
+        "score_2": 16,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-new-york-jets-drM8dCv3/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 19,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/los-angeles-chargers-denver-broncos-4lcVrgA3/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 9,
+        "score_2": 12,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-indianapolis-colts-QsfuYGvl/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 32,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/las-vegas-raiders-denver-broncos-CzE4vJ1K/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 11,
+        "score_2": 10,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-san-francisco-49ers-SCXz6bee/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 9,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-houston-texans-ERM235Zd/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "Seattle Seahawks",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/seattle-seahawks-denver-broncos-dE66kOhO/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 13,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-minnesota-vikings-hv1EW59r/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 42,
+        "score_2": 15,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-denver-broncos-zcsDUOMc/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 7,
+        "team_2": "Dallas Cowboys",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-dallas-cowboys-nwtxTBog/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 28,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-kansas-city-chiefs-WMgDRLfC/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 34,
+        "score_2": 13,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/los-angeles-chargers-denver-broncos-hdv01Pt7/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/las-vegas-raiders-denver-broncos-QNax9GrG/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 10,
+        "score_2": 15,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-cincinnati-bengals-QmqTsvpH/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 38,
+        "score_2": 10,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-detroit-lions-pCEzVswC/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 22,
+        "score_2": 9,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-denver-broncos-GbNLHX2e/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 28,
+        "score_2": 13,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-los-angeles-chargers-6T3w5fJk/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 13,
+        "score_2": 30,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-philadelphia-eagles-QZZPYVxf/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "Dallas Cowboys",
+        "score_1": 16,
+        "score_2": 30,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/dallas-cowboys-denver-broncos-Y1vxFynL/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-washington-commanders-xG8yB7Tk/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "Cleveland Browns",
+        "score_1": 17,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/cleveland-browns-denver-broncos-no0W5Log/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 34,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-las-vegas-raiders-CW9LmvWO/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 27,
+        "score_2": 19,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/pittsburgh-steelers-denver-broncos-S2Ux0gJ2/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 7,
+        "score_2": 23,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-baltimore-ravens-tn6emGZd/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 26,
+        "score_2": 0,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-new-york-jets-nkjrNJLi/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 13,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/jacksonville-jaguars-denver-broncos-Czp98ak1/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "New York Giants",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/new-york-giants-denver-broncos-6Z0QGNsL/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 12,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-los-angeles-rams-EsuI1mgt/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "Seattle Seahawks",
+        "score_1": 3,
+        "score_2": 30,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/seattle-seahawks-denver-broncos-lYdB5dfE/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "Minnesota Vikings",
+        "score_1": 6,
+        "score_2": 33,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-denver-broncos-Ugq9gVqM/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 31,
+        "score_2": 32,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-las-vegas-raiders-bkyWWBz7/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 19,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2020-2021/los-angeles-chargers-denver-broncos-8KtTsHRA/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 19,
+        "score_2": 48,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-buffalo-bills-nVyBI0ba/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Carolina Panthers",
+        "score_1": 27,
+        "score_2": 32,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2020-2021/carolina-panthers-denver-broncos-KxNgCPyQ/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 22,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-denver-broncos-hSMEBhoF/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 3,
+        "score_2": 31,
+        "team_2": "New Orleans Saints",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-new-orleans-saints-hh65pGnG/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-miami-dolphins-84tubKbP/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 37,
+        "score_2": 12,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2020-2021/las-vegas-raiders-denver-broncos-Shc0Mlbs/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "Atlanta Falcons",
+        "score_1": 34,
+        "score_2": 27,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2020-2021/atlanta-falcons-denver-broncos-E3zGGPAL/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 31,
+        "score_2": 30,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-los-angeles-chargers-MmCOCyRp/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 43,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-kansas-city-chiefs-EPm52ZkB/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 12,
+        "score_2": 18,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2020-2021/new-england-patriots-denver-broncos-04MNY3VD/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "New York Jets",
+        "score_1": 28,
+        "score_2": 37,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2020-2021/new-york-jets-denver-broncos-lr8dMZui/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 10,
+        "score_2": 28,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-tampa-bay-buccaneers-Ye3r5YAG/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 26,
+        "score_2": 21,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2020-2021/pittsburgh-steelers-denver-broncos-8pWG1HlI/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 14,
+        "score_2": 16,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-tennessee-titans-QkCY1Qr1/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 15,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-las-vegas-raiders-S2jCQ4oh/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-detroit-lions-pMPJ3MMs/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 23,
+        "score_2": 3,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-denver-broncos-dbnC7VNF/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "Houston Texans",
+        "score_1": 24,
+        "score_2": 38,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/houston-texans-denver-broncos-hjPBvXgT/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-los-angeles-chargers-0d0YQDPT/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 20,
+        "score_2": 3,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-denver-broncos-vRRSNmDK/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Minnesota Vikings",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-denver-broncos-raClAUrL/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 19,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-cleveland-browns-p2ZJ2RJc/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Indianapolis Colts",
+        "score_1": 15,
+        "score_2": 13,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/indianapolis-colts-denver-broncos-viZPpgbC/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 6,
+        "score_2": 30,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-kansas-city-chiefs-SlsMUt8E/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 0,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-tennessee-titans-Yk0V7J01/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/los-angeles-chargers-denver-broncos-OhW2Gjm4/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 26,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-jacksonville-jaguars-4zK3oWmU/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "Green Bay Packers",
+        "score_1": 27,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/green-bay-packers-denver-broncos-86XWc3L1/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 14,
+        "score_2": 16,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-chicago-bears-YmJloQyd/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 24,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/las-vegas-raiders-denver-broncos-fJmztVaG/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 7,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-arizona-cardinals-8Ohi0VLt/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "Los Angeles Rams",
+        "score_1": 10,
+        "score_2": 6,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-denver-broncos-zP9TH2SG/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 15,
+        "score_2": 24,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-san-francisco-49ers-ATMMpjMg/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "Seattle Seahawks",
+        "score_1": 22,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/seattle-seahawks-denver-broncos-G4xnGBT1/"
+    },
+    {
+        "date": "01/Aug",
+        "team_1": "Atlanta Falcons",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-denver-broncos-lbpjXWif/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 9,
+        "score_2": 23,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-los-angeles-chargers-QVRYd1mD/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 27,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/las-vegas-raiders-denver-broncos-MHi9LP8G/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 17,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-cleveland-browns-S0DErjB5/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "San Francisco 49ers",
+        "score_1": 20,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/san-francisco-49ers-denver-broncos-t4iqTABI/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/cincinnati-bengals-denver-broncos-Kd1QGtMe/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-pittsburgh-steelers-CWym3Nid/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 22,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/los-angeles-chargers-denver-broncos-ALUIalo4/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-houston-texans-YsSSlCFl/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 30,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-denver-broncos-2LlntrXG/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "Arizona Cardinals",
+        "score_1": 10,
+        "score_2": 45,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/arizona-cardinals-denver-broncos-fe3wDq3U/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-los-angeles-rams-nPCIH7la/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "New York Jets",
+        "score_1": 34,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-denver-broncos-EwwLCL62/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-kansas-city-chiefs-bVfYlIEe/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "Baltimore Ravens",
+        "score_1": 27,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/baltimore-ravens-denver-broncos-IDEvmySA/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 19,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-las-vegas-raiders-pnybzbr5/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-seattle-seahawks-tjQvM7Nf/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "Arizona Cardinals",
+        "score_1": 10,
+        "score_2": 21,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/arizona-cardinals-denver-broncos-dYnnwNne/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "Washington Commanders",
+        "score_1": 17,
+        "score_2": 29,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/washington-commanders-denver-broncos-4tknMUB3/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 24,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-chicago-bears-vgvOPies/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 28,
+        "score_2": 42,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-minnesota-vikings-nqRMdgRf/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-kansas-city-chiefs-n5jzSt9h/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "Washington Commanders",
+        "score_1": 27,
+        "score_2": 11,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/washington-commanders-denver-broncos-p0GIDjlr/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "Indianapolis Colts",
+        "score_1": 13,
+        "score_2": 25,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/indianapolis-colts-denver-broncos-vPfeucrG/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 0,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-new-york-jets-2yc8mFyT/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "Miami Dolphins",
+        "score_1": 35,
+        "score_2": 9,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/miami-dolphins-denver-broncos-Ojw0j2ZJ/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 21,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/las-vegas-raiders-denver-broncos-xzFIwPkE/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-cincinnati-bengals-42Ky6pUr/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 41,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-new-england-patriots-8M1YAZFA/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 51,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/philadelphia-eagles-denver-broncos-tY2IqcHB/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 29,
+        "score_2": 19,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-denver-broncos-v5tmUHHO/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 21,
+        "score_2": 0,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/los-angeles-chargers-denver-broncos-0foSxk4R/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 10,
+        "score_2": 23,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-new-york-giants-ppGUTgLd/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 10,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-las-vegas-raiders-tGVBNcsQ/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 26,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-denver-broncos-dUpQr2ER/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 42,
+        "score_2": 17,
+        "team_2": "Dallas Cowboys",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-dallas-cowboys-KnCIPM7k/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 21,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-los-angeles-chargers-C0L3VivB/"
+    },
+    {
+        "date": "31/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 30,
+        "score_2": 2,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-arizona-cardinals-b30PReBd/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-green-bay-packers-j3t82uro/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "San Francisco 49ers",
+        "score_1": 14,
+        "score_2": 33,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/san-francisco-49ers-denver-broncos-jLZwa6yg/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "Chicago Bears",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/chicago-bears-denver-broncos-SOLz4eNK/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 6,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-las-vegas-raiders-4jWVc1Pl/"
+    },
+    {
+        "date": "25/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 33,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-denver-broncos-OWx9h6m9/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 3,
+        "score_2": 16,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-new-england-patriots-AVP2sLNA/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "Tennessee Titans",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-denver-broncos-KOapTU20/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 10,
+        "score_2": 20,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/jacksonville-jaguars-denver-broncos-CxaW2Yle/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 30,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-kansas-city-chiefs-vBLkje5k/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "New Orleans Saints",
+        "score_1": 23,
+        "score_2": 25,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/new-orleans-saints-denver-broncos-rJ8VtCG0/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 30,
+        "score_2": 20,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/las-vegas-raiders-denver-broncos-bTcp2Mn9/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 19,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-los-angeles-chargers-xpQlYsYS/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 9,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-houston-texans-2RB6L4lN/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 21,
+        "score_2": 13,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/los-angeles-chargers-denver-broncos-WQeAeHU0/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 23,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-atlanta-falcons-bJ8N4L7E/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 7,
+        "score_2": 27,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/tampa-bay-buccaneers-denver-broncos-rN8oW01k/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 17,
+        "score_2": 29,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/cincinnati-bengals-denver-broncos-vyq6DLF5/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-indianapolis-colts-0W4Ta2o6/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 21,
+        "score_2": 20,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-carolina-panthers-4YM7gHV2/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "Arizona Cardinals",
+        "score_1": 38,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/arizona-cardinals-denver-broncos-rR6FSmRn/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 9,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-los-angeles-rams-pIaGcTRC/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 31,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-san-francisco-49ers-f7VSmhbl/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "Chicago Bears",
+        "score_1": 0,
+        "score_2": 22,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/chicago-bears-denver-broncos-fRFzt40A/"
+    },
+    {
+        "date": "07/Feb",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-carolina-panthers-YNw0v8h6/"
+    },
+    {
+        "date": "24/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 18,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-new-england-patriots-8rRl6O31/"
+    },
+    {
+        "date": "17/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 16,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-pittsburgh-steelers-GtGH8jWM/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-los-angeles-chargers-GUqYCgXi/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-cincinnati-bengals-Iw0Ze1d0/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 34,
+        "score_2": 27,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/pittsburgh-steelers-denver-broncos-8QBEV4re/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 12,
+        "score_2": 15,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-las-vegas-raiders-8thiSVy3/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 3,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/los-angeles-chargers-denver-broncos-xMTqSAK5/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 30,
+        "score_2": 24,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-new-england-patriots-lMlWMFrQ/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Chicago Bears",
+        "score_1": 15,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/chicago-bears-denver-broncos-lvfAl4Wq/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 13,
+        "score_2": 29,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-kansas-city-chiefs-lQEyz5Hj/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "Indianapolis Colts",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/indianapolis-colts-denver-broncos-KlmVSmAN/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 29,
+        "score_2": 10,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-green-bay-packers-AyLuIWe5/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "Cleveland Browns",
+        "score_1": 23,
+        "score_2": 26,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/cleveland-browns-denver-broncos-29he2opp/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 10,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/las-vegas-raiders-denver-broncos-YmFCA9x4/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-minnesota-vikings-WnFEgH1C/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "Detroit Lions",
+        "score_1": 12,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-denver-broncos-dAbKqtYm/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 31,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-denver-broncos-4KidOY5A/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 19,
+        "score_2": 13,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-baltimore-ravens-WCKV7DLT/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 22,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-arizona-cardinals-dElW0v8n/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 19,
+        "score_2": 12,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-san-francisco-49ers-WWQK1ayq/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "Houston Texans",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/houston-texans-denver-broncos-zROutqFM/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "Seattle Seahawks",
+        "score_1": 20,
+        "score_2": 22,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/seattle-seahawks-denver-broncos-dGDtXmWi/"
+    },
+    {
+        "date": "11/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 13,
+        "score_2": 24,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-indianapolis-colts-ruW5C1B9/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 47,
+        "score_2": 14,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-las-vegas-raiders-6aQo9Xn2/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 37,
+        "score_2": 28,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/cincinnati-bengals-denver-broncos-vRoOGOlB/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 10,
+        "score_2": 22,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/los-angeles-chargers-denver-broncos-EkHBjSz6/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-buffalo-bills-pAsfPkx7/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 16,
+        "score_2": 29,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-denver-broncos-IsnuVK8S/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 39,
+        "score_2": 36,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-miami-dolphins-SCu0Fgio/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "Los Angeles Rams",
+        "score_1": 22,
+        "score_2": 7,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-denver-broncos-nL8A8ov1/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 17,
+        "score_2": 41,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/las-vegas-raiders-denver-broncos-8GUXfS91/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "New England Patriots",
+        "score_1": 43,
+        "score_2": 21,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/new-england-patriots-denver-broncos-bHLoqVAk/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 35,
+        "score_2": 21,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-los-angeles-chargers-CSspuPDn/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 42,
+        "score_2": 17,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-san-francisco-49ers-GddEpojP/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 31,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-denver-broncos-l8w9CxJD/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 41,
+        "score_2": 20,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-arizona-cardinals-tMbQ1L4e/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "Seattle Seahawks",
+        "score_1": 26,
+        "score_2": 20,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/seattle-seahawks-denver-broncos-pfmDbehn/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-kansas-city-chiefs-pKW3XIgm/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-indianapolis-colts-b532FpY1/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "Dallas Cowboys",
+        "score_1": 3,
+        "score_2": 27,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/dallas-cowboys-denver-broncos-EwVuCBR9/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 18,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-houston-texans-2DQXBjAC/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "San Francisco 49ers",
+        "score_1": 0,
+        "score_2": 34,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/san-francisco-49ers-denver-broncos-rZnB8H3K/"
+    },
+    {
+        "date": "07/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 21,
+        "score_2": 16,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-seattle-seahawks-fZFmOabq/"
+    },
+    {
+        "date": "02/Feb",
+        "team_1": "Denver Broncos",
+        "score_1": 8,
+        "score_2": 43,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-seattle-seahawks-jTcOoq2c/"
+    },
+    {
+        "date": "19/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 26,
+        "score_2": 16,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-new-england-patriots-ni1OknfO/"
+    },
+    {
+        "date": "12/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-los-angeles-chargers-WzRwKNqm/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 14,
+        "score_2": 34,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/las-vegas-raiders-denver-broncos-IkYVxtWD/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "Houston Texans",
+        "score_1": 13,
+        "score_2": 37,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/houston-texans-denver-broncos-4Qhk5tgo/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-los-angeles-chargers-4rnL17ng/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 51,
+        "score_2": 28,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-tennessee-titans-ANwgbYu1/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 28,
+        "score_2": 35,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-denver-broncos-4jKyZHCk/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "New England Patriots",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/new-england-patriots-denver-broncos-ATb2KIcd/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-kansas-city-chiefs-zVCSUBFn/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 20,
+        "score_2": 28,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/los-angeles-chargers-denver-broncos-Uy2waBVI/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 45,
+        "score_2": 21,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-washington-commanders-pOhRDbNc/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "Indianapolis Colts",
+        "score_1": 39,
+        "score_2": 33,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/indianapolis-colts-denver-broncos-bgBt21Oo/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 35,
+        "score_2": 19,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-jacksonville-jaguars-zixLy5At/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "Dallas Cowboys",
+        "score_1": 48,
+        "score_2": 51,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/dallas-cowboys-denver-broncos-nHWVIj41/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 52,
+        "score_2": 20,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-philadelphia-eagles-rLyDCFsS/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 37,
+        "score_2": 21,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-las-vegas-raiders-C0qR2vE3/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "New York Giants",
+        "score_1": 23,
+        "score_2": 41,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/new-york-giants-denver-broncos-SWJ4kUwm/"
+    },
+    {
+        "date": "05/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 49,
+        "score_2": 27,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-baltimore-ravens-Acx4ZZXr/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 32,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-arizona-cardinals-25x7SRKb/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 26,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-los-angeles-rams-2VLc1kMa/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "Seattle Seahawks",
+        "score_1": 40,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/seattle-seahawks-denver-broncos-lnSz9tO8/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "San Francisco 49ers",
+        "score_1": 6,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/san-francisco-49ers-denver-broncos-AcbarGbN/"
+    },
+    {
+        "date": "12/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 35,
+        "score_2": 38,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-baltimore-ravens-x8n1OEOM/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 38,
+        "score_2": 3,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-kansas-city-chiefs-t4TGnNfQ/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 34,
+        "score_2": 12,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-cleveland-browns-h0p4f7bs/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "Baltimore Ravens",
+        "score_1": 17,
+        "score_2": 34,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/baltimore-ravens-denver-broncos-hO0Ydo2k/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 13,
+        "score_2": 26,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/las-vegas-raiders-denver-broncos-xELuiJZb/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 31,
+        "score_2": 23,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-tampa-bay-buccaneers-SvCGjkOI/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 9,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-denver-broncos-MoZcdagl/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 30,
+        "score_2": 23,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-los-angeles-chargers-0I5GqM9r/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "Carolina Panthers",
+        "score_1": 14,
+        "score_2": 36,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/carolina-panthers-denver-broncos-vPdct5mp/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 23,
+        "score_2": 31,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/cincinnati-bengals-denver-broncos-IZu9Xz5C/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "New Orleans Saints",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-new-orleans-saints-rHmdzwLg/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 24,
+        "score_2": 35,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/los-angeles-chargers-denver-broncos-EqYUwc9e/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 31,
+        "score_2": 21,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/new-england-patriots-denver-broncos-vkM0zO23/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 37,
+        "score_2": 6,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-las-vegas-raiders-pfVLUbVl/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 25,
+        "score_2": 31,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-houston-texans-EmdgwWHi/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Atlanta Falcons",
+        "score_1": 27,
+        "score_2": 21,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-denver-broncos-U9HCgHSp/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 31,
+        "score_2": 19,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-pittsburgh-steelers-joqyfdnm/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "Arizona Cardinals",
+        "score_1": 13,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/arizona-cardinals-denver-broncos-A1rBNEQ5/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 29,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-san-francisco-49ers-Kzd1BmGD/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 10,
+        "score_2": 30,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-seattle-seahawks-4QhUMMIc/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "Chicago Bears",
+        "score_1": 3,
+        "score_2": 31,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/chicago-bears-denver-broncos-YHtivqkO/"
+    },
+    {
+        "date": "14/Jan",
+        "team_1": "New England Patriots",
+        "score_1": 45,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/new-england-patriots-denver-broncos-tYF0l4j8/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 29,
+        "score_2": 23,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-pittsburgh-steelers-d08kDK1h/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 3,
+        "score_2": 7,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-kansas-city-chiefs-SYLVskmL/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 40,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-denver-broncos-zotQUA1O/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 41,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-new-england-patriots-CYqRHXHI/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-chicago-bears-GE0uEbBQ/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Minnesota Vikings",
+        "score_1": 32,
+        "score_2": 35,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-denver-broncos-dIaJbnLS/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 13,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/los-angeles-chargers-denver-broncos-M9I0lBi4/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-new-york-jets-fw9WL12f/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-denver-broncos-YerlQFik/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 24,
+        "score_2": 38,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/las-vegas-raiders-denver-broncos-6HjJIbpM/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 10,
+        "score_2": 45,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-detroit-lions-vDc3931i/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "Miami Dolphins",
+        "score_1": 15,
+        "score_2": 18,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/miami-dolphins-denver-broncos-2PJggBQa/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 29,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-los-angeles-chargers-S0ppUzrr/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Green Bay Packers",
+        "score_1": 49,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/green-bay-packers-denver-broncos-z1tIznac/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Tennessee Titans",
+        "score_1": 17,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-denver-broncos-8A6E8a4O/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 22,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-cincinnati-bengals-hAfKftzP/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-las-vegas-raiders-vavGcipk/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "Arizona Cardinals",
+        "score_1": 26,
+        "score_2": 7,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/arizona-cardinals-denver-broncos-bwn0B31H/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-seattle-seahawks-KEyFeXeD/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-buffalo-bills-WrKI6c4E/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "Dallas Cowboys",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/dallas-cowboys-denver-broncos-hjGZXdDe/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 28,
+        "score_2": 33,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-los-angeles-chargers-QmUjwIr9/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-houston-texans-fm62BupA/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 39,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/las-vegas-raiders-denver-broncos-8rYhem9I/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Arizona Cardinals",
+        "score_1": 43,
+        "score_2": 13,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/arizona-cardinals-denver-broncos-vXLfhfmK/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 6,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-denver-broncos-6T8JJ2jp/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 33,
+        "score_2": 36,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-los-angeles-rams-KvPQLzeo/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 35,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/los-angeles-chargers-denver-broncos-O4cdGuJ5/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 49,
+        "score_2": 29,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-kansas-city-chiefs-QqWz9iLR/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "San Francisco 49ers",
+        "score_1": 24,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/san-francisco-49ers-denver-broncos-2kaaVHNG/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 14,
+        "score_2": 59,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-las-vegas-raiders-0z24UpX5/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-new-york-jets-4f3ZQVuK/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Baltimore Ravens",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/baltimore-ravens-denver-broncos-GEzsfqvd/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "Tennessee Titans",
+        "score_1": 20,
+        "score_2": 26,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-denver-broncos-fg3uHFuh/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-indianapolis-colts-Olgb6Itt/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 31,
+        "score_2": 14,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-seattle-seahawks-z9rrqMZP/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/jacksonville-jaguars-denver-broncos-Kv10YXUd/"
+    },
+    {
+        "date": "02/Sep",
+        "team_1": "Minnesota Vikings",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-denver-broncos-v38Qs6Vk/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 34,
+        "score_2": 17,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-pittsburgh-steelers-r7Thovzi/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 25,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-detroit-lions-pG9mp7qt/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 33,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/cincinnati-bengals-denver-broncos-xbzMRYNf/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 44,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-kansas-city-chiefs-YqW00YZJ/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 30,
+        "score_2": 27,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/philadelphia-eagles-denver-broncos-M1UyZOpA/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 19,
+        "score_2": 20,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-las-vegas-raiders-z7LaJqoN/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Indianapolis Colts",
+        "score_1": 28,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/indianapolis-colts-denver-broncos-lAFIz3lI/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 13,
+        "score_2": 44,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-denver-broncos-AXwHS75m/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 26,
+        "score_2": 6,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-new-york-giants-pQWGrQfh/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 3,
+        "score_2": 32,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-los-angeles-chargers-fgF9CjE1/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "Washington Commanders",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/washington-commanders-denver-broncos-tlzcJKt2/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 10,
+        "score_2": 28,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-pittsburgh-steelers-Ay8D1fCt/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Baltimore Ravens",
+        "score_1": 30,
+        "score_2": 7,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/baltimore-ravens-denver-broncos-QRYIhHta/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 23,
+        "score_2": 34,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/los-angeles-chargers-denver-broncos-zTIS7Ny4/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-new-england-patriots-CSfNYCQs/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "Dallas Cowboys",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-dallas-cowboys-QgH2TeVb/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 3,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/las-vegas-raiders-denver-broncos-rVmbTIC8/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 6,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-cleveland-browns-AufjyPY6/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 7,
+        "score_2": 12,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/cincinnati-bengals-denver-broncos-UNq1GwLi/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 19,
+        "score_2": 0,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-arizona-cardinals-z14UGPD6/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-chicago-bears-8zpH9C3t/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "Seattle Seahawks",
+        "score_1": 27,
+        "score_2": 13,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/seattle-seahawks-denver-broncos-hn0tcXTj/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "San Francisco 49ers",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/san-francisco-49ers-denver-broncos-6R5lSU2d/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 52,
+        "score_2": 21,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2008-2009/los-angeles-chargers-denver-broncos-fc0rMWzE/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2008-2009/denver-broncos-buffalo-bills-4jWLlNij/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "Carolina Panthers",
+        "score_1": 30,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2008-2009/carolina-panthers-denver-broncos-zZYtygLi/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2008-2009/denver-broncos-kansas-city-chiefs-MeUDbLEc/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 34,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-denver-broncos-h0l8aScf/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 10,
+        "score_2": 31,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2008-2009/denver-broncos-las-vegas-raiders-2ZssVUv2/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "Atlanta Falcons",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-denver-broncos-4EMT0vFt/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Cleveland Browns",
+        "score_1": 30,
+        "score_2": 34,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2008-2009/cleveland-browns-denver-broncos-lIrTaIT6/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 26,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2008-2009/denver-broncos-miami-dolphins-l4uf8puO/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 41,
+        "score_2": 7,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2008-2009/new-england-patriots-denver-broncos-hMcLKdBj/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2008-2009/denver-broncos-jacksonville-jaguars-O0MLMpL3/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 13,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2008-2009/denver-broncos-tampa-bay-buccaneers-vyFKqXuF/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 33,
+        "score_2": 19,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-denver-broncos-IyyFKmDq/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 34,
+        "score_2": 32,
+        "team_2": "New Orleans Saints",
+        "game_url": "usa/nfl-2008-2009/denver-broncos-new-orleans-saints-M5UQDvZg/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 14,
+        "score_2": 41,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2008-2009/las-vegas-raiders-denver-broncos-nNOCdMYQ/"
+    }
+]

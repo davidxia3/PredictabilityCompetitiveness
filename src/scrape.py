@@ -18,13 +18,13 @@ month_abbreviation_to_month = {
     "Sep": "september", "Oct": "october", "Nov": "november", "Dec": "december"
 }
 
-team = sys.argv[1] if len(sys.argv) > 1 else "rangers"  
-league = sys.argv[2] if len(sys.argv) > 2 else "nhl"   
+team = sys.argv[1] if len(sys.argv) > 1 else "chargers"  
+league = sys.argv[2] if len(sys.argv) > 2 else "nfl"   
 start_index = int(sys.argv[3]) if len(sys.argv) > 3 else 0
 chunk_size = 200
 end_index = start_index + chunk_size
 
-sport = "hockey"
+sport = "american-football"
 base_url = f'https://www.oddsportal.com/{sport}/'
 
 

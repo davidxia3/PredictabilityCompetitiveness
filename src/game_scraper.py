@@ -17,8 +17,8 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 base_url = "https://www.oddsportal.com/search/results/"
 
-league = "nhl"
-sport = "hockey"
+league = "nfl"
+sport = "american-football"
 
 # with open(f'data/{league}/teams.json', 'r') as file:
 #     data = json.load(file)
@@ -26,12 +26,24 @@ sport = "hockey"
 # teams = data["teams"]
 
 # Testing
-teams = ["Minnesota Wild"]
-file_name = "wild"
+teams = ["Chicago Bears", "Cincinnati Bengals", "Buffalo Bills", "Denver Broncos", "Cleveland Browns", "Tampa Bay Buccaneers",
+         "Arizona Cardinals", "Los Angeles Chargers", "Kansas City Chiefs", "Indianapolis Colts", "Washington Commanders", 
+         "Dallas Cowboys", "Miami Dolphins", "Philadelphia Eagles", "Atlanta Falcons", "San Francisco 49ers", "New York Giants",
+         "Jacksonville Jaguars", "New York Jets", "Detroit Lions", "Green Bay Packers", "Carolina Panthers", "New England Patriots",
+         "Las Vegas Raiders", "Los Angeles Rams", "Baltimore Ravens", "New Orleans Saints", "Seattle Seahawks", "Pittsburgh Steelers", 
+         "Houston Texans", "Tennessee Titans", "Minnesota Vikings"]
+file_names = ["bears", "bengals", "bills", "broncos", "browns", "buccaneers", "cardinals", "chargers", "chiefs",
+         "colts", "commanders", "cowboys", "dolphins", "eagles", "falcons", "fortyniners", "giants", 
+         "jaguars", "jets", "lions", "packers", "panthers", "patriots", "raiders", "rams", "ravens",
+         "saints", "seahawks", "steelers", "texans", "titans", "vikings"]
 
-total_data = []
+print(len(teams))
+print(len(file_names))
 
-for team in teams:
+for i in range(len(teams)):
+    team = teams[i]
+    file_name = file_names[i]
+    total_data = []
     search_query = team.replace(" ", "+")
 
     team_url = base_url + search_query + f'/{sport}/'
@@ -91,7 +103,7 @@ for team in teams:
                 print("ERROR: no date: " + team)
                 continue
 
-with open("data/" + league + "/" + file_name + "/games.json", "w") as outfile:
-    json.dump(total_data, outfile, indent=4)
+    with open("data/" + league + "/" + file_name + "/games.json", "w") as outfile:
+        json.dump(total_data, outfile, indent=4)
 
 driver.quit()

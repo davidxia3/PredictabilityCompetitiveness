@@ -1,0 +1,2602 @@
+[
+    {
+        "date": "29/Sep",
+        "team_1": "New York Jets",
+        "score_1": 9,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl/new-york-jets-denver-broncos-x0xEKqJD/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "New York Jets",
+        "score_1": 24,
+        "score_2": 3,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl/new-york-jets-new-england-patriots-K4ZXwDIr/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Tennessee Titans",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl/tennessee-titans-new-york-jets-l2KKWeBF/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "San Francisco 49ers",
+        "score_1": 32,
+        "score_2": 19,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl/san-francisco-49ers-new-york-jets-GQ7CUAdf/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "New York Jets",
+        "score_1": 10,
+        "score_2": 6,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl/new-york-jets-new-york-giants-hWpDojZ9/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "Carolina Panthers",
+        "score_1": 12,
+        "score_2": 15,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl/carolina-panthers-new-york-jets-n9l0VIRE/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl/new-york-jets-washington-commanders-S66slUxI/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "New England Patriots",
+        "score_1": 3,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/new-england-patriots-new-york-jets-vF9RKWmM/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Cleveland Browns",
+        "score_1": 37,
+        "score_2": 20,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/cleveland-browns-new-york-jets-YFirhsEI/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "New York Jets",
+        "score_1": 30,
+        "score_2": 28,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-washington-commanders-IqFj2RyQ/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "Miami Dolphins",
+        "score_1": 30,
+        "score_2": 0,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/miami-dolphins-new-york-jets-WhdVwig8/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "New York Jets",
+        "score_1": 30,
+        "score_2": 6,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-houston-texans-t0Bov0mi/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "New York Jets",
+        "score_1": 8,
+        "score_2": 13,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-atlanta-falcons-xhloB1J4/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "New York Jets",
+        "score_1": 13,
+        "score_2": 34,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-miami-dolphins-fkQzgg64/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 32,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-new-york-jets-6B6G3bfs/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 16,
+        "score_2": 12,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/las-vegas-raiders-new-york-jets-CUMDmn4q/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "New York Jets",
+        "score_1": 6,
+        "score_2": 27,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-los-angeles-chargers-tS70tVdG/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "New York Giants",
+        "score_1": 10,
+        "score_2": 13,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/new-york-giants-new-york-jets-O6wYVMxs/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 14,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-philadelphia-eagles-WzewCSo8/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 21,
+        "score_2": 31,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-new-york-jets-drO8w8uq/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-kansas-city-chiefs-boqm6I3B/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "New York Jets",
+        "score_1": 10,
+        "score_2": 15,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-new-england-patriots-Y3VRsrLg/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Dallas Cowboys",
+        "score_1": 30,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/dallas-cowboys-new-york-jets-bPk8lgx9/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "New York Jets",
+        "score_1": 22,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-buffalo-bills-vayFEucp/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "New York Giants",
+        "score_1": 24,
+        "score_2": 32,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/new-york-giants-new-york-jets-nRcGza3G/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "New York Jets",
+        "score_1": 6,
+        "score_2": 13,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-tampa-bay-buccaneers-dx53w1Jc/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "Carolina Panthers",
+        "score_1": 0,
+        "score_2": 27,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/carolina-panthers-new-york-jets-CEWpLJ3T/"
+    },
+    {
+        "date": "03/Aug",
+        "team_1": "Cleveland Browns",
+        "score_1": 21,
+        "score_2": 16,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/cleveland-browns-new-york-jets-tfl3qZpe/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "Miami Dolphins",
+        "score_1": 11,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/miami-dolphins-new-york-jets-2XnnCLRc/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "Seattle Seahawks",
+        "score_1": 23,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/seattle-seahawks-new-york-jets-Eypc0lgb/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "New York Jets",
+        "score_1": 3,
+        "score_2": 19,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-jacksonville-jaguars-CE46MYAg/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-detroit-lions-KMdvJa41/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 20,
+        "score_2": 12,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-new-york-jets-KMWleaGP/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Minnesota Vikings",
+        "score_1": 27,
+        "score_2": 22,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-new-york-jets-ELFd6s9K/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "New York Jets",
+        "score_1": 31,
+        "score_2": 10,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-chicago-bears-0vcHY2mk/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "New England Patriots",
+        "score_1": 10,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/new-england-patriots-new-york-jets-Y350tfkb/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-buffalo-bills-0xpJbd6I/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-new-england-patriots-21CNjs8s/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 9,
+        "score_2": 16,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-new-york-jets-drM8dCv3/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "Green Bay Packers",
+        "score_1": 10,
+        "score_2": 27,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/green-bay-packers-new-york-jets-Uw5bn7ab/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "New York Jets",
+        "score_1": 40,
+        "score_2": 17,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-miami-dolphins-0biCzA0n/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/pittsburgh-steelers-new-york-jets-Me8FHef7/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "New York Jets",
+        "score_1": 12,
+        "score_2": 27,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-cincinnati-bengals-SCeqGrJ2/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "Cleveland Browns",
+        "score_1": 30,
+        "score_2": 31,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/cleveland-browns-new-york-jets-rqWM2Yrn/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "New York Jets",
+        "score_1": 9,
+        "score_2": 24,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-baltimore-ravens-vcfpd89t/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "New York Jets",
+        "score_1": 31,
+        "score_2": 27,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-new-york-giants-n10IVPOl/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "New York Jets",
+        "score_1": 24,
+        "score_2": 16,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-atlanta-falcons-2X0fs263/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/philadelphia-eagles-new-york-jets-MLwBECWa/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-new-york-jets-2s2dV3em/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "New York Jets",
+        "score_1": 24,
+        "score_2": 28,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-tampa-bay-buccaneers-4CJMm6C7/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "New York Jets",
+        "score_1": 26,
+        "score_2": 21,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-jacksonville-jaguars-tzQYleip/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Miami Dolphins",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/miami-dolphins-new-york-jets-vmcLPaPO/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "New York Jets",
+        "score_1": 9,
+        "score_2": 30,
+        "team_2": "New Orleans Saints",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-new-orleans-saints-GWMJYPwm/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "New York Jets",
+        "score_1": 18,
+        "score_2": 33,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-philadelphia-eagles-2eJHIDmk/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "Houston Texans",
+        "score_1": 14,
+        "score_2": 21,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/houston-texans-new-york-jets-t4BiEbd3/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-miami-dolphins-8jRvntDA/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 45,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-buffalo-bills-YuBnLC8f/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "Indianapolis Colts",
+        "score_1": 45,
+        "score_2": 30,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/indianapolis-colts-new-york-jets-QyyUGcH8/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "New York Jets",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-cincinnati-bengals-O4zUEGUN/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 54,
+        "score_2": 13,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/new-england-patriots-new-york-jets-fB3v4aG5/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Atlanta Falcons",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-new-york-jets-ARcCqYYL/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "New York Jets",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-tennessee-titans-EJxZCZcp/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 26,
+        "score_2": 0,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-new-york-jets-nkjrNJLi/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "New York Jets",
+        "score_1": 6,
+        "score_2": 25,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-new-england-patriots-bXu59uze/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "Carolina Panthers",
+        "score_1": 19,
+        "score_2": 14,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/carolina-panthers-new-york-jets-WGnr4pbF/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "New York Jets",
+        "score_1": 31,
+        "score_2": 31,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-philadelphia-eagles-tWyjbEnl/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "Green Bay Packers",
+        "score_1": 14,
+        "score_2": 23,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/green-bay-packers-new-york-jets-IZLA1Syq/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "New York Giants",
+        "score_1": 7,
+        "score_2": 12,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/new-york-giants-new-york-jets-nZ95Z9hj/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "New England Patriots",
+        "score_1": 28,
+        "score_2": 14,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2020-2021/new-england-patriots-new-york-jets-0fgqtGDK/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "New York Jets",
+        "score_1": 23,
+        "score_2": 16,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2020-2021/new-york-jets-cleveland-browns-0fwLqwcb/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "Los Angeles Rams",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2020-2021/los-angeles-rams-new-york-jets-GATREIcO/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Seattle Seahawks",
+        "score_1": 40,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2020-2021/seattle-seahawks-new-york-jets-Yq3U5NEg/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "New York Jets",
+        "score_1": 28,
+        "score_2": 31,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2020-2021/new-york-jets-las-vegas-raiders-hCYjdDoS/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "New York Jets",
+        "score_1": 3,
+        "score_2": 20,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2020-2021/new-york-jets-miami-dolphins-6y8cnxI3/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 34,
+        "score_2": 28,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2020-2021/los-angeles-chargers-new-york-jets-ADS6gv7t/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "New York Jets",
+        "score_1": 27,
+        "score_2": 30,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2020-2021/new-york-jets-new-england-patriots-6FfTNtIl/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 35,
+        "score_2": 9,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-new-york-jets-zcml2QeS/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "New York Jets",
+        "score_1": 10,
+        "score_2": 18,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/new-york-jets-buffalo-bills-6uro7cyt/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "Miami Dolphins",
+        "score_1": 24,
+        "score_2": 0,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2020-2021/miami-dolphins-new-york-jets-pUi5L8Dm/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "New York Jets",
+        "score_1": 10,
+        "score_2": 30,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2020-2021/new-york-jets-arizona-cardinals-veLRXNpK/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "New York Jets",
+        "score_1": 28,
+        "score_2": 37,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2020-2021/new-york-jets-denver-broncos-lr8dMZui/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "Indianapolis Colts",
+        "score_1": 36,
+        "score_2": 7,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2020-2021/indianapolis-colts-new-york-jets-xU9Z6ft4/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "New York Jets",
+        "score_1": 13,
+        "score_2": 31,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2020-2021/new-york-jets-san-francisco-49ers-0KS83wK5/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-new-york-jets-GfoOekMR/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 6,
+        "score_2": 13,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-new-york-jets-KYb0ZvDP/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "New York Jets",
+        "score_1": 16,
+        "score_2": 10,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-pittsburgh-steelers-E1Hz0vM6/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Baltimore Ravens",
+        "score_1": 42,
+        "score_2": 21,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/baltimore-ravens-new-york-jets-2u39mAWq/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "New York Jets",
+        "score_1": 22,
+        "score_2": 21,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-miami-dolphins-6ZMasZ9A/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 22,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/cincinnati-bengals-new-york-jets-CCueDfeU/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "New York Jets",
+        "score_1": 34,
+        "score_2": 3,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-las-vegas-raiders-GSzCD3kD/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Washington Commanders",
+        "score_1": 17,
+        "score_2": 34,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/washington-commanders-new-york-jets-0z7g9lbR/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "New York Jets",
+        "score_1": 34,
+        "score_2": 27,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-new-york-giants-hSbcGplc/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "Miami Dolphins",
+        "score_1": 26,
+        "score_2": 18,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/miami-dolphins-new-york-jets-0EFf0Yca/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 29,
+        "score_2": 15,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/jacksonville-jaguars-new-york-jets-MocZfwMJ/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "New York Jets",
+        "score_1": 0,
+        "score_2": 33,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-new-england-patriots-xbNVzIUm/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "New York Jets",
+        "score_1": 24,
+        "score_2": 22,
+        "team_2": "Dallas Cowboys",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-dallas-cowboys-4GeR8aoe/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 31,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/philadelphia-eagles-new-york-jets-AkSbHWXc/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "New England Patriots",
+        "score_1": 30,
+        "score_2": 14,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/new-england-patriots-new-york-jets-G8hh5oTR/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "New York Jets",
+        "score_1": 3,
+        "score_2": 23,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-cleveland-browns-Eqdy9TT2/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "New York Jets",
+        "score_1": 16,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-buffalo-bills-nZLpVDob/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "New York Jets",
+        "score_1": 6,
+        "score_2": 0,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-philadelphia-eagles-EZKLc9Cs/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "New York Jets",
+        "score_1": 13,
+        "score_2": 28,
+        "team_2": "New Orleans Saints",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-new-orleans-saints-GvgeslS0/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "Atlanta Falcons",
+        "score_1": 10,
+        "score_2": 22,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-new-york-jets-noM5WWDr/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "New York Giants",
+        "score_1": 31,
+        "score_2": 22,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/new-york-giants-new-york-jets-vJeeQei9/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 38,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/new-england-patriots-new-york-jets-U3YPbNI0/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "New York Jets",
+        "score_1": 38,
+        "score_2": 44,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-green-bay-packers-vZwN9S94/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "New York Jets",
+        "score_1": 22,
+        "score_2": 29,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-houston-texans-MNCIsAQB/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-new-york-jets-AcrjjsDE/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "Tennessee Titans",
+        "score_1": 26,
+        "score_2": 22,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-new-york-jets-pd8HyrbL/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "New York Jets",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-new-england-patriots-EedC9PES/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "New York Jets",
+        "score_1": 10,
+        "score_2": 41,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-buffalo-bills-A1bMbmqD/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "Miami Dolphins",
+        "score_1": 13,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/miami-dolphins-new-york-jets-2glpcz88/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "Chicago Bears",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/chicago-bears-new-york-jets-hOU1pcO2/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 37,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-minnesota-vikings-6ZSiW63h/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "New York Jets",
+        "score_1": 42,
+        "score_2": 34,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-indianapolis-colts-4nru4lKa/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "New York Jets",
+        "score_1": 34,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-denver-broncos-EwwLCL62/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 31,
+        "score_2": 12,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/jacksonville-jaguars-new-york-jets-QauLs17S/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "Cleveland Browns",
+        "score_1": 21,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/cleveland-browns-new-york-jets-b9sEWFsU/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "New York Jets",
+        "score_1": 12,
+        "score_2": 20,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-miami-dolphins-2PxVWOyD/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "Detroit Lions",
+        "score_1": 17,
+        "score_2": 48,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-new-york-jets-Sr6ZskpE/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 10,
+        "score_2": 9,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/philadelphia-eagles-new-york-jets-bc7BqP9R/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "New York Jets",
+        "score_1": 16,
+        "score_2": 22,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-new-york-giants-jcibJSeM/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "Washington Commanders",
+        "score_1": 15,
+        "score_2": 13,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/washington-commanders-new-york-jets-QkUC7VdA/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 0,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-atlanta-falcons-65996UfJ/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 26,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/new-england-patriots-new-york-jets-S0J9BLOB/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "New York Jets",
+        "score_1": 7,
+        "score_2": 14,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-los-angeles-chargers-QFZoJCQK/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "New Orleans Saints",
+        "score_1": 31,
+        "score_2": 19,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/new-orleans-saints-new-york-jets-vwzUgdc9/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 0,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-new-york-jets-2yc8mFyT/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "New York Jets",
+        "score_1": 38,
+        "score_2": 31,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-kansas-city-chiefs-hMeOptcs/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "New York Jets",
+        "score_1": 27,
+        "score_2": 35,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-carolina-panthers-WxvJINDl/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 15,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/tampa-bay-buccaneers-new-york-jets-UTTDqCZ1/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "New York Jets",
+        "score_1": 34,
+        "score_2": 21,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-buffalo-bills-h8UUh1fP/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 25,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-atlanta-falcons-GQeNZLmm/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "Miami Dolphins",
+        "score_1": 31,
+        "score_2": 28,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/miami-dolphins-new-york-jets-bHoUHmS1/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-new-england-patriots-zB65TP9G/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "Cleveland Browns",
+        "score_1": 14,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/cleveland-browns-new-york-jets-lM4eFZl6/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "New York Jets",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-jacksonville-jaguars-hfkH1GK6/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 6,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-miami-dolphins-hCrmbsEE/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 45,
+        "score_2": 20,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/las-vegas-raiders-new-york-jets-QofprVNG/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 21,
+        "score_2": 12,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-new-york-jets-AFmCMdet/"
+    },
+    {
+        "date": "31/Aug",
+        "team_1": "New York Jets",
+        "score_1": 16,
+        "score_2": 10,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-philadelphia-eagles-CAd0T8n1/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "New York Giants",
+        "score_1": 32,
+        "score_2": 31,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/new-york-giants-new-york-jets-ziGBM0ZG/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "Detroit Lions",
+        "score_1": 16,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-new-york-jets-GM9CD5jn/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "New York Jets",
+        "score_1": 7,
+        "score_2": 3,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-tennessee-titans-xbBAcg0l/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "New York Jets",
+        "score_1": 30,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-buffalo-bills-Igbr7522/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 41,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/new-england-patriots-new-york-jets-zgFtgIMM/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "New York Jets",
+        "score_1": 13,
+        "score_2": 34,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-miami-dolphins-6ZzFrA2m/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "San Francisco 49ers",
+        "score_1": 17,
+        "score_2": 23,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/san-francisco-49ers-new-york-jets-YR3lSlI6/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "New York Jets",
+        "score_1": 10,
+        "score_2": 41,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-indianapolis-colts-jqnbHX3l/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-new-england-patriots-COJclZZ1/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "New York Jets",
+        "score_1": 6,
+        "score_2": 9,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-los-angeles-rams-M97ZuWV6/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Miami Dolphins",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/miami-dolphins-new-york-jets-GjDGnsmM/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Cleveland Browns",
+        "score_1": 28,
+        "score_2": 31,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/cleveland-browns-new-york-jets-E5uPwn4i/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "New York Jets",
+        "score_1": 24,
+        "score_2": 16,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-baltimore-ravens-bFSa2Pso/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Arizona Cardinals",
+        "score_1": 28,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/arizona-cardinals-new-york-jets-4hi4Dkjn/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/pittsburgh-steelers-new-york-jets-KS9J51h8/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-seattle-seahawks-Q5SEyNwS/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-new-york-jets-jwVoEh6G/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 37,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-new-york-jets-6mUll5nf/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "New York Jets",
+        "score_1": 22,
+        "score_2": 23,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-cincinnati-bengals-vFg3riN1/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 14,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/philadelphia-eagles-new-york-jets-zLVht7en/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 21,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-new-york-giants-GjmYFAss/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "Washington Commanders",
+        "score_1": 22,
+        "score_2": 18,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/washington-commanders-new-york-jets-pdOuojr7/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-jacksonville-jaguars-lUCSsQVc/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 22,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-new-york-jets-CxgrfuRC/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "New York Jets",
+        "score_1": 26,
+        "score_2": 20,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-new-england-patriots-IFHn55ZD/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Dallas Cowboys",
+        "score_1": 16,
+        "score_2": 19,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/dallas-cowboys-new-york-jets-r3MzK7qq/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "New York Jets",
+        "score_1": 30,
+        "score_2": 8,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-tennessee-titans-0Qic6lFq/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "New York Giants",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/new-york-giants-new-york-jets-80j1zZCP/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "New York Jets",
+        "score_1": 38,
+        "score_2": 20,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-miami-dolphins-nc4X1E60/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Houston Texans",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/houston-texans-new-york-jets-MihInr1d/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-buffalo-bills-j9HqnBAo/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "New York Jets",
+        "score_1": 28,
+        "score_2": 23,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-jacksonville-jaguars-j9eEWVAb/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/las-vegas-raiders-new-york-jets-E9RWJhRh/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 30,
+        "score_2": 23,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/new-england-patriots-new-york-jets-EVvM526r/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "New York Jets",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-washington-commanders-QsvjOS63/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "Miami Dolphins",
+        "score_1": 14,
+        "score_2": 27,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/miami-dolphins-new-york-jets-WSjXtvI6/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-philadelphia-eagles-hOCfTKm7/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "Indianapolis Colts",
+        "score_1": 7,
+        "score_2": 20,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/indianapolis-colts-new-york-jets-WhzOF1J7/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "New York Jets",
+        "score_1": 31,
+        "score_2": 10,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-cleveland-browns-8ATACy7b/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "New York Jets",
+        "score_1": 24,
+        "score_2": 18,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-philadelphia-eagles-MJOi4hcs/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "New York Giants",
+        "score_1": 18,
+        "score_2": 28,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/new-york-giants-new-york-jets-pz5knKyd/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "New York Jets",
+        "score_1": 30,
+        "score_2": 22,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-atlanta-falcons-v3oYM38p/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Detroit Lions",
+        "score_1": 23,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-new-york-jets-W6VZzcXP/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Miami Dolphins",
+        "score_1": 24,
+        "score_2": 37,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/miami-dolphins-new-york-jets-bFbdbGYq/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "New York Jets",
+        "score_1": 16,
+        "score_2": 17,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-new-england-patriots-nXMp35KB/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "Tennessee Titans",
+        "score_1": 11,
+        "score_2": 16,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-new-york-jets-WQR6i8La/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "Minnesota Vikings",
+        "score_1": 30,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-new-york-jets-GUkwTXxr/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "New York Jets",
+        "score_1": 13,
+        "score_2": 16,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-miami-dolphins-f3w7QvHq/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 38,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-new-york-jets-6Lg5QJan/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-pittsburgh-steelers-Mejk3j2L/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-new-york-jets-nJZfgFYd/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "New York Jets",
+        "score_1": 23,
+        "score_2": 43,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-buffalo-bills-vwrPud4c/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 27,
+        "score_2": 25,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/new-england-patriots-new-york-jets-Gx0uBpa6/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 31,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-denver-broncos-l8w9CxJD/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 31,
+        "score_2": 0,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/los-angeles-chargers-new-york-jets-2ymZaaZ7/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-detroit-lions-MarxgiMN/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "New York Jets",
+        "score_1": 19,
+        "score_2": 27,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-chicago-bears-hKjLdZMb/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "Green Bay Packers",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/green-bay-packers-new-york-jets-SrM8Wx9g/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "New York Jets",
+        "score_1": 19,
+        "score_2": 14,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-las-vegas-raiders-M3fJPUe9/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 37,
+        "score_2": 7,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/philadelphia-eagles-new-york-jets-tQA2bhcA/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "New York Jets",
+        "score_1": 24,
+        "score_2": 35,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-new-york-giants-46Wg0gB0/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 17,
+        "score_2": 25,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/cincinnati-bengals-new-york-jets-0ED7ldCl/"
+    },
+    {
+        "date": "07/Aug",
+        "team_1": "New York Jets",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-indianapolis-colts-SKa7rUqb/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "Miami Dolphins",
+        "score_1": 7,
+        "score_2": 20,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/miami-dolphins-new-york-jets-Srp5E5md/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "New York Jets",
+        "score_1": 24,
+        "score_2": 13,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-cleveland-browns-zRxuAjdA/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "Carolina Panthers",
+        "score_1": 30,
+        "score_2": 20,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/carolina-panthers-new-york-jets-Ese7D4o5/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "New York Jets",
+        "score_1": 37,
+        "score_2": 27,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-las-vegas-raiders-OQ557xJE/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "New York Jets",
+        "score_1": 3,
+        "score_2": 23,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-miami-dolphins-p6w5vvkS/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "Baltimore Ravens",
+        "score_1": 19,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/baltimore-ravens-new-york-jets-l0VK7uEj/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 37,
+        "score_2": 14,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-new-york-jets-fJeVVi0t/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "New York Jets",
+        "score_1": 26,
+        "score_2": 20,
+        "team_2": "New Orleans Saints",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-new-orleans-saints-MTi1cbfE/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 49,
+        "score_2": 9,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/cincinnati-bengals-new-york-jets-6XgNEv8i/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "New York Jets",
+        "score_1": 30,
+        "score_2": 27,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-new-england-patriots-vqe7m29h/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "New York Jets",
+        "score_1": 6,
+        "score_2": 19,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-pittsburgh-steelers-AZZgN5em/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "Atlanta Falcons",
+        "score_1": 28,
+        "score_2": 30,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-new-york-jets-joNLuEBE/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "Tennessee Titans",
+        "score_1": 38,
+        "score_2": 13,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-new-york-jets-CMK1FHc9/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "New York Jets",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-buffalo-bills-4ztJ40qi/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "New England Patriots",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/new-england-patriots-new-york-jets-QaHt6Y8K/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "New York Jets",
+        "score_1": 18,
+        "score_2": 17,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-tampa-bay-buccaneers-vTQ6gePE/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "New York Jets",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-philadelphia-eagles-4brTGULn/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "New York Giants",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/new-york-giants-new-york-jets-4zfXpUyJ/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "New York Jets",
+        "score_1": 37,
+        "score_2": 13,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-jacksonville-jaguars-fmopnJGe/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "Detroit Lions",
+        "score_1": 26,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-new-york-jets-6saUxfMp/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 28,
+        "score_2": 9,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-new-york-jets-U5yPkqDC/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-los-angeles-chargers-8jmGi5r0/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "Tennessee Titans",
+        "score_1": 14,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-new-york-jets-noM7BpHr/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/jacksonville-jaguars-new-york-jets-YuiA6bZo/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "New York Jets",
+        "score_1": 7,
+        "score_2": 6,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-arizona-cardinals-Y3cDiV8C/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "New York Jets",
+        "score_1": 19,
+        "score_2": 49,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-new-england-patriots-jceF4No8/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "Los Angeles Rams",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-new-york-jets-tEYkT0P1/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "Seattle Seahawks",
+        "score_1": 28,
+        "score_2": 7,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/seattle-seahawks-new-york-jets-pMa5vqId/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "New York Jets",
+        "score_1": 9,
+        "score_2": 30,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-miami-dolphins-WtAkZguO/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 29,
+        "score_2": 26,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/new-england-patriots-new-york-jets-2ms4NdtC/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "New York Jets",
+        "score_1": 35,
+        "score_2": 9,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-indianapolis-colts-0t8ePcf2/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 23,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-houston-texans-fuPCXLnM/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "New York Jets",
+        "score_1": 0,
+        "score_2": 34,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-san-francisco-49ers-OMowwNN8/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "Miami Dolphins",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/miami-dolphins-new-york-jets-YwhCEI4A/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 27,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/pittsburgh-steelers-new-york-jets-KzSx0JkH/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "New York Jets",
+        "score_1": 48,
+        "score_2": 28,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-buffalo-bills-jwJjtLXg/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 28,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/philadelphia-eagles-new-york-jets-bLTNSlol/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "New York Jets",
+        "score_1": 12,
+        "score_2": 17,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-carolina-panthers-8jkqzXhE/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "New York Jets",
+        "score_1": 3,
+        "score_2": 26,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-new-york-giants-hnPB4u3T/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 17,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/cincinnati-bengals-new-york-jets-lUG0bnzt/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "Miami Dolphins",
+        "score_1": 19,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/miami-dolphins-new-york-jets-82fzWil9/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "New York Jets",
+        "score_1": 14,
+        "score_2": 29,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-new-york-giants-URqrkEnt/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 45,
+        "score_2": 19,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/philadelphia-eagles-new-york-jets-jPrVGiXO/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "New York Jets",
+        "score_1": 37,
+        "score_2": 10,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-kansas-city-chiefs-Cf9uE759/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Washington Commanders",
+        "score_1": 19,
+        "score_2": 34,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/washington-commanders-new-york-jets-WCRn4jii/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "New York Jets",
+        "score_1": 28,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-buffalo-bills-6ei5STUp/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-new-york-jets-fw9WL12f/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "New York Jets",
+        "score_1": 16,
+        "score_2": 37,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-new-england-patriots-K0ETONXs/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 11,
+        "score_2": 27,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-new-york-jets-GSc6L003/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "New York Jets",
+        "score_1": 27,
+        "score_2": 21,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-los-angeles-chargers-69G60gYP/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "New York Jets",
+        "score_1": 24,
+        "score_2": 6,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-miami-dolphins-xE0CxjtJ/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 30,
+        "score_2": 21,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/new-england-patriots-new-york-jets-ALcIYGZQ/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Baltimore Ravens",
+        "score_1": 34,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/baltimore-ravens-new-york-jets-UNuMZ5E3/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 34,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/las-vegas-raiders-new-york-jets-WCoZBVVo/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "New York Jets",
+        "score_1": 32,
+        "score_2": 3,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-jacksonville-jaguars-0AOg0p6m/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "New York Jets",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Dallas Cowboys",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-dallas-cowboys-GdZz3DMR/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "New York Jets",
+        "score_1": 14,
+        "score_2": 24,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-philadelphia-eagles-AVOAd4nO/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "New York Giants",
+        "score_1": 3,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/new-york-giants-new-york-jets-lCGY2l3t/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "New York Jets",
+        "score_1": 27,
+        "score_2": 7,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-cincinnati-bengals-jZqbaFdl/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "Houston Texans",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/houston-texans-new-york-jets-4dfmuwvA/"
+    },
+    {
+        "date": "23/Jan",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 24,
+        "score_2": 19,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/pittsburgh-steelers-new-york-jets-IPkb6Ix8/"
+    },
+    {
+        "date": "16/Jan",
+        "team_1": "New England Patriots",
+        "score_1": 21,
+        "score_2": 28,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/new-england-patriots-new-york-jets-YTV8didR/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "Indianapolis Colts",
+        "score_1": 16,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/indianapolis-colts-new-york-jets-G0azbnRc/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "New York Jets",
+        "score_1": 38,
+        "score_2": 7,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-buffalo-bills-SWOiGfyd/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "Chicago Bears",
+        "score_1": 38,
+        "score_2": 34,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/chicago-bears-new-york-jets-CpjvBS85/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/pittsburgh-steelers-new-york-jets-nZWdf7OO/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "New York Jets",
+        "score_1": 6,
+        "score_2": 10,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-miami-dolphins-MeBaiE2Q/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 45,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/new-england-patriots-new-york-jets-0Cs9HDB7/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "New York Jets",
+        "score_1": 26,
+        "score_2": 10,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-cincinnati-bengals-OvS0Dw3O/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "New York Jets",
+        "score_1": 30,
+        "score_2": 27,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-houston-texans-2Rp61t4C/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "Cleveland Browns",
+        "score_1": 20,
+        "score_2": 26,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/cleveland-browns-new-york-jets-WnITmjq2/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "Detroit Lions",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-new-york-jets-bktZygpj/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "New York Jets",
+        "score_1": 0,
+        "score_2": 9,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-green-bay-packers-KtxmWc8A/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-new-york-jets-4f3ZQVuK/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "New York Jets",
+        "score_1": 29,
+        "score_2": 20,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-minnesota-vikings-OhwxEhdE/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 14,
+        "score_2": 38,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-new-york-jets-8MCR1feB/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "Miami Dolphins",
+        "score_1": 23,
+        "score_2": 31,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/miami-dolphins-new-york-jets-Imn74dBh/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "New York Jets",
+        "score_1": 28,
+        "score_2": 14,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-new-england-patriots-vyvEw0cm/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "New York Jets",
+        "score_1": 9,
+        "score_2": 10,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-baltimore-ravens-SfVopBE2/"
+    },
+    {
+        "date": "02/Sep",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 17,
+        "score_2": 21,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/philadelphia-eagles-new-york-jets-QeSkl8hM/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "New York Jets",
+        "score_1": 11,
+        "score_2": 16,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-washington-commanders-rLMOwNSN/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "Carolina Panthers",
+        "score_1": 3,
+        "score_2": 9,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/carolina-panthers-new-york-jets-8AGQQqqI/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "New York Jets",
+        "score_1": 16,
+        "score_2": 31,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-new-york-giants-j1vQQhw1/"
+    },
+    {
+        "date": "24/Jan",
+        "team_1": "Indianapolis Colts",
+        "score_1": 30,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/indianapolis-colts-new-york-jets-E7uqorqq/"
+    },
+    {
+        "date": "17/Jan",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 14,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/los-angeles-chargers-new-york-jets-pS1q2sxT/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 14,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/cincinnati-bengals-new-york-jets-8jjb8S35/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "New York Jets",
+        "score_1": 37,
+        "score_2": 0,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-cincinnati-bengals-xEYpsgTs/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Indianapolis Colts",
+        "score_1": 15,
+        "score_2": 29,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/indianapolis-colts-new-york-jets-xpNjTZbr/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "New York Jets",
+        "score_1": 7,
+        "score_2": 10,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-atlanta-falcons-MclwO7Wi/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 3,
+        "score_2": 26,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/tampa-bay-buccaneers-new-york-jets-UyusXgmp/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 19,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-new-york-jets-MofwDS50/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 6,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-carolina-panthers-O0mxtOvB/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "New England Patriots",
+        "score_1": 31,
+        "score_2": 14,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/new-england-patriots-new-york-jets-8dJDBAT7/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "New York Jets",
+        "score_1": 22,
+        "score_2": 24,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-jacksonville-jaguars-MZPuNgmf/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "New York Jets",
+        "score_1": 25,
+        "score_2": 30,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-miami-dolphins-rVVo8xRu/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 0,
+        "score_2": 38,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/las-vegas-raiders-new-york-jets-ldScl2AQ/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "New York Jets",
+        "score_1": 13,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-buffalo-bills-2FKK9q7i/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "Miami Dolphins",
+        "score_1": 31,
+        "score_2": 27,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/miami-dolphins-new-york-jets-pndpHDUi/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "New Orleans Saints",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/new-orleans-saints-new-york-jets-CjDbUyGh/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "New York Jets",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-tennessee-titans-MgG9idj2/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "New York Jets",
+        "score_1": 16,
+        "score_2": 9,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-new-england-patriots-f3U7oTBK/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "Houston Texans",
+        "score_1": 7,
+        "score_2": 24,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/houston-texans-new-york-jets-xlm9EHk4/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "New York Jets",
+        "score_1": 38,
+        "score_2": 27,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-philadelphia-eagles-tdvX3nU0/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "New York Giants",
+        "score_1": 25,
+        "score_2": 27,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/new-york-giants-new-york-jets-ncXQfDlm/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "Baltimore Ravens",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/baltimore-ravens-new-york-jets-0Cohyonq/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-los-angeles-rams-bLGEYWPS/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-miami-dolphins-4CHQBVbl/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "Seattle Seahawks",
+        "score_1": 13,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2008-2009/seattle-seahawks-new-york-jets-E9sxEQqc/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "New York Jets",
+        "score_1": 31,
+        "score_2": 27,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-buffalo-bills-hpdFIB5N/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "San Francisco 49ers",
+        "score_1": 24,
+        "score_2": 14,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2008-2009/san-francisco-49ers-new-york-jets-UPTwauU3/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 34,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-denver-broncos-h0l8aScf/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "Tennessee Titans",
+        "score_1": 13,
+        "score_2": 34,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-new-york-jets-lWwwWAPe/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "New England Patriots",
+        "score_1": 31,
+        "score_2": 34,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2008-2009/new-england-patriots-new-york-jets-rk9vxmjB/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "New York Jets",
+        "score_1": 47,
+        "score_2": 3,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-los-angeles-rams-EJIxzIM6/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 17,
+        "score_2": 26,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2008-2009/buffalo-bills-new-york-jets-pEDnFJs8/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "New York Jets",
+        "score_1": 28,
+        "score_2": 24,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-kansas-city-chiefs-CGP8veii/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 16,
+        "score_2": 13,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2008-2009/las-vegas-raiders-new-york-jets-SOL5vNhm/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "New York Jets",
+        "score_1": 26,
+        "score_2": 14,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-cincinnati-bengals-QV1NaNDj/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "New York Jets",
+        "score_1": 56,
+        "score_2": 35,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-arizona-cardinals-Q1vNIRsd/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 48,
+        "score_2": 29,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2008-2009/los-angeles-chargers-new-york-jets-nJyoZtbJ/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "Miami Dolphins",
+        "score_1": 14,
+        "score_2": 20,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2008-2009/miami-dolphins-new-york-jets-dbPnbLmt/"
+    }
+]

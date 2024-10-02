@@ -24,5 +24,5 @@ def print_json_lengths_recursively(folder_path):
                 if length > 0:
                     print(f"{file_path}: {length} items")
 
-folder_path = 'data/nhl'
+folder_path = 'data/nfl'
 print_json_lengths_recursively(folder_path)

@@ -1,0 +1,2642 @@
+[
+    {
+        "date": "29/Sep",
+        "team_1": "Baltimore Ravens",
+        "score_1": 35,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl/baltimore-ravens-buffalo-bills-MBQuuZLP/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 47,
+        "score_2": 10,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl/buffalo-bills-jacksonville-jaguars-tCkQ4tNb/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "Miami Dolphins",
+        "score_1": 10,
+        "score_2": 31,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl/miami-dolphins-buffalo-bills-trGRba44/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 34,
+        "score_2": 28,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl/buffalo-bills-arizona-cardinals-WtE8GO3K/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 26,
+        "score_2": 31,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl/buffalo-bills-carolina-panthers-UTXMzZKi/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 3,
+        "score_2": 9,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl/pittsburgh-steelers-buffalo-bills-zZMmMEl1/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 6,
+        "score_2": 33,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl/buffalo-bills-chicago-bears-0K4kn87U/"
+    },
+    {
+        "date": "21/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-kansas-city-chiefs-ANRGmGKa/"
+    },
+    {
+        "date": "15/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-pittsburgh-steelers-IBeTA2b5/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "Miami Dolphins",
+        "score_1": 14,
+        "score_2": 21,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/miami-dolphins-buffalo-bills-phANLCYF/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 21,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-new-england-patriots-2VVeB4Et/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 22,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/los-angeles-chargers-buffalo-bills-jXZisQa0/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 10,
+        "team_2": "Dallas Cowboys",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-dallas-cowboys-xfuEVS0l/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-buffalo-bills-GI3bybX9/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 37,
+        "score_2": 34,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/philadelphia-eagles-buffalo-bills-KGHKftZN/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 32,
+        "score_2": 6,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-new-york-jets-6B6G3bfs/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 22,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-denver-broncos-jLLHn6Jk/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 24,
+        "score_2": 18,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/cincinnati-bengals-buffalo-bills-b3IesBsA/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 18,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-tampa-bay-buccaneers-KKi8F1h0/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 29,
+        "score_2": 25,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/new-england-patriots-buffalo-bills-rZtU1rO0/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 14,
+        "score_2": 9,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-new-york-giants-rBbsBn1E/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 20,
+        "score_2": 25,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-jacksonville-jaguars-OjyLBkaH/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 48,
+        "score_2": 20,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-miami-dolphins-j1Hce1kg/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "Washington Commanders",
+        "score_1": 3,
+        "score_2": 37,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/washington-commanders-buffalo-bills-CfUVt2z0/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 38,
+        "score_2": 10,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-las-vegas-raiders-v1GVzz89/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "New York Jets",
+        "score_1": 22,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-buffalo-bills-vayFEucp/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "Chicago Bears",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/chicago-bears-buffalo-bills-bTc48tKN/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 27,
+        "score_2": 15,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/pittsburgh-steelers-buffalo-bills-IiR80RLn/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 23,
+        "score_2": 19,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-indianapolis-colts-rNAYbEpr/"
+    },
+    {
+        "date": "22/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 10,
+        "score_2": 27,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-cincinnati-bengals-bPT6C3Jp/"
+    },
+    {
+        "date": "15/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-miami-dolphins-Kvry8r85/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 35,
+        "score_2": 23,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-new-england-patriots-29YNBiGH/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "Chicago Bears",
+        "score_1": 13,
+        "score_2": 35,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/chicago-bears-buffalo-bills-nXdJJWfC/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 32,
+        "score_2": 29,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-miami-dolphins-hKYbHent/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 20,
+        "score_2": 12,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-new-york-jets-KMWleaGP/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/new-england-patriots-buffalo-bills-vqyfnMHl/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "Detroit Lions",
+        "score_1": 25,
+        "score_2": 28,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-buffalo-bills-bBznJNm2/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 23,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-cleveland-browns-OYN9JWso/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 30,
+        "score_2": 33,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-minnesota-vikings-p65lEy65/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-buffalo-bills-0xpJbd6I/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-green-bay-packers-S8cmowxJ/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-buffalo-bills-dOgNpFui/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 38,
+        "score_2": 3,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-pittsburgh-steelers-vobqXzff/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Baltimore Ravens",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/baltimore-ravens-buffalo-bills-v9zORuIE/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Miami Dolphins",
+        "score_1": 21,
+        "score_2": 19,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/miami-dolphins-buffalo-bills-IsEhgLBk/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 41,
+        "score_2": 7,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-tennessee-titans-fyiC3f1l/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "Los Angeles Rams",
+        "score_1": 10,
+        "score_2": 31,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-buffalo-bills-04AobeuR/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "Carolina Panthers",
+        "score_1": 21,
+        "score_2": 0,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/carolina-panthers-buffalo-bills-hMg7v0jM/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 42,
+        "score_2": 15,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-denver-broncos-zcsDUOMc/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-indianapolis-colts-QDzSAUVO/"
+    },
+    {
+        "date": "23/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 42,
+        "score_2": 36,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-buffalo-bills-8MDEHxLI/"
+    },
+    {
+        "date": "15/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 47,
+        "score_2": 17,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-new-england-patriots-jgoJaSS6/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-new-york-jets-2s2dV3em/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 29,
+        "score_2": 15,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-atlanta-falcons-27om4Rdl/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 21,
+        "score_2": 33,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/new-england-patriots-buffalo-bills-p4v3fHTM/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 14,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-carolina-panthers-A7RZrNPn/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 33,
+        "score_2": 27,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/tampa-bay-buccaneers-buffalo-bills-O2DvU1hI/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-new-england-patriots-f9tkJpv0/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "New Orleans Saints",
+        "score_1": 6,
+        "score_2": 31,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/new-orleans-saints-buffalo-bills-08Y4je4d/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 15,
+        "score_2": 41,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-indianapolis-colts-t4PnpKsN/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 45,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-buffalo-bills-YuBnLC8f/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 9,
+        "score_2": 6,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/jacksonville-jaguars-buffalo-bills-QaJG7gve/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 26,
+        "score_2": 11,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-miami-dolphins-4OiaUeUA/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "Tennessee Titans",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-buffalo-bills-8f1S61Wn/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 20,
+        "score_2": 38,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-buffalo-bills-UmhVxNH6/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 40,
+        "score_2": 0,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-houston-texans-A5MyXfkG/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 43,
+        "score_2": 21,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-washington-commanders-YonvOa6o/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "Miami Dolphins",
+        "score_1": 0,
+        "score_2": 35,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/miami-dolphins-buffalo-bills-6cqD7J47/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 16,
+        "score_2": 23,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-pittsburgh-steelers-Ojmv5Qr9/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 19,
+        "score_2": 0,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-green-bay-packers-SnzbdhH0/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "Chicago Bears",
+        "score_1": 15,
+        "score_2": 41,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/chicago-bears-buffalo-bills-niVv7lEL/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Detroit Lions",
+        "score_1": 15,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-buffalo-bills-j3OZvWUS/"
+    },
+    {
+        "date": "24/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 38,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-buffalo-bills-2FyaTFF0/"
+    },
+    {
+        "date": "16/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 17,
+        "score_2": 3,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-baltimore-ravens-f9v8GTlb/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-indianapolis-colts-vigMo4ge/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 56,
+        "score_2": 26,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-miami-dolphins-8tKyNz7r/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 9,
+        "score_2": 38,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/new-england-patriots-buffalo-bills-6XX9RGbR/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 19,
+        "score_2": 48,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-buffalo-bills-nVyBI0ba/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 26,
+        "score_2": 15,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-pittsburgh-steelers-2Pfo2uEI/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "San Francisco 49ers",
+        "score_1": 24,
+        "score_2": 34,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/san-francisco-49ers-buffalo-bills-UiprfQFs/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-los-angeles-chargers-xMqzVzmT/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "Arizona Cardinals",
+        "score_1": 32,
+        "score_2": 30,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/arizona-cardinals-buffalo-bills-OKj9KSSg/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 44,
+        "score_2": 34,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-seattle-seahawks-dSPKFqQR/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 21,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-new-england-patriots-fshT6lsc/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "New York Jets",
+        "score_1": 10,
+        "score_2": 18,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/new-york-jets-buffalo-bills-6uro7cyt/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 17,
+        "score_2": 26,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-kansas-city-chiefs-zyf9p1UP/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Tennessee Titans",
+        "score_1": 42,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-buffalo-bills-YcUyB0w7/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/las-vegas-raiders-buffalo-bills-pUTjWA9F/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 35,
+        "score_2": 32,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-los-angeles-rams-pWteFzJH/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "Miami Dolphins",
+        "score_1": 28,
+        "score_2": 31,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/miami-dolphins-buffalo-bills-MTT44J4a/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-new-york-jets-GfoOekMR/"
+    },
+    {
+        "date": "04/Jan",
+        "team_1": "Houston Texans",
+        "score_1": 22,
+        "score_2": 19,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/houston-texans-buffalo-bills-bgkZwnoq/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 6,
+        "score_2": 13,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-new-york-jets-KYb0ZvDP/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/new-england-patriots-buffalo-bills-8OGvabyD/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/pittsburgh-steelers-buffalo-bills-Opl49ig3/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-baltimore-ravens-bX1vzi2p/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "Dallas Cowboys",
+        "score_1": 15,
+        "score_2": 26,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/dallas-cowboys-buffalo-bills-xfmrGdBB/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 20,
+        "score_2": 3,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-denver-broncos-vRRSNmDK/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Miami Dolphins",
+        "score_1": 20,
+        "score_2": 37,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/miami-dolphins-buffalo-bills-AoEtCjE8/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "Cleveland Browns",
+        "score_1": 19,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/cleveland-browns-buffalo-bills-rHVvb3YS/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 9,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-washington-commanders-zX77cWsI/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 31,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-philadelphia-eagles-0xdwfcyQ/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 21,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-miami-dolphins-MBtQT0NK/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "Tennessee Titans",
+        "score_1": 7,
+        "score_2": 14,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-buffalo-bills-OviU1iYA/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 10,
+        "score_2": 16,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-new-england-patriots-CK5fkEl5/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 21,
+        "score_2": 17,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-cincinnati-bengals-Ktaq77bF/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "New York Giants",
+        "score_1": 14,
+        "score_2": 28,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/new-york-giants-buffalo-bills-ENK0djpc/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "New York Jets",
+        "score_1": 16,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/new-york-jets-buffalo-bills-nZLpVDob/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-minnesota-vikings-vNgCe7zC/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "Detroit Lions",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-buffalo-bills-dpPYsl6C/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "Carolina Panthers",
+        "score_1": 14,
+        "score_2": 27,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2019-2020/carolina-panthers-buffalo-bills-t8L9VjTl/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 16,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-indianapolis-colts-Ms1jRyx3/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 42,
+        "score_2": 17,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-miami-dolphins-SM6g0Fx8/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 24,
+        "score_2": 12,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/new-england-patriots-buffalo-bills-SfWZ6QgN/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 14,
+        "score_2": 13,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-detroit-lions-6ooy0itt/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-new-york-jets-AcrjjsDE/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "Miami Dolphins",
+        "score_1": 21,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/miami-dolphins-buffalo-bills-CWcII2iq/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 21,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-jacksonville-jaguars-ClilFTpi/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "New York Jets",
+        "score_1": 10,
+        "score_2": 41,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-buffalo-bills-A1bMbmqD/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 9,
+        "score_2": 41,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-chicago-bears-Qy51YjV7/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 6,
+        "score_2": 25,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-new-england-patriots-tl3kygok/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "Indianapolis Colts",
+        "score_1": 37,
+        "score_2": 5,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/indianapolis-colts-buffalo-bills-hjV3T4mB/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "Houston Texans",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/houston-texans-buffalo-bills-dzK5K94t/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 12,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-tennessee-titans-hUyPBuM8/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "Green Bay Packers",
+        "score_1": 22,
+        "score_2": 0,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/green-bay-packers-buffalo-bills-OzLeyapd/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "Minnesota Vikings",
+        "score_1": 6,
+        "score_2": 27,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-buffalo-bills-OjFzlHC4/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 20,
+        "score_2": 31,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-los-angeles-chargers-fcrow0bn/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "Baltimore Ravens",
+        "score_1": 47,
+        "score_2": 3,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/baltimore-ravens-buffalo-bills-GYND7881/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "Chicago Bears",
+        "score_1": 27,
+        "score_2": 28,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/chicago-bears-buffalo-bills-ADnYV5uS/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 26,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-cincinnati-bengals-rmxEzUQd/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "Cleveland Browns",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2018-2019/cleveland-browns-buffalo-bills-8YVvM9f6/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 23,
+        "score_2": 28,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-carolina-panthers-0nVQeDt1/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 10,
+        "score_2": 3,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/jacksonville-jaguars-buffalo-bills-lUdcIveM/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "Miami Dolphins",
+        "score_1": 16,
+        "score_2": 22,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/miami-dolphins-buffalo-bills-Y1Q0Dsfa/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 37,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/new-england-patriots-buffalo-bills-h2yvLYe8/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 16,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-miami-dolphins-x0zWYfLq/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 7,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-indianapolis-colts-CjGXnlpP/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 3,
+        "score_2": 23,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-new-england-patriots-zVd5UKC0/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-buffalo-bills-M3hmOqjR/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 54,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/los-angeles-chargers-buffalo-bills-8rw9NCaG/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 10,
+        "score_2": 47,
+        "team_2": "New Orleans Saints",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-new-orleans-saints-M5wibdW4/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "New York Jets",
+        "score_1": 34,
+        "score_2": 21,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-buffalo-bills-h8UUh1fP/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-las-vegas-raiders-WrPAUQB7/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 30,
+        "score_2": 27,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-tampa-bay-buccaneers-AiDtRi5F/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/cincinnati-bengals-buffalo-bills-6cFjGFZa/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "Atlanta Falcons",
+        "score_1": 17,
+        "score_2": 23,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-buffalo-bills-zkDQB0rE/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 26,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-denver-broncos-dUpQr2ER/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Carolina Panthers",
+        "score_1": 9,
+        "score_2": 3,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/carolina-panthers-buffalo-bills-2kEGSkOT/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 21,
+        "score_2": 12,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-new-york-jets-AFmCMdet/"
+    },
+    {
+        "date": "31/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-detroit-lions-lUAkYcYS/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "Baltimore Ravens",
+        "score_1": 13,
+        "score_2": 9,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/baltimore-ravens-buffalo-bills-6BOfQrzh/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/philadelphia-eagles-buffalo-bills-2PGafrjO/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-minnesota-vikings-tWutrE01/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "New York Jets",
+        "score_1": 30,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-buffalo-bills-Igbr7522/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 34,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-miami-dolphins-v7VwZdVj/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 33,
+        "score_2": 13,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-cleveland-browns-vmZMtlXa/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-pittsburgh-steelers-Cbz7FBY0/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 38,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/las-vegas-raiders-buffalo-bills-M7tNPed8/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 28,
+        "score_2": 21,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-jacksonville-jaguars-OzDdDR6o/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 12,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/cincinnati-bengals-buffalo-bills-C2nlnk8n/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "Seattle Seahawks",
+        "score_1": 31,
+        "score_2": 25,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/seattle-seahawks-buffalo-bills-G4hk1t2F/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 25,
+        "score_2": 41,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-new-england-patriots-02isF2Rj/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "Miami Dolphins",
+        "score_1": 28,
+        "score_2": 25,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/miami-dolphins-buffalo-bills-MgyY65ZT/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 45,
+        "score_2": 16,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-san-francisco-49ers-000Efyp7/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "Los Angeles Rams",
+        "score_1": 19,
+        "score_2": 30,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-buffalo-bills-fo2W2axR/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 0,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/new-england-patriots-buffalo-bills-nFTAx3OL/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 33,
+        "score_2": 18,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-arizona-cardinals-6NpbFsog/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 37,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-new-york-jets-6mUll5nf/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "Baltimore Ravens",
+        "score_1": 13,
+        "score_2": 7,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/baltimore-ravens-buffalo-bills-00GGie0F/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "Detroit Lions",
+        "score_1": 31,
+        "score_2": 0,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-buffalo-bills-MH5JR7tg/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "Washington Commanders",
+        "score_1": 21,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2016-2017/washington-commanders-buffalo-bills-fT630Vsf/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 21,
+        "score_2": 0,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-new-york-giants-OvTK8gzE/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 18,
+        "score_2": 19,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2016-2017/buffalo-bills-indianapolis-colts-65NNr6Gi/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 22,
+        "score_2": 17,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-new-york-jets-CxgrfuRC/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 16,
+        "score_2": 6,
+        "team_2": "Dallas Cowboys",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-dallas-cowboys-8QXqoprr/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "Washington Commanders",
+        "score_1": 35,
+        "score_2": 25,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/washington-commanders-buffalo-bills-biMvx75R/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/philadelphia-eagles-buffalo-bills-I1n258Uk/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 30,
+        "score_2": 21,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-houston-texans-CE6bGDLg/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 30,
+        "score_2": 22,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-buffalo-bills-4YES2fif/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "New England Patriots",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/new-england-patriots-buffalo-bills-CvjkkyNf/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "New York Jets",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-buffalo-bills-j9HqnBAo/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 33,
+        "score_2": 17,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-miami-dolphins-0QDhFUuO/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/jacksonville-jaguars-buffalo-bills-banvEQb2/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 21,
+        "score_2": 34,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-cincinnati-bengals-006T6RyT/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "Tennessee Titans",
+        "score_1": 13,
+        "score_2": 14,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-buffalo-bills-OIXLmnVj/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-new-york-giants-IqkuuInJ/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "Miami Dolphins",
+        "score_1": 14,
+        "score_2": 41,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/miami-dolphins-buffalo-bills-0vDlk2AQ/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 32,
+        "score_2": 40,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-new-england-patriots-INe0NhLG/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 14,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-indianapolis-colts-OnehffiU/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "Detroit Lions",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-buffalo-bills-hIu31js0/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 43,
+        "score_2": 19,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-pittsburgh-steelers-YePEhMbS/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "Cleveland Browns",
+        "score_1": 10,
+        "score_2": 11,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/cleveland-browns-buffalo-bills-MNb6Rq0T/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 25,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2015-2016/buffalo-bills-carolina-panthers-WUDMRhfC/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 9,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/new-england-patriots-buffalo-bills-YiwaIyQF/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 26,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/las-vegas-raiders-buffalo-bills-hAqCJQ4h/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 21,
+        "score_2": 13,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-green-bay-packers-vX2Twki0/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-buffalo-bills-pAsfPkx7/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 26,
+        "score_2": 10,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-cleveland-browns-roDBXhDT/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 38,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-new-york-jets-6Lg5QJan/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Miami Dolphins",
+        "score_1": 22,
+        "score_2": 9,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/miami-dolphins-buffalo-bills-fNTVFToR/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-kansas-city-chiefs-8hno4WnF/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "New York Jets",
+        "score_1": 23,
+        "score_2": 43,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-buffalo-bills-vwrPud4c/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-minnesota-vikings-Q7sWX76J/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 22,
+        "score_2": 37,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-new-england-patriots-rkLeH04r/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "Detroit Lions",
+        "score_1": 14,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-buffalo-bills-h2ck08Tj/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "Houston Texans",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/houston-texans-buffalo-bills-vHO8mVqo/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 10,
+        "score_2": 22,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-los-angeles-chargers-pYBxnI8t/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 29,
+        "score_2": 10,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-miami-dolphins-EXm1znAR/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "Chicago Bears",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/chicago-bears-buffalo-bills-YsEO3mZk/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 0,
+        "score_2": 23,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-detroit-lions-jyIk1fDi/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 14,
+        "score_2": 27,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-tampa-bay-buccaneers-G2ZtMzYJ/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 19,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/pittsburgh-steelers-buffalo-bills-j36Kofd7/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "Carolina Panthers",
+        "score_1": 18,
+        "score_2": 20,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2014-2015/carolina-panthers-buffalo-bills-tjIaLcr2/"
+    },
+    {
+        "date": "03/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 17,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-new-york-giants-n9rAqAUi/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/new-england-patriots-buffalo-bills-KItcGRIq/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 19,
+        "score_2": 0,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-miami-dolphins-SOHJ28lp/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/jacksonville-jaguars-buffalo-bills-QczUaoH5/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 27,
+        "score_2": 6,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/tampa-bay-buccaneers-buffalo-bills-bmzkaEQf/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 34,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-atlanta-falcons-jq0WfaZ8/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 37,
+        "score_2": 14,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-new-york-jets-fJeVVi0t/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 23,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/pittsburgh-steelers-buffalo-bills-UgHvBHOD/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 23,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-kansas-city-chiefs-hlQ4hlik/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "New Orleans Saints",
+        "score_1": 35,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/new-orleans-saints-buffalo-bills-tx71cwwH/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "Miami Dolphins",
+        "score_1": 21,
+        "score_2": 23,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/miami-dolphins-buffalo-bills-IZgBnMOb/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-cincinnati-bengals-Ysjgto2P/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "Cleveland Browns",
+        "score_1": 37,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/cleveland-browns-buffalo-bills-dSHm6DKe/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-baltimore-ravens-UcVdGcr3/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "New York Jets",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/new-york-jets-buffalo-bills-4ztJ40qi/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-carolina-panthers-pAmxe80J/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 21,
+        "score_2": 23,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-new-england-patriots-6wBonDHl/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 35,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-detroit-lions-8SdcMjbP/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "Washington Commanders",
+        "score_1": 30,
+        "score_2": 7,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/washington-commanders-buffalo-bills-QqeToAMC/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-minnesota-vikings-Wlt5eNg9/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "Indianapolis Colts",
+        "score_1": 20,
+        "score_2": 44,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2013-2014/indianapolis-colts-buffalo-bills-04A5zMHq/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 28,
+        "score_2": 9,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-new-york-jets-U5yPkqDC/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "Miami Dolphins",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/miami-dolphins-buffalo-bills-hrc7Wog8/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 17,
+        "score_2": 50,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-seattle-seahawks-GdnTISO8/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 12,
+        "score_2": 15,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-los-angeles-rams-G4Kqjwk5/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 34,
+        "score_2": 18,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-jacksonville-jaguars-pvPP0ZoQ/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "Indianapolis Colts",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/indianapolis-colts-buffalo-bills-rezfcuvr/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 19,
+        "score_2": 14,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-miami-dolphins-CxTEyPHL/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "New England Patriots",
+        "score_1": 37,
+        "score_2": 31,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/new-england-patriots-buffalo-bills-tlHMn7AG/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "Houston Texans",
+        "score_1": 21,
+        "score_2": 9,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/houston-texans-buffalo-bills-hn7vmG4a/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 34,
+        "score_2": 35,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-tennessee-titans-ncWxxyv8/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "Arizona Cardinals",
+        "score_1": 16,
+        "score_2": 19,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/arizona-cardinals-buffalo-bills-G8hfpaWR/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "San Francisco 49ers",
+        "score_1": 45,
+        "score_2": 3,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/san-francisco-49ers-buffalo-bills-YPz4ZsI9/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 28,
+        "score_2": 52,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-new-england-patriots-xU5rHu1k/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "Cleveland Browns",
+        "score_1": 14,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/cleveland-browns-buffalo-bills-xCb3Gvzb/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 35,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-kansas-city-chiefs-MNlj1M9J/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "New York Jets",
+        "score_1": 48,
+        "score_2": 28,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/new-york-jets-buffalo-bills-jwJjtLXg/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "Detroit Lions",
+        "score_1": 38,
+        "score_2": 32,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-buffalo-bills-YwMzQnV6/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 7,
+        "score_2": 38,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-pittsburgh-steelers-je4pFVGl/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "Minnesota Vikings",
+        "score_1": 36,
+        "score_2": 14,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-buffalo-bills-SvSa7sJA/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 6,
+        "score_2": 7,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-washington-commanders-xGIwq7zg/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "New England Patriots",
+        "score_1": 49,
+        "score_2": 21,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/new-england-patriots-buffalo-bills-0xiSXDJd/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 40,
+        "score_2": 14,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-denver-broncos-zotQUA1O/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-miami-dolphins-SdlRRHuQ/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 37,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/los-angeles-chargers-buffalo-bills-0nxC8xZm/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 17,
+        "score_2": 23,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-tennessee-titans-2Brb1lyA/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "New York Jets",
+        "score_1": 28,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-buffalo-bills-6ei5STUp/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "Miami Dolphins",
+        "score_1": 35,
+        "score_2": 8,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/miami-dolphins-buffalo-bills-tIV7Pz9n/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Dallas Cowboys",
+        "score_1": 44,
+        "score_2": 7,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/dallas-cowboys-buffalo-bills-dUN3Ywp9/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 11,
+        "score_2": 27,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-new-york-jets-GSc6L003/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 23,
+        "score_2": 0,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-washington-commanders-MioDpKOj/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "New York Giants",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/new-york-giants-buffalo-bills-bF58mGlK/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-philadelphia-eagles-bmZFCZC7/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/cincinnati-bengals-buffalo-bills-Es8SPl0o/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-new-england-patriots-KlE1B1K5/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 38,
+        "score_2": 35,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-las-vegas-raiders-IkwKdBae/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 7,
+        "score_2": 41,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-buffalo-bills-GOajizwM/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 6,
+        "score_2": 16,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-detroit-lions-xIQ2bQHB/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 35,
+        "score_2": 32,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-jacksonville-jaguars-Cng5KGYD/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-buffalo-bills-WrKI6c4E/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Chicago Bears",
+        "score_1": 10,
+        "score_2": 3,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/chicago-bears-buffalo-bills-hfOphI4R/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "New York Jets",
+        "score_1": 38,
+        "score_2": 7,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-buffalo-bills-SWOiGfyd/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 3,
+        "score_2": 34,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-new-england-patriots-UyTRB8ga/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Miami Dolphins",
+        "score_1": 14,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/miami-dolphins-buffalo-bills-vJOK0ius/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 6,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-cleveland-browns-Kxl4uH3E/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "Minnesota Vikings",
+        "score_1": 38,
+        "score_2": 14,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-buffalo-bills-xhPDs6ri/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 16,
+        "score_2": 19,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-pittsburgh-steelers-dCUMW03n/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 31,
+        "score_2": 49,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/cincinnati-bengals-buffalo-bills-GQQx64ks/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 14,
+        "score_2": 12,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-detroit-lions-OMELkCEk/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 19,
+        "score_2": 22,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-chicago-bears-pr0bre7M/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-buffalo-bills-Q5NqXwg4/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "Baltimore Ravens",
+        "score_1": 37,
+        "score_2": 34,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/baltimore-ravens-buffalo-bills-KCMNHR26/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 26,
+        "score_2": 36,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-jacksonville-jaguars-Slvog3g2/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 14,
+        "score_2": 38,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-new-york-jets-8MCR1feB/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "New England Patriots",
+        "score_1": 38,
+        "score_2": 30,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/new-england-patriots-buffalo-bills-EopCjwsg/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "Green Bay Packers",
+        "score_1": 34,
+        "score_2": 7,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/green-bay-packers-buffalo-bills-QgTqMbSC/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 10,
+        "score_2": 15,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-miami-dolphins-6ie1BANq/"
+    },
+    {
+        "date": "02/Sep",
+        "team_1": "Detroit Lions",
+        "score_1": 28,
+        "score_2": 23,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-buffalo-bills-E7DMhWwi/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 35,
+        "score_2": 20,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-cincinnati-bengals-IBYld4rh/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 34,
+        "score_2": 21,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-indianapolis-colts-YPTUPCh7/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Washington Commanders",
+        "score_1": 42,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/washington-commanders-buffalo-bills-lUcRFyPr/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 30,
+        "score_2": 7,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-indianapolis-colts-AswGPib7/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Atlanta Falcons",
+        "score_1": 31,
+        "score_2": 3,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-buffalo-bills-lM5EnOa3/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-new-england-patriots-lQoH4pWT/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-buffalo-bills-xfrotbQc/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 19,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-new-york-jets-MofwDS50/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 31,
+        "score_2": 14,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-miami-dolphins-thQPt4P4/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 18,
+        "score_2": 15,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/jacksonville-jaguars-buffalo-bills-4vJDLfiF/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "Tennessee Titans",
+        "score_1": 41,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-buffalo-bills-CCjisOY8/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 10,
+        "score_2": 31,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-houston-texans-8zdViyd5/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "Carolina Panthers",
+        "score_1": 9,
+        "score_2": 20,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/carolina-panthers-buffalo-bills-8pB0kreK/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "New York Jets",
+        "score_1": 13,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-buffalo-bills-2FKK9q7i/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 3,
+        "score_2": 6,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-cleveland-browns-SjBuKDBl/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "Miami Dolphins",
+        "score_1": 38,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/miami-dolphins-buffalo-bills-ITDfVH0n/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 7,
+        "score_2": 27,
+        "team_2": "New Orleans Saints",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-new-orleans-saints-C6X35FK1/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 33,
+        "score_2": 20,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-tampa-bay-buccaneers-ED0swo4f/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "New England Patriots",
+        "score_1": 25,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/new-england-patriots-buffalo-bills-8EAYAbhM/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 6,
+        "score_2": 17,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-detroit-lions-25uT4SEf/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 17,
+        "score_2": 0,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/pittsburgh-steelers-buffalo-bills-hAtdwCJC/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "Green Bay Packers",
+        "score_1": 31,
+        "score_2": 21,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/green-bay-packers-buffalo-bills-Iubk5eMA/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-chicago-bears-YHFilCPF/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "Tennessee Titans",
+        "score_1": 21,
+        "score_2": 18,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-buffalo-bills-f1o0iVHc/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 0,
+        "score_2": 13,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2008-2009/buffalo-bills-new-england-patriots-n3aJfja1/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2008-2009/denver-broncos-buffalo-bills-4jWLlNij/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "New York Jets",
+        "score_1": 31,
+        "score_2": 27,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-buffalo-bills-hpdFIB5N/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "Buffalo Bills",
+        "score_1": 3,
+        "score_2": 16,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2008-2009/buffalo-bills-miami-dolphins-r5V9a1ai/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 3,
+        "score_2": 10,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2008-2009/buffalo-bills-san-francisco-49ers-zNlxde7q/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 54,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-buffalo-bills-rNWvlaQG/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 27,
+        "score_2": 29,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2008-2009/buffalo-bills-cleveland-browns-fi1ucSBI/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "New England Patriots",
+        "score_1": 20,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2008-2009/new-england-patriots-buffalo-bills-zTJYzb70/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 17,
+        "score_2": 26,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2008-2009/buffalo-bills-new-york-jets-pEDnFJs8/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "Miami Dolphins",
+        "score_1": 25,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2008-2009/miami-dolphins-buffalo-bills-zBWoLXjT/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 23,
+        "score_2": 14,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2008-2009/buffalo-bills-los-angeles-chargers-EJKoQq9s/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "Arizona Cardinals",
+        "score_1": 41,
+        "score_2": 17,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2008-2009/arizona-cardinals-buffalo-bills-hvJOrieL/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "Los Angeles Rams",
+        "score_1": 14,
+        "score_2": 31,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2008-2009/los-angeles-rams-buffalo-bills-n1GOOHVE/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2008-2009/buffalo-bills-las-vegas-raiders-6Js0paZ6/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 34,
+        "score_2": 10,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2008-2009/buffalo-bills-seattle-seahawks-t4lXkOeJ/"
+    }
+]

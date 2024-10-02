@@ -1,0 +1,2738 @@
+[
+    {
+        "date": "29/Sep",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl/los-angeles-chargers-kansas-city-chiefs-YkpoJia6/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "Atlanta Falcons",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl/atlanta-falcons-kansas-city-chiefs-8biI62hn/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 26,
+        "score_2": 25,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl/kansas-city-chiefs-cincinnati-bengals-p6aTQSeJ/"
+    },
+    {
+        "date": "05/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl/kansas-city-chiefs-baltimore-ravens-S6Cgjp2e/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 21,
+        "score_2": 34,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl/kansas-city-chiefs-chicago-bears-GQ7mMZ5b/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 23,
+        "score_2": 24,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl/kansas-city-chiefs-detroit-lions-KdD59y5e/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 26,
+        "score_2": 13,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl/jacksonville-jaguars-kansas-city-chiefs-CdglpLyp/"
+    },
+    {
+        "date": "11/Feb",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 25,
+        "score_2": 22,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-san-francisco-49ers-WjJaNya3/"
+    },
+    {
+        "date": "28/Jan",
+        "team_1": "Baltimore Ravens",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/baltimore-ravens-kansas-city-chiefs-llsl3qZE/"
+    },
+    {
+        "date": "21/Jan",
+        "team_1": "Buffalo Bills",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/buffalo-bills-kansas-city-chiefs-ANRGmGKa/"
+    },
+    {
+        "date": "13/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 26,
+        "score_2": 7,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-miami-dolphins-48iPBrqa/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 12,
+        "score_2": 13,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/los-angeles-chargers-kansas-city-chiefs-QkfMNY33/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 25,
+        "score_2": 17,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-cincinnati-bengals-KC9kKy4A/"
+    },
+    {
+        "date": "25/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 14,
+        "score_2": 20,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-las-vegas-raiders-E51iKxWT/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/new-england-patriots-kansas-city-chiefs-CQnQSQp7/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-buffalo-bills-GI3bybX9/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "Green Bay Packers",
+        "score_1": 27,
+        "score_2": 19,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/green-bay-packers-kansas-city-chiefs-YZo8QtJi/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 17,
+        "score_2": 31,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/las-vegas-raiders-kansas-city-chiefs-2uNFeMJH/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 21,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-philadelphia-eagles-xANR0dv0/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 21,
+        "score_2": 14,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-miami-dolphins-C8VZSjUi/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 9,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-kansas-city-chiefs-ClojQI6I/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-los-angeles-chargers-UVbeI38s/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 19,
+        "score_2": 8,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-denver-broncos-W0GLz6P1/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "Minnesota Vikings",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-kansas-city-chiefs-zZMCxSfk/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "New York Jets",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-kansas-city-chiefs-boqm6I3B/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 41,
+        "score_2": 10,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-chicago-bears-QJqyv0KI/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 9,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/jacksonville-jaguars-kansas-city-chiefs-WbeATi0q/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 20,
+        "score_2": 21,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-detroit-lions-pnTVqy6h/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 33,
+        "score_2": 32,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-cleveland-browns-UBlz3Kso/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "Arizona Cardinals",
+        "score_1": 10,
+        "score_2": 38,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/arizona-cardinals-kansas-city-chiefs-A7uIdqLB/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "New Orleans Saints",
+        "score_1": 26,
+        "score_2": 24,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2023-2024/new-orleans-saints-kansas-city-chiefs-WdMleWq7/"
+    },
+    {
+        "date": "12/Feb",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 35,
+        "score_2": 38,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/philadelphia-eagles-kansas-city-chiefs-UeWPsoj8/"
+    },
+    {
+        "date": "29/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-cincinnati-bengals-AqkeHQxG/"
+    },
+    {
+        "date": "21/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-jacksonville-jaguars-hrivHqBT/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 13,
+        "score_2": 31,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/las-vegas-raiders-kansas-city-chiefs-jcLZ2Hlp/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-denver-broncos-ELeZp9gB/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-seattle-seahawks-KbAQHAPO/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "Houston Texans",
+        "score_1": 24,
+        "score_2": 30,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/houston-texans-kansas-city-chiefs-b78VKLZl/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 28,
+        "score_2": 34,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-kansas-city-chiefs-GQemijFi/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/cincinnati-bengals-kansas-city-chiefs-MRltbJG0/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 26,
+        "score_2": 10,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-los-angeles-rams-nodFg4PE/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 27,
+        "score_2": 30,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/los-angeles-chargers-kansas-city-chiefs-0ILtMP3q/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-jacksonville-jaguars-hW8dCFzI/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-tennessee-titans-AmDyHwMn/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "San Francisco 49ers",
+        "score_1": 23,
+        "score_2": 44,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/san-francisco-49ers-kansas-city-chiefs-QN9LgAOL/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-buffalo-bills-dOgNpFui/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 30,
+        "score_2": 29,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-las-vegas-raiders-IaytUPqU/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 31,
+        "score_2": 41,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/tampa-bay-buccaneers-kansas-city-chiefs-UB89wwHQ/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Indianapolis Colts",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/indianapolis-colts-kansas-city-chiefs-viFlf1dq/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-los-angeles-chargers-hKjDrVcU/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "Arizona Cardinals",
+        "score_1": 21,
+        "score_2": 44,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/arizona-cardinals-kansas-city-chiefs-baAofnvg/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-green-bay-packers-pdjatML9/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 14,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-washington-commanders-UJtHTrx4/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Chicago Bears",
+        "score_1": 19,
+        "score_2": 14,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2022-2023/chicago-bears-kansas-city-chiefs-CAWNBAGI/"
+    },
+    {
+        "date": "30/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-cincinnati-bengals-nNuL1fYE/"
+    },
+    {
+        "date": "23/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 42,
+        "score_2": 36,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-buffalo-bills-8MDEHxLI/"
+    },
+    {
+        "date": "16/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 42,
+        "score_2": 21,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-pittsburgh-steelers-djlRc6cJ/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 28,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-kansas-city-chiefs-WMgDRLfC/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/cincinnati-bengals-kansas-city-chiefs-hYaH9mZQ/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 36,
+        "score_2": 10,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-pittsburgh-steelers-raAX9dT9/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 28,
+        "score_2": 34,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/los-angeles-chargers-kansas-city-chiefs-lrl4mrGu/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 48,
+        "score_2": 9,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-las-vegas-raiders-beSEZ5Ot/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 22,
+        "score_2": 9,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-denver-broncos-GbNLHX2e/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 19,
+        "score_2": 9,
+        "team_2": "Dallas Cowboys",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-dallas-cowboys-f7kMbJdG/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 14,
+        "score_2": 41,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/las-vegas-raiders-kansas-city-chiefs-CjYXW976/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 13,
+        "score_2": 7,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-green-bay-packers-bJt3Tz1E/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-new-york-giants-noxQHw22/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "Tennessee Titans",
+        "score_1": 27,
+        "score_2": 3,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-kansas-city-chiefs-xzgq3JVB/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Washington Commanders",
+        "score_1": 13,
+        "score_2": 31,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/washington-commanders-kansas-city-chiefs-I9YPb4vQ/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 20,
+        "score_2": 38,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-buffalo-bills-UmhVxNH6/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 30,
+        "score_2": 42,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/philadelphia-eagles-kansas-city-chiefs-hAywCgDj/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 30,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-los-angeles-chargers-nkUC7vM4/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "Baltimore Ravens",
+        "score_1": 36,
+        "score_2": 35,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/baltimore-ravens-kansas-city-chiefs-6XPl3PUI/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 33,
+        "score_2": 29,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-cleveland-browns-bXJZg0z8/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 28,
+        "score_2": 25,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-minnesota-vikings-ABP2eCW6/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "Arizona Cardinals",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/arizona-cardinals-kansas-city-chiefs-vTYrmTMk/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "San Francisco 49ers",
+        "score_1": 16,
+        "score_2": 19,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2021-2022/san-francisco-49ers-kansas-city-chiefs-rcmDhkaS/"
+    },
+    {
+        "date": "07/Feb",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 31,
+        "score_2": 9,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/tampa-bay-buccaneers-kansas-city-chiefs-254G7rIq/"
+    },
+    {
+        "date": "24/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 38,
+        "score_2": 24,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-buffalo-bills-2FyaTFF0/"
+    },
+    {
+        "date": "17/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 22,
+        "score_2": 17,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-cleveland-browns-0nu4H9Zi/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 21,
+        "score_2": 38,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-los-angeles-chargers-rJbvsdbE/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 14,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-atlanta-falcons-nBuXtysH/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "New Orleans Saints",
+        "score_1": 29,
+        "score_2": 32,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/new-orleans-saints-kansas-city-chiefs-UDg1THCH/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Miami Dolphins",
+        "score_1": 27,
+        "score_2": 33,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/miami-dolphins-kansas-city-chiefs-S6t3k2UC/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 22,
+        "score_2": 16,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-denver-broncos-hSMEBhoF/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/tampa-bay-buccaneers-kansas-city-chiefs-E7fErfHS/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 31,
+        "score_2": 35,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/las-vegas-raiders-kansas-city-chiefs-2qkBzuJi/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 33,
+        "score_2": 31,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-carolina-panthers-61Ff9s3e/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 35,
+        "score_2": 9,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-new-york-jets-zcml2QeS/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 16,
+        "score_2": 43,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-kansas-city-chiefs-EPm52ZkB/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Buffalo Bills",
+        "score_1": 17,
+        "score_2": 26,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-kansas-city-chiefs-zyf9p1UP/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 32,
+        "score_2": 40,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-las-vegas-raiders-n1YuAKhD/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 26,
+        "score_2": 10,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-new-england-patriots-WQPnXjf9/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "Baltimore Ravens",
+        "score_1": 20,
+        "score_2": 34,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/baltimore-ravens-kansas-city-chiefs-zuKEcj3j/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2020-2021/los-angeles-chargers-kansas-city-chiefs-KOeVKvkt/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-houston-texans-MehFcBiF/"
+    },
+    {
+        "date": "02/Feb",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 20,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-san-francisco-49ers-QNLis8yO/"
+    },
+    {
+        "date": "19/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 35,
+        "score_2": 24,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-tennessee-titans-vsEiK9fj/"
+    },
+    {
+        "date": "12/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 51,
+        "score_2": 31,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-houston-texans-O290ptxc/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 21,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-los-angeles-chargers-hnZaNYJU/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "Chicago Bears",
+        "score_1": 3,
+        "score_2": 26,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/chicago-bears-kansas-city-chiefs-nTfHCH5C/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 23,
+        "score_2": 3,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-denver-broncos-dbnC7VNF/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "New England Patriots",
+        "score_1": 16,
+        "score_2": 23,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/new-england-patriots-kansas-city-chiefs-44NYgCgG/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 40,
+        "score_2": 9,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-las-vegas-raiders-A77LTFuB/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/los-angeles-chargers-kansas-city-chiefs-IBwKP9r8/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "Tennessee Titans",
+        "score_1": 35,
+        "score_2": 32,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-kansas-city-chiefs-WIc1F433/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 26,
+        "score_2": 23,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-minnesota-vikings-v5EbahD5/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 31,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-green-bay-packers-dSTUqDDI/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 6,
+        "score_2": 30,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-kansas-city-chiefs-SlsMUt8E/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 31,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-houston-texans-r3nxVk2c/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 13,
+        "score_2": 19,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-indianapolis-colts-p8KBEUHG/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "Detroit Lions",
+        "score_1": 30,
+        "score_2": 34,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-kansas-city-chiefs-GhCoizKh/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 33,
+        "score_2": 28,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-baltimore-ravens-CvvOaPjk/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 10,
+        "score_2": 28,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/las-vegas-raiders-kansas-city-chiefs-QNFtmn7q/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 26,
+        "score_2": 40,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/jacksonville-jaguars-kansas-city-chiefs-CtJdSBVG/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Green Bay Packers",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/green-bay-packers-kansas-city-chiefs-jmrdakym/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-san-francisco-49ers-A1hat8s7/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 17,
+        "score_2": 7,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2019-2020/pittsburgh-steelers-kansas-city-chiefs-KrGkhYTJ/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 38,
+        "score_2": 17,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-cincinnati-bengals-WCKYwFL8/"
+    },
+    {
+        "date": "20/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 37,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-new-england-patriots-n9QCcuSa/"
+    },
+    {
+        "date": "12/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-indianapolis-colts-l8Bkqpcl/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 35,
+        "score_2": 3,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-las-vegas-raiders-x6go65QQ/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "Seattle Seahawks",
+        "score_1": 38,
+        "score_2": 31,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/seattle-seahawks-kansas-city-chiefs-Eih5M5gA/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 28,
+        "score_2": 29,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-los-angeles-chargers-lAEAqWea/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-baltimore-ravens-Q71KYEss/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 33,
+        "score_2": 40,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/las-vegas-raiders-kansas-city-chiefs-SKcMz2DR/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Los Angeles Rams",
+        "score_1": 54,
+        "score_2": 51,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-kansas-city-chiefs-0ANVdnVM/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 26,
+        "score_2": 14,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-arizona-cardinals-2yeE09E0/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "Cleveland Browns",
+        "score_1": 21,
+        "score_2": 37,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/cleveland-browns-kansas-city-chiefs-no6cZWF1/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 30,
+        "score_2": 23,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-denver-broncos-2LlntrXG/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 45,
+        "score_2": 10,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-cincinnati-bengals-OAwmXnln/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "New England Patriots",
+        "score_1": 43,
+        "score_2": 40,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/new-england-patriots-kansas-city-chiefs-YuFUE5YH/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 30,
+        "score_2": 14,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-jacksonville-jaguars-niyTAayF/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "Denver Broncos",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-kansas-city-chiefs-bVfYlIEe/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 38,
+        "score_2": 27,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-san-francisco-49ers-xGUuoFdN/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 37,
+        "score_2": 42,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/pittsburgh-steelers-kansas-city-chiefs-G8vNYp70/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 28,
+        "score_2": 38,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/los-angeles-chargers-kansas-city-chiefs-CGLzNm8l/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 33,
+        "score_2": 21,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-green-bay-packers-OKS8P3Ie/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "Chicago Bears",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/chicago-bears-kansas-city-chiefs-GK8i0mkp/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "Atlanta Falcons",
+        "score_1": 14,
+        "score_2": 28,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-kansas-city-chiefs-Q9tzNku0/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2018-2019/kansas-city-chiefs-houston-texans-YaTYgiBD/"
+    },
+    {
+        "date": "06/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 21,
+        "score_2": 22,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-tennessee-titans-Whn2HbAS/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/denver-broncos-kansas-city-chiefs-n5jzSt9h/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 29,
+        "score_2": 13,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-miami-dolphins-GphedkJ7/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 30,
+        "score_2": 13,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-los-angeles-chargers-zil4wyDS/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 26,
+        "score_2": 15,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-las-vegas-raiders-AobKwp7B/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "New York Jets",
+        "score_1": 38,
+        "score_2": 31,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-kansas-city-chiefs-hMeOptcs/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-buffalo-bills-M3hmOqjR/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "New York Giants",
+        "score_1": 12,
+        "score_2": 9,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/new-york-giants-kansas-city-chiefs-QJm4OhpA/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "Dallas Cowboys",
+        "score_1": 28,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/dallas-cowboys-kansas-city-chiefs-IDtz2vXu/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 29,
+        "score_2": 19,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-denver-broncos-v5tmUHHO/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 31,
+        "score_2": 30,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/las-vegas-raiders-kansas-city-chiefs-W0ExSXk9/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 13,
+        "score_2": 19,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-pittsburgh-steelers-S8opMs2j/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "Houston Texans",
+        "score_1": 34,
+        "score_2": 42,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/houston-texans-kansas-city-chiefs-M7tWEQfN/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 29,
+        "score_2": 20,
+        "team_2": "Washington Commanders",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-washington-commanders-00CrIy5m/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/los-angeles-chargers-kansas-city-chiefs-pANRja6l/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-philadelphia-eagles-d62ToDOi/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "New England Patriots",
+        "score_1": 27,
+        "score_2": 42,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/new-england-patriots-kansas-city-chiefs-861pRxmP/"
+    },
+    {
+        "date": "31/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 30,
+        "score_2": 6,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-tennessee-titans-nPtKmwYF/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "Seattle Seahawks",
+        "score_1": 26,
+        "score_2": 13,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/seattle-seahawks-kansas-city-chiefs-nVenGbCp/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 12,
+        "score_2": 30,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2017-2018/cincinnati-bengals-kansas-city-chiefs-Yc4HCP5h/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-san-francisco-49ers-6w3RgBaD/"
+    },
+    {
+        "date": "15/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 16,
+        "score_2": 18,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-pittsburgh-steelers-h2uoAUue/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 27,
+        "score_2": 37,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/los-angeles-chargers-kansas-city-chiefs-CGZwduf1/"
+    },
+    {
+        "date": "25/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 33,
+        "score_2": 10,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-denver-broncos-OWx9h6m9/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-tennessee-titans-vof3MJoo/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 21,
+        "score_2": 13,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-las-vegas-raiders-Y7y3GiJf/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Atlanta Falcons",
+        "score_1": 28,
+        "score_2": 29,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-kansas-city-chiefs-Mg1lBdsF/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 30,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-kansas-city-chiefs-vBLkje5k/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-tampa-bay-buccaneers-4WJ0sRMH/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Carolina Panthers",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/carolina-panthers-kansas-city-chiefs-niFMrYol/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 19,
+        "score_2": 14,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-jacksonville-jaguars-YRNBmNXF/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Indianapolis Colts",
+        "score_1": 14,
+        "score_2": 30,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/indianapolis-colts-kansas-city-chiefs-84YXyQY3/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 21,
+        "team_2": "New Orleans Saints",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-new-orleans-saints-SWyU7oKN/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 10,
+        "score_2": 26,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/las-vegas-raiders-kansas-city-chiefs-Icnp8fE6/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 43,
+        "score_2": 14,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/pittsburgh-steelers-kansas-city-chiefs-WrkthrO8/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 3,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-new-york-jets-jwVoEh6G/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "Houston Texans",
+        "score_1": 19,
+        "score_2": 12,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/houston-texans-kansas-city-chiefs-zTL5pNoJ/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 33,
+        "score_2": 27,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-los-angeles-chargers-WljepDhk/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 7,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-green-bay-packers-l47BTTBt/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "Chicago Bears",
+        "score_1": 7,
+        "score_2": 23,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/chicago-bears-kansas-city-chiefs-O2B7akc0/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "Los Angeles Rams",
+        "score_1": 21,
+        "score_2": 20,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-kansas-city-chiefs-OOOdoaxj/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 16,
+        "score_2": 17,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-seattle-seahawks-tOy6eq0c/"
+    },
+    {
+        "date": "16/Jan",
+        "team_1": "New England Patriots",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/new-england-patriots-kansas-city-chiefs-fXEL7AoT/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "Houston Texans",
+        "score_1": 0,
+        "score_2": 30,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/houston-texans-kansas-city-chiefs-rub0GNla/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-las-vegas-raiders-4jGFfCHN/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-cleveland-browns-4hRhqOCf/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "Baltimore Ravens",
+        "score_1": 14,
+        "score_2": 34,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/baltimore-ravens-kansas-city-chiefs-d6QvJRbk/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 3,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-los-angeles-chargers-O0UTNGpH/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 20,
+        "score_2": 34,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/las-vegas-raiders-kansas-city-chiefs-bVUuTj5a/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 30,
+        "score_2": 22,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-buffalo-bills-4YES2fif/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 3,
+        "score_2": 33,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/los-angeles-chargers-kansas-city-chiefs-4EjojH7l/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 13,
+        "score_2": 29,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-kansas-city-chiefs-lQEyz5Hj/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 45,
+        "score_2": 10,
+        "team_2": "Detroit Lions",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-detroit-lions-naRiJLzr/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 23,
+        "score_2": 13,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-pittsburgh-steelers-Uc3kBOrL/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "Minnesota Vikings",
+        "score_1": 16,
+        "score_2": 10,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-kansas-city-chiefs-CvznP8ic/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 18,
+        "team_2": "Chicago Bears",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-chicago-bears-vT6p7zWB/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 36,
+        "score_2": 21,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/cincinnati-bengals-kansas-city-chiefs-YiXR2LvQ/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "Green Bay Packers",
+        "score_1": 38,
+        "score_2": 28,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/green-bay-packers-kansas-city-chiefs-AD2Or0mf/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 31,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-denver-broncos-4KidOY5A/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "Houston Texans",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/houston-texans-kansas-city-chiefs-EBz2Ecxn/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "Los Angeles Rams",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-kansas-city-chiefs-QVc060pP/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 34,
+        "score_2": 10,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-tennessee-titans-f5QAg2qM/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 14,
+        "score_2": 13,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-seattle-seahawks-jwkxMNNj/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "Arizona Cardinals",
+        "score_1": 19,
+        "score_2": 34,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2015-2016/arizona-cardinals-kansas-city-chiefs-n56gUoGA/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 19,
+        "score_2": 7,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-los-angeles-chargers-MkyTFr4H/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 20,
+        "score_2": 12,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/pittsburgh-steelers-kansas-city-chiefs-drj3Lnzt/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-las-vegas-raiders-ShqOaWDJ/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "Arizona Cardinals",
+        "score_1": 17,
+        "score_2": 14,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/arizona-cardinals-kansas-city-chiefs-bDobO9iD/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 16,
+        "score_2": 29,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-denver-broncos-IsnuVK8S/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 24,
+        "score_2": 20,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/las-vegas-raiders-kansas-city-chiefs-fsQn8xpI/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 20,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-seattle-seahawks-SWP775g7/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-kansas-city-chiefs-8hno4WnF/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "New York Jets",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-new-york-jets-nJZfgFYd/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 34,
+        "score_2": 7,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-los-angeles-rams-hrw5z1SH/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/los-angeles-chargers-kansas-city-chiefs-6RENNNrC/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "San Francisco 49ers",
+        "score_1": 22,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/san-francisco-49ers-kansas-city-chiefs-OplV0uK1/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 41,
+        "score_2": 14,
+        "team_2": "New England Patriots",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-new-england-patriots-IRcG6AjN/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "Miami Dolphins",
+        "score_1": 15,
+        "score_2": 34,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/miami-dolphins-kansas-city-chiefs-63l9aywt/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/denver-broncos-kansas-city-chiefs-pKW3XIgm/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 26,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-tennessee-titans-489K4TJq/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "Green Bay Packers",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/green-bay-packers-kansas-city-chiefs-KG96cCCG/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 12,
+        "score_2": 30,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-minnesota-vikings-M3IPDCu0/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "Carolina Panthers",
+        "score_1": 28,
+        "score_2": 16,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2014-2015/carolina-panthers-kansas-city-chiefs-C8iF7yJQ/"
+    },
+    {
+        "date": "07/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 41,
+        "score_2": 39,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-cincinnati-bengals-Ey2JuSTG/"
+    },
+    {
+        "date": "04/Jan",
+        "team_1": "Indianapolis Colts",
+        "score_1": 45,
+        "score_2": 44,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/indianapolis-colts-kansas-city-chiefs-8MyzFVcq/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/los-angeles-chargers-kansas-city-chiefs-QeopFxv7/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 7,
+        "score_2": 23,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-indianapolis-colts-8vym8UQM/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 31,
+        "score_2": 56,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/las-vegas-raiders-kansas-city-chiefs-CSDACO0B/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "Washington Commanders",
+        "score_1": 10,
+        "score_2": 45,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/washington-commanders-kansas-city-chiefs-GOpp0fBl/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 28,
+        "score_2": 35,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-denver-broncos-4jKyZHCk/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 38,
+        "score_2": 41,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-los-angeles-chargers-rDRAU2L3/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-kansas-city-chiefs-zVCSUBFn/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "Buffalo Bills",
+        "score_1": 13,
+        "score_2": 23,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-kansas-city-chiefs-hlQ4hlik/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-cleveland-browns-YqP8eH7T/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-houston-texans-CdgFotv5/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 7,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-las-vegas-raiders-8lWEIsAI/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "Tennessee Titans",
+        "score_1": 17,
+        "score_2": 26,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-kansas-city-chiefs-Cz0zUGC2/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 7,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-new-york-giants-O0v7gzyj/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 16,
+        "score_2": 26,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/philadelphia-eagles-kansas-city-chiefs-MDLKonwC/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "Dallas Cowboys",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-dallas-cowboys-IcdLbj1f/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 2,
+        "score_2": 28,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/jacksonville-jaguars-kansas-city-chiefs-SYW8Ygmk/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 30,
+        "score_2": 8,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-green-bay-packers-I182VTzt/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 20,
+        "score_2": 26,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/pittsburgh-steelers-kansas-city-chiefs-xOOo4ixs/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 13,
+        "score_2": 15,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2013-2014/kansas-city-chiefs-san-francisco-49ers-php9fs9F/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "New Orleans Saints",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2013-2014/new-orleans-saints-kansas-city-chiefs-dWRMrpA3/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 38,
+        "score_2": 3,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/denver-broncos-kansas-city-chiefs-t4TGnNfQ/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "Indianapolis Colts",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-indianapolis-colts-GQDO72G7/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 15,
+        "score_2": 0,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/las-vegas-raiders-kansas-city-chiefs-xCzxH6gL/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "Cleveland Browns",
+        "score_1": 30,
+        "score_2": 7,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/cleveland-browns-kansas-city-chiefs-M1NilHJH/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 21,
+        "team_2": "Carolina Panthers",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-carolina-panthers-Cl94giv0/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 9,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-denver-broncos-MoZcdagl/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 6,
+        "score_2": 28,
+        "team_2": "Cincinnati Bengals",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-cincinnati-bengals-2NZoUtAe/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "Pittsburgh Steelers",
+        "score_1": 16,
+        "score_2": 13,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/pittsburgh-steelers-kansas-city-chiefs-UDwAx52F/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/los-angeles-chargers-kansas-city-chiefs-vqs5YGk6/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 16,
+        "score_2": 26,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-las-vegas-raiders-lflhyJ5m/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 38,
+        "score_2": 10,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/tampa-bay-buccaneers-kansas-city-chiefs-8rknnL1F/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 6,
+        "score_2": 9,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-baltimore-ravens-ABXnqbpr/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 20,
+        "score_2": 37,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-los-angeles-chargers-rR8jFJV1/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "New Orleans Saints",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/new-orleans-saints-kansas-city-chiefs-6ijKCdZM/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "Buffalo Bills",
+        "score_1": 35,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-kansas-city-chiefs-MNlj1M9J/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 24,
+        "score_2": 40,
+        "team_2": "Atlanta Falcons",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-atlanta-falcons-MgsEHYNk/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "Green Bay Packers",
+        "score_1": 24,
+        "score_2": 3,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/green-bay-packers-kansas-city-chiefs-S0LvP6pD/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 14,
+        "score_2": 44,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-seattle-seahawks-YJPJXwXF/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "Los Angeles Rams",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-kansas-city-chiefs-bT1v0aBp/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-arizona-cardinals-On9DepKb/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 3,
+        "score_2": 7,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-kansas-city-chiefs-SYLVskmL/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 13,
+        "score_2": 16,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-las-vegas-raiders-OdV0Yh2a/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 19,
+        "score_2": 14,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-green-bay-packers-6ysJJgm6/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "New York Jets",
+        "score_1": 37,
+        "score_2": 10,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/new-york-jets-kansas-city-chiefs-Cf9uE759/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Chicago Bears",
+        "score_1": 3,
+        "score_2": 10,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/chicago-bears-kansas-city-chiefs-Knw308jG/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 9,
+        "score_2": 13,
+        "team_2": "Pittsburgh Steelers",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-pittsburgh-steelers-GWH4mV6A/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "New England Patriots",
+        "score_1": 34,
+        "score_2": 3,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/new-england-patriots-kansas-city-chiefs-QXcrJjhU/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-denver-broncos-YerlQFik/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 3,
+        "score_2": 31,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-miami-dolphins-8x7y4aVS/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-los-angeles-chargers-QDHW4uGM/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 0,
+        "score_2": 28,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/las-vegas-raiders-kansas-city-chiefs-biD2ikeC/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "Indianapolis Colts",
+        "score_1": 24,
+        "score_2": 28,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/indianapolis-colts-kansas-city-chiefs-jLj6yJk8/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 22,
+        "score_2": 17,
+        "team_2": "Minnesota Vikings",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-minnesota-vikings-A91yOSUc/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/los-angeles-chargers-kansas-city-chiefs-QZpwBkoh/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "Detroit Lions",
+        "score_1": 48,
+        "score_2": 3,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-kansas-city-chiefs-CCxOeVE1/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 7,
+        "score_2": 41,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-buffalo-bills-GOajizwM/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "Green Bay Packers",
+        "score_1": 20,
+        "score_2": 19,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/green-bay-packers-kansas-city-chiefs-4GndCqnB/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "Los Angeles Rams",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-los-angeles-rams-tOxBdDt7/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "Baltimore Ravens",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2011-2012/baltimore-ravens-kansas-city-chiefs-YREJqzc1/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 0,
+        "score_2": 25,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-tampa-bay-buccaneers-Q5eqtJO3/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 7,
+        "score_2": 30,
+        "team_2": "Baltimore Ravens",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-baltimore-ravens-fibvc6t4/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 31,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-las-vegas-raiders-zZmHMdbS/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-tennessee-titans-087Giv8p/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Los Angeles Rams",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-kansas-city-chiefs-0YCTbV9g/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 31,
+        "score_2": 0,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/los-angeles-chargers-kansas-city-chiefs-dl2RnYAs/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 6,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-denver-broncos-6T8JJ2jp/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "Seattle Seahawks",
+        "score_1": 24,
+        "score_2": 42,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/seattle-seahawks-kansas-city-chiefs-IVxaQGnU/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "Arizona Cardinals",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-arizona-cardinals-6aic32Za/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "Denver Broncos",
+        "score_1": 49,
+        "score_2": 29,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-kansas-city-chiefs-QqWz9iLR/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/las-vegas-raiders-kansas-city-chiefs-lGCUcz79/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-buffalo-bills-Q5NqXwg4/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 42,
+        "score_2": 20,
+        "team_2": "Jacksonville Jaguars",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-jacksonville-jaguars-YaSMvkAJ/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Houston Texans",
+        "score_1": 35,
+        "score_2": 31,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/houston-texans-kansas-city-chiefs-x0JC7jZs/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Indianapolis Colts",
+        "score_1": 19,
+        "score_2": 9,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/indianapolis-colts-kansas-city-chiefs-fTcS9Owq/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 10,
+        "team_2": "San Francisco 49ers",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-san-francisco-49ers-SUo4haCt/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "Cleveland Browns",
+        "score_1": 14,
+        "score_2": 16,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/cleveland-browns-kansas-city-chiefs-z5zXO0rf/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 21,
+        "score_2": 14,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-los-angeles-chargers-tbZkqVT8/"
+    },
+    {
+        "date": "02/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "Green Bay Packers",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-green-bay-packers-jwCUtQpd/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "Philadelphia Eagles",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-philadelphia-eagles-253eY0jo/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "Tampa Bay Buccaneers",
+        "score_1": 20,
+        "score_2": 15,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/tampa-bay-buccaneers-kansas-city-chiefs-zD01URqg/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Atlanta Falcons",
+        "score_1": 20,
+        "score_2": 10,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-kansas-city-chiefs-AqnzEFge/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 44,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/denver-broncos-kansas-city-chiefs-YqW00YZJ/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/cincinnati-bengals-kansas-city-chiefs-EqRXPK7d/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 34,
+        "score_2": 41,
+        "team_2": "Cleveland Browns",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-cleveland-browns-r7kZOmHo/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 16,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-buffalo-bills-xfrotbQc/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 13,
+        "score_2": 44,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-denver-broncos-AXwHS75m/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 43,
+        "score_2": 14,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/los-angeles-chargers-kansas-city-chiefs-COhAdqPi/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 10,
+        "score_2": 16,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/las-vegas-raiders-kansas-city-chiefs-jFHdJBnJ/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "Jacksonville Jaguars",
+        "score_1": 24,
+        "score_2": 21,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/jacksonville-jaguars-kansas-city-chiefs-8deqhEFN/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 7,
+        "score_2": 37,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-los-angeles-chargers-G66cT0Y0/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "Washington Commanders",
+        "score_1": 6,
+        "score_2": 14,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/washington-commanders-kansas-city-chiefs-C6Ngi2iN/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 20,
+        "score_2": 26,
+        "team_2": "Dallas Cowboys",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-dallas-cowboys-Iu4hHBe7/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 16,
+        "score_2": 27,
+        "team_2": "New York Giants",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-new-york-giants-8dVhDf0O/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "Philadelphia Eagles",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/philadelphia-eagles-kansas-city-chiefs-zsM8EJcF/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 13,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-las-vegas-raiders-QTP3n9dE/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "Baltimore Ravens",
+        "score_1": 38,
+        "score_2": 24,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/baltimore-ravens-kansas-city-chiefs-jXpcHJ5o/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "Los Angeles Rams",
+        "score_1": 17,
+        "score_2": 9,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-kansas-city-chiefs-rgnNIoqf/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "Seattle Seahawks",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-seattle-seahawks-86YMegZt/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "Minnesota Vikings",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-kansas-city-chiefs-l4bEi9JL/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 16,
+        "team_2": "Houston Texans",
+        "game_url": "usa/nfl-2009-2010/kansas-city-chiefs-houston-texans-dOjYV39l/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Cincinnati Bengals",
+        "score_1": 16,
+        "score_2": 6,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2008-2009/cincinnati-bengals-kansas-city-chiefs-bw3NgAE7/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 38,
+        "team_2": "Miami Dolphins",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-miami-dolphins-EDuE8XNb/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 21,
+        "score_2": 22,
+        "team_2": "Los Angeles Chargers",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-los-angeles-chargers-dI26KXzB/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "Denver Broncos",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2008-2009/denver-broncos-kansas-city-chiefs-MeUDbLEc/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "Las Vegas Raiders",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2008-2009/las-vegas-raiders-kansas-city-chiefs-nNmCbnD0/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 31,
+        "score_2": 54,
+        "team_2": "Buffalo Bills",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-buffalo-bills-rNWvlaQG/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 20,
+        "score_2": 30,
+        "team_2": "New Orleans Saints",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-new-orleans-saints-rcgzdfbO/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "Los Angeles Chargers",
+        "score_1": 20,
+        "score_2": 19,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2008-2009/los-angeles-chargers-kansas-city-chiefs-rkDonuUJ/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 27,
+        "score_2": 30,
+        "team_2": "Tampa Bay Buccaneers",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-tampa-bay-buccaneers-CUpUHAmP/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "New York Jets",
+        "score_1": 28,
+        "score_2": 24,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-kansas-city-chiefs-CGP8veii/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 10,
+        "score_2": 34,
+        "team_2": "Tennessee Titans",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-tennessee-titans-nHzBM186/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "Carolina Panthers",
+        "score_1": 34,
+        "score_2": 0,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2008-2009/carolina-panthers-kansas-city-chiefs-dOZKSitS/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 33,
+        "score_2": 19,
+        "team_2": "Denver Broncos",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-denver-broncos-IyyFKmDq/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "Atlanta Falcons",
+        "score_1": 38,
+        "score_2": 14,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-kansas-city-chiefs-OfheouK0/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "Kansas City Chiefs",
+        "score_1": 8,
+        "score_2": 23,
+        "team_2": "Las Vegas Raiders",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-las-vegas-raiders-KzZMzulo/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "New England Patriots",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "Kansas City Chiefs",
+        "game_url": "usa/nfl-2008-2009/new-england-patriots-kansas-city-chiefs-zkOjcu3n/"
+    }
+]
