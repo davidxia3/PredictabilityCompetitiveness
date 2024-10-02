@@ -1,0 +1,5426 @@
+[
+    {
+        "date": "27/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Utah",
+        "game_url": "usa/nhl/vegas-golden-knights-utah-ELqeDX3N/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl/vegas-golden-knights-los-angeles-kings-jsaVIyzn/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "San Jose Sharks",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl/san-jose-sharks-vegas-golden-knights-v3VC0fKH/"
+    },
+    {
+        "date": "05/May",
+        "team_1": "Dallas Stars",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/dallas-stars-vegas-golden-knights-AgKrIVvI/"
+    },
+    {
+        "date": "03/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 0,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-dallas-stars-WlKszvF4/"
+    },
+    {
+        "date": "01/May",
+        "team_1": "Dallas Stars",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/dallas-stars-vegas-golden-knights-OtflqzGD/"
+    },
+    {
+        "date": "29/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-dallas-stars-K6tiG4lT/"
+    },
+    {
+        "date": "27/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-dallas-stars-ngrqIQJG/"
+    },
+    {
+        "date": "24/Apr",
+        "team_1": "Dallas Stars",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/dallas-stars-vegas-golden-knights-jRlzKnk4/"
+    },
+    {
+        "date": "22/Apr",
+        "team_1": "Dallas Stars",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/dallas-stars-vegas-golden-knights-4AjSL8Ki/"
+    },
+    {
+        "date": "18/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-anaheim-ducks-ERC2Osdm/"
+    },
+    {
+        "date": "16/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-chicago-blackhawks-rkgqJnK7/"
+    },
+    {
+        "date": "14/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-colorado-avalanche-UHNqVhD2/"
+    },
+    {
+        "date": "12/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 2,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-minnesota-wild-6qGJgWjd/"
+    },
+    {
+        "date": "10/Apr",
+        "team_1": "Edmonton Oilers",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/edmonton-oilers-vegas-golden-knights-zHHKmbPb/"
+    },
+    {
+        "date": "08/Apr",
+        "team_1": "Vancouver Canucks",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/vancouver-canucks-vegas-golden-knights-UwegXxuI/"
+    },
+    {
+        "date": "05/Apr",
+        "team_1": "Arizona Coyotes",
+        "score_1": 7,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/arizona-coyotes-vegas-golden-knights-r5yclGcJ/"
+    },
+    {
+        "date": "02/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-vancouver-canucks-4Ku3t1ar/"
+    },
+    {
+        "date": "30/Mar",
+        "team_1": "Minnesota Wild",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/minnesota-wild-vegas-golden-knights-QgbL8mRr/"
+    },
+    {
+        "date": "28/Mar",
+        "team_1": "Winnipeg Jets",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/winnipeg-jets-vegas-golden-knights-zaCOMF2h/"
+    },
+    {
+        "date": "26/Mar",
+        "team_1": "Nashville Predators",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/nashville-predators-vegas-golden-knights-O4Y63hk3/"
+    },
+    {
+        "date": "25/Mar",
+        "team_1": "St. Louis Blues",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/st-louis-blues-vegas-golden-knights-O6PrawbH/"
+    },
+    {
+        "date": "23/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Columbus Blue Jackets",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-columbus-blue-jackets-EHPJ4sUu/"
+    },
+    {
+        "date": "21/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Seattle Kraken",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-seattle-kraken-8GzSX0aI/"
+    },
+    {
+        "date": "19/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Tampa Bay Lightning",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-tampa-bay-lightning-EgaWrR7J/"
+    },
+    {
+        "date": "17/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "New Jersey Devils",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-new-jersey-devils-0GUCOy57/"
+    },
+    {
+        "date": "14/Mar",
+        "team_1": "Calgary Flames",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/calgary-flames-vegas-golden-knights-dxJUmk6F/"
+    },
+    {
+        "date": "12/Mar",
+        "team_1": "Seattle Kraken",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/seattle-kraken-vegas-golden-knights-p4EKGm7T/"
+    },
+    {
+        "date": "09/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 3,
+        "team_2": "Detroit Red Wings",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-detroit-red-wings-G2oT7hOb/"
+    },
+    {
+        "date": "07/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-vancouver-canucks-O0renfF4/"
+    },
+    {
+        "date": "04/Mar",
+        "team_1": "Columbus Blue Jackets",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/columbus-blue-jackets-vegas-golden-knights-fHptvN31/"
+    },
+    {
+        "date": "02/Mar",
+        "team_1": "Buffalo Sabres",
+        "score_1": 7,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/buffalo-sabres-vegas-golden-knights-MH5OkVQt/"
+    },
+    {
+        "date": "29/Feb",
+        "team_1": "Boston Bruins",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/boston-bruins-vegas-golden-knights-0trBBiW2/"
+    },
+    {
+        "date": "27/Feb",
+        "team_1": "Toronto Maple Leafs",
+        "score_1": 2,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/toronto-maple-leafs-vegas-golden-knights-lUjnFO0q/"
+    },
+    {
+        "date": "24/Feb",
+        "team_1": "Ottawa Senators",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/ottawa-senators-vegas-golden-knights-rca6RqKe/"
+    },
+    {
+        "date": "22/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 7,
+        "team_2": "Toronto Maple Leafs",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-toronto-maple-leafs-ltBNZ7CF/"
+    },
+    {
+        "date": "20/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Nashville Predators",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-nashville-predators-fXGfHG3H/"
+    },
+    {
+        "date": "19/Feb",
+        "team_1": "San Jose Sharks",
+        "score_1": 0,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/san-jose-sharks-vegas-golden-knights-rTZYLvkn/"
+    },
+    {
+        "date": "17/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Carolina Hurricanes",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-carolina-hurricanes-CU0AJoTm/"
+    },
+    {
+        "date": "12/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-minnesota-wild-4tXEaixF/"
+    },
+    {
+        "date": "08/Feb",
+        "team_1": "Arizona Coyotes",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/arizona-coyotes-vegas-golden-knights-bNhWlzOd/"
+    },
+    {
+        "date": "06/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-edmonton-oilers-8tz8aFDl/"
+    },
+    {
+        "date": "27/Jan",
+        "team_1": "Detroit Red Wings",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/detroit-red-wings-vegas-golden-knights-CQtCiHMt/"
+    },
+    {
+        "date": "26/Jan",
+        "team_1": "New York Rangers",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/new-york-rangers-vegas-golden-knights-bNGxwI7m/"
+    },
+    {
+        "date": "23/Jan",
+        "team_1": "New York Islanders",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/new-york-islanders-vegas-golden-knights-E1so8c8D/"
+    },
+    {
+        "date": "22/Jan",
+        "team_1": "New Jersey Devils",
+        "score_1": 6,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/new-jersey-devils-vegas-golden-knights-hlYeUmPF/"
+    },
+    {
+        "date": "20/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Pittsburgh Penguins",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-pittsburgh-penguins-pQXmwS0H/"
+    },
+    {
+        "date": "18/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "New York Rangers",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-new-york-rangers-GW42RU15/"
+    },
+    {
+        "date": "15/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Nashville Predators",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-nashville-predators-8pQJGDmm/"
+    },
+    {
+        "date": "13/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-calgary-flames-4poX4Xe4/"
+    },
+    {
+        "date": "11/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Boston Bruins",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-boston-bruins-84AR8Pk9/"
+    },
+    {
+        "date": "10/Jan",
+        "team_1": "Colorado Avalanche",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/colorado-avalanche-vegas-golden-knights-l0i38evT/"
+    },
+    {
+        "date": "06/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "New York Islanders",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-new-york-islanders-f3cLcvQA/"
+    },
+    {
+        "date": "04/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Florida Panthers",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-florida-panthers-pU7ybmKg/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "Seattle Kraken",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/seattle-kraken-vegas-golden-knights-4dBXT85D/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-los-angeles-kings-hxl6RFqF/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Anaheim Ducks",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/anaheim-ducks-vegas-golden-knights-pCpbTyF2/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "Florida Panthers",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/florida-panthers-vegas-golden-knights-0rLyGRvn/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "Tampa Bay Lightning",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/tampa-bay-lightning-vegas-golden-knights-KjUUd4vO/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Carolina Hurricanes",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/carolina-hurricanes-vegas-golden-knights-Umdqo7uC/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Ottawa Senators",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-ottawa-senators-8jN9QGn8/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Buffalo Sabres",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-buffalo-sabres-Ym9FczWm/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-calgary-flames-Wn1eBps4/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-san-jose-sharks-pj93VHne/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "Dallas Stars",
+        "score_1": 1,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/dallas-stars-vegas-golden-knights-ne93ZQmT/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "St. Louis Blues",
+        "score_1": 3,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/st-louis-blues-vegas-golden-knights-4CiDO9ZA/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-st-louis-blues-OvHvAAKH/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Washington Capitals",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-washington-capitals-ze6aDO9C/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "Vancouver Canucks",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/vancouver-canucks-vegas-golden-knights-xSjOepQJ/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "Edmonton Oilers",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/edmonton-oilers-vegas-golden-knights-pEHGx5Js/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Calgary Flames",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/calgary-flames-vegas-golden-knights-2iiudgK2/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 2,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-arizona-coyotes-nXMJearA/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Dallas Stars",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/dallas-stars-vegas-golden-knights-t0PXoOEo/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Pittsburgh Penguins",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/pittsburgh-penguins-vegas-golden-knights-SU0WTkg0/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "Philadelphia Flyers",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/philadelphia-flyers-vegas-golden-knights-SGLcFjv7/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "Montreal Canadiens",
+        "score_1": 5,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/montreal-canadiens-vegas-golden-knights-6RhR0x7N/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "Washington Capitals",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/washington-capitals-vegas-golden-knights-pOCMfULq/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 0,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-san-jose-sharks-S4ecjFUc/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-los-angeles-kings-KIGEubGu/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "Anaheim Ducks",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/anaheim-ducks-vegas-golden-knights-xvwGrqHD/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 0,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-colorado-avalanche-GOl7p5n1/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-winnipeg-jets-ClcgbOTR/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Montreal Canadiens",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-montreal-canadiens-4OXFp5aS/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "Los Angeles Kings",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/los-angeles-kings-vegas-golden-knights-GU5C7Vlj/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-chicago-blackhawks-SpoZgCKj/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Philadelphia Flyers",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-philadelphia-flyers-StwtHrMn/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "Chicago Blackhawks",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/chicago-blackhawks-vegas-golden-knights-faBykQxf/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Winnipeg Jets",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/winnipeg-jets-vegas-golden-knights-O6NJKHu6/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-dallas-stars-8vBNs9VQ/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-anaheim-ducks-bi2zqbA3/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "San Jose Sharks",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/san-jose-sharks-vegas-golden-knights-OfT6oWE4/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Seattle Kraken",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-seattle-kraken-W04TXCp5/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "Los Angeles Kings",
+        "score_1": 4,
+        "score_2": 7,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/los-angeles-kings-vegas-golden-knights-MsFkI3Kd/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-colorado-avalanche-bqOY7Jdk/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 2,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-san-jose-sharks-S0X2DuZR/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-arizona-coyotes-t8Dw7wCe/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2023-2024/vegas-golden-knights-los-angeles-kings-QB9UGgOM/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Colorado Avalanche",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/colorado-avalanche-vegas-golden-knights-ptKU8asq/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "San Jose Sharks",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2023-2024/san-jose-sharks-vegas-golden-knights-lAYbELJL/"
+    },
+    {
+        "date": "13/Jun",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 9,
+        "score_2": 3,
+        "team_2": "Florida Panthers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-florida-panthers-OIg5bR7H/"
+    },
+    {
+        "date": "10/Jun",
+        "team_1": "Florida Panthers",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/florida-panthers-vegas-golden-knights-EeQklJzr/"
+    },
+    {
+        "date": "08/Jun",
+        "team_1": "Florida Panthers",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/florida-panthers-vegas-golden-knights-dGwOhaSQ/"
+    },
+    {
+        "date": "05/Jun",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 2,
+        "team_2": "Florida Panthers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-florida-panthers-IPvKguDK/"
+    },
+    {
+        "date": "03/Jun",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Florida Panthers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-florida-panthers-0lpFfLcE/"
+    },
+    {
+        "date": "29/May",
+        "team_1": "Dallas Stars",
+        "score_1": 0,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/dallas-stars-vegas-golden-knights-tl1jK2XT/"
+    },
+    {
+        "date": "27/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-dallas-stars-WpnugCwJ/"
+    },
+    {
+        "date": "25/May",
+        "team_1": "Dallas Stars",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/dallas-stars-vegas-golden-knights-zB6GiVCI/"
+    },
+    {
+        "date": "23/May",
+        "team_1": "Dallas Stars",
+        "score_1": 0,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/dallas-stars-vegas-golden-knights-6y2ChBcC/"
+    },
+    {
+        "date": "21/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-dallas-stars-Sp38gir6/"
+    },
+    {
+        "date": "19/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-dallas-stars-pMD3fXSa/"
+    },
+    {
+        "date": "14/May",
+        "team_1": "Edmonton Oilers",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/edmonton-oilers-vegas-golden-knights-tIC39mm8/"
+    },
+    {
+        "date": "12/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-edmonton-oilers-nmezDKOT/"
+    },
+    {
+        "date": "10/May",
+        "team_1": "Edmonton Oilers",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/edmonton-oilers-vegas-golden-knights-MyzNPDw4/"
+    },
+    {
+        "date": "08/May",
+        "team_1": "Edmonton Oilers",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/edmonton-oilers-vegas-golden-knights-vDpIQgOc/"
+    },
+    {
+        "date": "06/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-edmonton-oilers-ncrMVo51/"
+    },
+    {
+        "date": "03/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 4,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-edmonton-oilers-ULmHWRke/"
+    },
+    {
+        "date": "27/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-winnipeg-jets-p6k0f8Gu/"
+    },
+    {
+        "date": "24/Apr",
+        "team_1": "Winnipeg Jets",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/winnipeg-jets-vegas-golden-knights-WhdEALoq/"
+    },
+    {
+        "date": "22/Apr",
+        "team_1": "Winnipeg Jets",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/winnipeg-jets-vegas-golden-knights-QBJoF1wS/"
+    },
+    {
+        "date": "20/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-winnipeg-jets-hQuNG0Z6/"
+    },
+    {
+        "date": "18/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-winnipeg-jets-hfPfIB5R/"
+    },
+    {
+        "date": "13/Apr",
+        "team_1": "Seattle Kraken",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/seattle-kraken-vegas-golden-knights-j1uMsxd4/"
+    },
+    {
+        "date": "11/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Seattle Kraken",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-seattle-kraken-vsfnVbCb/"
+    },
+    {
+        "date": "08/Apr",
+        "team_1": "Dallas Stars",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/dallas-stars-vegas-golden-knights-hWhr1KcI/"
+    },
+    {
+        "date": "06/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-los-angeles-kings-AmudkNb6/"
+    },
+    {
+        "date": "04/Apr",
+        "team_1": "Nashville Predators",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/nashville-predators-vegas-golden-knights-GlziBq4S/"
+    },
+    {
+        "date": "03/Apr",
+        "team_1": "Minnesota Wild",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/minnesota-wild-vegas-golden-knights-zZvWF7kc/"
+    },
+    {
+        "date": "01/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-minnesota-wild-UXB9b6KM/"
+    },
+    {
+        "date": "30/Mar",
+        "team_1": "San Jose Sharks",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/san-jose-sharks-vegas-golden-knights-6VbJmk64/"
+    },
+    {
+        "date": "28/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 7,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-edmonton-oilers-dlBxDlSn/"
+    },
+    {
+        "date": "25/Mar",
+        "team_1": "Edmonton Oilers",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/edmonton-oilers-vegas-golden-knights-jkNZFHrR/"
+    },
+    {
+        "date": "23/Mar",
+        "team_1": "Calgary Flames",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/calgary-flames-vegas-golden-knights-Yiy42bER/"
+    },
+    {
+        "date": "21/Mar",
+        "team_1": "Vancouver Canucks",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/vancouver-canucks-vegas-golden-knights-rDo5scx2/"
+    },
+    {
+        "date": "19/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 2,
+        "team_2": "Columbus Blue Jackets",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-columbus-blue-jackets-vmmw3RAF/"
+    },
+    {
+        "date": "16/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 7,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-calgary-flames-hnPqzofe/"
+    },
+    {
+        "date": "14/Mar",
+        "team_1": "Philadelphia Flyers",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/philadelphia-flyers-vegas-golden-knights-jo5hkmPI/"
+    },
+    {
+        "date": "12/Mar",
+        "team_1": "St. Louis Blues",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/st-louis-blues-vegas-golden-knights-dUKAwy8G/"
+    },
+    {
+        "date": "11/Mar",
+        "team_1": "Carolina Hurricanes",
+        "score_1": 0,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/carolina-hurricanes-vegas-golden-knights-zcLRwp2a/"
+    },
+    {
+        "date": "09/Mar",
+        "team_1": "Tampa Bay Lightning",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/tampa-bay-lightning-vegas-golden-knights-GtQiR6Ig/"
+    },
+    {
+        "date": "07/Mar",
+        "team_1": "Florida Panthers",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/florida-panthers-vegas-golden-knights-6sH5F9Js/"
+    },
+    {
+        "date": "05/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Montreal Canadiens",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-montreal-canadiens-E5gKTEdr/"
+    },
+    {
+        "date": "03/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "New Jersey Devils",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-new-jersey-devils-nP46pkK7/"
+    },
+    {
+        "date": "01/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Carolina Hurricanes",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-carolina-hurricanes-EiWC9sii/"
+    },
+    {
+        "date": "27/Feb",
+        "team_1": "Colorado Avalanche",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/colorado-avalanche-vegas-golden-knights-O8SLx1MT/"
+    },
+    {
+        "date": "25/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-dallas-stars-4vrhqown/"
+    },
+    {
+        "date": "23/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-calgary-flames-Gxj46oaH/"
+    },
+    {
+        "date": "21/Feb",
+        "team_1": "Chicago Blackhawks",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/chicago-blackhawks-vegas-golden-knights-CUUjGn9a/"
+    },
+    {
+        "date": "18/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Tampa Bay Lightning",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-tampa-bay-lightning-EHwAWnxq/"
+    },
+    {
+        "date": "16/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-san-jose-sharks-jZvhQBF9/"
+    },
+    {
+        "date": "12/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 2,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-anaheim-ducks-IiDmbgWG/"
+    },
+    {
+        "date": "09/Feb",
+        "team_1": "Minnesota Wild",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/minnesota-wild-vegas-golden-knights-0lrP5pYP/"
+    },
+    {
+        "date": "07/Feb",
+        "team_1": "Nashville Predators",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/nashville-predators-vegas-golden-knights-KKqNoPtf/"
+    },
+    {
+        "date": "28/Jan",
+        "team_1": "New York Islanders",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/new-york-islanders-vegas-golden-knights-zLo8zkPH/"
+    },
+    {
+        "date": "27/Jan",
+        "team_1": "New York Rangers",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/new-york-rangers-vegas-golden-knights-0SOjtget/"
+    },
+    {
+        "date": "24/Jan",
+        "team_1": "New Jersey Devils",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/new-jersey-devils-vegas-golden-knights-ILhxV7Vs/"
+    },
+    {
+        "date": "22/Jan",
+        "team_1": "Arizona Coyotes",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/arizona-coyotes-vegas-golden-knights-KpD1yAhE/"
+    },
+    {
+        "date": "21/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 2,
+        "team_2": "Washington Capitals",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-washington-capitals-nsI7FSVf/"
+    },
+    {
+        "date": "19/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Detroit Red Wings",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-detroit-red-wings-IoxT3VWr/"
+    },
+    {
+        "date": "16/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 4,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-dallas-stars-hOEmguJN/"
+    },
+    {
+        "date": "14/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-edmonton-oilers-IFyTP28a/"
+    },
+    {
+        "date": "12/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Florida Panthers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-florida-panthers-IPrln65t/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-los-angeles-kings-IqTevI72/"
+    },
+    {
+        "date": "05/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Pittsburgh Penguins",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-pittsburgh-penguins-MHDHQbw3/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "Colorado Avalanche",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/colorado-avalanche-vegas-golden-knights-xdhSBVCT/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Nashville Predators",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-nashville-predators-n37rCv7C/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Anaheim Ducks",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/anaheim-ducks-vegas-golden-knights-46Wl23wl/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Los Angeles Kings",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/los-angeles-kings-vegas-golden-knights-SOTL850K/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-st-louis-blues-hnoFkQgr/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-arizona-coyotes-GYPnFxyb/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Buffalo Sabres",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-buffalo-sabres-UH152aih/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "New York Islanders",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-new-york-islanders-lpRWm0xa/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "Chicago Blackhawks",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/chicago-blackhawks-vegas-golden-knights-xrkk405r/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Winnipeg Jets",
+        "score_1": 5,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/winnipeg-jets-vegas-golden-knights-p6H51YOl/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Boston Bruins",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-boston-bruins-6PsArpqM/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Philadelphia Flyers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-philadelphia-flyers-IuNWUQEM/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "New York Rangers",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-new-york-rangers-jVMiUgOB/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "Boston Bruins",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/boston-bruins-vegas-golden-knights-zPRDIdPa/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "Detroit Red Wings",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/detroit-red-wings-vegas-golden-knights-06DV5Juf/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "Pittsburgh Penguins",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/pittsburgh-penguins-vegas-golden-knights-6qhdiKQ0/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "Columbus Blue Jackets",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/columbus-blue-jackets-vegas-golden-knights-EFbEt3Cr/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-vancouver-canucks-4d9SW120/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Seattle Kraken",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-seattle-kraken-UPB7pCDG/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Ottawa Senators",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-ottawa-senators-8UglJrY0/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "Vancouver Canucks",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/vancouver-canucks-vegas-golden-knights-E32DHVdd/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Edmonton Oilers",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/edmonton-oilers-vegas-golden-knights-EuKQQZZ9/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-arizona-coyotes-80dD6MeO/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-san-jose-sharks-QNRZh3RO/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-st-louis-blues-OUFuqSc0/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "Buffalo Sabres",
+        "score_1": 4,
+        "score_2": 7,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/buffalo-sabres-vegas-golden-knights-4n6HhuVd/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "Toronto Maple Leafs",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/toronto-maple-leafs-vegas-golden-knights-dEGv327M/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "Montreal Canadiens",
+        "score_1": 4,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/montreal-canadiens-vegas-golden-knights-AsQ4jPNG/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "Ottawa Senators",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/ottawa-senators-vegas-golden-knights-4nEYmW1I/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "Washington Capitals",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/washington-capitals-vegas-golden-knights-84W0RsF0/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-winnipeg-jets-r9osbGPP/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-anaheim-ducks-K0qx2Rok/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "San Jose Sharks",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/san-jose-sharks-vegas-golden-knights-plI6nnn2/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Toronto Maple Leafs",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-toronto-maple-leafs-rZUXWwRQ/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-colorado-avalanche-IDQkfwlB/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-winnipeg-jets-fkKhzhGL/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "Calgary Flames",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/calgary-flames-vegas-golden-knights-0A9EZKPA/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "Seattle Kraken",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/seattle-kraken-vegas-golden-knights-bV2dFsLC/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 0,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-chicago-blackhawks-ph8I3pM0/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "Los Angeles Kings",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/los-angeles-kings-vegas-golden-knights-QPt8rRW8/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-arizona-coyotes-CnW6GskS/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "Los Angeles Kings",
+        "score_1": 4,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/los-angeles-kings-vegas-golden-knights-zivdbrTq/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-arizona-coyotes-GtOMqqEj/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 7,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-san-jose-sharks-QFNSbINP/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 1,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-colorado-avalanche-Gp4pnuvK/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2022-2023/vegas-golden-knights-los-angeles-kings-IB92VXyq/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Colorado Avalanche",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2022-2023/colorado-avalanche-vegas-golden-knights-xfkIjr8i/"
+    },
+    {
+        "date": "29/Apr",
+        "team_1": "St. Louis Blues",
+        "score_1": 4,
+        "score_2": 7,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/st-louis-blues-vegas-golden-knights-AkjrFPVe/"
+    },
+    {
+        "date": "27/Apr",
+        "team_1": "Chicago Blackhawks",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/chicago-blackhawks-vegas-golden-knights-lKDB161d/"
+    },
+    {
+        "date": "26/Apr",
+        "team_1": "Dallas Stars",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/dallas-stars-vegas-golden-knights-A5WKBjP3/"
+    },
+    {
+        "date": "24/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-san-jose-sharks-tC3ZagQi/"
+    },
+    {
+        "date": "20/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Washington Capitals",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-washington-capitals-4CPdjqcQ/"
+    },
+    {
+        "date": "18/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "New Jersey Devils",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-new-jersey-devils-ERnoYqyr/"
+    },
+    {
+        "date": "16/Apr",
+        "team_1": "Edmonton Oilers",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/edmonton-oilers-vegas-golden-knights-fglPSla2/"
+    },
+    {
+        "date": "14/Apr",
+        "team_1": "Calgary Flames",
+        "score_1": 1,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/calgary-flames-vegas-golden-knights-reKzMIQk/"
+    },
+    {
+        "date": "12/Apr",
+        "team_1": "Vancouver Canucks",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/vancouver-canucks-vegas-golden-knights-8Q30K5ko/"
+    },
+    {
+        "date": "09/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 1,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-arizona-coyotes-4xNz347q/"
+    },
+    {
+        "date": "06/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-vancouver-canucks-d6tZHCTn/"
+    },
+    {
+        "date": "03/Apr",
+        "team_1": "Vancouver Canucks",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/vancouver-canucks-vegas-golden-knights-joB03DEg/"
+    },
+    {
+        "date": "01/Apr",
+        "team_1": "Seattle Kraken",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/seattle-kraken-vegas-golden-knights-bZjTkLXP/"
+    },
+    {
+        "date": "30/Mar",
+        "team_1": "Seattle Kraken",
+        "score_1": 0,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/seattle-kraken-vegas-golden-knights-KUCjx23Q/"
+    },
+    {
+        "date": "26/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-chicago-blackhawks-Ct5GRgqi/"
+    },
+    {
+        "date": "24/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 1,
+        "team_2": "Nashville Predators",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-nashville-predators-h23oEzFi/"
+    },
+    {
+        "date": "22/Mar",
+        "team_1": "Winnipeg Jets",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/winnipeg-jets-vegas-golden-knights-SAMKolmi/"
+    },
+    {
+        "date": "21/Mar",
+        "team_1": "Minnesota Wild",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/minnesota-wild-vegas-golden-knights-xQ31IUlt/"
+    },
+    {
+        "date": "19/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-los-angeles-kings-jHNCcfDD/"
+    },
+    {
+        "date": "17/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 3,
+        "team_2": "Florida Panthers",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-florida-panthers-rBhUordB/"
+    },
+    {
+        "date": "15/Mar",
+        "team_1": "Winnipeg Jets",
+        "score_1": 7,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/winnipeg-jets-vegas-golden-knights-4vpQmJqk/"
+    },
+    {
+        "date": "13/Mar",
+        "team_1": "Columbus Blue Jackets",
+        "score_1": 6,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/columbus-blue-jackets-vegas-golden-knights-46EiYORB/"
+    },
+    {
+        "date": "11/Mar",
+        "team_1": "Pittsburgh Penguins",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/pittsburgh-penguins-vegas-golden-knights-bmz9N7Dg/"
+    },
+    {
+        "date": "10/Mar",
+        "team_1": "Buffalo Sabres",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/buffalo-sabres-vegas-golden-knights-IVVpJhM7/"
+    },
+    {
+        "date": "08/Mar",
+        "team_1": "Philadelphia Flyers",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/philadelphia-flyers-vegas-golden-knights-44mbSdaL/"
+    },
+    {
+        "date": "06/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Ottawa Senators",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-ottawa-senators-tOVV8NGj/"
+    },
+    {
+        "date": "04/Mar",
+        "team_1": "Anaheim Ducks",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/anaheim-ducks-vegas-golden-knights-vTdGnLoT/"
+    },
+    {
+        "date": "03/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Boston Bruins",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-boston-bruins-dp1eiqXc/"
+    },
+    {
+        "date": "01/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-san-jose-sharks-2J9KkWeg/"
+    },
+    {
+        "date": "26/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-colorado-avalanche-SSoCan8K/"
+    },
+    {
+        "date": "25/Feb",
+        "team_1": "Arizona Coyotes",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/arizona-coyotes-vegas-golden-knights-v75Hw5o1/"
+    },
+    {
+        "date": "20/Feb",
+        "team_1": "San Jose Sharks",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/san-jose-sharks-vegas-golden-knights-KQMvL3TR/"
+    },
+    {
+        "date": "18/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-los-angeles-kings-EV0oH7u0/"
+    },
+    {
+        "date": "16/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 2,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-colorado-avalanche-xUPFEZza/"
+    },
+    {
+        "date": "09/Feb",
+        "team_1": "Calgary Flames",
+        "score_1": 6,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/calgary-flames-vegas-golden-knights-I1CgzxvG/"
+    },
+    {
+        "date": "08/Feb",
+        "team_1": "Edmonton Oilers",
+        "score_1": 0,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/edmonton-oilers-vegas-golden-knights-zwNlyIO9/"
+    },
+    {
+        "date": "01/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Buffalo Sabres",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-buffalo-sabres-CW9ryCP2/"
+    },
+    {
+        "date": "29/Jan",
+        "team_1": "Tampa Bay Lightning",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/tampa-bay-lightning-vegas-golden-knights-hARsJw4H/"
+    },
+    {
+        "date": "27/Jan",
+        "team_1": "Florida Panthers",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/florida-panthers-vegas-golden-knights-K4o760KB/"
+    },
+    {
+        "date": "25/Jan",
+        "team_1": "Carolina Hurricanes",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/carolina-hurricanes-vegas-golden-knights-d2fnBO5t/"
+    },
+    {
+        "date": "24/Jan",
+        "team_1": "Washington Capitals",
+        "score_1": 0,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/washington-capitals-vegas-golden-knights-6JCQgNz6/"
+    },
+    {
+        "date": "20/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Montreal Canadiens",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-montreal-canadiens-dMvf3z82/"
+    },
+    {
+        "date": "17/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Pittsburgh Penguins",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-pittsburgh-penguins-YwWJM3iQ/"
+    },
+    {
+        "date": "11/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Toronto Maple Leafs",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-toronto-maple-leafs-6ZG9vWD4/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-chicago-blackhawks-vyDV2Wxt/"
+    },
+    {
+        "date": "06/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "New York Rangers",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-new-york-rangers-CMjtrd1D/"
+    },
+    {
+        "date": "04/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Nashville Predators",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-nashville-predators-Wl0ogM9E/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-winnipeg-jets-SAtGY3oE/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-anaheim-ducks-WWvCLslq/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Los Angeles Kings",
+        "score_1": 3,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/los-angeles-kings-vegas-golden-knights-4vQfF6R9/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Tampa Bay Lightning",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-tampa-bay-lightning-dtBH1SuD/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "New York Islanders",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/new-york-islanders-vegas-golden-knights-MTyVjd94/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "New York Rangers",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/new-york-rangers-vegas-golden-knights-S2pfkqYa/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "New Jersey Devils",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/new-jersey-devils-vegas-golden-knights-8bDTYNmJ/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "Boston Bruins",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/boston-bruins-vegas-golden-knights-lrIgMp4D/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 4,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-minnesota-wild-S4obXACE/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Philadelphia Flyers",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-philadelphia-flyers-vPtMbj6k/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-dallas-stars-4fQocwVp/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-calgary-flames-lfWTG4pO/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "Arizona Coyotes",
+        "score_1": 1,
+        "score_2": 7,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/arizona-coyotes-vegas-golden-knights-82Rm06oP/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "Anaheim Ducks",
+        "score_1": 6,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/anaheim-ducks-vegas-golden-knights-fHh7mT1J/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-edmonton-oilers-pOn26dQl/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "Nashville Predators",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/nashville-predators-vegas-golden-knights-AXSkMVoN/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "St. Louis Blues",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/st-louis-blues-vegas-golden-knights-zeYQRZHo/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Columbus Blue Jackets",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-columbus-blue-jackets-tKyy9LB6/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Detroit Red Wings",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-detroit-red-wings-SGB1fMdD/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Carolina Hurricanes",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-carolina-hurricanes-GI7tVjBB/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 4,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-vancouver-canucks-SY4XjmjL/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-minnesota-wild-0lIJJ26r/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Seattle Kraken",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-seattle-kraken-dCcrR2b2/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "Detroit Red Wings",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/detroit-red-wings-vegas-golden-knights-COeWT4Eq/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Montreal Canadiens",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/montreal-canadiens-vegas-golden-knights-SfIMxcVA/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "Ottawa Senators",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/ottawa-senators-vegas-golden-knights-vV9gw94O/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "Toronto Maple Leafs",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/toronto-maple-leafs-vegas-golden-knights-xO4VrDzm/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-anaheim-ducks-jaOYgbXC/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Dallas Stars",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/dallas-stars-vegas-golden-knights-GIiw5OuE/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "Colorado Avalanche",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/colorado-avalanche-vegas-golden-knights-6mAnr1Y0/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 2,
+        "team_2": "New York Islanders",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-new-york-islanders-SdkDT1J7/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-edmonton-oilers-0pS724Wq/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-st-louis-blues-jwVgxZ5A/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "Los Angeles Kings",
+        "score_1": 6,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/los-angeles-kings-vegas-golden-knights-nm35EAd6/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Seattle Kraken",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-seattle-kraken-I7BlIhcs/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "San Jose Sharks",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/san-jose-sharks-vegas-golden-knights-fTU2ywWL/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-arizona-coyotes-WKE3IcPq/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "Colorado Avalanche",
+        "score_1": 4,
+        "score_2": 7,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/colorado-avalanche-vegas-golden-knights-thR0LQuO/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-los-angeles-kings-Y7aBA9R5/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "Los Angeles Kings",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2021-2022/los-angeles-kings-vegas-golden-knights-4S7fEiSt/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-colorado-avalanche-YoOzbWs0/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2021-2022/vegas-golden-knights-san-jose-sharks-xlUQXtOg/"
+    },
+    {
+        "date": "24/Jun",
+        "team_1": "Montreal Canadiens",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/montreal-canadiens-vegas-golden-knights-6gZtfi9b/"
+    },
+    {
+        "date": "22/Jun",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Montreal Canadiens",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-montreal-canadiens-6Pc4o6gB/"
+    },
+    {
+        "date": "20/Jun",
+        "team_1": "Montreal Canadiens",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/montreal-canadiens-vegas-golden-knights-t4HH0ls2/"
+    },
+    {
+        "date": "18/Jun",
+        "team_1": "Montreal Canadiens",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/montreal-canadiens-vegas-golden-knights-2DID1URe/"
+    },
+    {
+        "date": "16/Jun",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Montreal Canadiens",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-montreal-canadiens-fmJ92ACk/"
+    },
+    {
+        "date": "14/Jun",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Montreal Canadiens",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-montreal-canadiens-GdK53jcq/"
+    },
+    {
+        "date": "10/Jun",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-colorado-avalanche-IHMYrOAh/"
+    },
+    {
+        "date": "08/Jun",
+        "team_1": "Colorado Avalanche",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/colorado-avalanche-vegas-golden-knights-IHf2ogwj/"
+    },
+    {
+        "date": "06/Jun",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-colorado-avalanche-6LTlQiS5/"
+    },
+    {
+        "date": "04/Jun",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-colorado-avalanche-OdvpRXCa/"
+    },
+    {
+        "date": "02/Jun",
+        "team_1": "Colorado Avalanche",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/colorado-avalanche-vegas-golden-knights-CMztSDcg/"
+    },
+    {
+        "date": "30/May",
+        "team_1": "Colorado Avalanche",
+        "score_1": 7,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/colorado-avalanche-vegas-golden-knights-6V6SwTta/"
+    },
+    {
+        "date": "28/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 2,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-minnesota-wild-KzQOneAn/"
+    },
+    {
+        "date": "26/May",
+        "team_1": "Minnesota Wild",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/minnesota-wild-vegas-golden-knights-UNIr9KVc/"
+    },
+    {
+        "date": "24/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-minnesota-wild-W2LzbGeR/"
+    },
+    {
+        "date": "22/May",
+        "team_1": "Minnesota Wild",
+        "score_1": 0,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/minnesota-wild-vegas-golden-knights-htC1mb0k/"
+    },
+    {
+        "date": "20/May",
+        "team_1": "Minnesota Wild",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/minnesota-wild-vegas-golden-knights-EkDclvoq/"
+    },
+    {
+        "date": "18/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-minnesota-wild-YiaT56GG/"
+    },
+    {
+        "date": "16/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 1,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-minnesota-wild-KleP6n1A/"
+    },
+    {
+        "date": "12/May",
+        "team_1": "San Jose Sharks",
+        "score_1": 0,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/san-jose-sharks-vegas-golden-knights-nRNF7zAh/"
+    },
+    {
+        "date": "10/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-colorado-avalanche-hEBEA5VG/"
+    },
+    {
+        "date": "08/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-st-louis-blues-WWKPwetK/"
+    },
+    {
+        "date": "07/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-st-louis-blues-4455J5w8/"
+    },
+    {
+        "date": "05/May",
+        "team_1": "Minnesota Wild",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/minnesota-wild-vegas-golden-knights-vumpEA1S/"
+    },
+    {
+        "date": "03/May",
+        "team_1": "Minnesota Wild",
+        "score_1": 6,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/minnesota-wild-vegas-golden-knights-8W6uJsst/"
+    },
+    {
+        "date": "01/May",
+        "team_1": "Arizona Coyotes",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/arizona-coyotes-vegas-golden-knights-MuYM00RB/"
+    },
+    {
+        "date": "30/Apr",
+        "team_1": "Arizona Coyotes",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/arizona-coyotes-vegas-golden-knights-rRUETJyd/"
+    },
+    {
+        "date": "28/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-colorado-avalanche-vZBSHMxp/"
+    },
+    {
+        "date": "24/Apr",
+        "team_1": "Anaheim Ducks",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/anaheim-ducks-vegas-golden-knights-C8LcPEgo/"
+    },
+    {
+        "date": "21/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-san-jose-sharks-EVpRrdt7/"
+    },
+    {
+        "date": "19/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-san-jose-sharks-6oJyYvSl/"
+    },
+    {
+        "date": "18/Apr",
+        "team_1": "Anaheim Ducks",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/anaheim-ducks-vegas-golden-knights-U3dtqpJh/"
+    },
+    {
+        "date": "16/Apr",
+        "team_1": "Anaheim Ducks",
+        "score_1": 0,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/anaheim-ducks-vegas-golden-knights-4GJuEPJI/"
+    },
+    {
+        "date": "14/Apr",
+        "team_1": "Los Angeles Kings",
+        "score_1": 2,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/los-angeles-kings-vegas-golden-knights-tpLg4ljf/"
+    },
+    {
+        "date": "12/Apr",
+        "team_1": "Los Angeles Kings",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/los-angeles-kings-vegas-golden-knights-MaOM1eUe/"
+    },
+    {
+        "date": "11/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 0,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-arizona-coyotes-MypvAJMF/"
+    },
+    {
+        "date": "09/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 4,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-arizona-coyotes-EiEp0rgi/"
+    },
+    {
+        "date": "07/Apr",
+        "team_1": "St. Louis Blues",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/st-louis-blues-vegas-golden-knights-faa6BsMm/"
+    },
+    {
+        "date": "05/Apr",
+        "team_1": "St. Louis Blues",
+        "score_1": 1,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/st-louis-blues-vegas-golden-knights-OfXa4QEK/"
+    },
+    {
+        "date": "03/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-minnesota-wild-zyWO2DwG/"
+    },
+    {
+        "date": "01/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-minnesota-wild-QNHy8mbb/"
+    },
+    {
+        "date": "31/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-los-angeles-kings-4hu5fUTb/"
+    },
+    {
+        "date": "29/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-los-angeles-kings-za8FqDFt/"
+    },
+    {
+        "date": "27/Mar",
+        "team_1": "Colorado Avalanche",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/colorado-avalanche-vegas-golden-knights-QL4wYtHR/"
+    },
+    {
+        "date": "25/Mar",
+        "team_1": "Colorado Avalanche",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/colorado-avalanche-vegas-golden-knights-6Dq4Xw1c/"
+    },
+    {
+        "date": "22/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-st-louis-blues-4E2BIcNH/"
+    },
+    {
+        "date": "21/Mar",
+        "team_1": "Los Angeles Kings",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/los-angeles-kings-vegas-golden-knights-8bkh5LH4/"
+    },
+    {
+        "date": "19/Mar",
+        "team_1": "Los Angeles Kings",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/los-angeles-kings-vegas-golden-knights-2wp89Fig/"
+    },
+    {
+        "date": "17/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-san-jose-sharks-CzS0FpOE/"
+    },
+    {
+        "date": "15/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-san-jose-sharks-ID6R0o9L/"
+    },
+    {
+        "date": "13/Mar",
+        "team_1": "St. Louis Blues",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/st-louis-blues-vegas-golden-knights-IwjIZ8AM/"
+    },
+    {
+        "date": "12/Mar",
+        "team_1": "St. Louis Blues",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/st-louis-blues-vegas-golden-knights-lbb1wiBc/"
+    },
+    {
+        "date": "10/Mar",
+        "team_1": "Minnesota Wild",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/minnesota-wild-vegas-golden-knights-hrDMQqiB/"
+    },
+    {
+        "date": "08/Mar",
+        "team_1": "Minnesota Wild",
+        "score_1": 2,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/minnesota-wild-vegas-golden-knights-O2azFnha/"
+    },
+    {
+        "date": "06/Mar",
+        "team_1": "San Jose Sharks",
+        "score_1": 0,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/san-jose-sharks-vegas-golden-knights-6RS9bR7I/"
+    },
+    {
+        "date": "05/Mar",
+        "team_1": "San Jose Sharks",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/san-jose-sharks-vegas-golden-knights-tKsp4Vws/"
+    },
+    {
+        "date": "03/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-minnesota-wild-2eqrlJmq/"
+    },
+    {
+        "date": "01/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-minnesota-wild-MySCYwld/"
+    },
+    {
+        "date": "27/Feb",
+        "team_1": "Anaheim Ducks",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/anaheim-ducks-vegas-golden-knights-EcqWL04j/"
+    },
+    {
+        "date": "22/Feb",
+        "team_1": "Colorado Avalanche",
+        "score_1": 0,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/colorado-avalanche-vegas-golden-knights-6V2cJnRf/"
+    },
+    {
+        "date": "20/Feb",
+        "team_1": "Colorado Avalanche",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/colorado-avalanche-vegas-golden-knights-zRziCVJR/"
+    },
+    {
+        "date": "16/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-colorado-avalanche-IBRAvibd/"
+    },
+    {
+        "date": "14/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 0,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-colorado-avalanche-b3nio2FB/"
+    },
+    {
+        "date": "13/Feb",
+        "team_1": "San Jose Sharks",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/san-jose-sharks-vegas-golden-knights-xd4XfcQn/"
+    },
+    {
+        "date": "11/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 1,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-anaheim-ducks-A7a0x7Wt/"
+    },
+    {
+        "date": "09/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-anaheim-ducks-OnanVkPD/"
+    },
+    {
+        "date": "07/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-los-angeles-kings-bTFJNn0j/"
+    },
+    {
+        "date": "05/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-los-angeles-kings-dvj5IiOA/"
+    },
+    {
+        "date": "26/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-st-louis-blues-rujL7t9a/"
+    },
+    {
+        "date": "24/Jan",
+        "team_1": "Arizona Coyotes",
+        "score_1": 0,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/arizona-coyotes-vegas-golden-knights-0v3FfZDD/"
+    },
+    {
+        "date": "22/Jan",
+        "team_1": "Arizona Coyotes",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2020-2021/arizona-coyotes-vegas-golden-knights-fLOWqIae/"
+    },
+    {
+        "date": "20/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-arizona-coyotes-fayQmR0T/"
+    },
+    {
+        "date": "18/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-arizona-coyotes-fu9vxU1H/"
+    },
+    {
+        "date": "16/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-anaheim-ducks-8Onb4AUA/"
+    },
+    {
+        "date": "14/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2020-2021/vegas-golden-knights-anaheim-ducks-8rgyC1WJ/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-dallas-stars-rguQpamh/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "Dallas Stars",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/dallas-stars-vegas-golden-knights-xhvZg0Gl/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "Dallas Stars",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/dallas-stars-vegas-golden-knights-b1uVft1r/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-dallas-stars-hK22aMhR/"
+    },
+    {
+        "date": "06/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 1,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-dallas-stars-QVJX1rNn/"
+    },
+    {
+        "date": "04/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-vancouver-canucks-YqXaHD8b/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "Vancouver Canucks",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/vancouver-canucks-vegas-golden-knights-rRYUZQIa/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-vancouver-canucks-WtdT9XJN/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "Vancouver Canucks",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/vancouver-canucks-vegas-golden-knights-lpurnpZC/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "Vancouver Canucks",
+        "score_1": 0,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/vancouver-canucks-vegas-golden-knights-6LkwmQJ6/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-vancouver-canucks-SUjZm640/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 0,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-vancouver-canucks-benVlnkf/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-chicago-blackhawks-vLUrH82r/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "Chicago Blackhawks",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/chicago-blackhawks-vegas-golden-knights-C0y0PZO5/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "Chicago Blackhawks",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/chicago-blackhawks-vegas-golden-knights-88vqTHPt/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-chicago-blackhawks-O6ouQobJ/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-chicago-blackhawks-xjqTSmE0/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "Colorado Avalanche",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/colorado-avalanche-vegas-golden-knights-K6fGLezP/"
+    },
+    {
+        "date": "06/Aug",
+        "team_1": "St. Louis Blues",
+        "score_1": 4,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/st-louis-blues-vegas-golden-knights-tGeCMyLI/"
+    },
+    {
+        "date": "03/Aug",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 3,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-dallas-stars-MDuBOcj6/"
+    },
+    {
+        "date": "30/Jul",
+        "team_1": "Arizona Coyotes",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/arizona-coyotes-vegas-golden-knights-tnb5f4Xt/"
+    },
+    {
+        "date": "09/Mar",
+        "team_1": "Edmonton Oilers",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/edmonton-oilers-vegas-golden-knights-CdFoDL77/"
+    },
+    {
+        "date": "08/Mar",
+        "team_1": "Calgary Flames",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/calgary-flames-vegas-golden-knights-xvNYFNNl/"
+    },
+    {
+        "date": "06/Mar",
+        "team_1": "Winnipeg Jets",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/winnipeg-jets-vegas-golden-knights-SYU70T5B/"
+    },
+    {
+        "date": "03/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "New Jersey Devils",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-new-jersey-devils-naLvfCQl/"
+    },
+    {
+        "date": "01/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-los-angeles-kings-llBa3G32/"
+    },
+    {
+        "date": "28/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Buffalo Sabres",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-buffalo-sabres-nNg8aDoU/"
+    },
+    {
+        "date": "26/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-edmonton-oilers-IwE8CEs9/"
+    },
+    {
+        "date": "23/Feb",
+        "team_1": "Anaheim Ducks",
+        "score_1": 5,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/anaheim-ducks-vegas-golden-knights-vFqWc0AP/"
+    },
+    {
+        "date": "22/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 3,
+        "team_2": "Florida Panthers",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-florida-panthers-WjmzvuJg/"
+    },
+    {
+        "date": "20/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 3,
+        "team_2": "Tampa Bay Lightning",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-tampa-bay-lightning-jZ6KqAkF/"
+    },
+    {
+        "date": "17/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Washington Capitals",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-washington-capitals-tMvVYhyc/"
+    },
+    {
+        "date": "15/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 0,
+        "team_2": "New York Islanders",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-new-york-islanders-tMIaJDyA/"
+    },
+    {
+        "date": "13/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 5,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-st-louis-blues-OOWT5f7A/"
+    },
+    {
+        "date": "11/Feb",
+        "team_1": "Minnesota Wild",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/minnesota-wild-vegas-golden-knights-v3Dd0JCs/"
+    },
+    {
+        "date": "08/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 6,
+        "team_2": "Carolina Hurricanes",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-carolina-hurricanes-zBAl6lq3/"
+    },
+    {
+        "date": "06/Feb",
+        "team_1": "Florida Panthers",
+        "score_1": 2,
+        "score_2": 7,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/florida-panthers-vegas-golden-knights-j53kyUqT/"
+    },
+    {
+        "date": "04/Feb",
+        "team_1": "Tampa Bay Lightning",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/tampa-bay-lightning-vegas-golden-knights-IiqCNAFT/"
+    },
+    {
+        "date": "01/Feb",
+        "team_1": "Nashville Predators",
+        "score_1": 0,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/nashville-predators-vegas-golden-knights-nmevVzHu/"
+    },
+    {
+        "date": "31/Jan",
+        "team_1": "Carolina Hurricanes",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/carolina-hurricanes-vegas-golden-knights-Y5AJVnjg/"
+    },
+    {
+        "date": "21/Jan",
+        "team_1": "Boston Bruins",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/boston-bruins-vegas-golden-knights-xtnHDEU7/"
+    },
+    {
+        "date": "18/Jan",
+        "team_1": "Montreal Canadiens",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/montreal-canadiens-vegas-golden-knights-llHyIrvp/"
+    },
+    {
+        "date": "16/Jan",
+        "team_1": "Ottawa Senators",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/ottawa-senators-vegas-golden-knights-tQhmvZfn/"
+    },
+    {
+        "date": "14/Jan",
+        "team_1": "Buffalo Sabres",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/buffalo-sabres-vegas-golden-knights-QsAEx12p/"
+    },
+    {
+        "date": "11/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 3,
+        "team_2": "Columbus Blue Jackets",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-columbus-blue-jackets-4CLBuUIO/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-los-angeles-kings-4hgQTWJC/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Pittsburgh Penguins",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-pittsburgh-penguins-pSfxucSD/"
+    },
+    {
+        "date": "04/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-st-louis-blues-GIeAHmCa/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Philadelphia Flyers",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-philadelphia-flyers-OKGVOVJP/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-anaheim-ducks-vFchCAKD/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-arizona-coyotes-CvvBaXz8/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Anaheim Ducks",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/anaheim-ducks-vegas-golden-knights-Qs6N8yEL/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 7,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-colorado-avalanche-Q9Sf7OxH/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "San Jose Sharks",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/san-jose-sharks-vegas-golden-knights-UscQiqwU/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Vancouver Canucks",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/vancouver-canucks-vegas-golden-knights-vRqlj5Eg/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-minnesota-wild-AaBhUlu6/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-vancouver-canucks-CblZezoF/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "Dallas Stars",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/dallas-stars-vegas-golden-knights-l6zZHKkq/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "St. Louis Blues",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/st-louis-blues-vegas-golden-knights-dfteP2c9/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-chicago-blackhawks-I3LLA3rG/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 5,
+        "team_2": "New York Rangers",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-new-york-rangers-pzZkcpEG/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "New York Islanders",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/new-york-islanders-vegas-golden-knights-veNk5Mlt/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "New Jersey Devils",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/new-jersey-devils-vegas-golden-knights-8rP8qiAT/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "New York Rangers",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/new-york-rangers-vegas-golden-knights-hnZqketh/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-arizona-coyotes-6kiqKzsI/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Nashville Predators",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/nashville-predators-vegas-golden-knights-6HDGIN5D/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "Dallas Stars",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/dallas-stars-vegas-golden-knights-Y3wHUTb8/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-edmonton-oilers-h6wuMBUe/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-san-jose-sharks-bDJud9hq/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Toronto Maple Leafs",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-toronto-maple-leafs-I7e9VO1h/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 0,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-calgary-flames-b3OrF3HB/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "Los Angeles Kings",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/los-angeles-kings-vegas-golden-knights-hhf2naPH/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-chicago-blackhawks-nDY3w4tm/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "Detroit Red Wings",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/detroit-red-wings-vegas-golden-knights-hjNSuxol/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "Washington Capitals",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/washington-capitals-vegas-golden-knights-OEXDOzGD/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "Toronto Maple Leafs",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/toronto-maple-leafs-vegas-golden-knights-2Fyea0Ld/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "Columbus Blue Jackets",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/columbus-blue-jackets-vegas-golden-knights-E3prYmmA/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-winnipeg-jets-6cNGHS2T/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Montreal Canadiens",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-montreal-canadiens-jPk5aTto/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-anaheim-ducks-SWkanp7R/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 6,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-colorado-avalanche-vXYdXeu2/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "Chicago Blackhawks",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/chicago-blackhawks-vegas-golden-knights-Klo4dlCo/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "Philadelphia Flyers",
+        "score_1": 6,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/philadelphia-flyers-vegas-golden-knights-EBOxtTR4/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "Pittsburgh Penguins",
+        "score_1": 0,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/pittsburgh-penguins-vegas-golden-knights-f7eGORdU/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Ottawa Senators",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-ottawa-senators-E5skTqqh/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Nashville Predators",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-nashville-predators-IsY5IYTt/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Los Angeles Kings",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/los-angeles-kings-vegas-golden-knights-n1ln2Dq0/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 2,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-calgary-flames-KOcnDXhf/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Arizona Coyotes",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/arizona-coyotes-vegas-golden-knights-dE0DGisd/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Boston Bruins",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-boston-bruins-4GLYNZlM/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "San Jose Sharks",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/san-jose-sharks-vegas-golden-knights-6ivJ5yNq/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-san-jose-sharks-zPyBQxa9/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-san-jose-sharks-hO2ryF9B/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-los-angeles-kings-zm8wxef5/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-colorado-avalanche-dd9Zxyua/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "San Jose Sharks",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/san-jose-sharks-vegas-golden-knights-2Z9VwHPh/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "Los Angeles Kings",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/los-angeles-kings-vegas-golden-knights-ja6RvcAn/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Colorado Avalanche",
+        "score_1": 0,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2019-2020/colorado-avalanche-vegas-golden-knights-8zHMuwet/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 2,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2019-2020/vegas-golden-knights-arizona-coyotes-WAggc5QD/"
+    },
+    {
+        "date": "23/Apr",
+        "team_1": "San Jose Sharks",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/san-jose-sharks-vegas-golden-knights-4Q4mP9C8/"
+    },
+    {
+        "date": "21/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-san-jose-sharks-6aOaD2aL/"
+    },
+    {
+        "date": "18/Apr",
+        "team_1": "San Jose Sharks",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/san-jose-sharks-vegas-golden-knights-lWqZfnhF/"
+    },
+    {
+        "date": "16/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 0,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-san-jose-sharks-EBM0YsrF/"
+    },
+    {
+        "date": "14/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-san-jose-sharks-EcsSJrTL/"
+    },
+    {
+        "date": "12/Apr",
+        "team_1": "San Jose Sharks",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/san-jose-sharks-vegas-golden-knights-A3a05qES/"
+    },
+    {
+        "date": "10/Apr",
+        "team_1": "San Jose Sharks",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/san-jose-sharks-vegas-golden-knights-KIMlmphp/"
+    },
+    {
+        "date": "06/Apr",
+        "team_1": "Los Angeles Kings",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/los-angeles-kings-vegas-golden-knights-jVOnT4oP/"
+    },
+    {
+        "date": "04/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-arizona-coyotes-phpKL1M1/"
+    },
+    {
+        "date": "01/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-edmonton-oilers-25voK33m/"
+    },
+    {
+        "date": "30/Mar",
+        "team_1": "San Jose Sharks",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/san-jose-sharks-vegas-golden-knights-pbRbcRwp/"
+    },
+    {
+        "date": "29/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-minnesota-wild-Isf77B1i/"
+    },
+    {
+        "date": "27/Mar",
+        "team_1": "Colorado Avalanche",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/colorado-avalanche-vegas-golden-knights-OKYXhCnb/"
+    },
+    {
+        "date": "25/Mar",
+        "team_1": "St. Louis Blues",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/st-louis-blues-vegas-golden-knights-l4y1jJQa/"
+    },
+    {
+        "date": "23/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Detroit Red Wings",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-detroit-red-wings-OnZZyKB6/"
+    },
+    {
+        "date": "21/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 0,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-winnipeg-jets-rNrIaxM3/"
+    },
+    {
+        "date": "18/Mar",
+        "team_1": "San Jose Sharks",
+        "score_1": 3,
+        "score_2": 7,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/san-jose-sharks-vegas-golden-knights-WA3SKRzF/"
+    },
+    {
+        "date": "17/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-edmonton-oilers-nNNpQyVp/"
+    },
+    {
+        "date": "15/Mar",
+        "team_1": "Dallas Stars",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/dallas-stars-vegas-golden-knights-4pFP4FpH/"
+    },
+    {
+        "date": "10/Mar",
+        "team_1": "Calgary Flames",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/calgary-flames-vegas-golden-knights-Kj2UBBzm/"
+    },
+    {
+        "date": "09/Mar",
+        "team_1": "Vancouver Canucks",
+        "score_1": 2,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/vancouver-canucks-vegas-golden-knights-06LcHXCP/"
+    },
+    {
+        "date": "06/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-calgary-flames-htdK3ErQ/"
+    },
+    {
+        "date": "03/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-vancouver-canucks-0SYn3shF/"
+    },
+    {
+        "date": "01/Mar",
+        "team_1": "Anaheim Ducks",
+        "score_1": 0,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/anaheim-ducks-vegas-golden-knights-Yu16ydn6/"
+    },
+    {
+        "date": "28/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 5,
+        "team_2": "Florida Panthers",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-florida-panthers-lz4Kp0PJ/"
+    },
+    {
+        "date": "26/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-dallas-stars-rwTKPbmf/"
+    },
+    {
+        "date": "22/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 6,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-winnipeg-jets-xCKhOoPG/"
+    },
+    {
+        "date": "20/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Boston Bruins",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-boston-bruins-6JQ03BzN/"
+    },
+    {
+        "date": "18/Feb",
+        "team_1": "Colorado Avalanche",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/colorado-avalanche-vegas-golden-knights-vq7JjYjH/"
+    },
+    {
+        "date": "16/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "Nashville Predators",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-nashville-predators-vVRpxZyO/"
+    },
+    {
+        "date": "14/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 6,
+        "team_2": "Toronto Maple Leafs",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-toronto-maple-leafs-O6keJasK/"
+    },
+    {
+        "date": "12/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-arizona-coyotes-Yoxg4x3Q/"
+    },
+    {
+        "date": "09/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Columbus Blue Jackets",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-columbus-blue-jackets-hd2GXwSl/"
+    },
+    {
+        "date": "07/Feb",
+        "team_1": "Detroit Red Wings",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/detroit-red-wings-vegas-golden-knights-zgXiuVTc/"
+    },
+    {
+        "date": "05/Feb",
+        "team_1": "Tampa Bay Lightning",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/tampa-bay-lightning-vegas-golden-knights-vk6Hs3Yb/"
+    },
+    {
+        "date": "02/Feb",
+        "team_1": "Florida Panthers",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/florida-panthers-vegas-golden-knights-GEcKDOJI/"
+    },
+    {
+        "date": "01/Feb",
+        "team_1": "Carolina Hurricanes",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/carolina-hurricanes-vegas-golden-knights-8lfCFpk6/"
+    },
+    {
+        "date": "23/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Nashville Predators",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-nashville-predators-2V3cLFLR/"
+    },
+    {
+        "date": "21/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-minnesota-wild-WpYc0Eq2/"
+    },
+    {
+        "date": "19/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 3,
+        "team_2": "Pittsburgh Penguins",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-pittsburgh-penguins-29SM8xxM/"
+    },
+    {
+        "date": "15/Jan",
+        "team_1": "Winnipeg Jets",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/winnipeg-jets-vegas-golden-knights-OpEtybGj/"
+    },
+    {
+        "date": "12/Jan",
+        "team_1": "Chicago Blackhawks",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/chicago-blackhawks-vegas-golden-knights-Ma2pyqb0/"
+    },
+    {
+        "date": "10/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-san-jose-sharks-nVoAZVMe/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "New York Rangers",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-new-york-rangers-4rEIqGp3/"
+    },
+    {
+        "date": "06/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "New Jersey Devils",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-new-jersey-devils-OSCl9Z8j/"
+    },
+    {
+        "date": "04/Jan",
+        "team_1": "Anaheim Ducks",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/anaheim-ducks-vegas-golden-knights-O4U1Iwn4/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 0,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-los-angeles-kings-GQsAGdaJ/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "Arizona Coyotes",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/arizona-coyotes-vegas-golden-knights-AaPO4a07/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "Los Angeles Kings",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/los-angeles-kings-vegas-golden-knights-URYTFP88/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-colorado-avalanche-t6hZgrnk/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-los-angeles-kings-80Cbs52q/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Montreal Canadiens",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-montreal-canadiens-0ptuEIeB/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "New York Islanders",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-new-york-islanders-WYTSjIZu/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "Columbus Blue Jackets",
+        "score_1": 1,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/columbus-blue-jackets-vegas-golden-knights-QsSck5rU/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "New York Rangers",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/new-york-rangers-vegas-golden-knights-zmjxfTTb/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "New Jersey Devils",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/new-jersey-devils-vegas-golden-knights-lI8irWUn/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "New York Islanders",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/new-york-islanders-vegas-golden-knights-lblSuw9l/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-dallas-stars-d4PlSJvk/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "Los Angeles Kings",
+        "score_1": 5,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/los-angeles-kings-vegas-golden-knights-fNmKCvu2/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-chicago-blackhawks-OY9yL2XL/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 3,
+        "team_2": "Washington Capitals",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-washington-capitals-S6fc7q3M/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "Edmonton Oilers",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/edmonton-oilers-vegas-golden-knights-SSTH8Ysa/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "Vancouver Canucks",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/vancouver-canucks-vegas-golden-knights-tIhmggrC/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "Chicago Blackhawks",
+        "score_1": 3,
+        "score_2": 8,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/chicago-blackhawks-vegas-golden-knights-273qgvQL/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 0,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-san-jose-sharks-ri89t1tG/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 0,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-calgary-flames-dWcPojJl/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "Arizona Coyotes",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/arizona-coyotes-vegas-golden-knights-WQ31ttPI/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Calgary Flames",
+        "score_1": 7,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/calgary-flames-vegas-golden-knights-YkCEju5G/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "Edmonton Oilers",
+        "score_1": 3,
+        "score_2": 6,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/edmonton-oilers-vegas-golden-knights-UcFcfN5i/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-st-louis-blues-dEhTK7dr/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 0,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-anaheim-ducks-8UXk7lSr/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "Boston Bruins",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/boston-bruins-vegas-golden-knights-t2xyDJb4/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "Montreal Canadiens",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/montreal-canadiens-vegas-golden-knights-IqZZ9N6U/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "Ottawa Senators",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/ottawa-senators-vegas-golden-knights-ADrFEoha/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Toronto Maple Leafs",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/toronto-maple-leafs-vegas-golden-knights-n50hXsoC/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Carolina Hurricanes",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-carolina-hurricanes-pKARn8S8/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "St. Louis Blues",
+        "score_1": 5,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/st-louis-blues-vegas-golden-knights-hQolZlb9/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "Nashville Predators",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/nashville-predators-vegas-golden-knights-A3mLVFiH/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Ottawa Senators",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-ottawa-senators-EJQfSe3F/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Tampa Bay Lightning",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-tampa-bay-lightning-z9yiStoP/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-vancouver-canucks-AcS2YB8i/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-anaheim-ducks-vqZuIy6K/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Buffalo Sabres",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-buffalo-sabres-IBDR250G/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Philadelphia Flyers",
+        "score_1": 0,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/philadelphia-flyers-vegas-golden-knights-E3jRZ6WT/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "Pittsburgh Penguins",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/pittsburgh-penguins-vegas-golden-knights-6wmJyT1H/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Washington Capitals",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/washington-capitals-vegas-golden-knights-2u7gsXXu/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "Buffalo Sabres",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/buffalo-sabres-vegas-golden-knights-EscnIs5R/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "Minnesota Wild",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/minnesota-wild-vegas-golden-knights-UgNrbMDe/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Philadelphia Flyers",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-philadelphia-flyers-ngzh86y3/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-san-jose-sharks-I1KXERwL/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 0,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-los-angeles-kings-2RNdDE2G/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-colorado-avalanche-fR7qmIlB/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "San Jose Sharks",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/san-jose-sharks-vegas-golden-knights-zNzJWd4U/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "Los Angeles Kings",
+        "score_1": 2,
+        "score_2": 7,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/los-angeles-kings-vegas-golden-knights-Sx9TLujC/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "Colorado Avalanche",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2018-2019/colorado-avalanche-vegas-golden-knights-vDKuNUUl/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 2,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2018-2019/vegas-golden-knights-arizona-coyotes-naiwFXxS/"
+    },
+    {
+        "date": "07/Jun",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Washington Capitals",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-washington-capitals-6XyRDmSc/"
+    },
+    {
+        "date": "04/Jun",
+        "team_1": "Washington Capitals",
+        "score_1": 6,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/washington-capitals-vegas-golden-knights-MoLGZ9Ah/"
+    },
+    {
+        "date": "02/Jun",
+        "team_1": "Washington Capitals",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/washington-capitals-vegas-golden-knights-4AQBzjen/"
+    },
+    {
+        "date": "30/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Washington Capitals",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-washington-capitals-QJR7yWut/"
+    },
+    {
+        "date": "28/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 4,
+        "team_2": "Washington Capitals",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-washington-capitals-lbj2GnAU/"
+    },
+    {
+        "date": "20/May",
+        "team_1": "Winnipeg Jets",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/winnipeg-jets-vegas-golden-knights-4Utegjws/"
+    },
+    {
+        "date": "18/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-winnipeg-jets-YXWYblki/"
+    },
+    {
+        "date": "16/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-winnipeg-jets-KUriz5Cj/"
+    },
+    {
+        "date": "14/May",
+        "team_1": "Winnipeg Jets",
+        "score_1": 1,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/winnipeg-jets-vegas-golden-knights-tvpmyocp/"
+    },
+    {
+        "date": "12/May",
+        "team_1": "Winnipeg Jets",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/winnipeg-jets-vegas-golden-knights-0p2KuRlT/"
+    },
+    {
+        "date": "06/May",
+        "team_1": "San Jose Sharks",
+        "score_1": 0,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/san-jose-sharks-vegas-golden-knights-Cp3VrcwI/"
+    },
+    {
+        "date": "04/May",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 3,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-san-jose-sharks-ImPVzHLH/"
+    },
+    {
+        "date": "02/May",
+        "team_1": "San Jose Sharks",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/san-jose-sharks-vegas-golden-knights-v33NnTXJ/"
+    },
+    {
+        "date": "30/Apr",
+        "team_1": "San Jose Sharks",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/san-jose-sharks-vegas-golden-knights-bqrlYTIQ/"
+    },
+    {
+        "date": "28/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-san-jose-sharks-jJrpZ93K/"
+    },
+    {
+        "date": "26/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 0,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-san-jose-sharks-A3wCa9C1/"
+    },
+    {
+        "date": "17/Apr",
+        "team_1": "Los Angeles Kings",
+        "score_1": 0,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/los-angeles-kings-vegas-golden-knights-t0PMu7ZN/"
+    },
+    {
+        "date": "15/Apr",
+        "team_1": "Los Angeles Kings",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/los-angeles-kings-vegas-golden-knights-ILvcoB5n/"
+    },
+    {
+        "date": "13/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-los-angeles-kings-dlLYpsf6/"
+    },
+    {
+        "date": "11/Apr",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 0,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-los-angeles-kings-UXiofoXJ/"
+    },
+    {
+        "date": "07/Apr",
+        "team_1": "Calgary Flames",
+        "score_1": 7,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/calgary-flames-vegas-golden-knights-bTJIzsIb/"
+    },
+    {
+        "date": "05/Apr",
+        "team_1": "Edmonton Oilers",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/edmonton-oilers-vegas-golden-knights-SnzaKLXH/"
+    },
+    {
+        "date": "03/Apr",
+        "team_1": "Vancouver Canucks",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/vancouver-canucks-vegas-golden-knights-KGqvPqJn/"
+    },
+    {
+        "date": "31/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-san-jose-sharks-tKF3gwBB/"
+    },
+    {
+        "date": "30/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-st-louis-blues-00bYwbBO/"
+    },
+    {
+        "date": "28/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-arizona-coyotes-IHtrTtc6/"
+    },
+    {
+        "date": "26/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-colorado-avalanche-KlsbjDb2/"
+    },
+    {
+        "date": "24/Mar",
+        "team_1": "Colorado Avalanche",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/colorado-avalanche-vegas-golden-knights-vVmFvYqp/"
+    },
+    {
+        "date": "22/Mar",
+        "team_1": "San Jose Sharks",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/san-jose-sharks-vegas-golden-knights-j53uoz7G/"
+    },
+    {
+        "date": "20/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-vancouver-canucks-KtBQhLxi/"
+    },
+    {
+        "date": "18/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 0,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-calgary-flames-tSDlegsh/"
+    },
+    {
+        "date": "16/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Minnesota Wild",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-minnesota-wild-CMhrLnmf/"
+    },
+    {
+        "date": "14/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 8,
+        "team_2": "New Jersey Devils",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-new-jersey-devils-byK1893l/"
+    },
+    {
+        "date": "12/Mar",
+        "team_1": "Philadelphia Flyers",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/philadelphia-flyers-vegas-golden-knights-E7bWhU31/"
+    },
+    {
+        "date": "10/Mar",
+        "team_1": "Buffalo Sabres",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/buffalo-sabres-vegas-golden-knights-tvC0uBZ1/"
+    },
+    {
+        "date": "08/Mar",
+        "team_1": "Detroit Red Wings",
+        "score_1": 0,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/detroit-red-wings-vegas-golden-knights-GbBtmmJK/"
+    },
+    {
+        "date": "06/Mar",
+        "team_1": "Columbus Blue Jackets",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/columbus-blue-jackets-vegas-golden-knights-MNW3ZTlL/"
+    },
+    {
+        "date": "04/Mar",
+        "team_1": "New Jersey Devils",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/new-jersey-devils-vegas-golden-knights-Y1j9DnS1/"
+    },
+    {
+        "date": "02/Mar",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Ottawa Senators",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-ottawa-senators-pW2aZr7B/"
+    },
+    {
+        "date": "27/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-los-angeles-kings-GxSs53Ip/"
+    },
+    {
+        "date": "26/Feb",
+        "team_1": "Los Angeles Kings",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/los-angeles-kings-vegas-golden-knights-4QU9PX3a/"
+    },
+    {
+        "date": "23/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Vancouver Canucks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-vancouver-canucks-jBI1Ys5K/"
+    },
+    {
+        "date": "21/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 3,
+        "team_2": "Calgary Flames",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-calgary-flames-ETqfF2br/"
+    },
+    {
+        "date": "19/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 2,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-anaheim-ducks-AqLJqdj7/"
+    },
+    {
+        "date": "17/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Montreal Canadiens",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-montreal-canadiens-EepdbANj/"
+    },
+    {
+        "date": "15/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 1,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-edmonton-oilers-r76D6YFA/"
+    },
+    {
+        "date": "13/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-chicago-blackhawks-0WbPwUNG/"
+    },
+    {
+        "date": "11/Feb",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Philadelphia Flyers",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-philadelphia-flyers-noQrRjvB/"
+    },
+    {
+        "date": "08/Feb",
+        "team_1": "San Jose Sharks",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/san-jose-sharks-vegas-golden-knights-ri6PMymP/"
+    },
+    {
+        "date": "06/Feb",
+        "team_1": "Pittsburgh Penguins",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/pittsburgh-penguins-vegas-golden-knights-pOjHFmHi/"
+    },
+    {
+        "date": "04/Feb",
+        "team_1": "Washington Capitals",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/washington-capitals-vegas-golden-knights-d6d2bnnH/"
+    },
+    {
+        "date": "02/Feb",
+        "team_1": "Minnesota Wild",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/minnesota-wild-vegas-golden-knights-fPUVav6O/"
+    },
+    {
+        "date": "01/Feb",
+        "team_1": "Winnipeg Jets",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/winnipeg-jets-vegas-golden-knights-IDbF2evd/"
+    },
+    {
+        "date": "30/Jan",
+        "team_1": "Calgary Flames",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/calgary-flames-vegas-golden-knights-UmQRBaH9/"
+    },
+    {
+        "date": "25/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "New York Islanders",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-new-york-islanders-WMeAZshJ/"
+    },
+    {
+        "date": "23/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Columbus Blue Jackets",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-columbus-blue-jackets-Cv8HbzP2/"
+    },
+    {
+        "date": "21/Jan",
+        "team_1": "Carolina Hurricanes",
+        "score_1": 1,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/carolina-hurricanes-vegas-golden-knights-l60iND2d/"
+    },
+    {
+        "date": "19/Jan",
+        "team_1": "Florida Panthers",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/florida-panthers-vegas-golden-knights-2o0wGdeT/"
+    },
+    {
+        "date": "18/Jan",
+        "team_1": "Tampa Bay Lightning",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/tampa-bay-lightning-vegas-golden-knights-lOgNJvd4/"
+    },
+    {
+        "date": "16/Jan",
+        "team_1": "Nashville Predators",
+        "score_1": 1,
+        "score_2": 0,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/nashville-predators-vegas-golden-knights-jTNh4adH/"
+    },
+    {
+        "date": "13/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Edmonton Oilers",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-edmonton-oilers-2RRDTUsJ/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "New York Rangers",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-new-york-rangers-ncrVhBil/"
+    },
+    {
+        "date": "05/Jan",
+        "team_1": "Chicago Blackhawks",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/chicago-blackhawks-vegas-golden-knights-tdwHofpL/"
+    },
+    {
+        "date": "04/Jan",
+        "team_1": "St. Louis Blues",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/st-louis-blues-vegas-golden-knights-63tKr6Cq/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Nashville Predators",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-nashville-predators-WtCziU43/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Toronto Maple Leafs",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-toronto-maple-leafs-nLbaeked/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "Los Angeles Kings",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/los-angeles-kings-vegas-golden-knights-UooBk56p/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "Anaheim Ducks",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/anaheim-ducks-vegas-golden-knights-Wxhs9g75/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 0,
+        "team_2": "Washington Capitals",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-washington-capitals-6VUecd8g/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Tampa Bay Lightning",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-tampa-bay-lightning-UVvqVwP0/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Florida Panthers",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-florida-panthers-IBg9I0ue/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Pittsburgh Penguins",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-pittsburgh-penguins-xfDgOVBG/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Carolina Hurricanes",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-carolina-hurricanes-G2iJQ3GH/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "Dallas Stars",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/dallas-stars-vegas-golden-knights-EHJRH8Xn/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "Nashville Predators",
+        "score_1": 3,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/nashville-predators-vegas-golden-knights-E3vg39Ig/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Anaheim Ducks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-anaheim-ducks-lfdn7IJR/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-arizona-coyotes-OE7yFiaF/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "Winnipeg Jets",
+        "score_1": 7,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/winnipeg-jets-vegas-golden-knights-b9JzkJcq/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "Minnesota Wild",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/minnesota-wild-vegas-golden-knights-zZUP01v5/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 0,
+        "score_2": 3,
+        "team_2": "Dallas Stars",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-dallas-stars-6gw94qut/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "Arizona Coyotes",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/arizona-coyotes-vegas-golden-knights-nyVDYreC/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-san-jose-sharks-IewcxRem/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "Anaheim Ducks",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/anaheim-ducks-vegas-golden-knights-4hDNNRtf/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-los-angeles-kings-CMfGTdDF/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "Vancouver Canucks",
+        "score_1": 2,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/vancouver-canucks-vegas-golden-knights-hWhkQxPD/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "Edmonton Oilers",
+        "score_1": 8,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/edmonton-oilers-vegas-golden-knights-vTSFBwAK/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Winnipeg Jets",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-winnipeg-jets-jDRGi30b/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "Montreal Canadiens",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/montreal-canadiens-vegas-golden-knights-MZvv7Nrl/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "Toronto Maple Leafs",
+        "score_1": 4,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/toronto-maple-leafs-vegas-golden-knights-Uy0aE5jE/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "Ottawa Senators",
+        "score_1": 4,
+        "score_2": 5,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/ottawa-senators-vegas-golden-knights-27TUbQjR/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "Boston Bruins",
+        "score_1": 2,
+        "score_2": 1,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/boston-bruins-vegas-golden-knights-6qnxiZyi/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "New York Rangers",
+        "score_1": 6,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/new-york-rangers-vegas-golden-knights-Gbu5bHqH/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "New York Islanders",
+        "score_1": 6,
+        "score_2": 3,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/new-york-islanders-vegas-golden-knights-8Slp3uVo/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 7,
+        "score_2": 0,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-colorado-avalanche-lAtkXvoI/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 4,
+        "score_2": 2,
+        "team_2": "Chicago Blackhawks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-chicago-blackhawks-nwYefBnE/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 2,
+        "team_2": "St. Louis Blues",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-st-louis-blues-jalipC6G/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 4,
+        "team_2": "Buffalo Sabres",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-buffalo-sabres-z9azJZ7H/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 1,
+        "team_2": "Boston Bruins",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-boston-bruins-Srzc5GwI/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 6,
+        "team_2": "Detroit Red Wings",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-detroit-red-wings-lWaIgJv6/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Arizona Coyotes",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-arizona-coyotes-Ew5a0UeL/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "Arizona Coyotes",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/arizona-coyotes-vegas-golden-knights-0UiDlXd9/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "Dallas Stars",
+        "score_1": 1,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/dallas-stars-vegas-golden-knights-zDknzYsG/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 3,
+        "score_2": 5,
+        "team_2": "San Jose Sharks",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-san-jose-sharks-QsITnUTg/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Colorado Avalanche",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-colorado-avalanche-niJPmAEm/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "Vegas Golden Knights",
+        "score_1": 2,
+        "score_2": 3,
+        "team_2": "Los Angeles Kings",
+        "game_url": "usa/nhl-2017-2018/vegas-golden-knights-los-angeles-kings-4STKljas/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "Anaheim Ducks",
+        "score_1": 2,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/anaheim-ducks-vegas-golden-knights-hj1i6IUE/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "San Jose Sharks",
+        "score_1": 5,
+        "score_2": 2,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/san-jose-sharks-vegas-golden-knights-bT1m7bF8/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "Colorado Avalanche",
+        "score_1": 1,
+        "score_2": 4,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/colorado-avalanche-vegas-golden-knights-Kx3q8v02/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "Vancouver Canucks",
+        "score_1": 4,
+        "score_2": 9,
+        "team_2": "Vegas Golden Knights",
+        "game_url": "usa/nhl-2017-2018/vancouver-canucks-vegas-golden-knights-fHMXolq0/"
+    }
+]

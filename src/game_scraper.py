@@ -17,8 +17,8 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 base_url = "https://www.oddsportal.com/search/results/"
 
-league = "mlb"
-sport = "baseball"
+league = "nhl"
+sport = "hockey"
 
 # with open(f'data/{league}/teams.json', 'r') as file:
 #     data = json.load(file)
@@ -26,15 +26,15 @@ sport = "baseball"
 # teams = data["teams"]
 
 # Testing
-teams = ["New York Yankees"]
-file_name = "yankees"
+teams = ["Minnesota Wild"]
+file_name = "wild"
 
 total_data = []
 
 for team in teams:
     search_query = team.replace(" ", "+")
 
-    team_url = base_url + search_query + "/baseball/"
+    team_url = base_url + search_query + f'/{sport}/'
 
     driver.get(team_url)
 

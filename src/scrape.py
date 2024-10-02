@@ -1,5 +1,3 @@
-# scrape.py
-
 from selenium import webdriver  
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -9,30 +7,28 @@ import os
 import gc
 import sys
 
-# Selenium setup
 options = Options()
 options.add_argument("--headless=new")
 
 driver = webdriver.Chrome(options=options) 
 
-# Month mapping for date formatting
 month_abbreviation_to_month = {
     "Jan": "january", "Feb": "february", "Mar": "march", "Apr": "april",
     "May": "may", "Jun": "june", "Jul": "july", "Aug": "august",
     "Sep": "september", "Oct": "october", "Nov": "november", "Dec": "december"
 }
 
-# Read script parameters from command line
-team = sys.argv[1] if len(sys.argv) > 1 else "bluejays"  # Default to "bluejays"
-league = sys.argv[2] if len(sys.argv) > 2 else "mlb"     # Default to "mlb"
+team = sys.argv[1] if len(sys.argv) > 1 else "rangers"  
+league = sys.argv[2] if len(sys.argv) > 2 else "nhl"   
 start_index = int(sys.argv[3]) if len(sys.argv) > 3 else 0
 chunk_size = 200
 end_index = start_index + chunk_size
 
-sport = "baseball"
+sport = "hockey"
 base_url = f'https://www.oddsportal.com/{sport}/'
 
-# Load game data
+
+
 data_path = f'data/{league}/{team}/games.json'
 if not os.path.exists(data_path):
     print(f"Games data for {team} not found. Skipping...")

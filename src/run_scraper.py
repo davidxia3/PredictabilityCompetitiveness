@@ -1,19 +1,15 @@
-# run_scrape.py
-
 import subprocess
 import time
 
-# List of teams to scrape
-teams = ["phillies", "pirates", "rangers", "rays", "reds", "redsox", "rockies", "royals", "tigers", "twins", "whitesox", "yankees"]  # Add all team names here
-league = "mlb"
+teams = ["devils", "ducks",
+         "flames", "flyers", "goldenknights", "hurricanes", "islanders", "jets", "kings", "kraken", "lightning", "mapleleafs",
+         "oilers", "panthers", "penguins", "predators","rangers", "redwings", "sabres", "senators", "sharks", "stars", "wild"]
+league = "nhl"
 
 
-#redsox 200
-# Define the total number of games to scrape per team and the chunk size
-total_games_per_team = 3200
+total_games_per_team = 1800
 chunk_size = 200
 
-# Iterate over each team and run the scraper in chunks
 for team in teams:
     print(f"Starting scrape for team: {team}")
     for start_index in range(0, total_games_per_team, chunk_size):
