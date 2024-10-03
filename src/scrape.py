@@ -58,6 +58,9 @@ while i < min(len(games), end_index):
         high_moneyline_1 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[2]").text)
         high_moneyline_2 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[3]").text)
 
+        tournament = driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[1]/div/ul[2]").find_elements(By.TAG_NAME, "a")[-1].text
+        
+
         date = driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[1]/div[2]/div[1]/p[2]").text.split(" ")
         day = date[0]
         month_abbreviation = date[1]
@@ -71,6 +74,8 @@ while i < min(len(games), end_index):
             "team_2": game["team_2"].lower(),
             "score_1": game["score_1"],
             "score_2": game["score_2"],
+            "result": 1 if int(game["score_1"]) > int(game["score_2"]) else 0,
+            "tournament": tournament.replace(" ","_"),
             "game_url": game_url,
             "avg_moneyline_1": avg_moneyline_1,
             "avg_moneyline_2": avg_moneyline_2,
@@ -99,7 +104,6 @@ while i < min(len(games), end_index):
 
     gc.collect()
 
-# Save the data to the market file
 market_file = f"data/{league}/{team}/market.json"
 existing_data = []
 

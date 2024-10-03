@@ -8,7 +8,7 @@ teams = ["bears", "bengals", "bills", "broncos", "browns", "buccaneers", "cardin
 league = "nfl"
 
 
-total_games_per_team = 1800
+total_games_per_team = 600
 chunk_size = 200
 
 for team in teams:
