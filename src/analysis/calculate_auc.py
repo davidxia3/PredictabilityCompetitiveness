@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.metrics import roc_curve, auc
 import matplotlib.pyplot as plt
 
-league = "nfl"
+league = "mlb"
 
 df = pd.read_csv(f'data/master/{league}_market.csv')
 
@@ -21,8 +21,7 @@ plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
 plt.xlim([0.0, 1.0])
 plt.ylim([0.0, 1.05])
 plt.legend(loc="lower right")
-plt.savefig("figures/auc_curve.png")
+plt.savefig(f'figures/{league}_auc_curve.png')
 
-plt.show()
+# plt.show()
 
-#0.6925150326145635
