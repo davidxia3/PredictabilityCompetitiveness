@@ -17,29 +17,14 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 base_url = "https://www.oddsportal.com/search/results/"
 
-league = "nfl"
-sport = "american-football"
+# defining official team names for inputting into OddsPortal and corresponding file names
+league = "mlb"
+sport = "baseball"
 
-# with open(f'data/{league}/teams.json', 'r') as file:
-#     data = json.load(file)
+teams = ["Texas Rangers"]
+file_names = ["rangers"]
 
-# teams = data["teams"]
-
-# Testing
-teams = ["Chicago Bears", "Cincinnati Bengals", "Buffalo Bills", "Denver Broncos", "Cleveland Browns", "Tampa Bay Buccaneers",
-         "Arizona Cardinals", "Los Angeles Chargers", "Kansas City Chiefs", "Indianapolis Colts", "Washington Commanders", 
-         "Dallas Cowboys", "Miami Dolphins", "Philadelphia Eagles", "Atlanta Falcons", "San Francisco 49ers", "New York Giants",
-         "Jacksonville Jaguars", "New York Jets", "Detroit Lions", "Green Bay Packers", "Carolina Panthers", "New England Patriots",
-         "Las Vegas Raiders", "Los Angeles Rams", "Baltimore Ravens", "New Orleans Saints", "Seattle Seahawks", "Pittsburgh Steelers", 
-         "Houston Texans", "Tennessee Titans", "Minnesota Vikings"]
-file_names = ["bears", "bengals", "bills", "broncos", "browns", "buccaneers", "cardinals", "chargers", "chiefs",
-         "colts", "commanders", "cowboys", "dolphins", "eagles", "falcons", "fortyniners", "giants", 
-         "jaguars", "jets", "lions", "packers", "panthers", "patriots", "raiders", "rams", "ravens",
-         "saints", "seahawks", "steelers", "texans", "titans", "vikings"]
-
-print(len(teams))
-print(len(file_names))
-
+# looping through each team
 for i in range(len(teams)):
     team = teams[i]
     file_name = file_names[i]
@@ -65,10 +50,11 @@ for i in range(len(teams)):
         team_url = driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[3]/div/div[2]/div[2]/a").get_attribute("href") + "/"
         driver.get(team_url)
 
-    print(team_url)
-    print(len(driver.find_elements(By.CLASS_NAME, "pagination-link")))
+    
     last_page = int(driver.find_elements(By.CLASS_NAME, "pagination-link")[-2].text)
 
+
+    # looping through each team's pagination
     for page in range(1, last_page + 1):
         driver.get(team_url + "page/" + str(page) + "/")
 
@@ -100,7 +86,7 @@ for i in range(len(teams)):
                     pass
 
             else:
-                print("ERROR: no date: " + team)
+                print("no date: " + team)
                 continue
 
     with open("data/" + league + "/" + file_name + "/games.json", "w") as outfile:

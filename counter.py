@@ -1,28 +1,23 @@
-import json
 import os
+import json
 
-def get_json_length(file_path):
-    if os.stat(file_path).st_size == 0:
-        return 0
+main_folder = 'data/nfl'
+
+for subfolder in os.listdir(main_folder):
+    subfolder_path = os.path.join(main_folder, subfolder)
     
-    with open(file_path, 'r') as file:
-        data = json.load(file)
-    
-    if isinstance(data, list):
-        return len(data)
-    elif isinstance(data, dict):
-        return len(data)
-    else:
-        return 0
+    if os.path.isdir(subfolder_path):
+        games_file = os.path.join(subfolder_path, 'games.json')
+        market_file = os.path.join(subfolder_path, 'market.json')
+        
+        try:
+            with open(games_file, 'r') as f:
+                games_data = json.load(f)
+            with open(market_file, 'r') as f:
+                market_data = json.load(f)
+            
+            print(f"Difference found in {subfolder}:")
+            print(len(games_data)- len(market_data))
 
-def print_json_lengths_recursively(folder_path):
-    for root, dirs, files in os.walk(folder_path):
-        for filename in files:
-            if filename.endswith('.json'):
-                file_path = os.path.join(root, filename)
-                length = get_json_length(file_path)
-                if length > 0:
-                    print(f"{file_path}: {length} items")
-
-folder_path = 'data/nfl'
-print_json_lengths_recursively(folder_path)
+        except Exception as e:
+            print(f"Error in {subfolder}: {e}")

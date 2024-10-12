@@ -1,11 +1,12 @@
 [
     {
-        "id": "27_september_2024_seattle_kraken_vancouver_canucks",
         "date": "27 september 2024",
         "team_1": "seattle kraken",
         "team_2": "vancouver canucks",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL",
         "game_url": "usa/nhl/seattle-kraken-vancouver-canucks-2ZqjVp3B/",
         "avg_moneyline_1": 120,
         "avg_moneyline_2": 320,
@@ -13,12 +14,13 @@
         "high_moneyline_2": 336
     },
     {
-        "id": "24_september_2024_vancouver_canucks_seattle_kraken",
         "date": "24 september 2024",
         "team_1": "vancouver canucks",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL",
         "game_url": "usa/nhl/vancouver-canucks-seattle-kraken-zNhZYS3n/",
         "avg_moneyline_1": 107,
         "avg_moneyline_2": 340,
@@ -26,12 +28,13 @@
         "high_moneyline_2": 362
     },
     {
-        "id": "22_september_2024_seattle_kraken_calgary_flames",
         "date": "22 september 2024",
         "team_1": "seattle kraken",
         "team_2": "calgary flames",
         "score_1": 1,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL",
         "game_url": "usa/nhl/seattle-kraken-calgary-flames-vNemZRW7/",
         "avg_moneyline_1": -158,
         "avg_moneyline_2": 358,
@@ -39,12 +42,13 @@
         "high_moneyline_2": 380
     },
     {
-        "id": "18_april_2024_minnesota_wild_seattle_kraken",
         "date": "18 april 2024",
         "team_1": "minnesota wild",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/minnesota-wild-seattle-kraken-zyEbPNts/",
         "avg_moneyline_1": -108,
         "avg_moneyline_2": 341,
@@ -52,12 +56,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "16_april_2024_winnipeg_jets_seattle_kraken",
         "date": "16 april 2024",
         "team_1": "winnipeg jets",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/winnipeg-jets-seattle-kraken-bX9qDEhA/",
         "avg_moneyline_1": -137,
         "avg_moneyline_2": 342,
@@ -65,12 +70,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "14_april_2024_st._louis_blues_seattle_kraken",
         "date": "14 april 2024",
         "team_1": "st. louis blues",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/st-louis-blues-seattle-kraken-SCq169z2/",
         "avg_moneyline_1": 122,
         "avg_moneyline_2": 319,
@@ -78,12 +84,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "13_april_2024_dallas_stars_seattle_kraken",
         "date": "13 april 2024",
         "team_1": "dallas stars",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/dallas-stars-seattle-kraken-Yk85HZr3/",
         "avg_moneyline_1": -144,
         "avg_moneyline_2": 349,
@@ -91,12 +98,13 @@
         "high_moneyline_2": 394
     },
     {
-        "id": "11_april_2024_seattle_kraken_san_jose_sharks",
         "date": "11 april 2024",
         "team_1": "seattle kraken",
         "team_2": "san jose sharks",
         "score_1": 1,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-san-jose-sharks-88zq0YDS/",
         "avg_moneyline_1": -169,
         "avg_moneyline_2": 377,
@@ -104,12 +112,13 @@
         "high_moneyline_2": 403
     },
     {
-        "id": "09_april_2024_seattle_kraken_arizona_coyotes",
         "date": "09 april 2024",
         "team_1": "seattle kraken",
         "team_2": "arizona coyotes",
         "score_1": 5,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-arizona-coyotes-MH3S5xpi/",
         "avg_moneyline_1": 114,
         "avg_moneyline_2": 326,
@@ -117,12 +126,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "05_april_2024_anaheim_ducks_seattle_kraken",
         "date": "05 april 2024",
         "team_1": "anaheim ducks",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/anaheim-ducks-seattle-kraken-4ExgkdrD/",
         "avg_moneyline_1": 215,
         "avg_moneyline_2": 328,
@@ -130,12 +140,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "03_april_2024_los_angeles_kings_seattle_kraken",
         "date": "03 april 2024",
         "team_1": "los angeles kings",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/los-angeles-kings-seattle-kraken-WnaCxJb7/",
         "avg_moneyline_1": -112,
         "avg_moneyline_2": 322,
@@ -143,12 +154,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "01_april_2024_san_jose_sharks_seattle_kraken",
         "date": "01 april 2024",
         "team_1": "san jose sharks",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/san-jose-sharks-seattle-kraken-hrLFIOf7/",
         "avg_moneyline_1": 279,
         "avg_moneyline_2": 336,
@@ -156,12 +168,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "30_march_2024_seattle_kraken_dallas_stars",
         "date": "30 march 2024",
         "team_1": "seattle kraken",
         "team_2": "dallas stars",
         "score_1": 0,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-dallas-stars-r9oWQnmR/",
         "avg_moneyline_1": 215,
         "avg_moneyline_2": 326,
@@ -169,12 +182,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "28_march_2024_seattle_kraken_anaheim_ducks",
         "date": "28 march 2024",
         "team_1": "seattle kraken",
         "team_2": "anaheim ducks",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-anaheim-ducks-Im9oFklF/",
         "avg_moneyline_1": -127,
         "avg_moneyline_2": 339,
@@ -182,12 +196,13 @@
         "high_moneyline_2": 379
     },
     {
-        "id": "26_march_2024_seattle_kraken_anaheim_ducks",
         "date": "26 march 2024",
         "team_1": "seattle kraken",
         "team_2": "anaheim ducks",
         "score_1": 4,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-anaheim-ducks-dIWE1WJF/",
         "avg_moneyline_1": -119,
         "avg_moneyline_2": 335,
@@ -195,12 +210,13 @@
         "high_moneyline_2": 373
     },
     {
-        "id": "24_march_2024_seattle_kraken_montreal_canadiens",
         "date": "24 march 2024",
         "team_1": "seattle kraken",
         "team_2": "montreal canadiens",
         "score_1": 1,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-montreal-canadiens-MLHpBI3t/",
         "avg_moneyline_1": 101,
         "avg_moneyline_2": 325,
@@ -208,12 +224,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "22_march_2024_arizona_coyotes_seattle_kraken",
         "date": "22 march 2024",
         "team_1": "arizona coyotes",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/arizona-coyotes-seattle-kraken-Yc8lk2Uh/",
         "avg_moneyline_1": 144,
         "avg_moneyline_2": 314,
@@ -221,12 +238,13 @@
         "high_moneyline_2": 353
     },
     {
-        "id": "21_march_2024_vegas_golden_knights_seattle_kraken",
         "date": "21 march 2024",
         "team_1": "vegas golden knights",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/vegas-golden-knights-seattle-kraken-8GzSX0aI/",
         "avg_moneyline_1": -124,
         "avg_moneyline_2": 341,
@@ -234,12 +252,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "18_march_2024_seattle_kraken_buffalo_sabres",
         "date": "18 march 2024",
         "team_1": "seattle kraken",
         "team_2": "buffalo sabres",
         "score_1": 2,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-buffalo-sabres-Ol25URhQ/",
         "avg_moneyline_1": 135,
         "avg_moneyline_2": 317,
@@ -247,12 +266,13 @@
         "high_moneyline_2": 342
     },
     {
-        "id": "16_march_2024_seattle_kraken_nashville_predators",
         "date": "16 march 2024",
         "team_1": "seattle kraken",
         "team_2": "nashville predators",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-nashville-predators-S2W4Qcze/",
         "avg_moneyline_1": 163,
         "avg_moneyline_2": 321,
@@ -260,12 +280,13 @@
         "high_moneyline_2": 340
     },
     {
-        "id": "14_march_2024_seattle_kraken_washington_capitals",
         "date": "14 march 2024",
         "team_1": "seattle kraken",
         "team_2": "washington capitals",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-washington-capitals-vugcU6yT/",
         "avg_moneyline_1": -110,
         "avg_moneyline_2": 332,
@@ -273,12 +294,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "12_march_2024_seattle_kraken_vegas_golden_knights",
         "date": "12 march 2024",
         "team_1": "seattle kraken",
         "team_2": "vegas golden knights",
         "score_1": 4,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-vegas-golden-knights-p4EKGm7T/",
         "avg_moneyline_1": 203,
         "avg_moneyline_2": 324,
@@ -286,12 +308,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "08_march_2024_seattle_kraken_winnipeg_jets",
         "date": "08 march 2024",
         "team_1": "seattle kraken",
         "team_2": "winnipeg jets",
         "score_1": 0,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-winnipeg-jets-WQo3pYqH/",
         "avg_moneyline_1": 166,
         "avg_moneyline_2": 319,
@@ -299,12 +322,13 @@
         "high_moneyline_2": 351
     },
     {
-        "id": "05_march_2024_winnipeg_jets_seattle_kraken",
         "date": "05 march 2024",
         "team_1": "winnipeg jets",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/winnipeg-jets-seattle-kraken-On3MXf0B/",
         "avg_moneyline_1": -102,
         "avg_moneyline_2": 321,
@@ -312,12 +336,13 @@
         "high_moneyline_2": 347
     },
     {
-        "id": "04_march_2024_calgary_flames_seattle_kraken",
         "date": "04 march 2024",
         "team_1": "calgary flames",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/calgary-flames-seattle-kraken-lUA9zcGh/",
         "avg_moneyline_1": 123,
         "avg_moneyline_2": 318,
@@ -325,12 +350,13 @@
         "high_moneyline_2": 351
     },
     {
-        "id": "02_march_2024_seattle_kraken_edmonton_oilers",
         "date": "02 march 2024",
         "team_1": "seattle kraken",
         "team_2": "edmonton oilers",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-edmonton-oilers-bsJyQuF1/",
         "avg_moneyline_1": 209,
         "avg_moneyline_2": 342,
@@ -338,12 +364,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "29_february_2024_seattle_kraken_pittsburgh_penguins",
         "date": "29 february 2024",
         "team_1": "seattle kraken",
         "team_2": "pittsburgh penguins",
         "score_1": 2,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-pittsburgh-penguins-Mgi0k1F0/",
         "avg_moneyline_1": 140,
         "avg_moneyline_2": 313,
@@ -351,12 +378,13 @@
         "high_moneyline_2": 343
     },
     {
-        "id": "26_february_2024_seattle_kraken_boston_bruins",
         "date": "26 february 2024",
         "team_1": "seattle kraken",
         "team_2": "boston bruins",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-boston-bruins-zPupchH9/",
         "avg_moneyline_1": 189,
         "avg_moneyline_2": 311,
@@ -364,12 +392,13 @@
         "high_moneyline_2": 343
     },
     {
-        "id": "24_february_2024_seattle_kraken_minnesota_wild",
         "date": "24 february 2024",
         "team_1": "seattle kraken",
         "team_2": "minnesota wild",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-minnesota-wild-l8H2pFX3/",
         "avg_moneyline_1": 108,
         "avg_moneyline_2": 320,
@@ -377,12 +406,13 @@
         "high_moneyline_2": 348
     },
     {
-        "id": "22_february_2024_seattle_kraken_vancouver_canucks",
         "date": "22 february 2024",
         "team_1": "seattle kraken",
         "team_2": "vancouver canucks",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-vancouver-canucks-AkCJzlc9/",
         "avg_moneyline_1": 176,
         "avg_moneyline_2": 318,
@@ -390,12 +420,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "19_february_2024_seattle_kraken_detroit_red_wings",
         "date": "19 february 2024",
         "team_1": "seattle kraken",
         "team_2": "detroit red wings",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-detroit-red-wings-UPVUMKZu/",
         "avg_moneyline_1": 113,
         "avg_moneyline_2": 331,
@@ -403,12 +434,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "15_february_2024_boston_bruins_seattle_kraken",
         "date": "15 february 2024",
         "team_1": "boston bruins",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/boston-bruins-seattle-kraken-O46iDA6E/",
         "avg_moneyline_1": -114,
         "avg_moneyline_2": 328,
@@ -416,12 +448,13 @@
         "high_moneyline_2": 369
     },
     {
-        "id": "13_february_2024_new_york_islanders_seattle_kraken",
         "date": "13 february 2024",
         "team_1": "new york islanders",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/new-york-islanders-seattle-kraken-dvCgh9Ul/",
         "avg_moneyline_1": -103,
         "avg_moneyline_2": 327,
@@ -429,12 +462,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "12_february_2024_new_jersey_devils_seattle_kraken",
         "date": "12 february 2024",
         "team_1": "new jersey devils",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/new-jersey-devils-seattle-kraken-bqU61D72/",
         "avg_moneyline_1": 115,
         "avg_moneyline_2": 336,
@@ -442,12 +476,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "10_february_2024_philadelphia_flyers_seattle_kraken",
         "date": "10 february 2024",
         "team_1": "philadelphia flyers",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/philadelphia-flyers-seattle-kraken-ImiKwAFe/",
         "avg_moneyline_1": 144,
         "avg_moneyline_2": 317,
@@ -455,12 +490,13 @@
         "high_moneyline_2": 334
     },
     {
-        "id": "30_january_2024_san_jose_sharks_seattle_kraken",
         "date": "30 january 2024",
         "team_1": "san jose sharks",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/san-jose-sharks-seattle-kraken-AoMuoX5O/",
         "avg_moneyline_1": 307,
         "avg_moneyline_2": 356,
@@ -468,12 +504,13 @@
         "high_moneyline_2": 395
     },
     {
-        "id": "28_january_2024_seattle_kraken_columbus_blue_jackets",
         "date": "28 january 2024",
         "team_1": "seattle kraken",
         "team_2": "columbus blue jackets",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-columbus-blue-jackets-2LIXngyC/",
         "avg_moneyline_1": -153,
         "avg_moneyline_2": 372,
@@ -481,12 +518,13 @@
         "high_moneyline_2": 415
     },
     {
-        "id": "26_january_2024_seattle_kraken_st._louis_blues",
         "date": "26 january 2024",
         "team_1": "seattle kraken",
         "team_2": "st. louis blues",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-st-louis-blues-nq9kzGi6/",
         "avg_moneyline_1": -108,
         "avg_moneyline_2": 335,
@@ -494,12 +532,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "24_january_2024_seattle_kraken_chicago_blackhawks",
         "date": "24 january 2024",
         "team_1": "seattle kraken",
         "team_2": "chicago blackhawks",
         "score_1": 6,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-chicago-blackhawks-0Sp8Nx80/",
         "avg_moneyline_1": -177,
         "avg_moneyline_2": 376,
@@ -507,12 +546,13 @@
         "high_moneyline_2": 416
     },
     {
-        "id": "21_january_2024_seattle_kraken_toronto_maple_leafs",
         "date": "21 january 2024",
         "team_1": "seattle kraken",
         "team_2": "toronto maple leafs",
         "score_1": 1,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-toronto-maple-leafs-d416e9Go/",
         "avg_moneyline_1": 148,
         "avg_moneyline_2": 328,
@@ -520,12 +560,13 @@
         "high_moneyline_2": 355
     },
     {
-        "id": "18_january_2024_edmonton_oilers_seattle_kraken",
         "date": "18 january 2024",
         "team_1": "edmonton oilers",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/edmonton-oilers-seattle-kraken-KzEIGUfG/",
         "avg_moneyline_1": -136,
         "avg_moneyline_2": 358,
@@ -533,12 +574,13 @@
         "high_moneyline_2": 405
     },
     {
-        "id": "16_january_2024_new_york_rangers_seattle_kraken",
         "date": "16 january 2024",
         "team_1": "new york rangers",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/new-york-rangers-seattle-kraken-j9FOFX2g/",
         "avg_moneyline_1": -129,
         "avg_moneyline_2": 343,
@@ -546,12 +588,13 @@
         "high_moneyline_2": 390
     },
     {
-        "id": "15_january_2024_pittsburgh_penguins_seattle_kraken",
         "date": "15 january 2024",
         "team_1": "pittsburgh penguins",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/pittsburgh-penguins-seattle-kraken-2obnZL3E/",
         "avg_moneyline_1": 108,
         "avg_moneyline_2": 326,
@@ -559,12 +602,13 @@
         "high_moneyline_2": 354
     },
     {
-        "id": "13_january_2024_columbus_blue_jackets_seattle_kraken",
         "date": "13 january 2024",
         "team_1": "columbus blue jackets",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 7,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/columbus-blue-jackets-seattle-kraken-dUrFaLCe/",
         "avg_moneyline_1": 221,
         "avg_moneyline_2": 338,
@@ -572,12 +616,13 @@
         "high_moneyline_2": 370
     },
     {
-        "id": "11_january_2024_washington_capitals_seattle_kraken",
         "date": "11 january 2024",
         "team_1": "washington capitals",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/washington-capitals-seattle-kraken-277JAoLd/",
         "avg_moneyline_1": 177,
         "avg_moneyline_2": 320,
@@ -585,12 +630,13 @@
         "high_moneyline_2": 354
     },
     {
-        "id": "09_january_2024_buffalo_sabres_seattle_kraken",
         "date": "09 january 2024",
         "team_1": "buffalo sabres",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/buffalo-sabres-seattle-kraken-E7UoEaAi/",
         "avg_moneyline_1": 141,
         "avg_moneyline_2": 328,
@@ -598,12 +644,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "04_january_2024_seattle_kraken_ottawa_senators",
         "date": "04 january 2024",
         "team_1": "seattle kraken",
         "team_2": "ottawa senators",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-ottawa-senators-lGVzupxr/",
         "avg_moneyline_1": 124,
         "avg_moneyline_2": 333,
@@ -611,12 +658,13 @@
         "high_moneyline_2": 369
     },
     {
-        "id": "01_january_2024_seattle_kraken_vegas_golden_knights",
         "date": "01 january 2024",
         "team_1": "seattle kraken",
         "team_2": "vegas golden knights",
         "score_1": 3,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-vegas-golden-knights-4dBXT85D/",
         "avg_moneyline_1": 180,
         "avg_moneyline_2": 319,
@@ -624,12 +672,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "29_december_2023_seattle_kraken_philadelphia_flyers",
         "date": "29 december 2023",
         "team_1": "seattle kraken",
         "team_2": "philadelphia flyers",
         "score_1": 2,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-philadelphia-flyers-IPKcHVL7/",
         "avg_moneyline_1": 118,
         "avg_moneyline_2": 322,
@@ -637,12 +686,13 @@
         "high_moneyline_2": 354
     },
     {
-        "id": "27_december_2023_calgary_flames_seattle_kraken",
         "date": "27 december 2023",
         "team_1": "calgary flames",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/calgary-flames-seattle-kraken-MBheFacj/",
         "avg_moneyline_1": 108,
         "avg_moneyline_2": 323,
@@ -650,12 +700,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "23_december_2023_anaheim_ducks_seattle_kraken",
         "date": "23 december 2023",
         "team_1": "anaheim ducks",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/anaheim-ducks-seattle-kraken-KC559sOT/",
         "avg_moneyline_1": 202,
         "avg_moneyline_2": 331,
@@ -663,12 +714,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "20_december_2023_los_angeles_kings_seattle_kraken",
         "date": "20 december 2023",
         "team_1": "los angeles kings",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/los-angeles-kings-seattle-kraken-MyY91SPh/",
         "avg_moneyline_1": -106,
         "avg_moneyline_2": 335,
@@ -676,12 +728,13 @@
         "high_moneyline_2": 380
     },
     {
-        "id": "18_december_2023_dallas_stars_seattle_kraken",
         "date": "18 december 2023",
         "team_1": "dallas stars",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/dallas-stars-seattle-kraken-rXgXm9eg/",
         "avg_moneyline_1": -112,
         "avg_moneyline_2": 341,
@@ -689,12 +742,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "16_december_2023_seattle_kraken_los_angeles_kings",
         "date": "16 december 2023",
         "team_1": "seattle kraken",
         "team_2": "los angeles kings",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-los-angeles-kings-fasNGFxQ/",
         "avg_moneyline_1": 201,
         "avg_moneyline_2": 323,
@@ -702,12 +756,13 @@
         "high_moneyline_2": 351
     },
     {
-        "id": "14_december_2023_seattle_kraken_chicago_blackhawks",
         "date": "14 december 2023",
         "team_1": "seattle kraken",
         "team_2": "chicago blackhawks",
         "score_1": 7,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-chicago-blackhawks-EqtgtZ0D/",
         "avg_moneyline_1": -143,
         "avg_moneyline_2": 355,
@@ -715,12 +770,13 @@
         "high_moneyline_2": 400
     },
     {
-        "id": "12_december_2023_seattle_kraken_florida_panthers",
         "date": "12 december 2023",
         "team_1": "seattle kraken",
         "team_2": "florida panthers",
         "score_1": 4,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-florida-panthers-QJ75kwvR/",
         "avg_moneyline_1": 214,
         "avg_moneyline_2": 336,
@@ -728,12 +784,13 @@
         "high_moneyline_2": 370
     },
     {
-        "id": "10_december_2023_seattle_kraken_minnesota_wild",
         "date": "10 december 2023",
         "team_1": "seattle kraken",
         "team_2": "minnesota wild",
         "score_1": 0,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-minnesota-wild-6aAaWcXl/",
         "avg_moneyline_1": 174,
         "avg_moneyline_2": 323,
@@ -741,12 +798,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "09_december_2023_seattle_kraken_tampa_bay_lightning",
         "date": "09 december 2023",
         "team_1": "seattle kraken",
         "team_2": "tampa bay lightning",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-tampa-bay-lightning-vofJjSI3/",
         "avg_moneyline_1": 151,
         "avg_moneyline_2": 323,
@@ -754,12 +812,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "07_december_2023_seattle_kraken_new_jersey_devils",
         "date": "07 december 2023",
         "team_1": "seattle kraken",
         "team_2": "new jersey devils",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-new-jersey-devils-IFHnw9l4/",
         "avg_moneyline_1": 188,
         "avg_moneyline_2": 336,
@@ -767,12 +826,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "04_december_2023_montreal_canadiens_seattle_kraken",
         "date": "04 december 2023",
         "team_1": "montreal canadiens",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/montreal-canadiens-seattle-kraken-4rOFo02C/",
         "avg_moneyline_1": 206,
         "avg_moneyline_2": 331,
@@ -780,12 +840,13 @@
         "high_moneyline_2": 369
     },
     {
-        "id": "02_december_2023_ottawa_senators_seattle_kraken",
         "date": "02 december 2023",
         "team_1": "ottawa senators",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/ottawa-senators-seattle-kraken-UPV2l2Ig/",
         "avg_moneyline_1": 126,
         "avg_moneyline_2": 336,
@@ -793,12 +854,13 @@
         "high_moneyline_2": 369
     },
     {
-        "id": "30_november_2023_toronto_maple_leafs_seattle_kraken",
         "date": "30 november 2023",
         "team_1": "toronto maple leafs",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/toronto-maple-leafs-seattle-kraken-l6EXYMI6/",
         "avg_moneyline_1": -112,
         "avg_moneyline_2": 345,
@@ -806,12 +868,13 @@
         "high_moneyline_2": 369
     },
     {
-        "id": "28_november_2023_chicago_blackhawks_seattle_kraken",
         "date": "28 november 2023",
         "team_1": "chicago blackhawks",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/chicago-blackhawks-seattle-kraken-zcHx2z5q/",
         "avg_moneyline_1": 240,
         "avg_moneyline_2": 345,
@@ -819,12 +882,13 @@
         "high_moneyline_2": 379
     },
     {
-        "id": "24_november_2023_seattle_kraken_vancouver_canucks",
         "date": "24 november 2023",
         "team_1": "seattle kraken",
         "team_2": "vancouver canucks",
         "score_1": 1,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-vancouver-canucks-MXV5sf59/",
         "avg_moneyline_1": 149,
         "avg_moneyline_2": 340,
@@ -832,12 +896,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "22_november_2023_seattle_kraken_san_jose_sharks",
         "date": "22 november 2023",
         "team_1": "seattle kraken",
         "team_2": "san jose sharks",
         "score_1": 7,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-san-jose-sharks-hzTyorUi/",
         "avg_moneyline_1": -178,
         "avg_moneyline_2": 382,
@@ -845,12 +910,13 @@
         "high_moneyline_2": 420
     },
     {
-        "id": "20_november_2023_seattle_kraken_calgary_flames",
         "date": "20 november 2023",
         "team_1": "seattle kraken",
         "team_2": "calgary flames",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-calgary-flames-hngu8gEj/",
         "avg_moneyline_1": 136,
         "avg_moneyline_2": 329,
@@ -858,12 +924,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "18_november_2023_vancouver_canucks_seattle_kraken",
         "date": "18 november 2023",
         "team_1": "vancouver canucks",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/vancouver-canucks-seattle-kraken-rD35EeyN/",
         "avg_moneyline_1": 101,
         "avg_moneyline_2": 342,
@@ -871,12 +938,13 @@
         "high_moneyline_2": 380
     },
     {
-        "id": "16_november_2023_seattle_kraken_new_york_islanders",
         "date": "16 november 2023",
         "team_1": "seattle kraken",
         "team_2": "new york islanders",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-new-york-islanders-byUtJYvr/",
         "avg_moneyline_1": 132,
         "avg_moneyline_2": 320,
@@ -884,12 +952,13 @@
         "high_moneyline_2": 334
     },
     {
-        "id": "15_november_2023_edmonton_oilers_seattle_kraken",
         "date": "15 november 2023",
         "team_1": "edmonton oilers",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/edmonton-oilers-seattle-kraken-zTyG3vN4/",
         "avg_moneyline_1": -119,
         "avg_moneyline_2": 361,
@@ -897,12 +966,13 @@
         "high_moneyline_2": 405
     },
     {
-        "id": "13_november_2023_seattle_kraken_colorado_avalanche",
         "date": "13 november 2023",
         "team_1": "seattle kraken",
         "team_2": "colorado avalanche",
         "score_1": 1,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-colorado-avalanche-dbSn1WrG/",
         "avg_moneyline_1": 201,
         "avg_moneyline_2": 335,
@@ -910,12 +980,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "11_november_2023_seattle_kraken_edmonton_oilers",
         "date": "11 november 2023",
         "team_1": "seattle kraken",
         "team_2": "edmonton oilers",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-edmonton-oilers-69siaPVI/",
         "avg_moneyline_1": 176,
         "avg_moneyline_2": 343,
@@ -923,12 +994,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "09_november_2023_colorado_avalanche_seattle_kraken",
         "date": "09 november 2023",
         "team_1": "colorado avalanche",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/colorado-avalanche-seattle-kraken-dOBwzfpH/",
         "avg_moneyline_1": -121,
         "avg_moneyline_2": 353,
@@ -936,12 +1008,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "07_november_2023_arizona_coyotes_seattle_kraken",
         "date": "07 november 2023",
         "team_1": "arizona coyotes",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/arizona-coyotes-seattle-kraken-d0esnIN5/",
         "avg_moneyline_1": 139,
         "avg_moneyline_2": 331,
@@ -949,12 +1022,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "04_november_2023_seattle_kraken_calgary_flames",
         "date": "04 november 2023",
         "team_1": "seattle kraken",
         "team_2": "calgary flames",
         "score_1": 3,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-calgary-flames-0SKLcCfE/",
         "avg_moneyline_1": 136,
         "avg_moneyline_2": 324,
@@ -962,12 +1036,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "02_november_2023_seattle_kraken_nashville_predators",
         "date": "02 november 2023",
         "team_1": "seattle kraken",
         "team_2": "nashville predators",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-nashville-predators-feLPXR2e/",
         "avg_moneyline_1": 122,
         "avg_moneyline_2": 331,
@@ -975,12 +1050,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "30_october_2023_tampa_bay_lightning_seattle_kraken",
         "date": "30 october 2023",
         "team_1": "tampa bay lightning",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/tampa-bay-lightning-seattle-kraken-OjgJQAeS/",
         "avg_moneyline_1": 108,
         "avg_moneyline_2": 335,
@@ -988,12 +1064,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "28_october_2023_florida_panthers_seattle_kraken",
         "date": "28 october 2023",
         "team_1": "florida panthers",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/florida-panthers-seattle-kraken-2NPyEXBM/",
         "avg_moneyline_1": 109,
         "avg_moneyline_2": 338,
@@ -1001,12 +1078,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "26_october_2023_carolina_hurricanes_seattle_kraken",
         "date": "26 october 2023",
         "team_1": "carolina hurricanes",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/carolina-hurricanes-seattle-kraken-0WUhEt65/",
         "avg_moneyline_1": -125,
         "avg_moneyline_2": 352,
@@ -1014,12 +1092,13 @@
         "high_moneyline_2": 395
     },
     {
-        "id": "24_october_2023_detroit_red_wings_seattle_kraken",
         "date": "24 october 2023",
         "team_1": "detroit red wings",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/detroit-red-wings-seattle-kraken-fg8RcLLO/",
         "avg_moneyline_1": 128,
         "avg_moneyline_2": 329,
@@ -1027,12 +1106,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "21_october_2023_seattle_kraken_new_york_rangers",
         "date": "21 october 2023",
         "team_1": "seattle kraken",
         "team_2": "new york rangers",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-new-york-rangers-lIfv9oUP/",
         "avg_moneyline_1": 159,
         "avg_moneyline_2": 328,
@@ -1040,12 +1120,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "19_october_2023_seattle_kraken_carolina_hurricanes",
         "date": "19 october 2023",
         "team_1": "seattle kraken",
         "team_2": "carolina hurricanes",
         "score_1": 7,
         "score_2": 4,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-carolina-hurricanes-nglAY4hD/",
         "avg_moneyline_1": 189,
         "avg_moneyline_2": 325,
@@ -1053,12 +1134,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "17_october_2023_seattle_kraken_colorado_avalanche",
         "date": "17 october 2023",
         "team_1": "seattle kraken",
         "team_2": "colorado avalanche",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-colorado-avalanche-YLIApBo8/",
         "avg_moneyline_1": 203,
         "avg_moneyline_2": 336,
@@ -1066,12 +1148,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "14_october_2023_st._louis_blues_seattle_kraken",
         "date": "14 october 2023",
         "team_1": "st. louis blues",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/st-louis-blues-seattle-kraken-Qw4SpKui/",
         "avg_moneyline_1": 151,
         "avg_moneyline_2": 329,
@@ -1079,12 +1162,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "12_october_2023_nashville_predators_seattle_kraken",
         "date": "12 october 2023",
         "team_1": "nashville predators",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/nashville-predators-seattle-kraken-p4U2nCab/",
         "avg_moneyline_1": 138,
         "avg_moneyline_2": 321,
@@ -1092,12 +1176,13 @@
         "high_moneyline_2": 338
     },
     {
-        "id": "10_october_2023_vegas_golden_knights_seattle_kraken",
         "date": "10 october 2023",
         "team_1": "vegas golden knights",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/vegas-golden-knights-seattle-kraken-W04TXCp5/",
         "avg_moneyline_1": -104,
         "avg_moneyline_2": 336,
@@ -1105,12 +1190,13 @@
         "high_moneyline_2": 379
     },
     {
-        "id": "06_october_2023_edmonton_oilers_seattle_kraken",
         "date": "06 october 2023",
         "team_1": "edmonton oilers",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/edmonton-oilers-seattle-kraken-jD7Cpp0H/",
         "avg_moneyline_1": -146,
         "avg_moneyline_2": 350,
@@ -1118,12 +1204,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "04_october_2023_vancouver_canucks_seattle_kraken",
         "date": "04 october 2023",
         "team_1": "vancouver canucks",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/vancouver-canucks-seattle-kraken-0OzV2RFo/",
         "avg_moneyline_1": -119,
         "avg_moneyline_2": 339,
@@ -1131,12 +1218,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "02_october_2023_seattle_kraken_edmonton_oilers",
         "date": "02 october 2023",
         "team_1": "seattle kraken",
         "team_2": "edmonton oilers",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-edmonton-oilers-rm44n6V4/",
         "avg_moneyline_1": -105,
         "avg_moneyline_2": 344,
@@ -1144,12 +1232,13 @@
         "high_moneyline_2": 355
     },
     {
-        "id": "28_september_2023_seattle_kraken_vancouver_canucks",
         "date": "28 september 2023",
         "team_1": "seattle kraken",
         "team_2": "vancouver canucks",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-vancouver-canucks-nLnmvrwo/",
         "avg_moneyline_1": -143,
         "avg_moneyline_2": 357,
@@ -1157,12 +1246,13 @@
         "high_moneyline_2": 375
     },
     {
-        "id": "25_september_2023_seattle_kraken_calgary_flames",
         "date": "25 september 2023",
         "team_1": "seattle kraken",
         "team_2": "calgary flames",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/seattle-kraken-calgary-flames-CSeLrOUT/",
         "avg_moneyline_1": -125,
         "avg_moneyline_2": 345,
@@ -1170,12 +1260,13 @@
         "high_moneyline_2": 345
     },
     {
-        "id": "25_september_2023_calgary_flames_seattle_kraken",
         "date": "25 september 2023",
         "team_1": "calgary flames",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2023/2024",
         "game_url": "usa/nhl-2023-2024/calgary-flames-seattle-kraken-U36Gq4FN/",
         "avg_moneyline_1": 210,
         "avg_moneyline_2": 344,
@@ -1183,12 +1274,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "15_may_2023_dallas_stars_seattle_kraken",
         "date": "15 may 2023",
         "team_1": "dallas stars",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/dallas-stars-seattle-kraken-CbhtrIus/",
         "avg_moneyline_1": -110,
         "avg_moneyline_2": 315,
@@ -1196,12 +1288,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "13_may_2023_seattle_kraken_dallas_stars",
         "date": "13 may 2023",
         "team_1": "seattle kraken",
         "team_2": "dallas stars",
         "score_1": 6,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-dallas-stars-G2kTKkr8/",
         "avg_moneyline_1": 212,
         "avg_moneyline_2": 301,
@@ -1209,12 +1302,13 @@
         "high_moneyline_2": 340
     },
     {
-        "id": "11_may_2023_dallas_stars_seattle_kraken",
         "date": "11 may 2023",
         "team_1": "dallas stars",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/dallas-stars-seattle-kraken-vmol9HH2/",
         "avg_moneyline_1": -108,
         "avg_moneyline_2": 312,
@@ -1222,12 +1316,13 @@
         "high_moneyline_2": 343
     },
     {
-        "id": "09_may_2023_seattle_kraken_dallas_stars",
         "date": "09 may 2023",
         "team_1": "seattle kraken",
         "team_2": "dallas stars",
         "score_1": 3,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-dallas-stars-fPbS3WGp/",
         "avg_moneyline_1": 207,
         "avg_moneyline_2": 302,
@@ -1235,12 +1330,13 @@
         "high_moneyline_2": 355
     },
     {
-        "id": "07_may_2023_seattle_kraken_dallas_stars",
         "date": "07 may 2023",
         "team_1": "seattle kraken",
         "team_2": "dallas stars",
         "score_1": 7,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-dallas-stars-lrMa8C8T/",
         "avg_moneyline_1": 200,
         "avg_moneyline_2": 325,
@@ -1248,12 +1344,13 @@
         "high_moneyline_2": 424
     },
     {
-        "id": "04_may_2023_dallas_stars_seattle_kraken",
         "date": "04 may 2023",
         "team_1": "dallas stars",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/dallas-stars-seattle-kraken-jVlDX7zk/",
         "avg_moneyline_1": -130,
         "avg_moneyline_2": 384,
@@ -1261,12 +1358,13 @@
         "high_moneyline_2": 1000
     },
     {
-        "id": "02_may_2023_dallas_stars_seattle_kraken",
         "date": "02 may 2023",
         "team_1": "dallas stars",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/dallas-stars-seattle-kraken-d8k9YmLr/",
         "avg_moneyline_1": -115,
         "avg_moneyline_2": 332,
@@ -1274,12 +1372,13 @@
         "high_moneyline_2": 457
     },
     {
-        "id": "30_april_2023_colorado_avalanche_seattle_kraken",
         "date": "30 april 2023",
         "team_1": "colorado avalanche",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/colorado-avalanche-seattle-kraken-IwhsW0QI/",
         "avg_moneyline_1": -128,
         "avg_moneyline_2": 348,
@@ -1287,12 +1386,13 @@
         "high_moneyline_2": 438
     },
     {
-        "id": "28_april_2023_seattle_kraken_colorado_avalanche",
         "date": "28 april 2023",
         "team_1": "seattle kraken",
         "team_2": "colorado avalanche",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-colorado-avalanche-fsKwBlhC/",
         "avg_moneyline_1": 196,
         "avg_moneyline_2": 319,
@@ -1300,12 +1400,13 @@
         "high_moneyline_2": 333
     },
     {
-        "id": "26_april_2023_colorado_avalanche_seattle_kraken",
         "date": "26 april 2023",
         "team_1": "colorado avalanche",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/colorado-avalanche-seattle-kraken-481j3rrD/",
         "avg_moneyline_1": -114,
         "avg_moneyline_2": 328,
@@ -1313,12 +1414,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "24_april_2023_seattle_kraken_colorado_avalanche",
         "date": "24 april 2023",
         "team_1": "seattle kraken",
         "team_2": "colorado avalanche",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-colorado-avalanche-jF29UtwF/",
         "avg_moneyline_1": 199,
         "avg_moneyline_2": 325,
@@ -1326,12 +1428,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "22_april_2023_seattle_kraken_colorado_avalanche",
         "date": "22 april 2023",
         "team_1": "seattle kraken",
         "team_2": "colorado avalanche",
         "score_1": 4,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-colorado-avalanche-dh35VMN8/",
         "avg_moneyline_1": 189,
         "avg_moneyline_2": 317,
@@ -1339,12 +1442,13 @@
         "high_moneyline_2": 330
     },
     {
-        "id": "20_april_2023_colorado_avalanche_seattle_kraken",
         "date": "20 april 2023",
         "team_1": "colorado avalanche",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/colorado-avalanche-seattle-kraken-WAkp7nui/",
         "avg_moneyline_1": -135,
         "avg_moneyline_2": 344,
@@ -1352,12 +1456,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "18_april_2023_colorado_avalanche_seattle_kraken",
         "date": "18 april 2023",
         "team_1": "colorado avalanche",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/colorado-avalanche-seattle-kraken-SxP3bfyi/",
         "avg_moneyline_1": -125,
         "avg_moneyline_2": 340,
@@ -1365,12 +1470,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "13_april_2023_seattle_kraken_vegas_golden_knights",
         "date": "13 april 2023",
         "team_1": "seattle kraken",
         "team_2": "vegas golden knights",
         "score_1": 1,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-vegas-golden-knights-j1uMsxd4/",
         "avg_moneyline_1": 139,
         "avg_moneyline_2": 324,
@@ -1378,12 +1484,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "11_april_2023_vegas_golden_knights_seattle_kraken",
         "date": "11 april 2023",
         "team_1": "vegas golden knights",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/vegas-golden-knights-seattle-kraken-vsfnVbCb/",
         "avg_moneyline_1": 103,
         "avg_moneyline_2": 337,
@@ -1391,12 +1498,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "10_april_2023_arizona_coyotes_seattle_kraken",
         "date": "10 april 2023",
         "team_1": "arizona coyotes",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/arizona-coyotes-seattle-kraken-WzXKEwSH/",
         "avg_moneyline_1": 292,
         "avg_moneyline_2": 366,
@@ -1404,12 +1512,13 @@
         "high_moneyline_2": 409
     },
     {
-        "id": "08_april_2023_seattle_kraken_chicago_blackhawks",
         "date": "08 april 2023",
         "team_1": "seattle kraken",
         "team_2": "chicago blackhawks",
         "score_1": 7,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-chicago-blackhawks-WMin0vDO/",
         "avg_moneyline_1": -210,
         "avg_moneyline_2": 410,
@@ -1417,12 +1526,13 @@
         "high_moneyline_2": 450
     },
     {
-        "id": "06_april_2023_seattle_kraken_arizona_coyotes",
         "date": "06 april 2023",
         "team_1": "seattle kraken",
         "team_2": "arizona coyotes",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-arizona-coyotes-Wdthj3q0/",
         "avg_moneyline_1": -189,
         "avg_moneyline_2": 403,
@@ -1430,12 +1540,13 @@
         "high_moneyline_2": 450
     },
     {
-        "id": "04_april_2023_vancouver_canucks_seattle_kraken",
         "date": "04 april 2023",
         "team_1": "vancouver canucks",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/vancouver-canucks-seattle-kraken-be25yPA4/",
         "avg_moneyline_1": 144,
         "avg_moneyline_2": 336,
@@ -1443,12 +1554,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "03_april_2023_seattle_kraken_arizona_coyotes",
         "date": "03 april 2023",
         "team_1": "seattle kraken",
         "team_2": "arizona coyotes",
         "score_1": 8,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-arizona-coyotes-UXXvEoK9/",
         "avg_moneyline_1": -188,
         "avg_moneyline_2": 402,
@@ -1456,12 +1568,13 @@
         "high_moneyline_2": 455
     },
     {
-        "id": "01_april_2023_seattle_kraken_los_angeles_kings",
         "date": "01 april 2023",
         "team_1": "seattle kraken",
         "team_2": "los angeles kings",
         "score_1": 1,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-los-angeles-kings-GU75an5G/",
         "avg_moneyline_1": 139,
         "avg_moneyline_2": 329,
@@ -1469,12 +1582,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "30_march_2023_seattle_kraken_anaheim_ducks",
         "date": "30 march 2023",
         "team_1": "seattle kraken",
         "team_2": "anaheim ducks",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-anaheim-ducks-8ptGlVjb/",
         "avg_moneyline_1": -228,
         "avg_moneyline_2": 439,
@@ -1482,12 +1596,13 @@
         "high_moneyline_2": 484
     },
     {
-        "id": "27_march_2023_minnesota_wild_seattle_kraken",
         "date": "27 march 2023",
         "team_1": "minnesota wild",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/minnesota-wild-seattle-kraken-hfeHXxG6/",
         "avg_moneyline_1": 124,
         "avg_moneyline_2": 320,
@@ -1495,12 +1610,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "25_march_2023_nashville_predators_seattle_kraken",
         "date": "25 march 2023",
         "team_1": "nashville predators",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 7,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/nashville-predators-seattle-kraken-IysZKaW0/",
         "avg_moneyline_1": 180,
         "avg_moneyline_2": 321,
@@ -1508,12 +1624,13 @@
         "high_moneyline_2": 362
     },
     {
-        "id": "23_march_2023_nashville_predators_seattle_kraken",
         "date": "23 march 2023",
         "team_1": "nashville predators",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/nashville-predators-seattle-kraken-ELkqVqf8/",
         "avg_moneyline_1": 173,
         "avg_moneyline_2": 324,
@@ -1521,12 +1638,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "21_march_2023_dallas_stars_seattle_kraken",
         "date": "21 march 2023",
         "team_1": "dallas stars",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/dallas-stars-seattle-kraken-8rTHEO9R/",
         "avg_moneyline_1": -104,
         "avg_moneyline_2": 338,
@@ -1534,12 +1652,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "18_march_2023_seattle_kraken_edmonton_oilers",
         "date": "18 march 2023",
         "team_1": "seattle kraken",
         "team_2": "edmonton oilers",
         "score_1": 4,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-edmonton-oilers-UufzvOV9/",
         "avg_moneyline_1": 186,
         "avg_moneyline_2": 344,
@@ -1547,12 +1666,13 @@
         "high_moneyline_2": 394
     },
     {
-        "id": "16_march_2023_san_jose_sharks_seattle_kraken",
         "date": "16 march 2023",
         "team_1": "san jose sharks",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/san-jose-sharks-seattle-kraken-dntr6xLu/",
         "avg_moneyline_1": 219,
         "avg_moneyline_2": 347,
@@ -1560,12 +1680,13 @@
         "high_moneyline_2": 375
     },
     {
-        "id": "13_march_2023_seattle_kraken_dallas_stars",
         "date": "13 march 2023",
         "team_1": "seattle kraken",
         "team_2": "dallas stars",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-dallas-stars-0dCuhku0/",
         "avg_moneyline_1": 161,
         "avg_moneyline_2": 324,
@@ -1573,12 +1694,13 @@
         "high_moneyline_2": 362
     },
     {
-        "id": "11_march_2023_seattle_kraken_dallas_stars",
         "date": "11 march 2023",
         "team_1": "seattle kraken",
         "team_2": "dallas stars",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-dallas-stars-2By8JFGp/",
         "avg_moneyline_1": 171,
         "avg_moneyline_2": 327,
@@ -1586,12 +1708,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "09_march_2023_seattle_kraken_ottawa_senators",
         "date": "09 march 2023",
         "team_1": "seattle kraken",
         "team_2": "ottawa senators",
         "score_1": 4,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-ottawa-senators-zuAEwjQ6/",
         "avg_moneyline_1": 120,
         "avg_moneyline_2": 339,
@@ -1599,12 +1722,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "07_march_2023_seattle_kraken_anaheim_ducks",
         "date": "07 march 2023",
         "team_1": "seattle kraken",
         "team_2": "anaheim ducks",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-anaheim-ducks-AucV95mJ/",
         "avg_moneyline_1": -186,
         "avg_moneyline_2": 394,
@@ -1612,12 +1736,13 @@
         "high_moneyline_2": 445
     },
     {
-        "id": "05_march_2023_colorado_avalanche_seattle_kraken",
         "date": "05 march 2023",
         "team_1": "colorado avalanche",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/colorado-avalanche-seattle-kraken-zaQZKVeK/",
         "avg_moneyline_1": -101,
         "avg_moneyline_2": 338,
@@ -1625,12 +1750,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "03_march_2023_columbus_blue_jackets_seattle_kraken",
         "date": "03 march 2023",
         "team_1": "columbus blue jackets",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/columbus-blue-jackets-seattle-kraken-SMl5nBke/",
         "avg_moneyline_1": 205,
         "avg_moneyline_2": 346,
@@ -1638,12 +1764,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "02_march_2023_detroit_red_wings_seattle_kraken",
         "date": "02 march 2023",
         "team_1": "detroit red wings",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/detroit-red-wings-seattle-kraken-rXNT5ajG/",
         "avg_moneyline_1": 160,
         "avg_moneyline_2": 327,
@@ -1651,12 +1778,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "28_february_2023_st._louis_blues_seattle_kraken",
         "date": "28 february 2023",
         "team_1": "st. louis blues",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/st-louis-blues-seattle-kraken-8E9ogM6A/",
         "avg_moneyline_1": 193,
         "avg_moneyline_2": 331,
@@ -1664,12 +1792,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "26_february_2023_seattle_kraken_toronto_maple_leafs",
         "date": "26 february 2023",
         "team_1": "seattle kraken",
         "team_2": "toronto maple leafs",
         "score_1": 1,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-toronto-maple-leafs-lrWvJOrN/",
         "avg_moneyline_1": 196,
         "avg_moneyline_2": 343,
@@ -1677,12 +1806,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "23_february_2023_seattle_kraken_boston_bruins",
         "date": "23 february 2023",
         "team_1": "seattle kraken",
         "team_2": "boston bruins",
         "score_1": 5,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-boston-bruins-CpJEVR8n/",
         "avg_moneyline_1": 230,
         "avg_moneyline_2": 332,
@@ -1690,12 +1820,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "20_february_2023_san_jose_sharks_seattle_kraken",
         "date": "20 february 2023",
         "team_1": "san jose sharks",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/san-jose-sharks-seattle-kraken-rcVQS4y8/",
         "avg_moneyline_1": 208,
         "avg_moneyline_2": 338,
@@ -1703,12 +1834,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "18_february_2023_seattle_kraken_detroit_red_wings",
         "date": "18 february 2023",
         "team_1": "seattle kraken",
         "team_2": "detroit red wings",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-detroit-red-wings-C8iryTTR/",
         "avg_moneyline_1": -110,
         "avg_moneyline_2": 338,
@@ -1716,12 +1848,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "16_february_2023_seattle_kraken_philadelphia_flyers",
         "date": "16 february 2023",
         "team_1": "seattle kraken",
         "team_2": "philadelphia flyers",
         "score_1": 6,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-philadelphia-flyers-MazlRi03/",
         "avg_moneyline_1": -115,
         "avg_moneyline_2": 336,
@@ -1729,12 +1862,13 @@
         "high_moneyline_2": 370
     },
     {
-        "id": "14_february_2023_winnipeg_jets_seattle_kraken",
         "date": "14 february 2023",
         "team_1": "winnipeg jets",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/winnipeg-jets-seattle-kraken-h2wGvxA7/",
         "avg_moneyline_1": 118,
         "avg_moneyline_2": 326,
@@ -1742,12 +1876,13 @@
         "high_moneyline_2": 346
     },
     {
-        "id": "12_february_2023_philadelphia_flyers_seattle_kraken",
         "date": "12 february 2023",
         "team_1": "philadelphia flyers",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/philadelphia-flyers-seattle-kraken-MPJv0F14/",
         "avg_moneyline_1": 196,
         "avg_moneyline_2": 343,
@@ -1755,12 +1890,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "10_february_2023_new_york_rangers_seattle_kraken",
         "date": "10 february 2023",
         "team_1": "new york rangers",
         "team_2": "seattle kraken",
         "score_1": 6,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/new-york-rangers-seattle-kraken-trQi14ts/",
         "avg_moneyline_1": -113,
         "avg_moneyline_2": 350,
@@ -1768,12 +1904,13 @@
         "high_moneyline_2": 393
     },
     {
-        "id": "09_february_2023_new_jersey_devils_seattle_kraken",
         "date": "09 february 2023",
         "team_1": "new jersey devils",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/new-jersey-devils-seattle-kraken-8fewrstJ/",
         "avg_moneyline_1": 128,
         "avg_moneyline_2": 310,
@@ -1781,12 +1918,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "07_february_2023_new_york_islanders_seattle_kraken",
         "date": "07 february 2023",
         "team_1": "new york islanders",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/new-york-islanders-seattle-kraken-tUpJn5Rm/",
         "avg_moneyline_1": 147,
         "avg_moneyline_2": 298,
@@ -1794,12 +1932,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "28_january_2023_seattle_kraken_columbus_blue_jackets",
         "date": "28 january 2023",
         "team_1": "seattle kraken",
         "team_2": "columbus blue jackets",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-columbus-blue-jackets-rPiOtQoi/",
         "avg_moneyline_1": -160,
         "avg_moneyline_2": 384,
@@ -1807,12 +1946,13 @@
         "high_moneyline_2": 420
     },
     {
-        "id": "27_january_2023_seattle_kraken_calgary_flames",
         "date": "27 january 2023",
         "team_1": "seattle kraken",
         "team_2": "calgary flames",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-calgary-flames-2NyMIQC7/",
         "avg_moneyline_1": 143,
         "avg_moneyline_2": 305,
@@ -1820,12 +1960,13 @@
         "high_moneyline_2": 345
     },
     {
-        "id": "25_january_2023_seattle_kraken_vancouver_canucks",
         "date": "25 january 2023",
         "team_1": "seattle kraken",
         "team_2": "vancouver canucks",
         "score_1": 6,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-vancouver-canucks-dMhwRl5R/",
         "avg_moneyline_1": -108,
         "avg_moneyline_2": 342,
@@ -1833,12 +1974,13 @@
         "high_moneyline_2": 405
     },
     {
-        "id": "21_january_2023_seattle_kraken_colorado_avalanche",
         "date": "21 january 2023",
         "team_1": "seattle kraken",
         "team_2": "colorado avalanche",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-colorado-avalanche-I7D3G8Gl/",
         "avg_moneyline_1": 148,
         "avg_moneyline_2": 301,
@@ -1846,12 +1988,13 @@
         "high_moneyline_2": 342
     },
     {
-        "id": "19_january_2023_seattle_kraken_new_jersey_devils",
         "date": "19 january 2023",
         "team_1": "seattle kraken",
         "team_2": "new jersey devils",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-new-jersey-devils-tMEaLc2G/",
         "avg_moneyline_1": 169,
         "avg_moneyline_2": 328,
@@ -1859,12 +2002,13 @@
         "high_moneyline_2": 355
     },
     {
-        "id": "17_january_2023_edmonton_oilers_seattle_kraken",
         "date": "17 january 2023",
         "team_1": "edmonton oilers",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/edmonton-oilers-seattle-kraken-EaEBGtoh/",
         "avg_moneyline_1": -111,
         "avg_moneyline_2": 349,
@@ -1872,12 +2016,13 @@
         "high_moneyline_2": 399
     },
     {
-        "id": "16_january_2023_seattle_kraken_tampa_bay_lightning",
         "date": "16 january 2023",
         "team_1": "seattle kraken",
         "team_2": "tampa bay lightning",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-tampa-bay-lightning-EXFqfL3H/",
         "avg_moneyline_1": 178,
         "avg_moneyline_2": 338,
@@ -1885,12 +2030,13 @@
         "high_moneyline_2": 370
     },
     {
-        "id": "14_january_2023_chicago_blackhawks_seattle_kraken",
         "date": "14 january 2023",
         "team_1": "chicago blackhawks",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 8,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/chicago-blackhawks-seattle-kraken-42d1srKB/",
         "avg_moneyline_1": 316,
         "avg_moneyline_2": 335,
@@ -1898,12 +2044,13 @@
         "high_moneyline_2": 400
     },
     {
-        "id": "12_january_2023_boston_bruins_seattle_kraken",
         "date": "12 january 2023",
         "team_1": "boston bruins",
         "team_2": "seattle kraken",
         "score_1": 0,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/boston-bruins-seattle-kraken-hrBRU4z6/",
         "avg_moneyline_1": -141,
         "avg_moneyline_2": 361,
@@ -1911,12 +2058,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "10_january_2023_buffalo_sabres_seattle_kraken",
         "date": "10 january 2023",
         "team_1": "buffalo sabres",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/buffalo-sabres-seattle-kraken-zk5nUXqe/",
         "avg_moneyline_1": 129,
         "avg_moneyline_2": 342,
@@ -1924,12 +2072,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "09_january_2023_montreal_canadiens_seattle_kraken",
         "date": "09 january 2023",
         "team_1": "montreal canadiens",
         "team_2": "seattle kraken",
         "score_1": 0,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/montreal-canadiens-seattle-kraken-nmaa1SPs/",
         "avg_moneyline_1": 274,
         "avg_moneyline_2": 361,
@@ -1937,12 +2086,13 @@
         "high_moneyline_2": 405
     },
     {
-        "id": "07_january_2023_ottawa_senators_seattle_kraken",
         "date": "07 january 2023",
         "team_1": "ottawa senators",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 8,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/ottawa-senators-seattle-kraken-fuPvbgJk/",
         "avg_moneyline_1": 136,
         "avg_moneyline_2": 324,
@@ -1950,12 +2100,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "05_january_2023_toronto_maple_leafs_seattle_kraken",
         "date": "05 january 2023",
         "team_1": "toronto maple leafs",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/toronto-maple-leafs-seattle-kraken-fHth7cd3/",
         "avg_moneyline_1": -143,
         "avg_moneyline_2": 373,
@@ -1963,12 +2114,13 @@
         "high_moneyline_2": 415
     },
     {
-        "id": "03_january_2023_edmonton_oilers_seattle_kraken",
         "date": "03 january 2023",
         "team_1": "edmonton oilers",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/edmonton-oilers-seattle-kraken-2o01pzkj/",
         "avg_moneyline_1": -104,
         "avg_moneyline_2": 346,
@@ -1976,12 +2128,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "01_january_2023_seattle_kraken_new_york_islanders",
         "date": "01 january 2023",
         "team_1": "seattle kraken",
         "team_2": "new york islanders",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-new-york-islanders-tUbJDirH/",
         "avg_moneyline_1": 128,
         "avg_moneyline_2": 322,
@@ -1989,12 +2142,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "30_december_2022_seattle_kraken_edmonton_oilers",
         "date": "30 december 2022",
         "team_1": "seattle kraken",
         "team_2": "edmonton oilers",
         "score_1": 2,
         "score_2": 7,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-edmonton-oilers-UT3ixwcT/",
         "avg_moneyline_1": 126,
         "avg_moneyline_2": 327,
@@ -2002,12 +2156,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "28_december_2022_seattle_kraken_calgary_flames",
         "date": "28 december 2022",
         "team_1": "seattle kraken",
         "team_2": "calgary flames",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-calgary-flames-no8Wt1rb/",
         "avg_moneyline_1": 146,
         "avg_moneyline_2": 322,
@@ -2015,12 +2170,13 @@
         "high_moneyline_2": 362
     },
     {
-        "id": "22_december_2022_vancouver_canucks_seattle_kraken",
         "date": "22 december 2022",
         "team_1": "vancouver canucks",
         "team_2": "seattle kraken",
         "score_1": 6,
         "score_2": 5,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/vancouver-canucks-seattle-kraken-QaNiYOO7/",
         "avg_moneyline_1": 157,
         "avg_moneyline_2": 334,
@@ -2028,12 +2184,13 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "20_december_2022_seattle_kraken_st._louis_blues",
         "date": "20 december 2022",
         "team_1": "seattle kraken",
         "team_2": "st. louis blues",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-st-louis-blues-dUhMbHjH/",
         "avg_moneyline_1": -106,
         "avg_moneyline_2": 326,
@@ -2041,12 +2198,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "18_december_2022_seattle_kraken_winnipeg_jets",
         "date": "18 december 2022",
         "team_1": "seattle kraken",
         "team_2": "winnipeg jets",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-winnipeg-jets-ARRszgVD/",
         "avg_moneyline_1": 103,
         "avg_moneyline_2": 331,
@@ -2054,12 +2212,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "15_december_2022_carolina_hurricanes_seattle_kraken",
         "date": "15 december 2022",
         "team_1": "carolina hurricanes",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/carolina-hurricanes-seattle-kraken-dUGSnaz8/",
         "avg_moneyline_1": -119,
         "avg_moneyline_2": 333,
@@ -2067,12 +2226,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "13_december_2022_tampa_bay_lightning_seattle_kraken",
         "date": "13 december 2022",
         "team_1": "tampa bay lightning",
         "team_2": "seattle kraken",
         "score_1": 6,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/tampa-bay-lightning-seattle-kraken-6wNrcqbF/",
         "avg_moneyline_1": -123,
         "avg_moneyline_2": 350,
@@ -2080,12 +2240,13 @@
         "high_moneyline_2": 394
     },
     {
-        "id": "11_december_2022_florida_panthers_seattle_kraken",
         "date": "11 december 2022",
         "team_1": "florida panthers",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/florida-panthers-seattle-kraken-bav2p6E9/",
         "avg_moneyline_1": 100,
         "avg_moneyline_2": 342,
@@ -2093,12 +2254,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "09_december_2022_washington_capitals_seattle_kraken",
         "date": "09 december 2022",
         "team_1": "washington capitals",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/washington-capitals-seattle-kraken-l0VFY8Fc/",
         "avg_moneyline_1": 110,
         "avg_moneyline_2": 326,
@@ -2106,12 +2268,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "06_december_2022_seattle_kraken_montreal_canadiens",
         "date": "06 december 2022",
         "team_1": "seattle kraken",
         "team_2": "montreal canadiens",
         "score_1": 2,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-montreal-canadiens-vXnR8eFH/",
         "avg_moneyline_1": -171,
         "avg_moneyline_2": 381,
@@ -2119,12 +2282,13 @@
         "high_moneyline_2": 429
     },
     {
-        "id": "03_december_2022_seattle_kraken_florida_panthers",
         "date": "03 december 2022",
         "team_1": "seattle kraken",
         "team_2": "florida panthers",
         "score_1": 1,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-florida-panthers-Uo5n2yuJ/",
         "avg_moneyline_1": 149,
         "avg_moneyline_2": 333,
@@ -2132,12 +2296,13 @@
         "high_moneyline_2": 362
     },
     {
-        "id": "01_december_2022_seattle_kraken_washington_capitals",
         "date": "01 december 2022",
         "team_1": "seattle kraken",
         "team_2": "washington capitals",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-washington-capitals-GEZnEsYD/",
         "avg_moneyline_1": 132,
         "avg_moneyline_2": 322,
@@ -2145,12 +2310,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "29_november_2022_los_angeles_kings_seattle_kraken",
         "date": "29 november 2022",
         "team_1": "los angeles kings",
         "team_2": "seattle kraken",
         "score_1": 8,
         "score_2": 9,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/los-angeles-kings-seattle-kraken-jDaEarJK/",
         "avg_moneyline_1": 122,
         "avg_moneyline_2": 320,
@@ -2158,12 +2324,13 @@
         "high_moneyline_2": 362
     },
     {
-        "id": "27_november_2022_anaheim_ducks_seattle_kraken",
         "date": "27 november 2022",
         "team_1": "anaheim ducks",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/anaheim-ducks-seattle-kraken-rTysaBS9/",
         "avg_moneyline_1": 230,
         "avg_moneyline_2": 338,
@@ -2171,12 +2338,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "25_november_2022_vegas_golden_knights_seattle_kraken",
         "date": "25 november 2022",
         "team_1": "vegas golden knights",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/vegas-golden-knights-seattle-kraken-UPB7pCDG/",
         "avg_moneyline_1": -113,
         "avg_moneyline_2": 343,
@@ -2184,12 +2352,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "23_november_2022_seattle_kraken_san_jose_sharks",
         "date": "23 november 2022",
         "team_1": "seattle kraken",
         "team_2": "san jose sharks",
         "score_1": 8,
         "score_2": 5,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-san-jose-sharks-nPlyn4XN/",
         "avg_moneyline_1": -110,
         "avg_moneyline_2": 331,
@@ -2197,12 +2366,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "19_november_2022_seattle_kraken_los_angeles_kings",
         "date": "19 november 2022",
         "team_1": "seattle kraken",
         "team_2": "los angeles kings",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-los-angeles-kings-z1uUvVJt/",
         "avg_moneyline_1": 119,
         "avg_moneyline_2": 321,
@@ -2210,12 +2380,13 @@
         "high_moneyline_2": 348
     },
     {
-        "id": "17_november_2022_seattle_kraken_new_york_rangers",
         "date": "17 november 2022",
         "team_1": "seattle kraken",
         "team_2": "new york rangers",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-new-york-rangers-Qy7872tI/",
         "avg_moneyline_1": 179,
         "avg_moneyline_2": 324,
@@ -2223,12 +2394,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "13_november_2022_seattle_kraken_winnipeg_jets",
         "date": "13 november 2022",
         "team_1": "seattle kraken",
         "team_2": "winnipeg jets",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-winnipeg-jets-Cp3qXtM2/",
         "avg_moneyline_1": -101,
         "avg_moneyline_2": 335,
@@ -2236,12 +2408,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "11_november_2022_seattle_kraken_minnesota_wild",
         "date": "11 november 2022",
         "team_1": "seattle kraken",
         "team_2": "minnesota wild",
         "score_1": 0,
         "score_2": 1,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-minnesota-wild-lEI8tZy2/",
         "avg_moneyline_1": 157,
         "avg_moneyline_2": 318,
@@ -2249,12 +2422,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "08_november_2022_seattle_kraken_nashville_predators",
         "date": "08 november 2022",
         "team_1": "seattle kraken",
         "team_2": "nashville predators",
         "score_1": 5,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-nashville-predators-Q1Yfyv0M/",
         "avg_moneyline_1": 131,
         "avg_moneyline_2": 326,
@@ -2262,12 +2436,13 @@
         "high_moneyline_2": 362
     },
     {
-        "id": "05_november_2022_pittsburgh_penguins_seattle_kraken",
         "date": "05 november 2022",
         "team_1": "pittsburgh penguins",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/pittsburgh-penguins-seattle-kraken-dMK8Pt1A/",
         "avg_moneyline_1": -120,
         "avg_moneyline_2": 355,
@@ -2275,12 +2450,13 @@
         "high_moneyline_2": 390
     },
     {
-        "id": "03_november_2022_minnesota_wild_seattle_kraken",
         "date": "03 november 2022",
         "team_1": "minnesota wild",
         "team_2": "seattle kraken",
         "score_1": 0,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/minnesota-wild-seattle-kraken-2otWBNWA/",
         "avg_moneyline_1": -108,
         "avg_moneyline_2": 349,
@@ -2288,12 +2464,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "01_november_2022_calgary_flames_seattle_kraken",
         "date": "01 november 2022",
         "team_1": "calgary flames",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/calgary-flames-seattle-kraken-dGRHiE2g/",
         "avg_moneyline_1": -134,
         "avg_moneyline_2": 362,
@@ -2301,12 +2478,13 @@
         "high_moneyline_2": 405
     },
     {
-        "id": "29_october_2022_seattle_kraken_pittsburgh_penguins",
         "date": "29 october 2022",
         "team_1": "seattle kraken",
         "team_2": "pittsburgh penguins",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-pittsburgh-penguins-CxHMDOp1/",
         "avg_moneyline_1": 168,
         "avg_moneyline_2": 332,
@@ -2314,12 +2492,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "27_october_2022_seattle_kraken_vancouver_canucks",
         "date": "27 october 2022",
         "team_1": "seattle kraken",
         "team_2": "vancouver canucks",
         "score_1": 4,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-vancouver-canucks-MuIaowtK/",
         "avg_moneyline_1": 120,
         "avg_moneyline_2": 330,
@@ -2327,12 +2506,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "25_october_2022_seattle_kraken_buffalo_sabres",
         "date": "25 october 2022",
         "team_1": "seattle kraken",
         "team_2": "buffalo sabres",
         "score_1": 5,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-buffalo-sabres-OYTcl8Hk/",
         "avg_moneyline_1": 119,
         "avg_moneyline_2": 337,
@@ -2340,12 +2520,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "23_october_2022_chicago_blackhawks_seattle_kraken",
         "date": "23 october 2022",
         "team_1": "chicago blackhawks",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 4,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/chicago-blackhawks-seattle-kraken-0xGfgc3H/",
         "avg_moneyline_1": 185,
         "avg_moneyline_2": 328,
@@ -2353,12 +2534,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "21_october_2022_colorado_avalanche_seattle_kraken",
         "date": "21 october 2022",
         "team_1": "colorado avalanche",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/colorado-avalanche-seattle-kraken-0OzMvblO/",
         "avg_moneyline_1": -145,
         "avg_moneyline_2": 379,
@@ -2366,12 +2548,13 @@
         "high_moneyline_2": 440
     },
     {
-        "id": "19_october_2022_seattle_kraken_st._louis_blues",
         "date": "19 october 2022",
         "team_1": "seattle kraken",
         "team_2": "st. louis blues",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-st-louis-blues-0f9QkOdP/",
         "avg_moneyline_1": 179,
         "avg_moneyline_2": 325,
@@ -2379,12 +2562,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "17_october_2022_seattle_kraken_carolina_hurricanes",
         "date": "17 october 2022",
         "team_1": "seattle kraken",
         "team_2": "carolina hurricanes",
         "score_1": 1,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-carolina-hurricanes-IZZMV25g/",
         "avg_moneyline_1": 222,
         "avg_moneyline_2": 335,
@@ -2392,12 +2576,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "15_october_2022_seattle_kraken_vegas_golden_knights",
         "date": "15 october 2022",
         "team_1": "seattle kraken",
         "team_2": "vegas golden knights",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-vegas-golden-knights-bV2dFsLC/",
         "avg_moneyline_1": 172,
         "avg_moneyline_2": 329,
@@ -2405,12 +2590,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "13_october_2022_los_angeles_kings_seattle_kraken",
         "date": "13 october 2022",
         "team_1": "los angeles kings",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/los-angeles-kings-seattle-kraken-vF7M24y7/",
         "avg_moneyline_1": -110,
         "avg_moneyline_2": 344,
@@ -2418,12 +2604,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "12_october_2022_anaheim_ducks_seattle_kraken",
         "date": "12 october 2022",
         "team_1": "anaheim ducks",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 4,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/anaheim-ducks-seattle-kraken-INLnyqPr/",
         "avg_moneyline_1": 134,
         "avg_moneyline_2": 315,
@@ -2431,12 +2618,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "07_october_2022_edmonton_oilers_seattle_kraken",
         "date": "07 october 2022",
         "team_1": "edmonton oilers",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/edmonton-oilers-seattle-kraken-f7PRxV1a/",
         "avg_moneyline_1": -159,
         "avg_moneyline_2": 357,
@@ -2444,12 +2632,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "03_october_2022_calgary_flames_seattle_kraken",
         "date": "03 october 2022",
         "team_1": "calgary flames",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/calgary-flames-seattle-kraken-vJDiyIQf/",
         "avg_moneyline_1": -117,
         "avg_moneyline_2": 326,
@@ -2457,12 +2646,13 @@
         "high_moneyline_2": 342
     },
     {
-        "id": "01_october_2022_seattle_kraken_vancouver_canucks",
         "date": "01 october 2022",
         "team_1": "seattle kraken",
         "team_2": "vancouver canucks",
         "score_1": 4,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-vancouver-canucks-riKrwvdr/",
         "avg_moneyline_1": 114,
         "avg_moneyline_2": 315,
@@ -2470,12 +2660,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "29_september_2022_vancouver_canucks_seattle_kraken",
         "date": "29 september 2022",
         "team_1": "vancouver canucks",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/vancouver-canucks-seattle-kraken-xjiMLxR7/",
         "avg_moneyline_1": -171,
         "avg_moneyline_2": 350,
@@ -2483,12 +2674,13 @@
         "high_moneyline_2": 390
     },
     {
-        "id": "27_september_2022_seattle_kraken_calgary_flames",
         "date": "27 september 2022",
         "team_1": "seattle kraken",
         "team_2": "calgary flames",
         "score_1": 3,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-calgary-flames-zRf5PKRr/",
         "avg_moneyline_1": -102,
         "avg_moneyline_2": 321,
@@ -2496,12 +2688,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "26_september_2022_seattle_kraken_edmonton_oilers",
         "date": "26 september 2022",
         "team_1": "seattle kraken",
         "team_2": "edmonton oilers",
         "score_1": 3,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2022/2023",
         "game_url": "usa/nhl-2022-2023/seattle-kraken-edmonton-oilers-jgJYUt4L/",
         "avg_moneyline_1": -108,
         "avg_moneyline_2": 333,
@@ -2509,12 +2702,13 @@
         "high_moneyline_2": 370
     },
     {
-        "id": "01_may_2022_winnipeg_jets_seattle_kraken",
         "date": "01 may 2022",
         "team_1": "winnipeg jets",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/winnipeg-jets-seattle-kraken-QLlau7RA/",
         "avg_moneyline_1": -123,
         "avg_moneyline_2": 365,
@@ -2522,12 +2716,13 @@
         "high_moneyline_2": 398
     },
     {
-        "id": "29_april_2022_seattle_kraken_san_jose_sharks",
         "date": "29 april 2022",
         "team_1": "seattle kraken",
         "team_2": "san jose sharks",
         "score_1": 3,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-san-jose-sharks-SQ0wG5Gk/",
         "avg_moneyline_1": 117,
         "avg_moneyline_2": 331,
@@ -2535,12 +2730,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "27_april_2022_seattle_kraken_los_angeles_kings",
         "date": "27 april 2022",
         "team_1": "seattle kraken",
         "team_2": "los angeles kings",
         "score_1": 3,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-los-angeles-kings-ATE72nnj/",
         "avg_moneyline_1": 210,
         "avg_moneyline_2": 336,
@@ -2548,12 +2744,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "26_april_2022_vancouver_canucks_seattle_kraken",
         "date": "26 april 2022",
         "team_1": "vancouver canucks",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/vancouver-canucks-seattle-kraken-p06ztgzC/",
         "avg_moneyline_1": -121,
         "avg_moneyline_2": 361,
@@ -2561,12 +2758,13 @@
         "high_moneyline_2": 390
     },
     {
-        "id": "23_april_2022_dallas_stars_seattle_kraken",
         "date": "23 april 2022",
         "team_1": "dallas stars",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/dallas-stars-seattle-kraken-bk56dKJa/",
         "avg_moneyline_1": -178,
         "avg_moneyline_2": 396,
@@ -2574,12 +2772,13 @@
         "high_moneyline_2": 430
     },
     {
-        "id": "22_april_2022_minnesota_wild_seattle_kraken",
         "date": "22 april 2022",
         "team_1": "minnesota wild",
         "team_2": "seattle kraken",
         "score_1": 6,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/minnesota-wild-seattle-kraken-8KQR32RP/",
         "avg_moneyline_1": -172,
         "avg_moneyline_2": 391,
@@ -2587,12 +2786,13 @@
         "high_moneyline_2": 450
     },
     {
-        "id": "20_april_2022_seattle_kraken_colorado_avalanche",
         "date": "20 april 2022",
         "team_1": "seattle kraken",
         "team_2": "colorado avalanche",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-colorado-avalanche-6LBOo35s/",
         "avg_moneyline_1": 352,
         "avg_moneyline_2": 405,
@@ -2600,12 +2800,13 @@
         "high_moneyline_2": 450
     },
     {
-        "id": "18_april_2022_seattle_kraken_ottawa_senators",
         "date": "18 april 2022",
         "team_1": "seattle kraken",
         "team_2": "ottawa senators",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-ottawa-senators-02JNUfpt/",
         "avg_moneyline_1": 136,
         "avg_moneyline_2": 324,
@@ -2613,12 +2814,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "16_april_2022_seattle_kraken_new_jersey_devils",
         "date": "16 april 2022",
         "team_1": "seattle kraken",
         "team_2": "new jersey devils",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-new-jersey-devils-8YkdEzSI/",
         "avg_moneyline_1": 133,
         "avg_moneyline_2": 333,
@@ -2626,12 +2828,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "12_april_2022_calgary_flames_seattle_kraken",
         "date": "12 april 2022",
         "team_1": "calgary flames",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/calgary-flames-seattle-kraken-MTirqkSo/",
         "avg_moneyline_1": -222,
         "avg_moneyline_2": 428,
@@ -2639,12 +2842,13 @@
         "high_moneyline_2": 480
     },
     {
-        "id": "09_april_2022_seattle_kraken_calgary_flames",
         "date": "09 april 2022",
         "team_1": "seattle kraken",
         "team_2": "calgary flames",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-calgary-flames-IZ9GUkDh/",
         "avg_moneyline_1": 299,
         "avg_moneyline_2": 379,
@@ -2652,12 +2856,13 @@
         "high_moneyline_2": 409
     },
     {
-        "id": "07_april_2022_chicago_blackhawks_seattle_kraken",
         "date": "07 april 2022",
         "team_1": "chicago blackhawks",
         "team_2": "seattle kraken",
         "score_1": 0,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/chicago-blackhawks-seattle-kraken-Qo21l5hj/",
         "avg_moneyline_1": 104,
         "avg_moneyline_2": 344,
@@ -2665,12 +2870,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "06_april_2022_st._louis_blues_seattle_kraken",
         "date": "06 april 2022",
         "team_1": "st. louis blues",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/st-louis-blues-seattle-kraken-WppT6D8H/",
         "avg_moneyline_1": -149,
         "avg_moneyline_2": 376,
@@ -2678,12 +2884,13 @@
         "high_moneyline_2": 405
     },
     {
-        "id": "03_april_2022_seattle_kraken_dallas_stars",
         "date": "03 april 2022",
         "team_1": "seattle kraken",
         "team_2": "dallas stars",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-dallas-stars-YBPQbbAt/",
         "avg_moneyline_1": 199,
         "avg_moneyline_2": 331,
@@ -2691,12 +2898,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "01_april_2022_seattle_kraken_vegas_golden_knights",
         "date": "01 april 2022",
         "team_1": "seattle kraken",
         "team_2": "vegas golden knights",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-vegas-golden-knights-bZjTkLXP/",
         "avg_moneyline_1": 224,
         "avg_moneyline_2": 342,
@@ -2704,12 +2912,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "30_march_2022_seattle_kraken_vegas_golden_knights",
         "date": "30 march 2022",
         "team_1": "seattle kraken",
         "team_2": "vegas golden knights",
         "score_1": 0,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-vegas-golden-knights-KUCjx23Q/",
         "avg_moneyline_1": 204,
         "avg_moneyline_2": 345,
@@ -2717,12 +2926,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "28_march_2022_los_angeles_kings_seattle_kraken",
         "date": "28 march 2022",
         "team_1": "los angeles kings",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/los-angeles-kings-seattle-kraken-8SQAyVCF/",
         "avg_moneyline_1": -128,
         "avg_moneyline_2": 364,
@@ -2730,12 +2940,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "26_march_2022_los_angeles_kings_seattle_kraken",
         "date": "26 march 2022",
         "team_1": "los angeles kings",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/los-angeles-kings-seattle-kraken-Qq9KQDbc/",
         "avg_moneyline_1": -130,
         "avg_moneyline_2": 366,
@@ -2743,12 +2954,13 @@
         "high_moneyline_2": 388
     },
     {
-        "id": "22_march_2022_arizona_coyotes_seattle_kraken",
         "date": "22 march 2022",
         "team_1": "arizona coyotes",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/arizona-coyotes-seattle-kraken-zomZA4mU/",
         "avg_moneyline_1": 149,
         "avg_moneyline_2": 323,
@@ -2756,12 +2968,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "19_march_2022_seattle_kraken_detroit_red_wings",
         "date": "19 march 2022",
         "team_1": "seattle kraken",
         "team_2": "detroit red wings",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-detroit-red-wings-hM1eMwjE/",
         "avg_moneyline_1": 135,
         "avg_moneyline_2": 328,
@@ -2769,12 +2982,13 @@
         "high_moneyline_2": 346
     },
     {
-        "id": "16_march_2022_seattle_kraken_tampa_bay_lightning",
         "date": "16 march 2022",
         "team_1": "seattle kraken",
         "team_2": "tampa bay lightning",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-tampa-bay-lightning-AcfMm4Rb/",
         "avg_moneyline_1": 353,
         "avg_moneyline_2": 401,
@@ -2782,12 +2996,13 @@
         "high_moneyline_2": 450
     },
     {
-        "id": "12_march_2022_montreal_canadiens_seattle_kraken",
         "date": "12 march 2022",
         "team_1": "montreal canadiens",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/montreal-canadiens-seattle-kraken-rBGryt0q/",
         "avg_moneyline_1": 129,
         "avg_moneyline_2": 331,
@@ -2795,12 +3010,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "10_march_2022_ottawa_senators_seattle_kraken",
         "date": "10 march 2022",
         "team_1": "ottawa senators",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/ottawa-senators-seattle-kraken-UqYeppwc/",
         "avg_moneyline_1": 116,
         "avg_moneyline_2": 326,
@@ -2808,12 +3024,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "08_march_2022_toronto_maple_leafs_seattle_kraken",
         "date": "08 march 2022",
         "team_1": "toronto maple leafs",
         "team_2": "seattle kraken",
         "score_1": 6,
         "score_2": 4,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/toronto-maple-leafs-seattle-kraken-Or5ZSr8M/",
         "avg_moneyline_1": -175,
         "avg_moneyline_2": 402,
@@ -2821,12 +3038,13 @@
         "high_moneyline_2": 450
     },
     {
-        "id": "06_march_2022_carolina_hurricanes_seattle_kraken",
         "date": "06 march 2022",
         "team_1": "carolina hurricanes",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/carolina-hurricanes-seattle-kraken-CAOKEwVL/",
         "avg_moneyline_1": -207,
         "avg_moneyline_2": 434,
@@ -2834,12 +3052,13 @@
         "high_moneyline_2": 475
     },
     {
-        "id": "05_march_2022_washington_capitals_seattle_kraken",
         "date": "05 march 2022",
         "team_1": "washington capitals",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/washington-capitals-seattle-kraken-zDNKebOq/",
         "avg_moneyline_1": -147,
         "avg_moneyline_2": 374,
@@ -2847,12 +3066,13 @@
         "high_moneyline_2": 400
     },
     {
-        "id": "02_march_2022_seattle_kraken_nashville_predators",
         "date": "02 march 2022",
         "team_1": "seattle kraken",
         "team_2": "nashville predators",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-nashville-predators-8OO4ULPp/",
         "avg_moneyline_1": 263,
         "avg_moneyline_2": 352,
@@ -2860,12 +3080,13 @@
         "high_moneyline_2": 380
     },
     {
-        "id": "27_february_2022_san_jose_sharks_seattle_kraken",
         "date": "27 february 2022",
         "team_1": "san jose sharks",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/san-jose-sharks-seattle-kraken-fD0ek2pD/",
         "avg_moneyline_1": 130,
         "avg_moneyline_2": 318,
@@ -2873,12 +3094,13 @@
         "high_moneyline_2": 342
     },
     {
-        "id": "24_february_2022_seattle_kraken_boston_bruins",
         "date": "24 february 2022",
         "team_1": "seattle kraken",
         "team_2": "boston bruins",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-boston-bruins-tCNUn9OE/",
         "avg_moneyline_1": 284,
         "avg_moneyline_2": 365,
@@ -2886,12 +3108,13 @@
         "high_moneyline_2": 390
     },
     {
-        "id": "22_february_2022_seattle_kraken_new_york_islanders",
         "date": "22 february 2022",
         "team_1": "seattle kraken",
         "team_2": "new york islanders",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-new-york-islanders-vF3gi0vR/",
         "avg_moneyline_1": 214,
         "avg_moneyline_2": 314,
@@ -2899,12 +3122,13 @@
         "high_moneyline_2": 342
     },
     {
-        "id": "21_february_2022_vancouver_canucks_seattle_kraken",
         "date": "21 february 2022",
         "team_1": "vancouver canucks",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/vancouver-canucks-seattle-kraken-C015opQe/",
         "avg_moneyline_1": -117,
         "avg_moneyline_2": 341,
@@ -2912,12 +3136,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "19_february_2022_calgary_flames_seattle_kraken",
         "date": "19 february 2022",
         "team_1": "calgary flames",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/calgary-flames-seattle-kraken-MFfYhSXL/",
         "avg_moneyline_1": -198,
         "avg_moneyline_2": 423,
@@ -2925,12 +3150,13 @@
         "high_moneyline_2": 462
     },
     {
-        "id": "17_february_2022_winnipeg_jets_seattle_kraken",
         "date": "17 february 2022",
         "team_1": "winnipeg jets",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/winnipeg-jets-seattle-kraken-rLqmNUrU/",
         "avg_moneyline_1": 104,
         "avg_moneyline_2": 340,
@@ -2938,12 +3164,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "14_february_2022_seattle_kraken_toronto_maple_leafs",
         "date": "14 february 2022",
         "team_1": "seattle kraken",
         "team_2": "toronto maple leafs",
         "score_1": 2,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-toronto-maple-leafs-dCqMChlE/",
         "avg_moneyline_1": 331,
         "avg_moneyline_2": 390,
@@ -2951,12 +3178,13 @@
         "high_moneyline_2": 425
     },
     {
-        "id": "11_february_2022_anaheim_ducks_seattle_kraken",
         "date": "11 february 2022",
         "team_1": "anaheim ducks",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/anaheim-ducks-seattle-kraken-jHa69CTM/",
         "avg_moneyline_1": -107,
         "avg_moneyline_2": 336,
@@ -2964,12 +3192,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "09_february_2022_seattle_kraken_arizona_coyotes",
         "date": "09 february 2022",
         "team_1": "seattle kraken",
         "team_2": "arizona coyotes",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-arizona-coyotes-AqFL0neJ/",
         "avg_moneyline_1": -142,
         "avg_moneyline_2": 362,
@@ -2977,12 +3206,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "02_february_2022_new_york_islanders_seattle_kraken",
         "date": "02 february 2022",
         "team_1": "new york islanders",
         "team_2": "seattle kraken",
         "score_1": 0,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/new-york-islanders-seattle-kraken-QNPkHHYT/",
         "avg_moneyline_1": -134,
         "avg_moneyline_2": 338,
@@ -2990,12 +3220,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "01_february_2022_boston_bruins_seattle_kraken",
         "date": "01 february 2022",
         "team_1": "boston bruins",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/boston-bruins-seattle-kraken-8b3iZkfF/",
         "avg_moneyline_1": -170,
         "avg_moneyline_2": 389,
@@ -3003,12 +3234,13 @@
         "high_moneyline_2": 420
     },
     {
-        "id": "30_january_2022_new_york_rangers_seattle_kraken",
         "date": "30 january 2022",
         "team_1": "new york rangers",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/new-york-rangers-seattle-kraken-WE5KWdYG/",
         "avg_moneyline_1": -119,
         "avg_moneyline_2": 356,
@@ -3016,12 +3248,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "27_january_2022_pittsburgh_penguins_seattle_kraken",
         "date": "27 january 2022",
         "team_1": "pittsburgh penguins",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 2,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/pittsburgh-penguins-seattle-kraken-E3vG4vkO/",
         "avg_moneyline_1": -218,
         "avg_moneyline_2": 446,
@@ -3029,12 +3262,13 @@
         "high_moneyline_2": 484
     },
     {
-        "id": "25_january_2022_seattle_kraken_nashville_predators",
         "date": "25 january 2022",
         "team_1": "seattle kraken",
         "team_2": "nashville predators",
         "score_1": 2,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-nashville-predators-pABUhsjC/",
         "avg_moneyline_1": 242,
         "avg_moneyline_2": 345,
@@ -3042,12 +3276,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "23_january_2022_seattle_kraken_florida_panthers",
         "date": "23 january 2022",
         "team_1": "seattle kraken",
         "team_2": "florida panthers",
         "score_1": 5,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-florida-panthers-Igvw3RDJ/",
         "avg_moneyline_1": 342,
         "avg_moneyline_2": 400,
@@ -3055,12 +3290,13 @@
         "high_moneyline_2": 434
     },
     {
-        "id": "21_january_2022_seattle_kraken_st._louis_blues",
         "date": "21 january 2022",
         "team_1": "seattle kraken",
         "team_2": "st. louis blues",
         "score_1": 0,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-st-louis-blues-86weq0bt/",
         "avg_moneyline_1": 247,
         "avg_moneyline_2": 348,
@@ -3068,12 +3304,13 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "20_january_2022_seattle_kraken_san_jose_sharks",
         "date": "20 january 2022",
         "team_1": "seattle kraken",
         "team_2": "san jose sharks",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-san-jose-sharks-ph6YRbT5/",
         "avg_moneyline_1": 138,
         "avg_moneyline_2": 314,
@@ -3081,12 +3318,13 @@
         "high_moneyline_2": 333
     },
     {
-        "id": "17_january_2022_seattle_kraken_chicago_blackhawks",
         "date": "17 january 2022",
         "team_1": "seattle kraken",
         "team_2": "chicago blackhawks",
         "score_1": 3,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-chicago-blackhawks-x6RkHsFm/",
         "avg_moneyline_1": 142,
         "avg_moneyline_2": 312,
@@ -3094,12 +3332,13 @@
         "high_moneyline_2": 338
     },
     {
-        "id": "15_january_2022_seattle_kraken_los_angeles_kings",
         "date": "15 january 2022",
         "team_1": "seattle kraken",
         "team_2": "los angeles kings",
         "score_1": 1,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-los-angeles-kings-8AmsxOZF/",
         "avg_moneyline_1": 167,
         "avg_moneyline_2": 315,
@@ -3107,12 +3346,13 @@
         "high_moneyline_2": 351
     },
     {
-        "id": "13_january_2022_st._louis_blues_seattle_kraken",
         "date": "13 january 2022",
         "team_1": "st. louis blues",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/st-louis-blues-seattle-kraken-GGO3O45G/",
         "avg_moneyline_1": -131,
         "avg_moneyline_2": 359,
@@ -3120,12 +3360,13 @@
         "high_moneyline_2": 390
     },
     {
-        "id": "12_january_2022_dallas_stars_seattle_kraken",
         "date": "12 january 2022",
         "team_1": "dallas stars",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/dallas-stars-seattle-kraken-QRVjR6Lc/",
         "avg_moneyline_1": -134,
         "avg_moneyline_2": 363,
@@ -3133,12 +3374,13 @@
         "high_moneyline_2": 388
     },
     {
-        "id": "10_january_2022_colorado_avalanche_seattle_kraken",
         "date": "10 january 2022",
         "team_1": "colorado avalanche",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/colorado-avalanche-seattle-kraken-MJULDmib/",
         "avg_moneyline_1": -231,
         "avg_moneyline_2": 469,
@@ -3146,12 +3388,13 @@
         "high_moneyline_2": 518
     },
     {
-        "id": "01_january_2022_seattle_kraken_vancouver_canucks",
         "date": "01 january 2022",
         "team_1": "seattle kraken",
         "team_2": "vancouver canucks",
         "score_1": 2,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-vancouver-canucks-vk0LCMOf/",
         "avg_moneyline_1": 154,
         "avg_moneyline_2": 317,
@@ -3159,12 +3402,13 @@
         "high_moneyline_2": 346
     },
     {
-        "id": "30_december_2021_seattle_kraken_calgary_flames",
         "date": "30 december 2021",
         "team_1": "seattle kraken",
         "team_2": "calgary flames",
         "score_1": 4,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-calgary-flames-0zNYLQ18/",
         "avg_moneyline_1": 257,
         "avg_moneyline_2": 337,
@@ -3172,12 +3416,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "29_december_2021_seattle_kraken_philadelphia_flyers",
         "date": "29 december 2021",
         "team_1": "seattle kraken",
         "team_2": "philadelphia flyers",
         "score_1": 2,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-philadelphia-flyers-fTI7C4BS/",
         "avg_moneyline_1": 113,
         "avg_moneyline_2": 333,
@@ -3185,12 +3430,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "18_december_2021_seattle_kraken_edmonton_oilers",
         "date": "18 december 2021",
         "team_1": "seattle kraken",
         "team_2": "edmonton oilers",
         "score_1": 3,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-edmonton-oilers-hr9MiiCl/",
         "avg_moneyline_1": 152,
         "avg_moneyline_2": 328,
@@ -3198,12 +3444,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "15_december_2021_anaheim_ducks_seattle_kraken",
         "date": "15 december 2021",
         "team_1": "anaheim ducks",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/anaheim-ducks-seattle-kraken-pKS3vSJs/",
         "avg_moneyline_1": -109,
         "avg_moneyline_2": 343,
@@ -3211,12 +3458,13 @@
         "high_moneyline_2": 374
     },
     {
-        "id": "14_december_2021_san_jose_sharks_seattle_kraken",
         "date": "14 december 2021",
         "team_1": "san jose sharks",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/san-jose-sharks-seattle-kraken-K2QxQS4l/",
         "avg_moneyline_1": 112,
         "avg_moneyline_2": 328,
@@ -3224,12 +3472,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "11_december_2021_seattle_kraken_columbus_blue_jackets",
         "date": "11 december 2021",
         "team_1": "seattle kraken",
         "team_2": "columbus blue jackets",
         "score_1": 4,
         "score_2": 5,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-columbus-blue-jackets-S81aC9zk/",
         "avg_moneyline_1": 104,
         "avg_moneyline_2": 334,
@@ -3237,12 +3486,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "09_december_2021_seattle_kraken_winnipeg_jets",
         "date": "09 december 2021",
         "team_1": "seattle kraken",
         "team_2": "winnipeg jets",
         "score_1": 0,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-winnipeg-jets-CWowP1xo/",
         "avg_moneyline_1": 152,
         "avg_moneyline_2": 324,
@@ -3250,12 +3500,13 @@
         "high_moneyline_2": 346
     },
     {
-        "id": "06_december_2021_seattle_kraken_pittsburgh_penguins",
         "date": "06 december 2021",
         "team_1": "seattle kraken",
         "team_2": "pittsburgh penguins",
         "score_1": 1,
         "score_2": 6,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-pittsburgh-penguins-KtXc83wn/",
         "avg_moneyline_1": 161,
         "avg_moneyline_2": 323,
@@ -3263,12 +3514,13 @@
         "high_moneyline_2": 354
     },
     {
-        "id": "03_december_2021_seattle_kraken_edmonton_oilers",
         "date": "03 december 2021",
         "team_1": "seattle kraken",
         "team_2": "edmonton oilers",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-edmonton-oilers-Cly5M8Gn/",
         "avg_moneyline_1": 178,
         "avg_moneyline_2": 345,
@@ -3276,12 +3528,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "01_december_2021_detroit_red_wings_seattle_kraken",
         "date": "01 december 2021",
         "team_1": "detroit red wings",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/detroit-red-wings-seattle-kraken-Y7iBnmHP/",
         "avg_moneyline_1": 154,
         "avg_moneyline_2": 301,
@@ -3289,12 +3542,13 @@
         "high_moneyline_2": 332
     },
     {
-        "id": "29_november_2021_buffalo_sabres_seattle_kraken",
         "date": "29 november 2021",
         "team_1": "buffalo sabres",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 7,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/buffalo-sabres-seattle-kraken-82BP3TU2/",
         "avg_moneyline_1": 193,
         "avg_moneyline_2": 314,
@@ -3302,12 +3556,13 @@
         "high_moneyline_2": 342
     },
     {
-        "id": "27_november_2021_florida_panthers_seattle_kraken",
         "date": "27 november 2021",
         "team_1": "florida panthers",
         "team_2": "seattle kraken",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/florida-panthers-seattle-kraken-QNH6m8pM/",
         "avg_moneyline_1": -136,
         "avg_moneyline_2": 367,
@@ -3315,12 +3570,13 @@
         "high_moneyline_2": 409
     },
     {
-        "id": "26_november_2021_tampa_bay_lightning_seattle_kraken",
         "date": "26 november 2021",
         "team_1": "tampa bay lightning",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/tampa-bay-lightning-seattle-kraken-0MsYY8VS/",
         "avg_moneyline_1": -127,
         "avg_moneyline_2": 340,
@@ -3328,12 +3584,13 @@
         "high_moneyline_2": 378
     },
     {
-        "id": "24_november_2021_seattle_kraken_carolina_hurricanes",
         "date": "24 november 2021",
         "team_1": "seattle kraken",
         "team_2": "carolina hurricanes",
         "score_1": 2,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-carolina-hurricanes-xKUsOiHA/",
         "avg_moneyline_1": 208,
         "avg_moneyline_2": 328,
@@ -3341,12 +3598,13 @@
         "high_moneyline_2": 362
     },
     {
-        "id": "21_november_2021_seattle_kraken_washington_capitals",
         "date": "21 november 2021",
         "team_1": "seattle kraken",
         "team_2": "washington capitals",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-washington-capitals-OG489h2H/",
         "avg_moneyline_1": 163,
         "avg_moneyline_2": 327,
@@ -3354,12 +3612,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "19_november_2021_seattle_kraken_colorado_avalanche",
         "date": "19 november 2021",
         "team_1": "seattle kraken",
         "team_2": "colorado avalanche",
         "score_1": 3,
         "score_2": 7,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-colorado-avalanche-2TxX91d0/",
         "avg_moneyline_1": 204,
         "avg_moneyline_2": 343,
@@ -3367,12 +3626,13 @@
         "high_moneyline_2": 365
     },
     {
-        "id": "17_november_2021_seattle_kraken_chicago_blackhawks",
         "date": "17 november 2021",
         "team_1": "seattle kraken",
         "team_2": "chicago blackhawks",
         "score_1": 2,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-chicago-blackhawks-lQCce2s7/",
         "avg_moneyline_1": 108,
         "avg_moneyline_2": 325,
@@ -3380,12 +3640,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "13_november_2021_seattle_kraken_minnesota_wild",
         "date": "13 november 2021",
         "team_1": "seattle kraken",
         "team_2": "minnesota wild",
         "score_1": 2,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-minnesota-wild-YH4kXLzr/",
         "avg_moneyline_1": 160,
         "avg_moneyline_2": 317,
@@ -3393,12 +3654,13 @@
         "high_moneyline_2": 351
     },
     {
-        "id": "11_november_2021_seattle_kraken_anaheim_ducks",
         "date": "11 november 2021",
         "team_1": "seattle kraken",
         "team_2": "anaheim ducks",
         "score_1": 4,
         "score_2": 7,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-anaheim-ducks-fBHNIMLl/",
         "avg_moneyline_1": -100,
         "avg_moneyline_2": 315,
@@ -3406,12 +3668,13 @@
         "high_moneyline_2": 342
     },
     {
-        "id": "09_november_2021_vegas_golden_knights_seattle_kraken",
         "date": "09 november 2021",
         "team_1": "vegas golden knights",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/vegas-golden-knights-seattle-kraken-dCcrR2b2/",
         "avg_moneyline_1": 129,
         "avg_moneyline_2": 320,
@@ -3419,12 +3682,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "06_november_2021_arizona_coyotes_seattle_kraken",
         "date": "06 november 2021",
         "team_1": "arizona coyotes",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 4,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/arizona-coyotes-seattle-kraken-C6vRKRyT/",
         "avg_moneyline_1": 261,
         "avg_moneyline_2": 326,
@@ -3432,12 +3696,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "04_november_2021_seattle_kraken_buffalo_sabres",
         "date": "04 november 2021",
         "team_1": "seattle kraken",
         "team_2": "buffalo sabres",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-buffalo-sabres-xUq2QV7i/",
         "avg_moneyline_1": -120,
         "avg_moneyline_2": 338,
@@ -3445,12 +3710,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "01_november_2021_edmonton_oilers_seattle_kraken",
         "date": "01 november 2021",
         "team_1": "edmonton oilers",
         "team_2": "seattle kraken",
         "score_1": 5,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/edmonton-oilers-seattle-kraken-Wpr4Sij6/",
         "avg_moneyline_1": -155,
         "avg_moneyline_2": 400,
@@ -3458,12 +3724,13 @@
         "high_moneyline_2": 424
     },
     {
-        "id": "31_october_2021_seattle_kraken_new_york_rangers",
         "date": "31 october 2021",
         "team_1": "seattle kraken",
         "team_2": "new york rangers",
         "score_1": 1,
         "score_2": 3,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-new-york-rangers-QVeK5eWO/",
         "avg_moneyline_1": 174,
         "avg_moneyline_2": 322,
@@ -3471,12 +3738,13 @@
         "high_moneyline_2": 338
     },
     {
-        "id": "28_october_2021_seattle_kraken_minnesota_wild",
         "date": "28 october 2021",
         "team_1": "seattle kraken",
         "team_2": "minnesota wild",
         "score_1": 4,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-minnesota-wild-MJWHctYm/",
         "avg_moneyline_1": 147,
         "avg_moneyline_2": 324,
@@ -3484,12 +3752,13 @@
         "high_moneyline_2": 346
     },
     {
-        "id": "26_october_2021_seattle_kraken_montreal_canadiens",
         "date": "26 october 2021",
         "team_1": "seattle kraken",
         "team_2": "montreal canadiens",
         "score_1": 5,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-montreal-canadiens-AiNpOxaK/",
         "avg_moneyline_1": 123,
         "avg_moneyline_2": 313,
@@ -3497,12 +3766,13 @@
         "high_moneyline_2": 348
     },
     {
-        "id": "23_october_2021_seattle_kraken_vancouver_canucks",
         "date": "23 october 2021",
         "team_1": "seattle kraken",
         "team_2": "vancouver canucks",
         "score_1": 2,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-vancouver-canucks-8AVF0r1d/",
         "avg_moneyline_1": 114,
         "avg_moneyline_2": 328,
@@ -3510,12 +3780,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "19_october_2021_new_jersey_devils_seattle_kraken",
         "date": "19 october 2021",
         "team_1": "new jersey devils",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 2,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/new-jersey-devils-seattle-kraken-0lxsuyMi/",
         "avg_moneyline_1": -103,
         "avg_moneyline_2": 334,
@@ -3523,12 +3794,13 @@
         "high_moneyline_2": 368
     },
     {
-        "id": "18_october_2021_philadelphia_flyers_seattle_kraken",
         "date": "18 october 2021",
         "team_1": "philadelphia flyers",
         "team_2": "seattle kraken",
         "score_1": 6,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/philadelphia-flyers-seattle-kraken-dG9KNZjH/",
         "avg_moneyline_1": 109,
         "avg_moneyline_2": 331,
@@ -3536,12 +3808,13 @@
         "high_moneyline_2": 363
     },
     {
-        "id": "16_october_2021_columbus_blue_jackets_seattle_kraken",
         "date": "16 october 2021",
         "team_1": "columbus blue jackets",
         "team_2": "seattle kraken",
         "score_1": 2,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/columbus-blue-jackets-seattle-kraken-6RG7Qy7b/",
         "avg_moneyline_1": 147,
         "avg_moneyline_2": 318,
@@ -3549,12 +3822,13 @@
         "high_moneyline_2": 351
     },
     {
-        "id": "14_october_2021_nashville_predators_seattle_kraken",
         "date": "14 october 2021",
         "team_1": "nashville predators",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/nashville-predators-seattle-kraken-0j79DUBC/",
         "avg_moneyline_1": 113,
         "avg_moneyline_2": 328,
@@ -3562,12 +3836,13 @@
         "high_moneyline_2": 358
     },
     {
-        "id": "12_october_2021_vegas_golden_knights_seattle_kraken",
         "date": "12 october 2021",
         "team_1": "vegas golden knights",
         "team_2": "seattle kraken",
         "score_1": 4,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/vegas-golden-knights-seattle-kraken-I7BlIhcs/",
         "avg_moneyline_1": -150,
         "avg_moneyline_2": 350,
@@ -3575,12 +3850,13 @@
         "high_moneyline_2": 376
     },
     {
-        "id": "05_october_2021_vancouver_canucks_seattle_kraken",
         "date": "05 october 2021",
         "team_1": "vancouver canucks",
         "team_2": "seattle kraken",
         "score_1": 0,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/vancouver-canucks-seattle-kraken-U5u79nNd/",
         "avg_moneyline_1": 126,
         "avg_moneyline_2": 321,
@@ -3588,12 +3864,13 @@
         "high_moneyline_2": 334
     },
     {
-        "id": "02_october_2021_seattle_kraken_calgary_flames",
         "date": "02 october 2021",
         "team_1": "seattle kraken",
         "team_2": "calgary flames",
         "score_1": 1,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-calgary-flames-G2iPp3pd/",
         "avg_moneyline_1": 156,
         "avg_moneyline_2": 316,
@@ -3601,12 +3878,13 @@
         "high_moneyline_2": 330
     },
     {
-        "id": "01_october_2021_seattle_kraken_edmonton_oilers",
         "date": "01 october 2021",
         "team_1": "seattle kraken",
         "team_2": "edmonton oilers",
         "score_1": 2,
         "score_2": 1,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-edmonton-oilers-xChLoqVk/",
         "avg_moneyline_1": 171,
         "avg_moneyline_2": 335,
@@ -3614,12 +3892,13 @@
         "high_moneyline_2": 338
     },
     {
-        "id": "29_september_2021_calgary_flames_seattle_kraken",
         "date": "29 september 2021",
         "team_1": "calgary flames",
         "team_2": "seattle kraken",
         "score_1": 3,
         "score_2": 4,
+        "result": 0,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/calgary-flames-seattle-kraken-KzbGnPFq/",
         "avg_moneyline_1": -101,
         "avg_moneyline_2": 327,
@@ -3627,12 +3906,13 @@
         "high_moneyline_2": 340
     },
     {
-        "id": "28_september_2021_edmonton_oilers_seattle_kraken",
         "date": "28 september 2021",
         "team_1": "edmonton oilers",
         "team_2": "seattle kraken",
         "score_1": 6,
         "score_2": 0,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/edmonton-oilers-seattle-kraken-IRBli57S/",
         "avg_moneyline_1": -103,
         "avg_moneyline_2": 332,
@@ -3640,12 +3920,13 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "26_september_2021_seattle_kraken_vancouver_canucks",
         "date": "26 september 2021",
         "team_1": "seattle kraken",
         "team_2": "vancouver canucks",
         "score_1": 5,
         "score_2": 3,
+        "result": 1,
+        "tournament": "NHL_2021/2022",
         "game_url": "usa/nhl-2021-2022/seattle-kraken-vancouver-canucks-O4CphohM/",
         "avg_moneyline_1": 118,
         "avg_moneyline_2": 317,

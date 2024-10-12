@@ -12,7 +12,7 @@
         "lakers", "magic", "mavericks", "nets", "nuggets", "pacers", "pelicans", "pistons", "raptors", "rockets", "seventysixers", "spurs",
         "suns", "thunder", "timberwolves", "trailblazers", "warriors", "wizards"],
 
-    "nhl_teams": ["avalanche", "blackhawks", "bluejackets", "blues", "bruins", "canadiens", "canucks", "capitals", "coyotes", "deviles",
+    "nhl_teams": ["avalanche", "blackhawks", "bluejackets", "blues", "bruins", "canadiens", "canucks", "capitals", "coyotes", "devils",
         "ducks", "flames", "flyers", "goldenknights", "hurricanes", "islanders", "jets", "kings", "kraken", "lightning", "mapleleafs", 
         "oilers", "panthers", "penguins", "predators", "rangers", "redwings", "sabres", "senators", "sharks", "stars", "wild"]
 }

@@ -1,6 +1,5 @@
 [
     {
-        "id": "29_september_2024_green_bay_packers_minnesota_vikings",
         "date": "29 september 2024",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -15,7 +14,6 @@
         "high_moneyline_2": 124
     },
     {
-        "id": "22_september_2024_tennessee_titans_green_bay_packers",
         "date": "22 september 2024",
         "team_1": "tennessee titans",
         "team_2": "green bay packers",
@@ -30,7 +28,6 @@
         "high_moneyline_2": 142
     },
     {
-        "id": "15_september_2024_green_bay_packers_indianapolis_colts",
         "date": "15 september 2024",
         "team_1": "green bay packers",
         "team_2": "indianapolis colts",
@@ -45,7 +42,6 @@
         "high_moneyline_2": -130
     },
     {
-        "id": "06_september_2024_philadelphia_eagles_green_bay_packers",
         "date": "06 september 2024",
         "team_1": "philadelphia eagles",
         "team_2": "green bay packers",
@@ -60,7 +56,6 @@
         "high_moneyline_2": 108
     },
     {
-        "id": "24_august_2024_green_bay_packers_baltimore_ravens",
         "date": "24 august 2024",
         "team_1": "green bay packers",
         "team_2": "baltimore ravens",
@@ -75,7 +70,6 @@
         "high_moneyline_2": 131
     },
     {
-        "id": "18_august_2024_denver_broncos_green_bay_packers",
         "date": "18 august 2024",
         "team_1": "denver broncos",
         "team_2": "green bay packers",
@@ -90,7 +84,6 @@
         "high_moneyline_2": 248
     },
     {
-        "id": "10_august_2024_cleveland_browns_green_bay_packers",
         "date": "10 august 2024",
         "team_1": "cleveland browns",
         "team_2": "green bay packers",
@@ -105,7 +98,6 @@
         "high_moneyline_2": 209
     },
     {
-        "id": "20_january_2024_san_francisco_49ers_green_bay_packers",
         "date": "20 january 2024",
         "team_1": "san francisco 49ers",
         "team_2": "green bay packers",
@@ -120,7 +112,6 @@
         "high_moneyline_2": 400
     },
     {
-        "id": "14_january_2024_dallas_cowboys_green_bay_packers",
         "date": "14 january 2024",
         "team_1": "dallas cowboys",
         "team_2": "green bay packers",
@@ -135,7 +126,6 @@
         "high_moneyline_2": 290
     },
     {
-        "id": "07_january_2024_green_bay_packers_chicago_bears",
         "date": "07 january 2024",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -150,7 +140,6 @@
         "high_moneyline_2": 147
     },
     {
-        "id": "31_december_2023_minnesota_vikings_green_bay_packers",
         "date": "31 december 2023",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -165,7 +154,6 @@
         "high_moneyline_2": -102
     },
     {
-        "id": "24_december_2023_carolina_panthers_green_bay_packers",
         "date": "24 december 2023",
         "team_1": "carolina panthers",
         "team_2": "green bay packers",
@@ -180,7 +168,6 @@
         "high_moneyline_2": -189
     },
     {
-        "id": "17_december_2023_green_bay_packers_tampa_bay_buccaneers",
         "date": "17 december 2023",
         "team_1": "green bay packers",
         "team_2": "tampa bay buccaneers",
@@ -195,7 +182,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "11_december_2023_new_york_giants_green_bay_packers",
         "date": "11 december 2023",
         "team_1": "new york giants",
         "team_2": "green bay packers",
@@ -210,7 +196,6 @@
         "high_moneyline_2": -233
     },
     {
-        "id": "03_december_2023_green_bay_packers_kansas_city_chiefs",
         "date": "03 december 2023",
         "team_1": "green bay packers",
         "team_2": "kansas city chiefs",
@@ -225,7 +210,6 @@
         "high_moneyline_2": -238
     },
     {
-        "id": "23_november_2023_detroit_lions_green_bay_packers",
         "date": "23 november 2023",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -240,7 +224,6 @@
         "high_moneyline_2": 340
     },
     {
-        "id": "19_november_2023_green_bay_packers_los_angeles_chargers",
         "date": "19 november 2023",
         "team_1": "green bay packers",
         "team_2": "los angeles chargers",
@@ -255,7 +238,6 @@
         "high_moneyline_2": -152
     },
     {
-        "id": "12_november_2023_pittsburgh_steelers_green_bay_packers",
         "date": "12 november 2023",
         "team_1": "pittsburgh steelers",
         "team_2": "green bay packers",
@@ -270,7 +252,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "05_november_2023_green_bay_packers_los_angeles_rams",
         "date": "05 november 2023",
         "team_1": "green bay packers",
         "team_2": "los angeles rams",
@@ -285,7 +266,6 @@
         "high_moneyline_2": 177
     },
     {
-        "id": "29_october_2023_green_bay_packers_minnesota_vikings",
         "date": "29 october 2023",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -300,7 +280,6 @@
         "high_moneyline_2": -104
     },
     {
-        "id": "22_october_2023_denver_broncos_green_bay_packers",
         "date": "22 october 2023",
         "team_1": "denver broncos",
         "team_2": "green bay packers",
@@ -315,7 +294,6 @@
         "high_moneyline_2": 108
     },
     {
-        "id": "09_october_2023_las_vegas_raiders_green_bay_packers",
         "date": "09 october 2023",
         "team_1": "las vegas raiders",
         "team_2": "green bay packers",
@@ -330,7 +308,6 @@
         "high_moneyline_2": 114
     },
     {
-        "id": "28_september_2023_green_bay_packers_detroit_lions",
         "date": "28 september 2023",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -345,7 +322,6 @@
         "high_moneyline_2": -132
     },
     {
-        "id": "24_september_2023_green_bay_packers_new_orleans_saints",
         "date": "24 september 2023",
         "team_1": "green bay packers",
         "team_2": "new orleans saints",
@@ -360,7 +336,6 @@
         "high_moneyline_2": -119
     },
     {
-        "id": "17_september_2023_atlanta_falcons_green_bay_packers",
         "date": "17 september 2023",
         "team_1": "atlanta falcons",
         "team_2": "green bay packers",
@@ -375,7 +350,6 @@
         "high_moneyline_2": 139
     },
     {
-        "id": "10_september_2023_chicago_bears_green_bay_packers",
         "date": "10 september 2023",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -390,7 +364,6 @@
         "high_moneyline_2": 112
     },
     {
-        "id": "26_august_2023_green_bay_packers_seattle_seahawks",
         "date": "26 august 2023",
         "team_1": "green bay packers",
         "team_2": "seattle seahawks",
@@ -405,7 +378,6 @@
         "high_moneyline_2": 145
     },
     {
-        "id": "19_august_2023_green_bay_packers_new_england_patriots",
         "date": "19 august 2023",
         "team_1": "green bay packers",
         "team_2": "new england patriots",
@@ -420,7 +392,6 @@
         "high_moneyline_2": 135
     },
     {
-        "id": "11_august_2023_cincinnati_bengals_green_bay_packers",
         "date": "11 august 2023",
         "team_1": "cincinnati bengals",
         "team_2": "green bay packers",
@@ -435,7 +406,6 @@
         "high_moneyline_2": -182
     },
     {
-        "id": "08_january_2023_green_bay_packers_detroit_lions",
         "date": "08 january 2023",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -450,7 +420,6 @@
         "high_moneyline_2": 225
     },
     {
-        "id": "01_january_2023_green_bay_packers_minnesota_vikings",
         "date": "01 january 2023",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -465,7 +434,6 @@
         "high_moneyline_2": 174
     },
     {
-        "id": "25_december_2022_miami_dolphins_green_bay_packers",
         "date": "25 december 2022",
         "team_1": "miami dolphins",
         "team_2": "green bay packers",
@@ -480,7 +448,6 @@
         "high_moneyline_2": 162
     },
     {
-        "id": "19_december_2022_green_bay_packers_los_angeles_rams",
         "date": "19 december 2022",
         "team_1": "green bay packers",
         "team_2": "los angeles rams",
@@ -495,7 +462,6 @@
         "high_moneyline_2": 301
     },
     {
-        "id": "04_december_2022_chicago_bears_green_bay_packers",
         "date": "04 december 2022",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -510,7 +476,6 @@
         "high_moneyline_2": -175
     },
     {
-        "id": "27_november_2022_philadelphia_eagles_green_bay_packers",
         "date": "27 november 2022",
         "team_1": "philadelphia eagles",
         "team_2": "green bay packers",
@@ -525,7 +490,6 @@
         "high_moneyline_2": 245
     },
     {
-        "id": "17_november_2022_green_bay_packers_tennessee_titans",
         "date": "17 november 2022",
         "team_1": "green bay packers",
         "team_2": "tennessee titans",
@@ -540,7 +504,6 @@
         "high_moneyline_2": 159
     },
     {
-        "id": "13_november_2022_green_bay_packers_dallas_cowboys",
         "date": "13 november 2022",
         "team_1": "green bay packers",
         "team_2": "dallas cowboys",
@@ -555,7 +518,6 @@
         "high_moneyline_2": -182
     },
     {
-        "id": "06_november_2022_detroit_lions_green_bay_packers",
         "date": "06 november 2022",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -570,7 +532,6 @@
         "high_moneyline_2": -189
     },
     {
-        "id": "30_october_2022_buffalo_bills_green_bay_packers",
         "date": "30 october 2022",
         "team_1": "buffalo bills",
         "team_2": "green bay packers",
@@ -585,7 +546,6 @@
         "high_moneyline_2": 400
     },
     {
-        "id": "23_october_2022_washington_commanders_green_bay_packers",
         "date": "23 october 2022",
         "team_1": "washington commanders",
         "team_2": "green bay packers",
@@ -600,7 +560,6 @@
         "high_moneyline_2": -189
     },
     {
-        "id": "16_october_2022_green_bay_packers_new_york_jets",
         "date": "16 october 2022",
         "team_1": "green bay packers",
         "team_2": "new york jets",
@@ -615,7 +574,6 @@
         "high_moneyline_2": 303
     },
     {
-        "id": "09_october_2022_green_bay_packers_new_york_giants",
         "date": "09 october 2022",
         "team_1": "green bay packers",
         "team_2": "new york giants",
@@ -630,7 +588,6 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "02_october_2022_green_bay_packers_new_england_patriots",
         "date": "02 october 2022",
         "team_1": "green bay packers",
         "team_2": "new england patriots",
@@ -645,7 +602,6 @@
         "high_moneyline_2": 370
     },
     {
-        "id": "25_september_2022_tampa_bay_buccaneers_green_bay_packers",
         "date": "25 september 2022",
         "team_1": "tampa bay buccaneers",
         "team_2": "green bay packers",
@@ -660,7 +616,6 @@
         "high_moneyline_2": 118
     },
     {
-        "id": "18_september_2022_green_bay_packers_chicago_bears",
         "date": "18 september 2022",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -675,7 +630,6 @@
         "high_moneyline_2": 380
     },
     {
-        "id": "11_september_2022_minnesota_vikings_green_bay_packers",
         "date": "11 september 2022",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -690,7 +644,6 @@
         "high_moneyline_2": 119
     },
     {
-        "id": "25_august_2022_kansas_city_chiefs_green_bay_packers",
         "date": "25 august 2022",
         "team_1": "kansas city chiefs",
         "team_2": "green bay packers",
@@ -705,7 +658,6 @@
         "high_moneyline_2": -135
     },
     {
-        "id": "19_august_2022_green_bay_packers_new_orleans_saints",
         "date": "19 august 2022",
         "team_1": "green bay packers",
         "team_2": "new orleans saints",
@@ -720,7 +672,6 @@
         "high_moneyline_2": 154
     },
     {
-        "id": "12_august_2022_san_francisco_49ers_green_bay_packers",
         "date": "12 august 2022",
         "team_1": "san francisco 49ers",
         "team_2": "green bay packers",
@@ -735,7 +686,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "22_january_2022_green_bay_packers_san_francisco_49ers",
         "date": "22 january 2022",
         "team_1": "green bay packers",
         "team_2": "san francisco 49ers",
@@ -750,7 +700,6 @@
         "high_moneyline_2": 221
     },
     {
-        "id": "09_january_2022_detroit_lions_green_bay_packers",
         "date": "09 january 2022",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -765,7 +714,6 @@
         "high_moneyline_2": -179
     },
     {
-        "id": "02_january_2022_green_bay_packers_minnesota_vikings",
         "date": "02 january 2022",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -780,7 +728,6 @@
         "high_moneyline_2": 535
     },
     {
-        "id": "25_december_2021_green_bay_packers_cleveland_browns",
         "date": "25 december 2021",
         "team_1": "green bay packers",
         "team_2": "cleveland browns",
@@ -795,7 +742,6 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "19_december_2021_baltimore_ravens_green_bay_packers",
         "date": "19 december 2021",
         "team_1": "baltimore ravens",
         "team_2": "green bay packers",
@@ -810,7 +756,6 @@
         "high_moneyline_2": -385
     },
     {
-        "id": "12_december_2021_green_bay_packers_chicago_bears",
         "date": "12 december 2021",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -825,7 +770,6 @@
         "high_moneyline_2": 540
     },
     {
-        "id": "28_november_2021_green_bay_packers_los_angeles_rams",
         "date": "28 november 2021",
         "team_1": "green bay packers",
         "team_2": "los angeles rams",
@@ -840,7 +784,6 @@
         "high_moneyline_2": -111
     },
     {
-        "id": "21_november_2021_minnesota_vikings_green_bay_packers",
         "date": "21 november 2021",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -855,7 +798,6 @@
         "high_moneyline_2": -116
     },
     {
-        "id": "14_november_2021_green_bay_packers_seattle_seahawks",
         "date": "14 november 2021",
         "team_1": "green bay packers",
         "team_2": "seattle seahawks",
@@ -870,7 +812,6 @@
         "high_moneyline_2": 161
     },
     {
-        "id": "07_november_2021_kansas_city_chiefs_green_bay_packers",
         "date": "07 november 2021",
         "team_1": "kansas city chiefs",
         "team_2": "green bay packers",
@@ -885,7 +826,6 @@
         "high_moneyline_2": 298
     },
     {
-        "id": "28_october_2021_arizona_cardinals_green_bay_packers",
         "date": "28 october 2021",
         "team_1": "arizona cardinals",
         "team_2": "green bay packers",
@@ -900,7 +840,6 @@
         "high_moneyline_2": 236
     },
     {
-        "id": "24_october_2021_green_bay_packers_washington_commanders",
         "date": "24 october 2021",
         "team_1": "green bay packers",
         "team_2": "washington commanders",
@@ -915,7 +854,6 @@
         "high_moneyline_2": 351
     },
     {
-        "id": "17_october_2021_chicago_bears_green_bay_packers",
         "date": "17 october 2021",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -930,7 +868,6 @@
         "high_moneyline_2": -204
     },
     {
-        "id": "10_october_2021_cincinnati_bengals_green_bay_packers",
         "date": "10 october 2021",
         "team_1": "cincinnati bengals",
         "team_2": "green bay packers",
@@ -945,7 +882,6 @@
         "high_moneyline_2": -120
     },
     {
-        "id": "03_october_2021_green_bay_packers_pittsburgh_steelers",
         "date": "03 october 2021",
         "team_1": "green bay packers",
         "team_2": "pittsburgh steelers",
@@ -960,7 +896,6 @@
         "high_moneyline_2": 235
     },
     {
-        "id": "26_september_2021_san_francisco_49ers_green_bay_packers",
         "date": "26 september 2021",
         "team_1": "san francisco 49ers",
         "team_2": "green bay packers",
@@ -975,7 +910,6 @@
         "high_moneyline_2": 160
     },
     {
-        "id": "20_september_2021_green_bay_packers_detroit_lions",
         "date": "20 september 2021",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -990,7 +924,6 @@
         "high_moneyline_2": 454
     },
     {
-        "id": "12_september_2021_new_orleans_saints_green_bay_packers",
         "date": "12 september 2021",
         "team_1": "new orleans saints",
         "team_2": "green bay packers",
@@ -1005,7 +938,6 @@
         "high_moneyline_2": -179
     },
     {
-        "id": "28_august_2021_buffalo_bills_green_bay_packers",
         "date": "28 august 2021",
         "team_1": "buffalo bills",
         "team_2": "green bay packers",
@@ -1020,7 +952,6 @@
         "high_moneyline_2": 299
     },
     {
-        "id": "21_august_2021_green_bay_packers_new_york_jets",
         "date": "21 august 2021",
         "team_1": "green bay packers",
         "team_2": "new york jets",
@@ -1035,7 +966,6 @@
         "high_moneyline_2": -137
     },
     {
-        "id": "14_august_2021_green_bay_packers_houston_texans",
         "date": "14 august 2021",
         "team_1": "green bay packers",
         "team_2": "houston texans",
@@ -1050,7 +980,6 @@
         "high_moneyline_2": 154
     },
     {
-        "id": "24_january_2021_green_bay_packers_tampa_bay_buccaneers",
         "date": "24 january 2021",
         "team_1": "green bay packers",
         "team_2": "tampa bay buccaneers",
@@ -1065,7 +994,6 @@
         "high_moneyline_2": 156
     },
     {
-        "id": "16_january_2021_green_bay_packers_los_angeles_rams",
         "date": "16 january 2021",
         "team_1": "green bay packers",
         "team_2": "los angeles rams",
@@ -1080,7 +1008,6 @@
         "high_moneyline_2": 295
     },
     {
-        "id": "03_january_2021_chicago_bears_green_bay_packers",
         "date": "03 january 2021",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -1095,7 +1022,6 @@
         "high_moneyline_2": -208
     },
     {
-        "id": "27_december_2020_green_bay_packers_tennessee_titans",
         "date": "27 december 2020",
         "team_1": "green bay packers",
         "team_2": "tennessee titans",
@@ -1110,7 +1036,6 @@
         "high_moneyline_2": 160
     },
     {
-        "id": "19_december_2020_green_bay_packers_carolina_panthers",
         "date": "19 december 2020",
         "team_1": "green bay packers",
         "team_2": "carolina panthers",
@@ -1125,7 +1050,6 @@
         "high_moneyline_2": 375
     },
     {
-        "id": "13_december_2020_detroit_lions_green_bay_packers",
         "date": "13 december 2020",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -1140,7 +1064,6 @@
         "high_moneyline_2": -345
     },
     {
-        "id": "06_december_2020_green_bay_packers_philadelphia_eagles",
         "date": "06 december 2020",
         "team_1": "green bay packers",
         "team_2": "philadelphia eagles",
@@ -1155,7 +1078,6 @@
         "high_moneyline_2": 330
     },
     {
-        "id": "29_november_2020_green_bay_packers_chicago_bears",
         "date": "29 november 2020",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -1170,7 +1092,6 @@
         "high_moneyline_2": 320
     },
     {
-        "id": "22_november_2020_indianapolis_colts_green_bay_packers",
         "date": "22 november 2020",
         "team_1": "indianapolis colts",
         "team_2": "green bay packers",
@@ -1185,7 +1106,6 @@
         "high_moneyline_2": 112
     },
     {
-        "id": "15_november_2020_green_bay_packers_jacksonville_jaguars",
         "date": "15 november 2020",
         "team_1": "green bay packers",
         "team_2": "jacksonville jaguars",
@@ -1200,7 +1120,6 @@
         "high_moneyline_2": 706
     },
     {
-        "id": "05_november_2020_san_francisco_49ers_green_bay_packers",
         "date": "05 november 2020",
         "team_1": "san francisco 49ers",
         "team_2": "green bay packers",
@@ -1215,7 +1134,6 @@
         "high_moneyline_2": -250
     },
     {
-        "id": "01_november_2020_green_bay_packers_minnesota_vikings",
         "date": "01 november 2020",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -1230,7 +1148,6 @@
         "high_moneyline_2": 218
     },
     {
-        "id": "25_october_2020_houston_texans_green_bay_packers",
         "date": "25 october 2020",
         "team_1": "houston texans",
         "team_2": "green bay packers",
@@ -1245,7 +1162,6 @@
         "high_moneyline_2": -135
     },
     {
-        "id": "18_october_2020_tampa_bay_buccaneers_green_bay_packers",
         "date": "18 october 2020",
         "team_1": "tampa bay buccaneers",
         "team_2": "green bay packers",
@@ -1260,7 +1176,6 @@
         "high_moneyline_2": -141
     },
     {
-        "id": "05_october_2020_green_bay_packers_atlanta_falcons",
         "date": "05 october 2020",
         "team_1": "green bay packers",
         "team_2": "atlanta falcons",
@@ -1275,7 +1190,6 @@
         "high_moneyline_2": 229
     },
     {
-        "id": "27_september_2020_new_orleans_saints_green_bay_packers",
         "date": "27 september 2020",
         "team_1": "new orleans saints",
         "team_2": "green bay packers",
@@ -1290,7 +1204,6 @@
         "high_moneyline_2": 154
     },
     {
-        "id": "20_september_2020_green_bay_packers_detroit_lions",
         "date": "20 september 2020",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -1305,7 +1218,6 @@
         "high_moneyline_2": 250
     },
     {
-        "id": "13_september_2020_minnesota_vikings_green_bay_packers",
         "date": "13 september 2020",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -1320,7 +1232,6 @@
         "high_moneyline_2": 114
     },
     {
-        "id": "19_january_2020_san_francisco_49ers_green_bay_packers",
         "date": "19 january 2020",
         "team_1": "san francisco 49ers",
         "team_2": "green bay packers",
@@ -1335,7 +1246,6 @@
         "high_moneyline_2": 313
     },
     {
-        "id": "12_january_2020_green_bay_packers_seattle_seahawks",
         "date": "12 january 2020",
         "team_1": "green bay packers",
         "team_2": "seattle seahawks",
@@ -1350,7 +1260,6 @@
         "high_moneyline_2": 197
     },
     {
-        "id": "29_december_2019_detroit_lions_green_bay_packers",
         "date": "29 december 2019",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -1365,7 +1274,6 @@
         "high_moneyline_2": -667
     },
     {
-        "id": "23_december_2019_minnesota_vikings_green_bay_packers",
         "date": "23 december 2019",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -1380,7 +1288,6 @@
         "high_moneyline_2": 179
     },
     {
-        "id": "15_december_2019_green_bay_packers_chicago_bears",
         "date": "15 december 2019",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -1395,7 +1302,6 @@
         "high_moneyline_2": 192
     },
     {
-        "id": "08_december_2019_green_bay_packers_washington_commanders",
         "date": "08 december 2019",
         "team_1": "green bay packers",
         "team_2": "washington commanders",
@@ -1410,7 +1316,6 @@
         "high_moneyline_2": 700
     },
     {
-        "id": "01_december_2019_new_york_giants_green_bay_packers",
         "date": "01 december 2019",
         "team_1": "new york giants",
         "team_2": "green bay packers",
@@ -1425,7 +1330,6 @@
         "high_moneyline_2": -263
     },
     {
-        "id": "24_november_2019_san_francisco_49ers_green_bay_packers",
         "date": "24 november 2019",
         "team_1": "san francisco 49ers",
         "team_2": "green bay packers",
@@ -1440,7 +1344,6 @@
         "high_moneyline_2": 156
     },
     {
-        "id": "10_november_2019_green_bay_packers_carolina_panthers",
         "date": "10 november 2019",
         "team_1": "green bay packers",
         "team_2": "carolina panthers",
@@ -1455,7 +1358,6 @@
         "high_moneyline_2": 204
     },
     {
-        "id": "03_november_2019_los_angeles_chargers_green_bay_packers",
         "date": "03 november 2019",
         "team_1": "los angeles chargers",
         "team_2": "green bay packers",
@@ -1470,7 +1372,6 @@
         "high_moneyline_2": -175
     },
     {
-        "id": "27_october_2019_kansas_city_chiefs_green_bay_packers",
         "date": "27 october 2019",
         "team_1": "kansas city chiefs",
         "team_2": "green bay packers",
@@ -1485,7 +1386,6 @@
         "high_moneyline_2": -213
     },
     {
-        "id": "20_october_2019_green_bay_packers_las_vegas_raiders",
         "date": "20 october 2019",
         "team_1": "green bay packers",
         "team_2": "las vegas raiders",
@@ -1500,7 +1400,6 @@
         "high_moneyline_2": 215
     },
     {
-        "id": "14_october_2019_green_bay_packers_detroit_lions",
         "date": "14 october 2019",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -1515,7 +1414,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "06_october_2019_dallas_cowboys_green_bay_packers",
         "date": "06 october 2019",
         "team_1": "dallas cowboys",
         "team_2": "green bay packers",
@@ -1530,7 +1428,6 @@
         "high_moneyline_2": 165
     },
     {
-        "id": "26_september_2019_green_bay_packers_philadelphia_eagles",
         "date": "26 september 2019",
         "team_1": "green bay packers",
         "team_2": "philadelphia eagles",
@@ -1545,7 +1442,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "22_september_2019_green_bay_packers_denver_broncos",
         "date": "22 september 2019",
         "team_1": "green bay packers",
         "team_2": "denver broncos",
@@ -1560,7 +1456,6 @@
         "high_moneyline_2": 300
     },
     {
-        "id": "15_september_2019_green_bay_packers_minnesota_vikings",
         "date": "15 september 2019",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -1575,7 +1470,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "05_september_2019_chicago_bears_green_bay_packers",
         "date": "05 september 2019",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -1590,7 +1484,6 @@
         "high_moneyline_2": 152
     },
     {
-        "id": "29_august_2019_green_bay_packers_kansas_city_chiefs",
         "date": "29 august 2019",
         "team_1": "green bay packers",
         "team_2": "kansas city chiefs",
@@ -1605,7 +1498,6 @@
         "high_moneyline_2": 145
     },
     {
-        "id": "22_august_2019_las_vegas_raiders_green_bay_packers",
         "date": "22 august 2019",
         "team_1": "las vegas raiders",
         "team_2": "green bay packers",
@@ -1620,7 +1512,6 @@
         "high_moneyline_2": -106
     },
     {
-        "id": "15_august_2019_baltimore_ravens_green_bay_packers",
         "date": "15 august 2019",
         "team_1": "baltimore ravens",
         "team_2": "green bay packers",
@@ -1635,7 +1526,6 @@
         "high_moneyline_2": 186
     },
     {
-        "id": "08_august_2019_green_bay_packers_houston_texans",
         "date": "08 august 2019",
         "team_1": "green bay packers",
         "team_2": "houston texans",
@@ -1650,7 +1540,6 @@
         "high_moneyline_2": 104
     },
     {
-        "id": "30_december_2018_green_bay_packers_detroit_lions",
         "date": "30 december 2018",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -1665,7 +1554,6 @@
         "high_moneyline_2": 284
     },
     {
-        "id": "23_december_2018_new_york_jets_green_bay_packers",
         "date": "23 december 2018",
         "team_1": "new york jets",
         "team_2": "green bay packers",
@@ -1680,7 +1568,6 @@
         "high_moneyline_2": -154
     },
     {
-        "id": "16_december_2018_chicago_bears_green_bay_packers",
         "date": "16 december 2018",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -1695,7 +1582,6 @@
         "high_moneyline_2": 208
     },
     {
-        "id": "09_december_2018_green_bay_packers_atlanta_falcons",
         "date": "09 december 2018",
         "team_1": "green bay packers",
         "team_2": "atlanta falcons",
@@ -1710,7 +1596,6 @@
         "high_moneyline_2": 167
     },
     {
-        "id": "02_december_2018_green_bay_packers_arizona_cardinals",
         "date": "02 december 2018",
         "team_1": "green bay packers",
         "team_2": "arizona cardinals",
@@ -1725,7 +1610,6 @@
         "high_moneyline_2": 610
     },
     {
-        "id": "25_november_2018_minnesota_vikings_green_bay_packers",
         "date": "25 november 2018",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -1740,7 +1624,6 @@
         "high_moneyline_2": 177
     },
     {
-        "id": "15_november_2018_seattle_seahawks_green_bay_packers",
         "date": "15 november 2018",
         "team_1": "seattle seahawks",
         "team_2": "green bay packers",
@@ -1755,7 +1638,6 @@
         "high_moneyline_2": 143
     },
     {
-        "id": "11_november_2018_green_bay_packers_miami_dolphins",
         "date": "11 november 2018",
         "team_1": "green bay packers",
         "team_2": "miami dolphins",
@@ -1770,7 +1652,6 @@
         "high_moneyline_2": 610
     },
     {
-        "id": "04_november_2018_new_england_patriots_green_bay_packers",
         "date": "04 november 2018",
         "team_1": "new england patriots",
         "team_2": "green bay packers",
@@ -1785,7 +1666,6 @@
         "high_moneyline_2": 191
     },
     {
-        "id": "28_october_2018_los_angeles_rams_green_bay_packers",
         "date": "28 october 2018",
         "team_1": "los angeles rams",
         "team_2": "green bay packers",
@@ -1800,7 +1680,6 @@
         "high_moneyline_2": 301
     },
     {
-        "id": "15_october_2018_green_bay_packers_san_francisco_49ers",
         "date": "15 october 2018",
         "team_1": "green bay packers",
         "team_2": "san francisco 49ers",
@@ -1815,7 +1694,6 @@
         "high_moneyline_2": 361
     },
     {
-        "id": "07_october_2018_detroit_lions_green_bay_packers",
         "date": "07 october 2018",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -1830,7 +1708,6 @@
         "high_moneyline_2": 112
     },
     {
-        "id": "30_september_2018_green_bay_packers_buffalo_bills",
         "date": "30 september 2018",
         "team_1": "green bay packers",
         "team_2": "buffalo bills",
@@ -1845,7 +1722,6 @@
         "high_moneyline_2": 320
     },
     {
-        "id": "23_september_2018_washington_commanders_green_bay_packers",
         "date": "23 september 2018",
         "team_1": "washington commanders",
         "team_2": "green bay packers",
@@ -1860,7 +1736,6 @@
         "high_moneyline_2": -120
     },
     {
-        "id": "16_september_2018_green_bay_packers_minnesota_vikings",
         "date": "16 september 2018",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -1875,7 +1750,6 @@
         "high_moneyline_2": -119
     },
     {
-        "id": "09_september_2018_green_bay_packers_chicago_bears",
         "date": "09 september 2018",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -1890,7 +1764,6 @@
         "high_moneyline_2": 250
     },
     {
-        "id": "30_august_2018_kansas_city_chiefs_green_bay_packers",
         "date": "30 august 2018",
         "team_1": "kansas city chiefs",
         "team_2": "green bay packers",
@@ -1905,7 +1778,6 @@
         "high_moneyline_2": 159
     },
     {
-        "id": "24_august_2018_las_vegas_raiders_green_bay_packers",
         "date": "24 august 2018",
         "team_1": "las vegas raiders",
         "team_2": "green bay packers",
@@ -1920,7 +1792,6 @@
         "high_moneyline_2": 220
     },
     {
-        "id": "16_august_2018_green_bay_packers_pittsburgh_steelers",
         "date": "16 august 2018",
         "team_1": "green bay packers",
         "team_2": "pittsburgh steelers",
@@ -1935,7 +1806,6 @@
         "high_moneyline_2": 240
     },
     {
-        "id": "09_august_2018_green_bay_packers_tennessee_titans",
         "date": "09 august 2018",
         "team_1": "green bay packers",
         "team_2": "tennessee titans",
@@ -1950,7 +1820,6 @@
         "high_moneyline_2": 114
     },
     {
-        "id": "31_december_2017_detroit_lions_green_bay_packers",
         "date": "31 december 2017",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -1965,7 +1834,6 @@
         "high_moneyline_2": 290
     },
     {
-        "id": "23_december_2017_green_bay_packers_minnesota_vikings",
         "date": "23 december 2017",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -1980,7 +1848,6 @@
         "high_moneyline_2": -385
     },
     {
-        "id": "17_december_2017_carolina_panthers_green_bay_packers",
         "date": "17 december 2017",
         "team_1": "carolina panthers",
         "team_2": "green bay packers",
@@ -1995,7 +1862,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "10_december_2017_cleveland_browns_green_bay_packers",
         "date": "10 december 2017",
         "team_1": "cleveland browns",
         "team_2": "green bay packers",
@@ -2010,7 +1876,6 @@
         "high_moneyline_2": -130
     },
     {
-        "id": "03_december_2017_green_bay_packers_tampa_bay_buccaneers",
         "date": "03 december 2017",
         "team_1": "green bay packers",
         "team_2": "tampa bay buccaneers",
@@ -2025,7 +1890,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "26_november_2017_pittsburgh_steelers_green_bay_packers",
         "date": "26 november 2017",
         "team_1": "pittsburgh steelers",
         "team_2": "green bay packers",
@@ -2040,7 +1904,6 @@
         "high_moneyline_2": 800
     },
     {
-        "id": "19_november_2017_green_bay_packers_baltimore_ravens",
         "date": "19 november 2017",
         "team_1": "green bay packers",
         "team_2": "baltimore ravens",
@@ -2055,7 +1918,6 @@
         "high_moneyline_2": -127
     },
     {
-        "id": "12_november_2017_chicago_bears_green_bay_packers",
         "date": "12 november 2017",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -2070,7 +1932,6 @@
         "high_moneyline_2": 197
     },
     {
-        "id": "06_november_2017_green_bay_packers_detroit_lions",
         "date": "06 november 2017",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -2085,7 +1946,6 @@
         "high_moneyline_2": -130
     },
     {
-        "id": "22_october_2017_green_bay_packers_new_orleans_saints",
         "date": "22 october 2017",
         "team_1": "green bay packers",
         "team_2": "new orleans saints",
@@ -2100,7 +1960,6 @@
         "high_moneyline_2": -182
     },
     {
-        "id": "15_october_2017_minnesota_vikings_green_bay_packers",
         "date": "15 october 2017",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -2115,7 +1974,6 @@
         "high_moneyline_2": -149
     },
     {
-        "id": "08_october_2017_dallas_cowboys_green_bay_packers",
         "date": "08 october 2017",
         "team_1": "dallas cowboys",
         "team_2": "green bay packers",
@@ -2130,7 +1988,6 @@
         "high_moneyline_2": 125
     },
     {
-        "id": "28_september_2017_green_bay_packers_chicago_bears",
         "date": "28 september 2017",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -2145,7 +2002,6 @@
         "high_moneyline_2": 313
     },
     {
-        "id": "24_september_2017_green_bay_packers_cincinnati_bengals",
         "date": "24 september 2017",
         "team_1": "green bay packers",
         "team_2": "cincinnati bengals",
@@ -2160,7 +2016,6 @@
         "high_moneyline_2": 293
     },
     {
-        "id": "17_september_2017_atlanta_falcons_green_bay_packers",
         "date": "17 september 2017",
         "team_1": "atlanta falcons",
         "team_2": "green bay packers",
@@ -2175,7 +2030,6 @@
         "high_moneyline_2": 161
     },
     {
-        "id": "10_september_2017_green_bay_packers_seattle_seahawks",
         "date": "10 september 2017",
         "team_1": "green bay packers",
         "team_2": "seattle seahawks",
@@ -2190,7 +2044,6 @@
         "high_moneyline_2": 125
     },
     {
-        "id": "31_august_2017_green_bay_packers_los_angeles_rams",
         "date": "31 august 2017",
         "team_1": "green bay packers",
         "team_2": "los angeles rams",
@@ -2205,7 +2058,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "26_august_2017_denver_broncos_green_bay_packers",
         "date": "26 august 2017",
         "team_1": "denver broncos",
         "team_2": "green bay packers",
@@ -2220,7 +2072,6 @@
         "high_moneyline_2": 142
     },
     {
-        "id": "19_august_2017_washington_commanders_green_bay_packers",
         "date": "19 august 2017",
         "team_1": "washington commanders",
         "team_2": "green bay packers",
@@ -2235,7 +2086,6 @@
         "high_moneyline_2": 145
     },
     {
-        "id": "10_august_2017_green_bay_packers_philadelphia_eagles",
         "date": "10 august 2017",
         "team_1": "green bay packers",
         "team_2": "philadelphia eagles",
@@ -2250,7 +2100,6 @@
         "high_moneyline_2": -111
     },
     {
-        "id": "22_january_2017_atlanta_falcons_green_bay_packers",
         "date": "22 january 2017",
         "team_1": "atlanta falcons",
         "team_2": "green bay packers",
@@ -2265,7 +2114,6 @@
         "high_moneyline_2": 221
     },
     {
-        "id": "15_january_2017_dallas_cowboys_green_bay_packers",
         "date": "15 january 2017",
         "team_1": "dallas cowboys",
         "team_2": "green bay packers",
@@ -2280,7 +2128,6 @@
         "high_moneyline_2": 210
     },
     {
-        "id": "08_january_2017_green_bay_packers_new_york_giants",
         "date": "08 january 2017",
         "team_1": "green bay packers",
         "team_2": "new york giants",
@@ -2295,7 +2142,6 @@
         "high_moneyline_2": 195
     },
     {
-        "id": "01_january_2017_detroit_lions_green_bay_packers",
         "date": "01 january 2017",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -2310,7 +2156,6 @@
         "high_moneyline_2": -167
     },
     {
-        "id": "24_december_2016_green_bay_packers_minnesota_vikings",
         "date": "24 december 2016",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -2325,7 +2170,6 @@
         "high_moneyline_2": 250
     },
     {
-        "id": "18_december_2016_chicago_bears_green_bay_packers",
         "date": "18 december 2016",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -2340,7 +2184,6 @@
         "high_moneyline_2": -213
     },
     {
-        "id": "11_december_2016_green_bay_packers_seattle_seahawks",
         "date": "11 december 2016",
         "team_1": "green bay packers",
         "team_2": "seattle seahawks",
@@ -2355,7 +2198,6 @@
         "high_moneyline_2": -139
     },
     {
-        "id": "04_december_2016_green_bay_packers_houston_texans",
         "date": "04 december 2016",
         "team_1": "green bay packers",
         "team_2": "houston texans",
@@ -2370,7 +2212,6 @@
         "high_moneyline_2": 271
     },
     {
-        "id": "28_november_2016_philadelphia_eagles_green_bay_packers",
         "date": "28 november 2016",
         "team_1": "philadelphia eagles",
         "team_2": "green bay packers",
@@ -2385,7 +2226,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "20_november_2016_washington_commanders_green_bay_packers",
         "date": "20 november 2016",
         "team_1": "washington commanders",
         "team_2": "green bay packers",
@@ -2400,7 +2240,6 @@
         "high_moneyline_2": 133
     },
     {
-        "id": "13_november_2016_tennessee_titans_green_bay_packers",
         "date": "13 november 2016",
         "team_1": "tennessee titans",
         "team_2": "green bay packers",
@@ -2415,7 +2254,6 @@
         "high_moneyline_2": -139
     },
     {
-        "id": "06_november_2016_green_bay_packers_indianapolis_colts",
         "date": "06 november 2016",
         "team_1": "green bay packers",
         "team_2": "indianapolis colts",
@@ -2430,7 +2268,6 @@
         "high_moneyline_2": 297
     },
     {
-        "id": "30_october_2016_atlanta_falcons_green_bay_packers",
         "date": "30 october 2016",
         "team_1": "atlanta falcons",
         "team_2": "green bay packers",
@@ -2445,7 +2282,6 @@
         "high_moneyline_2": 145
     },
     {
-        "id": "20_october_2016_green_bay_packers_chicago_bears",
         "date": "20 october 2016",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -2460,7 +2296,6 @@
         "high_moneyline_2": 293
     },
     {
-        "id": "16_october_2016_green_bay_packers_dallas_cowboys",
         "date": "16 october 2016",
         "team_1": "green bay packers",
         "team_2": "dallas cowboys",
@@ -2475,7 +2310,6 @@
         "high_moneyline_2": 211
     },
     {
-        "id": "09_october_2016_green_bay_packers_new_york_giants",
         "date": "09 october 2016",
         "team_1": "green bay packers",
         "team_2": "new york giants",
@@ -2490,7 +2324,6 @@
         "high_moneyline_2": 270
     },
     {
-        "id": "25_september_2016_green_bay_packers_detroit_lions",
         "date": "25 september 2016",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -2505,7 +2338,6 @@
         "high_moneyline_2": 231
     },
     {
-        "id": "18_september_2016_minnesota_vikings_green_bay_packers",
         "date": "18 september 2016",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -2520,7 +2352,6 @@
         "high_moneyline_2": -118
     },
     {
-        "id": "11_september_2016_jacksonville_jaguars_green_bay_packers",
         "date": "11 september 2016",
         "team_1": "jacksonville jaguars",
         "team_2": "green bay packers",
@@ -2535,7 +2366,6 @@
         "high_moneyline_2": -125
     },
     {
-        "id": "01_september_2016_kansas_city_chiefs_green_bay_packers",
         "date": "01 september 2016",
         "team_1": "kansas city chiefs",
         "team_2": "green bay packers",
@@ -2550,7 +2380,6 @@
         "high_moneyline_2": 172
     },
     {
-        "id": "26_august_2016_san_francisco_49ers_green_bay_packers",
         "date": "26 august 2016",
         "team_1": "san francisco 49ers",
         "team_2": "green bay packers",
@@ -2565,7 +2394,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "18_august_2016_green_bay_packers_las_vegas_raiders",
         "date": "18 august 2016",
         "team_1": "green bay packers",
         "team_2": "las vegas raiders",
@@ -2580,7 +2408,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "12_august_2016_green_bay_packers_cleveland_browns",
         "date": "12 august 2016",
         "team_1": "green bay packers",
         "team_2": "cleveland browns",
@@ -2595,7 +2422,6 @@
         "high_moneyline_2": -118
     },
     {
-        "id": "16_january_2016_arizona_cardinals_green_bay_packers",
         "date": "16 january 2016",
         "team_1": "arizona cardinals",
         "team_2": "green bay packers",
@@ -2610,7 +2436,6 @@
         "high_moneyline_2": 270
     },
     {
-        "id": "10_january_2016_washington_commanders_green_bay_packers",
         "date": "10 january 2016",
         "team_1": "washington commanders",
         "team_2": "green bay packers",
@@ -2625,7 +2450,6 @@
         "high_moneyline_2": 112
     },
     {
-        "id": "03_january_2016_green_bay_packers_minnesota_vikings",
         "date": "03 january 2016",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -2640,7 +2464,6 @@
         "high_moneyline_2": 135
     },
     {
-        "id": "27_december_2015_arizona_cardinals_green_bay_packers",
         "date": "27 december 2015",
         "team_1": "arizona cardinals",
         "team_2": "green bay packers",
@@ -2655,7 +2478,6 @@
         "high_moneyline_2": 221
     },
     {
-        "id": "20_december_2015_las_vegas_raiders_green_bay_packers",
         "date": "20 december 2015",
         "team_1": "las vegas raiders",
         "team_2": "green bay packers",
@@ -2670,7 +2492,6 @@
         "high_moneyline_2": -200
     },
     {
-        "id": "13_december_2015_green_bay_packers_dallas_cowboys",
         "date": "13 december 2015",
         "team_1": "green bay packers",
         "team_2": "dallas cowboys",
@@ -2685,7 +2506,6 @@
         "high_moneyline_2": 254
     },
     {
-        "id": "03_december_2015_detroit_lions_green_bay_packers",
         "date": "03 december 2015",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -2700,7 +2520,6 @@
         "high_moneyline_2": -123
     },
     {
-        "id": "26_november_2015_green_bay_packers_chicago_bears",
         "date": "26 november 2015",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -2715,7 +2534,6 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "22_november_2015_minnesota_vikings_green_bay_packers",
         "date": "22 november 2015",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -2730,7 +2548,6 @@
         "high_moneyline_2": 100
     },
     {
-        "id": "15_november_2015_green_bay_packers_detroit_lions",
         "date": "15 november 2015",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -2745,7 +2562,6 @@
         "high_moneyline_2": 483
     },
     {
-        "id": "08_november_2015_carolina_panthers_green_bay_packers",
         "date": "08 november 2015",
         "team_1": "carolina panthers",
         "team_2": "green bay packers",
@@ -2760,7 +2576,6 @@
         "high_moneyline_2": -127
     },
     {
-        "id": "01_november_2015_denver_broncos_green_bay_packers",
         "date": "01 november 2015",
         "team_1": "denver broncos",
         "team_2": "green bay packers",
@@ -2775,7 +2590,6 @@
         "high_moneyline_2": -133
     },
     {
-        "id": "18_october_2015_green_bay_packers_los_angeles_chargers",
         "date": "18 october 2015",
         "team_1": "green bay packers",
         "team_2": "los angeles chargers",
@@ -2790,7 +2604,6 @@
         "high_moneyline_2": 438
     },
     {
-        "id": "11_october_2015_green_bay_packers_los_angeles_rams",
         "date": "11 october 2015",
         "team_1": "green bay packers",
         "team_2": "los angeles rams",
@@ -2805,7 +2618,6 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "04_october_2015_san_francisco_49ers_green_bay_packers",
         "date": "04 october 2015",
         "team_1": "san francisco 49ers",
         "team_2": "green bay packers",
@@ -2820,7 +2632,6 @@
         "high_moneyline_2": -323
     },
     {
-        "id": "28_september_2015_green_bay_packers_kansas_city_chiefs",
         "date": "28 september 2015",
         "team_1": "green bay packers",
         "team_2": "kansas city chiefs",
@@ -2835,7 +2646,6 @@
         "high_moneyline_2": 215
     },
     {
-        "id": "20_september_2015_green_bay_packers_seattle_seahawks",
         "date": "20 september 2015",
         "team_1": "green bay packers",
         "team_2": "seattle seahawks",
@@ -2850,7 +2660,6 @@
         "high_moneyline_2": 166
     },
     {
-        "id": "13_september_2015_chicago_bears_green_bay_packers",
         "date": "13 september 2015",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -2865,7 +2674,6 @@
         "high_moneyline_2": -256
     },
     {
-        "id": "03_september_2015_green_bay_packers_new_orleans_saints",
         "date": "03 september 2015",
         "team_1": "green bay packers",
         "team_2": "new orleans saints",
@@ -2880,7 +2688,6 @@
         "high_moneyline_2": 110
     },
     {
-        "id": "29_august_2015_green_bay_packers_philadelphia_eagles",
         "date": "29 august 2015",
         "team_1": "green bay packers",
         "team_2": "philadelphia eagles",
@@ -2895,7 +2702,6 @@
         "high_moneyline_2": -263
     },
     {
-        "id": "23_august_2015_pittsburgh_steelers_green_bay_packers",
         "date": "23 august 2015",
         "team_1": "pittsburgh steelers",
         "team_2": "green bay packers",
@@ -2910,7 +2716,6 @@
         "high_moneyline_2": 108
     },
     {
-        "id": "13_august_2015_new_england_patriots_green_bay_packers",
         "date": "13 august 2015",
         "team_1": "new england patriots",
         "team_2": "green bay packers",
@@ -2925,7 +2730,6 @@
         "high_moneyline_2": 125
     },
     {
-        "id": "18_january_2015_seattle_seahawks_green_bay_packers",
         "date": "18 january 2015",
         "team_1": "seattle seahawks",
         "team_2": "green bay packers",
@@ -2940,7 +2744,6 @@
         "high_moneyline_2": 316
     },
     {
-        "id": "11_january_2015_green_bay_packers_dallas_cowboys",
         "date": "11 january 2015",
         "team_1": "green bay packers",
         "team_2": "dallas cowboys",
@@ -2955,7 +2758,6 @@
         "high_moneyline_2": 204
     },
     {
-        "id": "28_december_2014_green_bay_packers_detroit_lions",
         "date": "28 december 2014",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -2970,7 +2772,6 @@
         "high_moneyline_2": 361
     },
     {
-        "id": "21_december_2014_tampa_bay_buccaneers_green_bay_packers",
         "date": "21 december 2014",
         "team_1": "tampa bay buccaneers",
         "team_2": "green bay packers",
@@ -2985,7 +2786,6 @@
         "high_moneyline_2": -625
     },
     {
-        "id": "14_december_2014_buffalo_bills_green_bay_packers",
         "date": "14 december 2014",
         "team_1": "buffalo bills",
         "team_2": "green bay packers",
@@ -3000,7 +2800,6 @@
         "high_moneyline_2": -172
     },
     {
-        "id": "08_december_2014_green_bay_packers_atlanta_falcons",
         "date": "08 december 2014",
         "team_1": "green bay packers",
         "team_2": "atlanta falcons",
@@ -3015,7 +2814,6 @@
         "high_moneyline_2": 600
     },
     {
-        "id": "30_november_2014_green_bay_packers_new_england_patriots",
         "date": "30 november 2014",
         "team_1": "green bay packers",
         "team_2": "new england patriots",
@@ -3030,7 +2828,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "23_november_2014_minnesota_vikings_green_bay_packers",
         "date": "23 november 2014",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -3045,7 +2842,6 @@
         "high_moneyline_2": -345
     },
     {
-        "id": "16_november_2014_green_bay_packers_philadelphia_eagles",
         "date": "16 november 2014",
         "team_1": "green bay packers",
         "team_2": "philadelphia eagles",
@@ -3060,7 +2856,6 @@
         "high_moneyline_2": 204
     },
     {
-        "id": "09_november_2014_green_bay_packers_chicago_bears",
         "date": "09 november 2014",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -3075,7 +2870,6 @@
         "high_moneyline_2": 345
     },
     {
-        "id": "26_october_2014_new_orleans_saints_green_bay_packers",
         "date": "26 october 2014",
         "team_1": "new orleans saints",
         "team_2": "green bay packers",
@@ -3090,7 +2884,6 @@
         "high_moneyline_2": 110
     },
     {
-        "id": "19_october_2014_green_bay_packers_carolina_panthers",
         "date": "19 october 2014",
         "team_1": "green bay packers",
         "team_2": "carolina panthers",
@@ -3105,7 +2898,6 @@
         "high_moneyline_2": 250
     },
     {
-        "id": "12_october_2014_miami_dolphins_green_bay_packers",
         "date": "12 october 2014",
         "team_1": "miami dolphins",
         "team_2": "green bay packers",
@@ -3120,7 +2912,6 @@
         "high_moneyline_2": -123
     },
     {
-        "id": "02_october_2014_green_bay_packers_minnesota_vikings",
         "date": "02 october 2014",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -3135,7 +2926,6 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "28_september_2014_chicago_bears_green_bay_packers",
         "date": "28 september 2014",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -3150,7 +2940,6 @@
         "high_moneyline_2": -120
     },
     {
-        "id": "21_september_2014_detroit_lions_green_bay_packers",
         "date": "21 september 2014",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -3165,7 +2954,6 @@
         "high_moneyline_2": 108
     },
     {
-        "id": "14_september_2014_green_bay_packers_new_york_jets",
         "date": "14 september 2014",
         "team_1": "green bay packers",
         "team_2": "new york jets",
@@ -3180,7 +2968,6 @@
         "high_moneyline_2": 309
     },
     {
-        "id": "04_september_2014_seattle_seahawks_green_bay_packers",
         "date": "04 september 2014",
         "team_1": "seattle seahawks",
         "team_2": "green bay packers",
@@ -3195,7 +2982,6 @@
         "high_moneyline_2": 200
     },
     {
-        "id": "28_august_2014_green_bay_packers_kansas_city_chiefs",
         "date": "28 august 2014",
         "team_1": "green bay packers",
         "team_2": "kansas city chiefs",
@@ -3210,7 +2996,6 @@
         "high_moneyline_2": 170
     },
     {
-        "id": "22_august_2014_green_bay_packers_las_vegas_raiders",
         "date": "22 august 2014",
         "team_1": "green bay packers",
         "team_2": "las vegas raiders",
@@ -3225,7 +3010,6 @@
         "high_moneyline_2": 265
     },
     {
-        "id": "16_august_2014_los_angeles_rams_green_bay_packers",
         "date": "16 august 2014",
         "team_1": "los angeles rams",
         "team_2": "green bay packers",
@@ -3240,7 +3024,6 @@
         "high_moneyline_2": 125
     },
     {
-        "id": "09_august_2014_tennessee_titans_green_bay_packers",
         "date": "09 august 2014",
         "team_1": "tennessee titans",
         "team_2": "green bay packers",
@@ -3255,7 +3038,6 @@
         "high_moneyline_2": 144
     },
     {
-        "id": "05_january_2014_green_bay_packers_san_francisco_49ers",
         "date": "05 january 2014",
         "team_1": "green bay packers",
         "team_2": "san francisco 49ers",
@@ -3270,7 +3052,6 @@
         "high_moneyline_2": -167
     },
     {
-        "id": "29_december_2013_chicago_bears_green_bay_packers",
         "date": "29 december 2013",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -3285,7 +3066,6 @@
         "high_moneyline_2": -149
     },
     {
-        "id": "22_december_2013_green_bay_packers_pittsburgh_steelers",
         "date": "22 december 2013",
         "team_1": "green bay packers",
         "team_2": "pittsburgh steelers",
@@ -3300,7 +3080,6 @@
         "high_moneyline_2": -111
     },
     {
-        "id": "15_december_2013_dallas_cowboys_green_bay_packers",
         "date": "15 december 2013",
         "team_1": "dallas cowboys",
         "team_2": "green bay packers",
@@ -3315,7 +3094,6 @@
         "high_moneyline_2": 190
     },
     {
-        "id": "08_december_2013_green_bay_packers_atlanta_falcons",
         "date": "08 december 2013",
         "team_1": "green bay packers",
         "team_2": "atlanta falcons",
@@ -3330,7 +3108,6 @@
         "high_moneyline_2": 165
     },
     {
-        "id": "28_november_2013_detroit_lions_green_bay_packers",
         "date": "28 november 2013",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -3345,7 +3122,6 @@
         "high_moneyline_2": 235
     },
     {
-        "id": "24_november_2013_green_bay_packers_minnesota_vikings",
         "date": "24 november 2013",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -3360,7 +3136,6 @@
         "high_moneyline_2": 225
     },
     {
-        "id": "17_november_2013_new_york_giants_green_bay_packers",
         "date": "17 november 2013",
         "team_1": "new york giants",
         "team_2": "green bay packers",
@@ -3375,7 +3150,6 @@
         "high_moneyline_2": 160
     },
     {
-        "id": "10_november_2013_green_bay_packers_philadelphia_eagles",
         "date": "10 november 2013",
         "team_1": "green bay packers",
         "team_2": "philadelphia eagles",
@@ -3390,7 +3164,6 @@
         "high_moneyline_2": -114
     },
     {
-        "id": "04_november_2013_green_bay_packers_chicago_bears",
         "date": "04 november 2013",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -3405,7 +3178,6 @@
         "high_moneyline_2": 404
     },
     {
-        "id": "27_october_2013_minnesota_vikings_green_bay_packers",
         "date": "27 october 2013",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -3420,7 +3192,6 @@
         "high_moneyline_2": -303
     },
     {
-        "id": "20_october_2013_green_bay_packers_cleveland_browns",
         "date": "20 october 2013",
         "team_1": "green bay packers",
         "team_2": "cleveland browns",
@@ -3435,7 +3206,6 @@
         "high_moneyline_2": 350
     },
     {
-        "id": "13_october_2013_baltimore_ravens_green_bay_packers",
         "date": "13 october 2013",
         "team_1": "baltimore ravens",
         "team_2": "green bay packers",
@@ -3450,7 +3220,6 @@
         "high_moneyline_2": -120
     },
     {
-        "id": "06_october_2013_green_bay_packers_detroit_lions",
         "date": "06 october 2013",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -3465,7 +3234,6 @@
         "high_moneyline_2": 380
     },
     {
-        "id": "22_september_2013_cincinnati_bengals_green_bay_packers",
         "date": "22 september 2013",
         "team_1": "cincinnati bengals",
         "team_2": "green bay packers",
@@ -3480,7 +3248,6 @@
         "high_moneyline_2": -143
     },
     {
-        "id": "15_september_2013_green_bay_packers_washington_commanders",
         "date": "15 september 2013",
         "team_1": "green bay packers",
         "team_2": "washington commanders",
@@ -3495,7 +3262,6 @@
         "high_moneyline_2": 309
     },
     {
-        "id": "08_september_2013_san_francisco_49ers_green_bay_packers",
         "date": "08 september 2013",
         "team_1": "san francisco 49ers",
         "team_2": "green bay packers",
@@ -3510,7 +3276,6 @@
         "high_moneyline_2": 200
     },
     {
-        "id": "29_august_2013_kansas_city_chiefs_green_bay_packers",
         "date": "29 august 2013",
         "team_1": "kansas city chiefs",
         "team_2": "green bay packers",
@@ -3525,7 +3290,6 @@
         "high_moneyline_2": 179
     },
     {
-        "id": "23_august_2013_green_bay_packers_seattle_seahawks",
         "date": "23 august 2013",
         "team_1": "green bay packers",
         "team_2": "seattle seahawks",
@@ -3540,7 +3304,6 @@
         "high_moneyline_2": -167
     },
     {
-        "id": "17_august_2013_los_angeles_rams_green_bay_packers",
         "date": "17 august 2013",
         "team_1": "los angeles rams",
         "team_2": "green bay packers",
@@ -3555,7 +3318,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "09_august_2013_green_bay_packers_arizona_cardinals",
         "date": "09 august 2013",
         "team_1": "green bay packers",
         "team_2": "arizona cardinals",
@@ -3570,7 +3332,6 @@
         "high_moneyline_2": 120
     },
     {
-        "id": "12_january_2013_san_francisco_49ers_green_bay_packers",
         "date": "12 january 2013",
         "team_1": "san francisco 49ers",
         "team_2": "green bay packers",
@@ -3585,7 +3346,6 @@
         "high_moneyline_2": 144
     },
     {
-        "id": "05_january_2013_green_bay_packers_minnesota_vikings",
         "date": "05 january 2013",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -3600,7 +3360,6 @@
         "high_moneyline_2": 442
     },
     {
-        "id": "30_december_2012_minnesota_vikings_green_bay_packers",
         "date": "30 december 2012",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -3615,7 +3374,6 @@
         "high_moneyline_2": -159
     },
     {
-        "id": "23_december_2012_green_bay_packers_tennessee_titans",
         "date": "23 december 2012",
         "team_1": "green bay packers",
         "team_2": "tennessee titans",
@@ -3630,7 +3388,6 @@
         "high_moneyline_2": 500
     },
     {
-        "id": "16_december_2012_chicago_bears_green_bay_packers",
         "date": "16 december 2012",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -3645,7 +3402,6 @@
         "high_moneyline_2": -141
     },
     {
-        "id": "09_december_2012_green_bay_packers_detroit_lions",
         "date": "09 december 2012",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -3660,7 +3416,6 @@
         "high_moneyline_2": 240
     },
     {
-        "id": "02_december_2012_green_bay_packers_minnesota_vikings",
         "date": "02 december 2012",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -3675,7 +3430,6 @@
         "high_moneyline_2": 318
     },
     {
-        "id": "25_november_2012_new_york_giants_green_bay_packers",
         "date": "25 november 2012",
         "team_1": "new york giants",
         "team_2": "green bay packers",
@@ -3690,7 +3444,6 @@
         "high_moneyline_2": 118
     },
     {
-        "id": "18_november_2012_detroit_lions_green_bay_packers",
         "date": "18 november 2012",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -3705,7 +3458,6 @@
         "high_moneyline_2": -159
     },
     {
-        "id": "04_november_2012_green_bay_packers_arizona_cardinals",
         "date": "04 november 2012",
         "team_1": "green bay packers",
         "team_2": "arizona cardinals",
@@ -3720,7 +3472,6 @@
         "high_moneyline_2": 400
     },
     {
-        "id": "28_october_2012_green_bay_packers_jacksonville_jaguars",
         "date": "28 october 2012",
         "team_1": "green bay packers",
         "team_2": "jacksonville jaguars",
@@ -3735,7 +3486,6 @@
         "high_moneyline_2": 702
     },
     {
-        "id": "21_october_2012_los_angeles_rams_green_bay_packers",
         "date": "21 october 2012",
         "team_1": "los angeles rams",
         "team_2": "green bay packers",
@@ -3750,7 +3500,6 @@
         "high_moneyline_2": -213
     },
     {
-        "id": "14_october_2012_houston_texans_green_bay_packers",
         "date": "14 october 2012",
         "team_1": "houston texans",
         "team_2": "green bay packers",
@@ -3765,7 +3514,6 @@
         "high_moneyline_2": 179
     },
     {
-        "id": "07_october_2012_indianapolis_colts_green_bay_packers",
         "date": "07 october 2012",
         "team_1": "indianapolis colts",
         "team_2": "green bay packers",
@@ -3780,7 +3528,6 @@
         "high_moneyline_2": -263
     },
     {
-        "id": "30_september_2012_green_bay_packers_new_orleans_saints",
         "date": "30 september 2012",
         "team_1": "green bay packers",
         "team_2": "new orleans saints",
@@ -3795,7 +3542,6 @@
         "high_moneyline_2": 305
     },
     {
-        "id": "24_september_2012_seattle_seahawks_green_bay_packers",
         "date": "24 september 2012",
         "team_1": "seattle seahawks",
         "team_2": "green bay packers",
@@ -3810,7 +3556,6 @@
         "high_moneyline_2": -167
     },
     {
-        "id": "13_september_2012_green_bay_packers_chicago_bears",
         "date": "13 september 2012",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -3825,7 +3570,6 @@
         "high_moneyline_2": 225
     },
     {
-        "id": "09_september_2012_green_bay_packers_san_francisco_49ers",
         "date": "09 september 2012",
         "team_1": "green bay packers",
         "team_2": "san francisco 49ers",
@@ -3840,7 +3584,6 @@
         "high_moneyline_2": 225
     },
     {
-        "id": "30_august_2012_green_bay_packers_kansas_city_chiefs",
         "date": "30 august 2012",
         "team_1": "green bay packers",
         "team_2": "kansas city chiefs",
@@ -3855,7 +3598,6 @@
         "high_moneyline_2": -120
     },
     {
-        "id": "23_august_2012_cincinnati_bengals_green_bay_packers",
         "date": "23 august 2012",
         "team_1": "cincinnati bengals",
         "team_2": "green bay packers",
@@ -3870,7 +3612,6 @@
         "high_moneyline_2": -141
     },
     {
-        "id": "16_august_2012_green_bay_packers_cleveland_browns",
         "date": "16 august 2012",
         "team_1": "green bay packers",
         "team_2": "cleveland browns",
@@ -3885,7 +3626,6 @@
         "high_moneyline_2": 135
     },
     {
-        "id": "09_august_2012_los_angeles_chargers_green_bay_packers",
         "date": "09 august 2012",
         "team_1": "los angeles chargers",
         "team_2": "green bay packers",
@@ -3900,7 +3640,6 @@
         "high_moneyline_2": 120
     },
     {
-        "id": "15_january_2012_green_bay_packers_new_york_giants",
         "date": "15 january 2012",
         "team_1": "green bay packers",
         "team_2": "new york giants",
@@ -3915,7 +3654,6 @@
         "high_moneyline_2": 338
     },
     {
-        "id": "01_january_2012_green_bay_packers_detroit_lions",
         "date": "01 january 2012",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -3930,7 +3668,6 @@
         "high_moneyline_2": -263
     },
     {
-        "id": "25_december_2011_green_bay_packers_chicago_bears",
         "date": "25 december 2011",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -3945,7 +3682,6 @@
         "high_moneyline_2": 641
     },
     {
-        "id": "18_december_2011_kansas_city_chiefs_green_bay_packers",
         "date": "18 december 2011",
         "team_1": "kansas city chiefs",
         "team_2": "green bay packers",
@@ -3960,7 +3696,6 @@
         "high_moneyline_2": -588
     },
     {
-        "id": "11_december_2011_green_bay_packers_las_vegas_raiders",
         "date": "11 december 2011",
         "team_1": "green bay packers",
         "team_2": "las vegas raiders",
@@ -3975,7 +3710,6 @@
         "high_moneyline_2": 558
     },
     {
-        "id": "04_december_2011_new_york_giants_green_bay_packers",
         "date": "04 december 2011",
         "team_1": "new york giants",
         "team_2": "green bay packers",
@@ -3990,7 +3724,6 @@
         "high_moneyline_2": -294
     },
     {
-        "id": "24_november_2011_detroit_lions_green_bay_packers",
         "date": "24 november 2011",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -4005,7 +3738,6 @@
         "high_moneyline_2": -189
     },
     {
-        "id": "20_november_2011_green_bay_packers_tampa_bay_buccaneers",
         "date": "20 november 2011",
         "team_1": "green bay packers",
         "team_2": "tampa bay buccaneers",
@@ -4020,7 +3752,6 @@
         "high_moneyline_2": 600
     },
     {
-        "id": "14_november_2011_green_bay_packers_minnesota_vikings",
         "date": "14 november 2011",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -4035,7 +3766,6 @@
         "high_moneyline_2": 538
     },
     {
-        "id": "06_november_2011_los_angeles_chargers_green_bay_packers",
         "date": "06 november 2011",
         "team_1": "los angeles chargers",
         "team_2": "green bay packers",
@@ -4050,7 +3780,6 @@
         "high_moneyline_2": -227
     },
     {
-        "id": "23_october_2011_minnesota_vikings_green_bay_packers",
         "date": "23 october 2011",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -4065,7 +3794,6 @@
         "high_moneyline_2": -556
     },
     {
-        "id": "16_october_2011_green_bay_packers_los_angeles_rams",
         "date": "16 october 2011",
         "team_1": "green bay packers",
         "team_2": "los angeles rams",
@@ -4080,7 +3808,6 @@
         "high_moneyline_2": 900
     },
     {
-        "id": "09_october_2011_atlanta_falcons_green_bay_packers",
         "date": "09 october 2011",
         "team_1": "atlanta falcons",
         "team_2": "green bay packers",
@@ -4095,7 +3822,6 @@
         "high_moneyline_2": -244
     },
     {
-        "id": "02_october_2011_green_bay_packers_denver_broncos",
         "date": "02 october 2011",
         "team_1": "green bay packers",
         "team_2": "denver broncos",
@@ -4110,7 +3836,6 @@
         "high_moneyline_2": 501
     },
     {
-        "id": "25_september_2011_chicago_bears_green_bay_packers",
         "date": "25 september 2011",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -4125,7 +3850,6 @@
         "high_moneyline_2": -208
     },
     {
-        "id": "18_september_2011_carolina_panthers_green_bay_packers",
         "date": "18 september 2011",
         "team_1": "carolina panthers",
         "team_2": "green bay packers",
@@ -4140,7 +3864,6 @@
         "high_moneyline_2": -500
     },
     {
-        "id": "08_september_2011_green_bay_packers_new_orleans_saints",
         "date": "08 september 2011",
         "team_1": "green bay packers",
         "team_2": "new orleans saints",
@@ -4155,7 +3878,6 @@
         "high_moneyline_2": 213
     },
     {
-        "id": "01_september_2011_green_bay_packers_kansas_city_chiefs",
         "date": "01 september 2011",
         "team_1": "green bay packers",
         "team_2": "kansas city chiefs",
@@ -4170,7 +3892,6 @@
         "high_moneyline_2": 114
     },
     {
-        "id": "26_august_2011_indianapolis_colts_green_bay_packers",
         "date": "26 august 2011",
         "team_1": "indianapolis colts",
         "team_2": "green bay packers",
@@ -4185,7 +3906,6 @@
         "high_moneyline_2": -357
     },
     {
-        "id": "19_august_2011_green_bay_packers_arizona_cardinals",
         "date": "19 august 2011",
         "team_1": "green bay packers",
         "team_2": "arizona cardinals",
@@ -4200,7 +3920,6 @@
         "high_moneyline_2": 210
     },
     {
-        "id": "13_august_2011_cleveland_browns_green_bay_packers",
         "date": "13 august 2011",
         "team_1": "cleveland browns",
         "team_2": "green bay packers",
@@ -4215,7 +3934,6 @@
         "high_moneyline_2": 120
     },
     {
-        "id": "06_february_2011_green_bay_packers_pittsburgh_steelers",
         "date": "06 february 2011",
         "team_1": "green bay packers",
         "team_2": "pittsburgh steelers",
@@ -4230,7 +3948,6 @@
         "high_moneyline_2": 134
     },
     {
-        "id": "23_january_2011_chicago_bears_green_bay_packers",
         "date": "23 january 2011",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -4245,7 +3962,6 @@
         "high_moneyline_2": -179
     },
     {
-        "id": "15_january_2011_atlanta_falcons_green_bay_packers",
         "date": "15 january 2011",
         "team_1": "atlanta falcons",
         "team_2": "green bay packers",
@@ -4260,7 +3976,6 @@
         "high_moneyline_2": 104
     },
     {
-        "id": "09_january_2011_philadelphia_eagles_green_bay_packers",
         "date": "09 january 2011",
         "team_1": "philadelphia eagles",
         "team_2": "green bay packers",
@@ -4275,7 +3990,6 @@
         "high_moneyline_2": 110
     },
     {
-        "id": "02_january_2011_green_bay_packers_chicago_bears",
         "date": "02 january 2011",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -4290,7 +4004,6 @@
         "high_moneyline_2": 569
     },
     {
-        "id": "26_december_2010_green_bay_packers_new_york_giants",
         "date": "26 december 2010",
         "team_1": "green bay packers",
         "team_2": "new york giants",
@@ -4305,7 +4018,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "19_december_2010_new_england_patriots_green_bay_packers",
         "date": "19 december 2010",
         "team_1": "new england patriots",
         "team_2": "green bay packers",
@@ -4320,7 +4032,6 @@
         "high_moneyline_2": 736
     },
     {
-        "id": "12_december_2010_detroit_lions_green_bay_packers",
         "date": "12 december 2010",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -4335,7 +4046,6 @@
         "high_moneyline_2": -286
     },
     {
-        "id": "05_december_2010_green_bay_packers_san_francisco_49ers",
         "date": "05 december 2010",
         "team_1": "green bay packers",
         "team_2": "san francisco 49ers",
@@ -4350,7 +4060,6 @@
         "high_moneyline_2": 361
     },
     {
-        "id": "28_november_2010_atlanta_falcons_green_bay_packers",
         "date": "28 november 2010",
         "team_1": "atlanta falcons",
         "team_2": "green bay packers",
@@ -4365,7 +4074,6 @@
         "high_moneyline_2": 120
     },
     {
-        "id": "21_november_2010_minnesota_vikings_green_bay_packers",
         "date": "21 november 2010",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -4380,7 +4088,6 @@
         "high_moneyline_2": -147
     },
     {
-        "id": "07_november_2010_green_bay_packers_dallas_cowboys",
         "date": "07 november 2010",
         "team_1": "green bay packers",
         "team_2": "dallas cowboys",
@@ -4395,7 +4102,6 @@
         "high_moneyline_2": 281
     },
     {
-        "id": "31_october_2010_new_york_jets_green_bay_packers",
         "date": "31 october 2010",
         "team_1": "new york jets",
         "team_2": "green bay packers",
@@ -4410,7 +4116,6 @@
         "high_moneyline_2": 250
     },
     {
-        "id": "24_october_2010_green_bay_packers_minnesota_vikings",
         "date": "24 october 2010",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -4425,7 +4130,6 @@
         "high_moneyline_2": 121
     },
     {
-        "id": "17_october_2010_green_bay_packers_miami_dolphins",
         "date": "17 october 2010",
         "team_1": "green bay packers",
         "team_2": "miami dolphins",
@@ -4440,7 +4144,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "10_october_2010_washington_commanders_green_bay_packers",
         "date": "10 october 2010",
         "team_1": "washington commanders",
         "team_2": "green bay packers",
@@ -4455,7 +4158,6 @@
         "high_moneyline_2": -143
     },
     {
-        "id": "03_october_2010_green_bay_packers_detroit_lions",
         "date": "03 october 2010",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -4470,7 +4172,6 @@
         "high_moneyline_2": 816
     },
     {
-        "id": "27_september_2010_chicago_bears_green_bay_packers",
         "date": "27 september 2010",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -4485,7 +4186,6 @@
         "high_moneyline_2": -145
     },
     {
-        "id": "19_september_2010_green_bay_packers_buffalo_bills",
         "date": "19 september 2010",
         "team_1": "green bay packers",
         "team_2": "buffalo bills",
@@ -4500,7 +4200,6 @@
         "high_moneyline_2": 548
     },
     {
-        "id": "12_september_2010_philadelphia_eagles_green_bay_packers",
         "date": "12 september 2010",
         "team_1": "philadelphia eagles",
         "team_2": "green bay packers",
@@ -4515,7 +4214,6 @@
         "high_moneyline_2": -135
     },
     {
-        "id": "02_september_2010_kansas_city_chiefs_green_bay_packers",
         "date": "02 september 2010",
         "team_1": "kansas city chiefs",
         "team_2": "green bay packers",
@@ -4530,7 +4228,6 @@
         "high_moneyline_2": 185
     },
     {
-        "id": "26_august_2010_green_bay_packers_indianapolis_colts",
         "date": "26 august 2010",
         "team_1": "green bay packers",
         "team_2": "indianapolis colts",
@@ -4545,7 +4242,6 @@
         "high_moneyline_2": 179
     },
     {
-        "id": "21_august_2010_seattle_seahawks_green_bay_packers",
         "date": "21 august 2010",
         "team_1": "seattle seahawks",
         "team_2": "green bay packers",
@@ -4560,7 +4256,6 @@
         "high_moneyline_2": 122
     },
     {
-        "id": "14_august_2010_green_bay_packers_cleveland_browns",
         "date": "14 august 2010",
         "team_1": "green bay packers",
         "team_2": "cleveland browns",
@@ -4575,7 +4270,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "10_january_2010_arizona_cardinals_green_bay_packers",
         "date": "10 january 2010",
         "team_1": "arizona cardinals",
         "team_2": "green bay packers",
@@ -4590,7 +4284,6 @@
         "high_moneyline_2": -111
     },
     {
-        "id": "03_january_2010_arizona_cardinals_green_bay_packers",
         "date": "03 january 2010",
         "team_1": "arizona cardinals",
         "team_2": "green bay packers",
@@ -4605,7 +4298,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "27_december_2009_green_bay_packers_seattle_seahawks",
         "date": "27 december 2009",
         "team_1": "green bay packers",
         "team_2": "seattle seahawks",
@@ -4620,7 +4312,6 @@
         "high_moneyline_2": 600
     },
     {
-        "id": "20_december_2009_pittsburgh_steelers_green_bay_packers",
         "date": "20 december 2009",
         "team_1": "pittsburgh steelers",
         "team_2": "green bay packers",
@@ -4635,7 +4326,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "13_december_2009_chicago_bears_green_bay_packers",
         "date": "13 december 2009",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -4650,7 +4340,6 @@
         "high_moneyline_2": -189
     },
     {
-        "id": "07_december_2009_green_bay_packers_baltimore_ravens",
         "date": "07 december 2009",
         "team_1": "green bay packers",
         "team_2": "baltimore ravens",
@@ -4665,7 +4354,6 @@
         "high_moneyline_2": 179
     },
     {
-        "id": "26_november_2009_detroit_lions_green_bay_packers",
         "date": "26 november 2009",
         "team_1": "detroit lions",
         "team_2": "green bay packers",
@@ -4680,7 +4368,6 @@
         "high_moneyline_2": -667
     },
     {
-        "id": "22_november_2009_green_bay_packers_san_francisco_49ers",
         "date": "22 november 2009",
         "team_1": "green bay packers",
         "team_2": "san francisco 49ers",
@@ -4695,7 +4382,6 @@
         "high_moneyline_2": 227
     },
     {
-        "id": "15_november_2009_green_bay_packers_dallas_cowboys",
         "date": "15 november 2009",
         "team_1": "green bay packers",
         "team_2": "dallas cowboys",
@@ -4710,7 +4396,6 @@
         "high_moneyline_2": -141
     },
     {
-        "id": "08_november_2009_tampa_bay_buccaneers_green_bay_packers",
         "date": "08 november 2009",
         "team_1": "tampa bay buccaneers",
         "team_2": "green bay packers",
@@ -4725,7 +4410,6 @@
         "high_moneyline_2": -476
     },
     {
-        "id": "01_november_2009_green_bay_packers_minnesota_vikings",
         "date": "01 november 2009",
         "team_1": "green bay packers",
         "team_2": "minnesota vikings",
@@ -4740,7 +4424,6 @@
         "high_moneyline_2": 165
     },
     {
-        "id": "25_october_2009_cleveland_browns_green_bay_packers",
         "date": "25 october 2009",
         "team_1": "cleveland browns",
         "team_2": "green bay packers",
@@ -4755,7 +4438,6 @@
         "high_moneyline_2": -385
     },
     {
-        "id": "18_october_2009_green_bay_packers_detroit_lions",
         "date": "18 october 2009",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -4770,7 +4452,6 @@
         "high_moneyline_2": 750
     },
     {
-        "id": "05_october_2009_minnesota_vikings_green_bay_packers",
         "date": "05 october 2009",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -4785,7 +4466,6 @@
         "high_moneyline_2": 195
     },
     {
-        "id": "27_september_2009_los_angeles_rams_green_bay_packers",
         "date": "27 september 2009",
         "team_1": "los angeles rams",
         "team_2": "green bay packers",
@@ -4800,7 +4480,6 @@
         "high_moneyline_2": -263
     },
     {
-        "id": "20_september_2009_green_bay_packers_cincinnati_bengals",
         "date": "20 september 2009",
         "team_1": "green bay packers",
         "team_2": "cincinnati bengals",
@@ -4815,7 +4494,6 @@
         "high_moneyline_2": 395
     },
     {
-        "id": "13_september_2009_green_bay_packers_chicago_bears",
         "date": "13 september 2009",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -4830,7 +4508,6 @@
         "high_moneyline_2": 208
     },
     {
-        "id": "03_september_2009_tennessee_titans_green_bay_packers",
         "date": "03 september 2009",
         "team_1": "tennessee titans",
         "team_2": "green bay packers",
@@ -4845,7 +4522,6 @@
         "high_moneyline_2": 172
     },
     {
-        "id": "28_august_2009_arizona_cardinals_green_bay_packers",
         "date": "28 august 2009",
         "team_1": "arizona cardinals",
         "team_2": "green bay packers",
@@ -4860,7 +4536,6 @@
         "high_moneyline_2": 179
     },
     {
-        "id": "22_august_2009_green_bay_packers_buffalo_bills",
         "date": "22 august 2009",
         "team_1": "green bay packers",
         "team_2": "buffalo bills",
@@ -4875,7 +4550,6 @@
         "high_moneyline_2": 156
     },
     {
-        "id": "15_august_2009_green_bay_packers_cleveland_browns",
         "date": "15 august 2009",
         "team_1": "green bay packers",
         "team_2": "cleveland browns",
@@ -4890,7 +4564,6 @@
         "high_moneyline_2": 135
     },
     {
-        "id": "28_december_2008_green_bay_packers_detroit_lions",
         "date": "28 december 2008",
         "team_1": "green bay packers",
         "team_2": "detroit lions",
@@ -4905,7 +4578,6 @@
         "high_moneyline_2": 425
     },
     {
-        "id": "22_december_2008_chicago_bears_green_bay_packers",
         "date": "22 december 2008",
         "team_1": "chicago bears",
         "team_2": "green bay packers",
@@ -4920,7 +4592,6 @@
         "high_moneyline_2": 183
     },
     {
-        "id": "14_december_2008_jacksonville_jaguars_green_bay_packers",
         "date": "14 december 2008",
         "team_1": "jacksonville jaguars",
         "team_2": "green bay packers",
@@ -4935,7 +4606,6 @@
         "high_moneyline_2": -132
     },
     {
-        "id": "07_december_2008_green_bay_packers_houston_texans",
         "date": "07 december 2008",
         "team_1": "green bay packers",
         "team_2": "houston texans",
@@ -4950,7 +4620,6 @@
         "high_moneyline_2": 284
     },
     {
-        "id": "30_november_2008_green_bay_packers_carolina_panthers",
         "date": "30 november 2008",
         "team_1": "green bay packers",
         "team_2": "carolina panthers",
@@ -4965,7 +4634,6 @@
         "high_moneyline_2": 136
     },
     {
-        "id": "24_november_2008_new_orleans_saints_green_bay_packers",
         "date": "24 november 2008",
         "team_1": "new orleans saints",
         "team_2": "green bay packers",
@@ -4980,7 +4648,6 @@
         "high_moneyline_2": -108
     },
     {
-        "id": "16_november_2008_green_bay_packers_chicago_bears",
         "date": "16 november 2008",
         "team_1": "green bay packers",
         "team_2": "chicago bears",
@@ -4995,7 +4662,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "09_november_2008_minnesota_vikings_green_bay_packers",
         "date": "09 november 2008",
         "team_1": "minnesota vikings",
         "team_2": "green bay packers",
@@ -5010,7 +4676,6 @@
         "high_moneyline_2": 124
     },
     {
-        "id": "02_november_2008_tennessee_titans_green_bay_packers",
         "date": "02 november 2008",
         "team_1": "tennessee titans",
         "team_2": "green bay packers",
@@ -5025,7 +4690,6 @@
         "high_moneyline_2": 183
     },
     {
-        "id": "19_october_2008_green_bay_packers_indianapolis_colts",
         "date": "19 october 2008",
         "team_1": "green bay packers",
         "team_2": "indianapolis colts",
@@ -5040,7 +4704,6 @@
         "high_moneyline_2": -132
     },
     {
-        "id": "12_october_2008_seattle_seahawks_green_bay_packers",
         "date": "12 october 2008",
         "team_1": "seattle seahawks",
         "team_2": "green bay packers",
@@ -5055,7 +4718,6 @@
         "high_moneyline_2": 110
     },
     {
-        "id": "05_october_2008_green_bay_packers_atlanta_falcons",
         "date": "05 october 2008",
         "team_1": "green bay packers",
         "team_2": "atlanta falcons",

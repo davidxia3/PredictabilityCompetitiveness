@@ -1,6 +1,5 @@
 [
     {
-        "id": "22_september_2024_seattle_seahawks_miami_dolphins",
         "date": "22 september 2024",
         "team_1": "seattle seahawks",
         "team_2": "miami dolphins",
@@ -15,7 +14,6 @@
         "high_moneyline_2": 191
     },
     {
-        "id": "12_september_2024_miami_dolphins_buffalo_bills",
         "date": "12 september 2024",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -30,7 +28,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "08_september_2024_miami_dolphins_jacksonville_jaguars",
         "date": "08 september 2024",
         "team_1": "miami dolphins",
         "team_2": "jacksonville jaguars",
@@ -45,7 +42,6 @@
         "high_moneyline_2": 166
     },
     {
-        "id": "23_august_2024_tampa_bay_buccaneers_miami_dolphins",
         "date": "23 august 2024",
         "team_1": "tampa bay buccaneers",
         "team_2": "miami dolphins",
@@ -60,7 +56,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "17_august_2024_miami_dolphins_washington_commanders",
         "date": "17 august 2024",
         "team_1": "miami dolphins",
         "team_2": "washington commanders",
@@ -75,7 +70,6 @@
         "high_moneyline_2": 200
     },
     {
-        "id": "09_august_2024_miami_dolphins_atlanta_falcons",
         "date": "09 august 2024",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -90,7 +84,6 @@
         "high_moneyline_2": -147
     },
     {
-        "id": "13_january_2024_kansas_city_chiefs_miami_dolphins",
         "date": "13 january 2024",
         "team_1": "kansas city chiefs",
         "team_2": "miami dolphins",
@@ -105,7 +98,6 @@
         "high_moneyline_2": 202
     },
     {
-        "id": "07_january_2024_miami_dolphins_buffalo_bills",
         "date": "07 january 2024",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -120,7 +112,6 @@
         "high_moneyline_2": -143
     },
     {
-        "id": "31_december_2023_baltimore_ravens_miami_dolphins",
         "date": "31 december 2023",
         "team_1": "baltimore ravens",
         "team_2": "miami dolphins",
@@ -135,7 +126,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "24_december_2023_miami_dolphins_dallas_cowboys",
         "date": "24 december 2023",
         "team_1": "miami dolphins",
         "team_2": "dallas cowboys",
@@ -150,7 +140,6 @@
         "high_moneyline_2": 112
     },
     {
-        "id": "17_december_2023_miami_dolphins_new_york_jets",
         "date": "17 december 2023",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -165,7 +154,6 @@
         "high_moneyline_2": 400
     },
     {
-        "id": "11_december_2023_miami_dolphins_tennessee_titans",
         "date": "11 december 2023",
         "team_1": "miami dolphins",
         "team_2": "tennessee titans",
@@ -180,7 +168,6 @@
         "high_moneyline_2": 625
     },
     {
-        "id": "03_december_2023_washington_commanders_miami_dolphins",
         "date": "03 december 2023",
         "team_1": "washington commanders",
         "team_2": "miami dolphins",
@@ -195,7 +182,6 @@
         "high_moneyline_2": -370
     },
     {
-        "id": "24_november_2023_new_york_jets_miami_dolphins",
         "date": "24 november 2023",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -210,7 +196,6 @@
         "high_moneyline_2": -435
     },
     {
-        "id": "19_november_2023_miami_dolphins_las_vegas_raiders",
         "date": "19 november 2023",
         "team_1": "miami dolphins",
         "team_2": "las vegas raiders",
@@ -225,7 +210,6 @@
         "high_moneyline_2": 625
     },
     {
-        "id": "05_november_2023_kansas_city_chiefs_miami_dolphins",
         "date": "05 november 2023",
         "team_1": "kansas city chiefs",
         "team_2": "miami dolphins",
@@ -240,7 +224,6 @@
         "high_moneyline_2": -102
     },
     {
-        "id": "29_october_2023_miami_dolphins_new_england_patriots",
         "date": "29 october 2023",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -255,7 +238,6 @@
         "high_moneyline_2": 359
     },
     {
-        "id": "22_october_2023_philadelphia_eagles_miami_dolphins",
         "date": "22 october 2023",
         "team_1": "philadelphia eagles",
         "team_2": "miami dolphins",
@@ -270,7 +252,6 @@
         "high_moneyline_2": 152
     },
     {
-        "id": "15_october_2023_miami_dolphins_carolina_panthers",
         "date": "15 october 2023",
         "team_1": "miami dolphins",
         "team_2": "carolina panthers",
@@ -285,7 +266,6 @@
         "high_moneyline_2": 719
     },
     {
-        "id": "08_october_2023_miami_dolphins_new_york_giants",
         "date": "08 october 2023",
         "team_1": "miami dolphins",
         "team_2": "new york giants",
@@ -300,7 +280,6 @@
         "high_moneyline_2": 550
     },
     {
-        "id": "01_october_2023_buffalo_bills_miami_dolphins",
         "date": "01 october 2023",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -315,7 +294,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "24_september_2023_miami_dolphins_denver_broncos",
         "date": "24 september 2023",
         "team_1": "miami dolphins",
         "team_2": "denver broncos",
@@ -330,7 +308,6 @@
         "high_moneyline_2": 220
     },
     {
-        "id": "17_september_2023_new_england_patriots_miami_dolphins",
         "date": "17 september 2023",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -345,7 +322,6 @@
         "high_moneyline_2": -118
     },
     {
-        "id": "10_september_2023_los_angeles_chargers_miami_dolphins",
         "date": "10 september 2023",
         "team_1": "los angeles chargers",
         "team_2": "miami dolphins",
@@ -360,7 +336,6 @@
         "high_moneyline_2": 143
     },
     {
-        "id": "26_august_2023_jacksonville_jaguars_miami_dolphins",
         "date": "26 august 2023",
         "team_1": "jacksonville jaguars",
         "team_2": "miami dolphins",
@@ -375,7 +350,6 @@
         "high_moneyline_2": 200
     },
     {
-        "id": "19_august_2023_houston_texans_miami_dolphins",
         "date": "19 august 2023",
         "team_1": "houston texans",
         "team_2": "miami dolphins",
@@ -390,7 +364,6 @@
         "high_moneyline_2": 100
     },
     {
-        "id": "11_august_2023_miami_dolphins_atlanta_falcons",
         "date": "11 august 2023",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -405,7 +378,6 @@
         "high_moneyline_2": 120
     },
     {
-        "id": "15_january_2023_buffalo_bills_miami_dolphins",
         "date": "15 january 2023",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -420,7 +392,6 @@
         "high_moneyline_2": 700
     },
     {
-        "id": "08_january_2023_miami_dolphins_new_york_jets",
         "date": "08 january 2023",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -435,7 +406,6 @@
         "high_moneyline_2": 186
     },
     {
-        "id": "01_january_2023_new_england_patriots_miami_dolphins",
         "date": "01 january 2023",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -450,7 +420,6 @@
         "high_moneyline_2": 145
     },
     {
-        "id": "25_december_2022_miami_dolphins_green_bay_packers",
         "date": "25 december 2022",
         "team_1": "miami dolphins",
         "team_2": "green bay packers",
@@ -465,7 +434,6 @@
         "high_moneyline_2": 162
     },
     {
-        "id": "17_december_2022_buffalo_bills_miami_dolphins",
         "date": "17 december 2022",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -480,7 +448,6 @@
         "high_moneyline_2": 295
     },
     {
-        "id": "11_december_2022_los_angeles_chargers_miami_dolphins",
         "date": "11 december 2022",
         "team_1": "los angeles chargers",
         "team_2": "miami dolphins",
@@ -495,7 +462,6 @@
         "high_moneyline_2": -164
     },
     {
-        "id": "04_december_2022_san_francisco_49ers_miami_dolphins",
         "date": "04 december 2022",
         "team_1": "san francisco 49ers",
         "team_2": "miami dolphins",
@@ -510,7 +476,6 @@
         "high_moneyline_2": 200
     },
     {
-        "id": "27_november_2022_miami_dolphins_houston_texans",
         "date": "27 november 2022",
         "team_1": "miami dolphins",
         "team_2": "houston texans",
@@ -525,7 +490,6 @@
         "high_moneyline_2": 660
     },
     {
-        "id": "13_november_2022_miami_dolphins_cleveland_browns",
         "date": "13 november 2022",
         "team_1": "miami dolphins",
         "team_2": "cleveland browns",
@@ -540,7 +504,6 @@
         "high_moneyline_2": 154
     },
     {
-        "id": "06_november_2022_chicago_bears_miami_dolphins",
         "date": "06 november 2022",
         "team_1": "chicago bears",
         "team_2": "miami dolphins",
@@ -555,7 +518,6 @@
         "high_moneyline_2": -185
     },
     {
-        "id": "30_october_2022_detroit_lions_miami_dolphins",
         "date": "30 october 2022",
         "team_1": "detroit lions",
         "team_2": "miami dolphins",
@@ -570,7 +532,6 @@
         "high_moneyline_2": -185
     },
     {
-        "id": "23_october_2022_miami_dolphins_pittsburgh_steelers",
         "date": "23 october 2022",
         "team_1": "miami dolphins",
         "team_2": "pittsburgh steelers",
@@ -585,7 +546,6 @@
         "high_moneyline_2": 270
     },
     {
-        "id": "16_october_2022_miami_dolphins_minnesota_vikings",
         "date": "16 october 2022",
         "team_1": "miami dolphins",
         "team_2": "minnesota vikings",
@@ -600,7 +560,6 @@
         "high_moneyline_2": -169
     },
     {
-        "id": "09_october_2022_new_york_jets_miami_dolphins",
         "date": "09 october 2022",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -615,7 +574,6 @@
         "high_moneyline_2": -159
     },
     {
-        "id": "29_september_2022_cincinnati_bengals_miami_dolphins",
         "date": "29 september 2022",
         "team_1": "cincinnati bengals",
         "team_2": "miami dolphins",
@@ -630,7 +588,6 @@
         "high_moneyline_2": 179
     },
     {
-        "id": "25_september_2022_miami_dolphins_buffalo_bills",
         "date": "25 september 2022",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -645,7 +602,6 @@
         "high_moneyline_2": -192
     },
     {
-        "id": "18_september_2022_baltimore_ravens_miami_dolphins",
         "date": "18 september 2022",
         "team_1": "baltimore ravens",
         "team_2": "miami dolphins",
@@ -660,7 +616,6 @@
         "high_moneyline_2": 154
     },
     {
-        "id": "11_september_2022_miami_dolphins_new_england_patriots",
         "date": "11 september 2022",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -675,7 +630,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "27_august_2022_miami_dolphins_philadelphia_eagles",
         "date": "27 august 2022",
         "team_1": "miami dolphins",
         "team_2": "philadelphia eagles",
@@ -690,7 +644,6 @@
         "high_moneyline_2": 154
     },
     {
-        "id": "20_august_2022_miami_dolphins_las_vegas_raiders",
         "date": "20 august 2022",
         "team_1": "miami dolphins",
         "team_2": "las vegas raiders",
@@ -705,7 +658,6 @@
         "high_moneyline_2": 152
     },
     {
-        "id": "13_august_2022_tampa_bay_buccaneers_miami_dolphins",
         "date": "13 august 2022",
         "team_1": "tampa bay buccaneers",
         "team_2": "miami dolphins",
@@ -720,7 +672,6 @@
         "high_moneyline_2": 104
     },
     {
-        "id": "09_january_2022_miami_dolphins_new_england_patriots",
         "date": "09 january 2022",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -735,7 +686,6 @@
         "high_moneyline_2": -256
     },
     {
-        "id": "02_january_2022_tennessee_titans_miami_dolphins",
         "date": "02 january 2022",
         "team_1": "tennessee titans",
         "team_2": "miami dolphins",
@@ -750,7 +700,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "27_december_2021_new_orleans_saints_miami_dolphins",
         "date": "27 december 2021",
         "team_1": "new orleans saints",
         "team_2": "miami dolphins",
@@ -765,7 +714,6 @@
         "high_moneyline_2": -161
     },
     {
-        "id": "19_december_2021_miami_dolphins_new_york_jets",
         "date": "19 december 2021",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -780,7 +728,6 @@
         "high_moneyline_2": 412
     },
     {
-        "id": "05_december_2021_miami_dolphins_new_york_giants",
         "date": "05 december 2021",
         "team_1": "miami dolphins",
         "team_2": "new york giants",
@@ -795,7 +742,6 @@
         "high_moneyline_2": 265
     },
     {
-        "id": "28_november_2021_miami_dolphins_carolina_panthers",
         "date": "28 november 2021",
         "team_1": "miami dolphins",
         "team_2": "carolina panthers",
@@ -810,7 +756,6 @@
         "high_moneyline_2": -112
     },
     {
-        "id": "21_november_2021_new_york_jets_miami_dolphins",
         "date": "21 november 2021",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -825,7 +770,6 @@
         "high_moneyline_2": -182
     },
     {
-        "id": "11_november_2021_miami_dolphins_baltimore_ravens",
         "date": "11 november 2021",
         "team_1": "miami dolphins",
         "team_2": "baltimore ravens",
@@ -840,7 +784,6 @@
         "high_moneyline_2": -357
     },
     {
-        "id": "07_november_2021_miami_dolphins_houston_texans",
         "date": "07 november 2021",
         "team_1": "miami dolphins",
         "team_2": "houston texans",
@@ -855,7 +798,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "31_october_2021_buffalo_bills_miami_dolphins",
         "date": "31 october 2021",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -870,7 +812,6 @@
         "high_moneyline_2": 738
     },
     {
-        "id": "24_october_2021_miami_dolphins_atlanta_falcons",
         "date": "24 october 2021",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -885,7 +826,6 @@
         "high_moneyline_2": -122
     },
     {
-        "id": "17_october_2021_jacksonville_jaguars_miami_dolphins",
         "date": "17 october 2021",
         "team_1": "jacksonville jaguars",
         "team_2": "miami dolphins",
@@ -900,7 +840,6 @@
         "high_moneyline_2": -120
     },
     {
-        "id": "10_october_2021_tampa_bay_buccaneers_miami_dolphins",
         "date": "10 october 2021",
         "team_1": "tampa bay buccaneers",
         "team_2": "miami dolphins",
@@ -915,7 +854,6 @@
         "high_moneyline_2": 459
     },
     {
-        "id": "03_october_2021_miami_dolphins_indianapolis_colts",
         "date": "03 october 2021",
         "team_1": "miami dolphins",
         "team_2": "indianapolis colts",
@@ -930,7 +868,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "26_september_2021_las_vegas_raiders_miami_dolphins",
         "date": "26 september 2021",
         "team_1": "las vegas raiders",
         "team_2": "miami dolphins",
@@ -945,7 +882,6 @@
         "high_moneyline_2": 173
     },
     {
-        "id": "19_september_2021_miami_dolphins_buffalo_bills",
         "date": "19 september 2021",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -960,7 +896,6 @@
         "high_moneyline_2": -179
     },
     {
-        "id": "12_september_2021_new_england_patriots_miami_dolphins",
         "date": "12 september 2021",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -975,7 +910,6 @@
         "high_moneyline_2": 165
     },
     {
-        "id": "29_august_2021_cincinnati_bengals_miami_dolphins",
         "date": "29 august 2021",
         "team_1": "cincinnati bengals",
         "team_2": "miami dolphins",
@@ -990,7 +924,6 @@
         "high_moneyline_2": 116
     },
     {
-        "id": "21_august_2021_miami_dolphins_atlanta_falcons",
         "date": "21 august 2021",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -1005,7 +938,6 @@
         "high_moneyline_2": 202
     },
     {
-        "id": "14_august_2021_chicago_bears_miami_dolphins",
         "date": "14 august 2021",
         "team_1": "chicago bears",
         "team_2": "miami dolphins",
@@ -1020,7 +952,6 @@
         "high_moneyline_2": 170
     },
     {
-        "id": "03_january_2021_buffalo_bills_miami_dolphins",
         "date": "03 january 2021",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -1035,7 +966,6 @@
         "high_moneyline_2": -161
     },
     {
-        "id": "26_december_2020_las_vegas_raiders_miami_dolphins",
         "date": "26 december 2020",
         "team_1": "las vegas raiders",
         "team_2": "miami dolphins",
@@ -1050,7 +980,6 @@
         "high_moneyline_2": -122
     },
     {
-        "id": "20_december_2020_miami_dolphins_new_england_patriots",
         "date": "20 december 2020",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -1065,7 +994,6 @@
         "high_moneyline_2": -112
     },
     {
-        "id": "13_december_2020_miami_dolphins_kansas_city_chiefs",
         "date": "13 december 2020",
         "team_1": "miami dolphins",
         "team_2": "kansas city chiefs",
@@ -1080,7 +1008,6 @@
         "high_moneyline_2": -312
     },
     {
-        "id": "06_december_2020_miami_dolphins_cincinnati_bengals",
         "date": "06 december 2020",
         "team_1": "miami dolphins",
         "team_2": "cincinnati bengals",
@@ -1095,7 +1022,6 @@
         "high_moneyline_2": 425
     },
     {
-        "id": "29_november_2020_new_york_jets_miami_dolphins",
         "date": "29 november 2020",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -1110,7 +1036,6 @@
         "high_moneyline_2": -323
     },
     {
-        "id": "22_november_2020_denver_broncos_miami_dolphins",
         "date": "22 november 2020",
         "team_1": "denver broncos",
         "team_2": "miami dolphins",
@@ -1125,7 +1050,6 @@
         "high_moneyline_2": -196
     },
     {
-        "id": "15_november_2020_miami_dolphins_los_angeles_chargers",
         "date": "15 november 2020",
         "team_1": "miami dolphins",
         "team_2": "los angeles chargers",
@@ -1140,7 +1064,6 @@
         "high_moneyline_2": 116
     },
     {
-        "id": "08_november_2020_arizona_cardinals_miami_dolphins",
         "date": "08 november 2020",
         "team_1": "arizona cardinals",
         "team_2": "miami dolphins",
@@ -1155,7 +1078,6 @@
         "high_moneyline_2": 217
     },
     {
-        "id": "01_november_2020_miami_dolphins_los_angeles_rams",
         "date": "01 november 2020",
         "team_1": "miami dolphins",
         "team_2": "los angeles rams",
@@ -1170,7 +1092,6 @@
         "high_moneyline_2": -164
     },
     {
-        "id": "18_october_2020_miami_dolphins_new_york_jets",
         "date": "18 october 2020",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -1185,7 +1106,6 @@
         "high_moneyline_2": 348
     },
     {
-        "id": "11_october_2020_san_francisco_49ers_miami_dolphins",
         "date": "11 october 2020",
         "team_1": "san francisco 49ers",
         "team_2": "miami dolphins",
@@ -1200,7 +1120,6 @@
         "high_moneyline_2": 330
     },
     {
-        "id": "04_october_2020_miami_dolphins_seattle_seahawks",
         "date": "04 october 2020",
         "team_1": "miami dolphins",
         "team_2": "seattle seahawks",
@@ -1215,7 +1134,6 @@
         "high_moneyline_2": -213
     },
     {
-        "id": "24_september_2020_jacksonville_jaguars_miami_dolphins",
         "date": "24 september 2020",
         "team_1": "jacksonville jaguars",
         "team_2": "miami dolphins",
@@ -1230,7 +1148,6 @@
         "high_moneyline_2": 142
     },
     {
-        "id": "20_september_2020_miami_dolphins_buffalo_bills",
         "date": "20 september 2020",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -1245,7 +1162,6 @@
         "high_moneyline_2": -222
     },
     {
-        "id": "13_september_2020_new_england_patriots_miami_dolphins",
         "date": "13 september 2020",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -1260,7 +1176,6 @@
         "high_moneyline_2": 295
     },
     {
-        "id": "29_december_2019_new_england_patriots_miami_dolphins",
         "date": "29 december 2019",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -1275,7 +1190,6 @@
         "high_moneyline_2": 900
     },
     {
-        "id": "22_december_2019_miami_dolphins_cincinnati_bengals",
         "date": "22 december 2019",
         "team_1": "miami dolphins",
         "team_2": "cincinnati bengals",
@@ -1290,7 +1204,6 @@
         "high_moneyline_2": -120
     },
     {
-        "id": "15_december_2019_new_york_giants_miami_dolphins",
         "date": "15 december 2019",
         "team_1": "new york giants",
         "team_2": "miami dolphins",
@@ -1305,7 +1218,6 @@
         "high_moneyline_2": 165
     },
     {
-        "id": "08_december_2019_new_york_jets_miami_dolphins",
         "date": "08 december 2019",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -1320,7 +1232,6 @@
         "high_moneyline_2": 195
     },
     {
-        "id": "01_december_2019_miami_dolphins_philadelphia_eagles",
         "date": "01 december 2019",
         "team_1": "miami dolphins",
         "team_2": "philadelphia eagles",
@@ -1335,7 +1246,6 @@
         "high_moneyline_2": -476
     },
     {
-        "id": "24_november_2019_cleveland_browns_miami_dolphins",
         "date": "24 november 2019",
         "team_1": "cleveland browns",
         "team_2": "miami dolphins",
@@ -1350,7 +1260,6 @@
         "high_moneyline_2": 425
     },
     {
-        "id": "17_november_2019_miami_dolphins_buffalo_bills",
         "date": "17 november 2019",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -1365,7 +1274,6 @@
         "high_moneyline_2": -312
     },
     {
-        "id": "10_november_2019_indianapolis_colts_miami_dolphins",
         "date": "10 november 2019",
         "team_1": "indianapolis colts",
         "team_2": "miami dolphins",
@@ -1380,7 +1288,6 @@
         "high_moneyline_2": 450
     },
     {
-        "id": "03_november_2019_miami_dolphins_new_york_jets",
         "date": "03 november 2019",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -1395,7 +1302,6 @@
         "high_moneyline_2": -167
     },
     {
-        "id": "28_october_2019_pittsburgh_steelers_miami_dolphins",
         "date": "28 october 2019",
         "team_1": "pittsburgh steelers",
         "team_2": "miami dolphins",
@@ -1410,7 +1316,6 @@
         "high_moneyline_2": 600
     },
     {
-        "id": "20_october_2019_buffalo_bills_miami_dolphins",
         "date": "20 october 2019",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -1425,7 +1330,6 @@
         "high_moneyline_2": 850
     },
     {
-        "id": "13_october_2019_miami_dolphins_washington_commanders",
         "date": "13 october 2019",
         "team_1": "miami dolphins",
         "team_2": "washington commanders",
@@ -1440,7 +1344,6 @@
         "high_moneyline_2": -233
     },
     {
-        "id": "29_september_2019_miami_dolphins_los_angeles_chargers",
         "date": "29 september 2019",
         "team_1": "miami dolphins",
         "team_2": "los angeles chargers",
@@ -1455,7 +1358,6 @@
         "high_moneyline_2": -769
     },
     {
-        "id": "22_september_2019_dallas_cowboys_miami_dolphins",
         "date": "22 september 2019",
         "team_1": "dallas cowboys",
         "team_2": "miami dolphins",
@@ -1470,7 +1372,6 @@
         "high_moneyline_2": 1500
     },
     {
-        "id": "15_september_2019_miami_dolphins_new_england_patriots",
         "date": "15 september 2019",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -1485,7 +1386,6 @@
         "high_moneyline_2": -1250
     },
     {
-        "id": "08_september_2019_miami_dolphins_baltimore_ravens",
         "date": "08 september 2019",
         "team_1": "miami dolphins",
         "team_2": "baltimore ravens",
@@ -1500,7 +1400,6 @@
         "high_moneyline_2": -294
     },
     {
-        "id": "29_august_2019_new_orleans_saints_miami_dolphins",
         "date": "29 august 2019",
         "team_1": "new orleans saints",
         "team_2": "miami dolphins",
@@ -1515,7 +1414,6 @@
         "high_moneyline_2": 167
     },
     {
-        "id": "22_august_2019_miami_dolphins_jacksonville_jaguars",
         "date": "22 august 2019",
         "team_1": "miami dolphins",
         "team_2": "jacksonville jaguars",
@@ -1530,7 +1428,6 @@
         "high_moneyline_2": -106
     },
     {
-        "id": "16_august_2019_tampa_bay_buccaneers_miami_dolphins",
         "date": "16 august 2019",
         "team_1": "tampa bay buccaneers",
         "team_2": "miami dolphins",
@@ -1545,7 +1442,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "08_august_2019_miami_dolphins_atlanta_falcons",
         "date": "08 august 2019",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -1560,7 +1456,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "30_december_2018_buffalo_bills_miami_dolphins",
         "date": "30 december 2018",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -1575,7 +1470,6 @@
         "high_moneyline_2": 235
     },
     {
-        "id": "23_december_2018_miami_dolphins_jacksonville_jaguars",
         "date": "23 december 2018",
         "team_1": "miami dolphins",
         "team_2": "jacksonville jaguars",
@@ -1590,7 +1484,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "16_december_2018_minnesota_vikings_miami_dolphins",
         "date": "16 december 2018",
         "team_1": "minnesota vikings",
         "team_2": "miami dolphins",
@@ -1605,7 +1498,6 @@
         "high_moneyline_2": 322
     },
     {
-        "id": "09_december_2018_miami_dolphins_new_england_patriots",
         "date": "09 december 2018",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -1620,7 +1512,6 @@
         "high_moneyline_2": -370
     },
     {
-        "id": "02_december_2018_miami_dolphins_buffalo_bills",
         "date": "02 december 2018",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -1635,7 +1526,6 @@
         "high_moneyline_2": 170
     },
     {
-        "id": "25_november_2018_indianapolis_colts_miami_dolphins",
         "date": "25 november 2018",
         "team_1": "indianapolis colts",
         "team_2": "miami dolphins",
@@ -1650,7 +1540,6 @@
         "high_moneyline_2": 336
     },
     {
-        "id": "11_november_2018_green_bay_packers_miami_dolphins",
         "date": "11 november 2018",
         "team_1": "green bay packers",
         "team_2": "miami dolphins",
@@ -1665,7 +1554,6 @@
         "high_moneyline_2": 610
     },
     {
-        "id": "04_november_2018_miami_dolphins_new_york_jets",
         "date": "04 november 2018",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -1680,7 +1568,6 @@
         "high_moneyline_2": 141
     },
     {
-        "id": "25_october_2018_houston_texans_miami_dolphins",
         "date": "25 october 2018",
         "team_1": "houston texans",
         "team_2": "miami dolphins",
@@ -1695,7 +1582,6 @@
         "high_moneyline_2": 300
     },
     {
-        "id": "21_october_2018_miami_dolphins_detroit_lions",
         "date": "21 october 2018",
         "team_1": "miami dolphins",
         "team_2": "detroit lions",
@@ -1710,7 +1596,6 @@
         "high_moneyline_2": -161
     },
     {
-        "id": "14_october_2018_miami_dolphins_chicago_bears",
         "date": "14 october 2018",
         "team_1": "miami dolphins",
         "team_2": "chicago bears",
@@ -1725,7 +1610,6 @@
         "high_moneyline_2": -303
     },
     {
-        "id": "07_october_2018_cincinnati_bengals_miami_dolphins",
         "date": "07 october 2018",
         "team_1": "cincinnati bengals",
         "team_2": "miami dolphins",
@@ -1740,7 +1624,6 @@
         "high_moneyline_2": 242
     },
     {
-        "id": "30_september_2018_new_england_patriots_miami_dolphins",
         "date": "30 september 2018",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -1755,7 +1638,6 @@
         "high_moneyline_2": 260
     },
     {
-        "id": "23_september_2018_miami_dolphins_las_vegas_raiders",
         "date": "23 september 2018",
         "team_1": "miami dolphins",
         "team_2": "las vegas raiders",
@@ -1770,7 +1652,6 @@
         "high_moneyline_2": 135
     },
     {
-        "id": "16_september_2018_new_york_jets_miami_dolphins",
         "date": "16 september 2018",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -1785,7 +1666,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "09_september_2018_miami_dolphins_tennessee_titans",
         "date": "09 september 2018",
         "team_1": "miami dolphins",
         "team_2": "tennessee titans",
@@ -1800,7 +1680,6 @@
         "high_moneyline_2": 102
     },
     {
-        "id": "30_august_2018_atlanta_falcons_miami_dolphins",
         "date": "30 august 2018",
         "team_1": "atlanta falcons",
         "team_2": "miami dolphins",
@@ -1815,7 +1694,6 @@
         "high_moneyline_2": -128
     },
     {
-        "id": "25_august_2018_miami_dolphins_baltimore_ravens",
         "date": "25 august 2018",
         "team_1": "miami dolphins",
         "team_2": "baltimore ravens",
@@ -1830,7 +1708,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "17_august_2018_carolina_panthers_miami_dolphins",
         "date": "17 august 2018",
         "team_1": "carolina panthers",
         "team_2": "miami dolphins",
@@ -1845,7 +1722,6 @@
         "high_moneyline_2": 135
     },
     {
-        "id": "09_august_2018_miami_dolphins_tampa_bay_buccaneers",
         "date": "09 august 2018",
         "team_1": "miami dolphins",
         "team_2": "tampa bay buccaneers",
@@ -1860,7 +1736,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "31_december_2017_miami_dolphins_buffalo_bills",
         "date": "31 december 2017",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -1875,7 +1750,6 @@
         "high_moneyline_2": -127
     },
     {
-        "id": "24_december_2017_kansas_city_chiefs_miami_dolphins",
         "date": "24 december 2017",
         "team_1": "kansas city chiefs",
         "team_2": "miami dolphins",
@@ -1890,7 +1764,6 @@
         "high_moneyline_2": 480
     },
     {
-        "id": "17_december_2017_buffalo_bills_miami_dolphins",
         "date": "17 december 2017",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -1905,7 +1778,6 @@
         "high_moneyline_2": 170
     },
     {
-        "id": "11_december_2017_miami_dolphins_new_england_patriots",
         "date": "11 december 2017",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -1920,7 +1792,6 @@
         "high_moneyline_2": -500
     },
     {
-        "id": "03_december_2017_miami_dolphins_denver_broncos",
         "date": "03 december 2017",
         "team_1": "miami dolphins",
         "team_2": "denver broncos",
@@ -1935,7 +1806,6 @@
         "high_moneyline_2": -114
     },
     {
-        "id": "26_november_2017_new_england_patriots_miami_dolphins",
         "date": "26 november 2017",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -1950,7 +1820,6 @@
         "high_moneyline_2": 1000
     },
     {
-        "id": "19_november_2017_miami_dolphins_tampa_bay_buccaneers",
         "date": "19 november 2017",
         "team_1": "miami dolphins",
         "team_2": "tampa bay buccaneers",
@@ -1965,7 +1834,6 @@
         "high_moneyline_2": -116
     },
     {
-        "id": "13_november_2017_carolina_panthers_miami_dolphins",
         "date": "13 november 2017",
         "team_1": "carolina panthers",
         "team_2": "miami dolphins",
@@ -1980,7 +1848,6 @@
         "high_moneyline_2": 318
     },
     {
-        "id": "05_november_2017_miami_dolphins_las_vegas_raiders",
         "date": "05 november 2017",
         "team_1": "miami dolphins",
         "team_2": "las vegas raiders",
@@ -1995,7 +1862,6 @@
         "high_moneyline_2": -159
     },
     {
-        "id": "26_october_2017_baltimore_ravens_miami_dolphins",
         "date": "26 october 2017",
         "team_1": "baltimore ravens",
         "team_2": "miami dolphins",
@@ -2010,7 +1876,6 @@
         "high_moneyline_2": 141
     },
     {
-        "id": "22_october_2017_miami_dolphins_new_york_jets",
         "date": "22 october 2017",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -2025,7 +1890,6 @@
         "high_moneyline_2": 145
     },
     {
-        "id": "15_october_2017_atlanta_falcons_miami_dolphins",
         "date": "15 october 2017",
         "team_1": "atlanta falcons",
         "team_2": "miami dolphins",
@@ -2040,7 +1904,6 @@
         "high_moneyline_2": 650
     },
     {
-        "id": "08_october_2017_miami_dolphins_tennessee_titans",
         "date": "08 october 2017",
         "team_1": "miami dolphins",
         "team_2": "tennessee titans",
@@ -2055,7 +1918,6 @@
         "high_moneyline_2": 106
     },
     {
-        "id": "01_october_2017_miami_dolphins_new_orleans_saints",
         "date": "01 october 2017",
         "team_1": "miami dolphins",
         "team_2": "new orleans saints",
@@ -2070,7 +1932,6 @@
         "high_moneyline_2": -179
     },
     {
-        "id": "24_september_2017_new_york_jets_miami_dolphins",
         "date": "24 september 2017",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -2085,7 +1946,6 @@
         "high_moneyline_2": -222
     },
     {
-        "id": "17_september_2017_los_angeles_chargers_miami_dolphins",
         "date": "17 september 2017",
         "team_1": "los angeles chargers",
         "team_2": "miami dolphins",
@@ -2100,7 +1960,6 @@
         "high_moneyline_2": 166
     },
     {
-        "id": "31_august_2017_minnesota_vikings_miami_dolphins",
         "date": "31 august 2017",
         "team_1": "minnesota vikings",
         "team_2": "miami dolphins",
@@ -2115,7 +1974,6 @@
         "high_moneyline_2": 160
     },
     {
-        "id": "24_august_2017_philadelphia_eagles_miami_dolphins",
         "date": "24 august 2017",
         "team_1": "philadelphia eagles",
         "team_2": "miami dolphins",
@@ -2130,7 +1988,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "17_august_2017_miami_dolphins_baltimore_ravens",
         "date": "17 august 2017",
         "team_1": "miami dolphins",
         "team_2": "baltimore ravens",
@@ -2145,7 +2002,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "10_august_2017_miami_dolphins_atlanta_falcons",
         "date": "10 august 2017",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -2160,7 +2016,6 @@
         "high_moneyline_2": 112
     },
     {
-        "id": "08_january_2017_pittsburgh_steelers_miami_dolphins",
         "date": "08 january 2017",
         "team_1": "pittsburgh steelers",
         "team_2": "miami dolphins",
@@ -2175,7 +2030,6 @@
         "high_moneyline_2": 480
     },
     {
-        "id": "01_january_2017_miami_dolphins_new_england_patriots",
         "date": "01 january 2017",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -2190,7 +2044,6 @@
         "high_moneyline_2": -345
     },
     {
-        "id": "24_december_2016_buffalo_bills_miami_dolphins",
         "date": "24 december 2016",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -2205,7 +2058,6 @@
         "high_moneyline_2": 197
     },
     {
-        "id": "17_december_2016_new_york_jets_miami_dolphins",
         "date": "17 december 2016",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -2220,7 +2072,6 @@
         "high_moneyline_2": -141
     },
     {
-        "id": "11_december_2016_miami_dolphins_arizona_cardinals",
         "date": "11 december 2016",
         "team_1": "miami dolphins",
         "team_2": "arizona cardinals",
@@ -2235,7 +2086,6 @@
         "high_moneyline_2": -122
     },
     {
-        "id": "04_december_2016_baltimore_ravens_miami_dolphins",
         "date": "04 december 2016",
         "team_1": "baltimore ravens",
         "team_2": "miami dolphins",
@@ -2250,7 +2100,6 @@
         "high_moneyline_2": 165
     },
     {
-        "id": "27_november_2016_miami_dolphins_san_francisco_49ers",
         "date": "27 november 2016",
         "team_1": "miami dolphins",
         "team_2": "san francisco 49ers",
@@ -2265,7 +2114,6 @@
         "high_moneyline_2": 285
     },
     {
-        "id": "20_november_2016_los_angeles_rams_miami_dolphins",
         "date": "20 november 2016",
         "team_1": "los angeles rams",
         "team_2": "miami dolphins",
@@ -2280,7 +2128,6 @@
         "high_moneyline_2": 100
     },
     {
-        "id": "13_november_2016_los_angeles_chargers_miami_dolphins",
         "date": "13 november 2016",
         "team_1": "los angeles chargers",
         "team_2": "miami dolphins",
@@ -2295,7 +2142,6 @@
         "high_moneyline_2": 179
     },
     {
-        "id": "06_november_2016_miami_dolphins_new_york_jets",
         "date": "06 november 2016",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -2310,7 +2156,6 @@
         "high_moneyline_2": 171
     },
     {
-        "id": "23_october_2016_miami_dolphins_buffalo_bills",
         "date": "23 october 2016",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -2325,7 +2170,6 @@
         "high_moneyline_2": -120
     },
     {
-        "id": "16_october_2016_miami_dolphins_pittsburgh_steelers",
         "date": "16 october 2016",
         "team_1": "miami dolphins",
         "team_2": "pittsburgh steelers",
@@ -2340,7 +2184,6 @@
         "high_moneyline_2": -135
     },
     {
-        "id": "09_october_2016_miami_dolphins_tennessee_titans",
         "date": "09 october 2016",
         "team_1": "miami dolphins",
         "team_2": "tennessee titans",
@@ -2355,7 +2198,6 @@
         "high_moneyline_2": 121
     },
     {
-        "id": "29_september_2016_cincinnati_bengals_miami_dolphins",
         "date": "29 september 2016",
         "team_1": "cincinnati bengals",
         "team_2": "miami dolphins",
@@ -2370,7 +2212,6 @@
         "high_moneyline_2": 297
     },
     {
-        "id": "25_september_2016_miami_dolphins_cleveland_browns",
         "date": "25 september 2016",
         "team_1": "miami dolphins",
         "team_2": "cleveland browns",
@@ -2385,7 +2226,6 @@
         "high_moneyline_2": 365
     },
     {
-        "id": "18_september_2016_new_england_patriots_miami_dolphins",
         "date": "18 september 2016",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -2400,7 +2240,6 @@
         "high_moneyline_2": 210
     },
     {
-        "id": "11_september_2016_seattle_seahawks_miami_dolphins",
         "date": "11 september 2016",
         "team_1": "seattle seahawks",
         "team_2": "miami dolphins",
@@ -2415,7 +2254,6 @@
         "high_moneyline_2": 423
     },
     {
-        "id": "01_september_2016_miami_dolphins_tennessee_titans",
         "date": "01 september 2016",
         "team_1": "miami dolphins",
         "team_2": "tennessee titans",
@@ -2430,7 +2268,6 @@
         "high_moneyline_2": 141
     },
     {
-        "id": "25_august_2016_miami_dolphins_atlanta_falcons",
         "date": "25 august 2016",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -2445,7 +2282,6 @@
         "high_moneyline_2": 100
     },
     {
-        "id": "19_august_2016_dallas_cowboys_miami_dolphins",
         "date": "19 august 2016",
         "team_1": "dallas cowboys",
         "team_2": "miami dolphins",
@@ -2460,7 +2296,6 @@
         "high_moneyline_2": 100
     },
     {
-        "id": "12_august_2016_new_york_giants_miami_dolphins",
         "date": "12 august 2016",
         "team_1": "new york giants",
         "team_2": "miami dolphins",
@@ -2475,7 +2310,6 @@
         "high_moneyline_2": 123
     },
     {
-        "id": "03_january_2016_miami_dolphins_new_england_patriots",
         "date": "03 january 2016",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -2490,7 +2324,6 @@
         "high_moneyline_2": -400
     },
     {
-        "id": "27_december_2015_miami_dolphins_indianapolis_colts",
         "date": "27 december 2015",
         "team_1": "miami dolphins",
         "team_2": "indianapolis colts",
@@ -2505,7 +2338,6 @@
         "high_moneyline_2": 120
     },
     {
-        "id": "20_december_2015_los_angeles_chargers_miami_dolphins",
         "date": "20 december 2015",
         "team_1": "los angeles chargers",
         "team_2": "miami dolphins",
@@ -2520,7 +2352,6 @@
         "high_moneyline_2": 104
     },
     {
-        "id": "14_december_2015_miami_dolphins_new_york_giants",
         "date": "14 december 2015",
         "team_1": "miami dolphins",
         "team_2": "new york giants",
@@ -2535,7 +2366,6 @@
         "high_moneyline_2": -122
     },
     {
-        "id": "06_december_2015_miami_dolphins_baltimore_ravens",
         "date": "06 december 2015",
         "team_1": "miami dolphins",
         "team_2": "baltimore ravens",
@@ -2550,7 +2380,6 @@
         "high_moneyline_2": 156
     },
     {
-        "id": "29_november_2015_new_york_jets_miami_dolphins",
         "date": "29 november 2015",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -2565,7 +2394,6 @@
         "high_moneyline_2": 190
     },
     {
-        "id": "22_november_2015_miami_dolphins_dallas_cowboys",
         "date": "22 november 2015",
         "team_1": "miami dolphins",
         "team_2": "dallas cowboys",
@@ -2580,7 +2408,6 @@
         "high_moneyline_2": -123
     },
     {
-        "id": "15_november_2015_philadelphia_eagles_miami_dolphins",
         "date": "15 november 2015",
         "team_1": "philadelphia eagles",
         "team_2": "miami dolphins",
@@ -2595,7 +2422,6 @@
         "high_moneyline_2": 215
     },
     {
-        "id": "08_november_2015_buffalo_bills_miami_dolphins",
         "date": "08 november 2015",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -2610,7 +2436,6 @@
         "high_moneyline_2": 181
     },
     {
-        "id": "29_october_2015_new_england_patriots_miami_dolphins",
         "date": "29 october 2015",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -2625,7 +2450,6 @@
         "high_moneyline_2": 365
     },
     {
-        "id": "25_october_2015_miami_dolphins_houston_texans",
         "date": "25 october 2015",
         "team_1": "miami dolphins",
         "team_2": "houston texans",
@@ -2640,7 +2464,6 @@
         "high_moneyline_2": 192
     },
     {
-        "id": "18_october_2015_tennessee_titans_miami_dolphins",
         "date": "18 october 2015",
         "team_1": "tennessee titans",
         "team_2": "miami dolphins",
@@ -2655,7 +2478,6 @@
         "high_moneyline_2": 125
     },
     {
-        "id": "04_october_2015_miami_dolphins_new_york_jets",
         "date": "04 october 2015",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -2670,7 +2492,6 @@
         "high_moneyline_2": -137
     },
     {
-        "id": "27_september_2015_miami_dolphins_buffalo_bills",
         "date": "27 september 2015",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -2685,7 +2506,6 @@
         "high_moneyline_2": 104
     },
     {
-        "id": "20_september_2015_jacksonville_jaguars_miami_dolphins",
         "date": "20 september 2015",
         "team_1": "jacksonville jaguars",
         "team_2": "miami dolphins",
@@ -2700,7 +2520,6 @@
         "high_moneyline_2": -233
     },
     {
-        "id": "13_september_2015_washington_commanders_miami_dolphins",
         "date": "13 september 2015",
         "team_1": "washington commanders",
         "team_2": "miami dolphins",
@@ -2715,7 +2534,6 @@
         "high_moneyline_2": -200
     },
     {
-        "id": "03_september_2015_miami_dolphins_tampa_bay_buccaneers",
         "date": "03 september 2015",
         "team_1": "miami dolphins",
         "team_2": "tampa bay buccaneers",
@@ -2730,7 +2548,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "29_august_2015_miami_dolphins_atlanta_falcons",
         "date": "29 august 2015",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -2745,7 +2562,6 @@
         "high_moneyline_2": 229
     },
     {
-        "id": "22_august_2015_carolina_panthers_miami_dolphins",
         "date": "22 august 2015",
         "team_1": "carolina panthers",
         "team_2": "miami dolphins",
@@ -2760,7 +2576,6 @@
         "high_moneyline_2": 114
     },
     {
-        "id": "13_august_2015_chicago_bears_miami_dolphins",
         "date": "13 august 2015",
         "team_1": "chicago bears",
         "team_2": "miami dolphins",
@@ -2775,7 +2590,6 @@
         "high_moneyline_2": -111
     },
     {
-        "id": "28_december_2014_miami_dolphins_new_york_jets",
         "date": "28 december 2014",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -2790,7 +2604,6 @@
         "high_moneyline_2": 281
     },
     {
-        "id": "21_december_2014_miami_dolphins_minnesota_vikings",
         "date": "21 december 2014",
         "team_1": "miami dolphins",
         "team_2": "minnesota vikings",
@@ -2805,7 +2618,6 @@
         "high_moneyline_2": 200
     },
     {
-        "id": "14_december_2014_new_england_patriots_miami_dolphins",
         "date": "14 december 2014",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -2820,7 +2632,6 @@
         "high_moneyline_2": 361
     },
     {
-        "id": "07_december_2014_miami_dolphins_baltimore_ravens",
         "date": "07 december 2014",
         "team_1": "miami dolphins",
         "team_2": "baltimore ravens",
@@ -2835,7 +2646,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "01_december_2014_new_york_jets_miami_dolphins",
         "date": "01 december 2014",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -2850,7 +2660,6 @@
         "high_moneyline_2": -303
     },
     {
-        "id": "23_november_2014_denver_broncos_miami_dolphins",
         "date": "23 november 2014",
         "team_1": "denver broncos",
         "team_2": "miami dolphins",
@@ -2865,7 +2674,6 @@
         "high_moneyline_2": 264
     },
     {
-        "id": "13_november_2014_miami_dolphins_buffalo_bills",
         "date": "13 november 2014",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -2880,7 +2688,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "09_november_2014_detroit_lions_miami_dolphins",
         "date": "09 november 2014",
         "team_1": "detroit lions",
         "team_2": "miami dolphins",
@@ -2895,7 +2702,6 @@
         "high_moneyline_2": 136
     },
     {
-        "id": "02_november_2014_miami_dolphins_los_angeles_chargers",
         "date": "02 november 2014",
         "team_1": "miami dolphins",
         "team_2": "los angeles chargers",
@@ -2910,7 +2716,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "26_october_2014_jacksonville_jaguars_miami_dolphins",
         "date": "26 october 2014",
         "team_1": "jacksonville jaguars",
         "team_2": "miami dolphins",
@@ -2925,7 +2730,6 @@
         "high_moneyline_2": -312
     },
     {
-        "id": "19_october_2014_chicago_bears_miami_dolphins",
         "date": "19 october 2014",
         "team_1": "chicago bears",
         "team_2": "miami dolphins",
@@ -2940,7 +2744,6 @@
         "high_moneyline_2": 156
     },
     {
-        "id": "12_october_2014_miami_dolphins_green_bay_packers",
         "date": "12 october 2014",
         "team_1": "miami dolphins",
         "team_2": "green bay packers",
@@ -2955,7 +2758,6 @@
         "high_moneyline_2": -123
     },
     {
-        "id": "28_september_2014_las_vegas_raiders_miami_dolphins",
         "date": "28 september 2014",
         "team_1": "las vegas raiders",
         "team_2": "miami dolphins",
@@ -2970,7 +2772,6 @@
         "high_moneyline_2": -189
     },
     {
-        "id": "21_september_2014_miami_dolphins_kansas_city_chiefs",
         "date": "21 september 2014",
         "team_1": "miami dolphins",
         "team_2": "kansas city chiefs",
@@ -2985,7 +2786,6 @@
         "high_moneyline_2": 215
     },
     {
-        "id": "14_september_2014_buffalo_bills_miami_dolphins",
         "date": "14 september 2014",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -3000,7 +2800,6 @@
         "high_moneyline_2": 110
     },
     {
-        "id": "07_september_2014_miami_dolphins_new_england_patriots",
         "date": "07 september 2014",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -3015,7 +2814,6 @@
         "high_moneyline_2": -172
     },
     {
-        "id": "28_august_2014_miami_dolphins_los_angeles_rams",
         "date": "28 august 2014",
         "team_1": "miami dolphins",
         "team_2": "los angeles rams",
@@ -3030,7 +2828,6 @@
         "high_moneyline_2": 100
     },
     {
-        "id": "23_august_2014_miami_dolphins_dallas_cowboys",
         "date": "23 august 2014",
         "team_1": "miami dolphins",
         "team_2": "dallas cowboys",
@@ -3045,7 +2842,6 @@
         "high_moneyline_2": 202
     },
     {
-        "id": "16_august_2014_tampa_bay_buccaneers_miami_dolphins",
         "date": "16 august 2014",
         "team_1": "tampa bay buccaneers",
         "team_2": "miami dolphins",
@@ -3060,7 +2856,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "08_august_2014_atlanta_falcons_miami_dolphins",
         "date": "08 august 2014",
         "team_1": "atlanta falcons",
         "team_2": "miami dolphins",
@@ -3075,7 +2870,6 @@
         "high_moneyline_2": 160
     },
     {
-        "id": "29_december_2013_miami_dolphins_new_york_jets",
         "date": "29 december 2013",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -3090,7 +2884,6 @@
         "high_moneyline_2": 260
     },
     {
-        "id": "22_december_2013_buffalo_bills_miami_dolphins",
         "date": "22 december 2013",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -3105,7 +2898,6 @@
         "high_moneyline_2": 100
     },
     {
-        "id": "15_december_2013_miami_dolphins_new_england_patriots",
         "date": "15 december 2013",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -3120,7 +2912,6 @@
         "high_moneyline_2": 118
     },
     {
-        "id": "08_december_2013_pittsburgh_steelers_miami_dolphins",
         "date": "08 december 2013",
         "team_1": "pittsburgh steelers",
         "team_2": "miami dolphins",
@@ -3135,7 +2926,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "01_december_2013_new_york_jets_miami_dolphins",
         "date": "01 december 2013",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -3150,7 +2940,6 @@
         "high_moneyline_2": -104
     },
     {
-        "id": "24_november_2013_miami_dolphins_carolina_panthers",
         "date": "24 november 2013",
         "team_1": "miami dolphins",
         "team_2": "carolina panthers",
@@ -3165,7 +2954,6 @@
         "high_moneyline_2": -200
     },
     {
-        "id": "17_november_2013_miami_dolphins_los_angeles_chargers",
         "date": "17 november 2013",
         "team_1": "miami dolphins",
         "team_2": "los angeles chargers",
@@ -3180,7 +2968,6 @@
         "high_moneyline_2": -139
     },
     {
-        "id": "11_november_2013_tampa_bay_buccaneers_miami_dolphins",
         "date": "11 november 2013",
         "team_1": "tampa bay buccaneers",
         "team_2": "miami dolphins",
@@ -3195,7 +2982,6 @@
         "high_moneyline_2": -125
     },
     {
-        "id": "31_october_2013_miami_dolphins_cincinnati_bengals",
         "date": "31 october 2013",
         "team_1": "miami dolphins",
         "team_2": "cincinnati bengals",
@@ -3210,7 +2996,6 @@
         "high_moneyline_2": -152
     },
     {
-        "id": "27_october_2013_new_england_patriots_miami_dolphins",
         "date": "27 october 2013",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -3225,7 +3010,6 @@
         "high_moneyline_2": 245
     },
     {
-        "id": "20_october_2013_miami_dolphins_buffalo_bills",
         "date": "20 october 2013",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -3240,7 +3024,6 @@
         "high_moneyline_2": 240
     },
     {
-        "id": "06_october_2013_miami_dolphins_baltimore_ravens",
         "date": "06 october 2013",
         "team_1": "miami dolphins",
         "team_2": "baltimore ravens",
@@ -3255,7 +3038,6 @@
         "high_moneyline_2": 125
     },
     {
-        "id": "30_september_2013_new_orleans_saints_miami_dolphins",
         "date": "30 september 2013",
         "team_1": "new orleans saints",
         "team_2": "miami dolphins",
@@ -3270,7 +3052,6 @@
         "high_moneyline_2": 285
     },
     {
-        "id": "22_september_2013_miami_dolphins_atlanta_falcons",
         "date": "22 september 2013",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -3285,7 +3066,6 @@
         "high_moneyline_2": 135
     },
     {
-        "id": "15_september_2013_indianapolis_colts_miami_dolphins",
         "date": "15 september 2013",
         "team_1": "indianapolis colts",
         "team_2": "miami dolphins",
@@ -3300,7 +3080,6 @@
         "high_moneyline_2": 110
     },
     {
-        "id": "08_september_2013_cleveland_browns_miami_dolphins",
         "date": "08 september 2013",
         "team_1": "cleveland browns",
         "team_2": "miami dolphins",
@@ -3315,7 +3094,6 @@
         "high_moneyline_2": 118
     },
     {
-        "id": "29_august_2013_miami_dolphins_new_orleans_saints",
         "date": "29 august 2013",
         "team_1": "miami dolphins",
         "team_2": "new orleans saints",
@@ -3330,7 +3108,6 @@
         "high_moneyline_2": 195
     },
     {
-        "id": "24_august_2013_miami_dolphins_tampa_bay_buccaneers",
         "date": "24 august 2013",
         "team_1": "miami dolphins",
         "team_2": "tampa bay buccaneers",
@@ -3345,7 +3122,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "17_august_2013_houston_texans_miami_dolphins",
         "date": "17 august 2013",
         "team_1": "houston texans",
         "team_2": "miami dolphins",
@@ -3360,7 +3136,6 @@
         "high_moneyline_2": 165
     },
     {
-        "id": "09_august_2013_jacksonville_jaguars_miami_dolphins",
         "date": "09 august 2013",
         "team_1": "jacksonville jaguars",
         "team_2": "miami dolphins",
@@ -3375,7 +3150,6 @@
         "high_moneyline_2": -115
     },
     {
-        "id": "04_august_2013_dallas_cowboys_miami_dolphins",
         "date": "04 august 2013",
         "team_1": "dallas cowboys",
         "team_2": "miami dolphins",
@@ -3390,7 +3164,6 @@
         "high_moneyline_2": -159
     },
     {
-        "id": "30_december_2012_new_england_patriots_miami_dolphins",
         "date": "30 december 2012",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -3405,7 +3178,6 @@
         "high_moneyline_2": 500
     },
     {
-        "id": "23_december_2012_miami_dolphins_buffalo_bills",
         "date": "23 december 2012",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -3420,7 +3192,6 @@
         "high_moneyline_2": 200
     },
     {
-        "id": "16_december_2012_miami_dolphins_jacksonville_jaguars",
         "date": "16 december 2012",
         "team_1": "miami dolphins",
         "team_2": "jacksonville jaguars",
@@ -3435,7 +3206,6 @@
         "high_moneyline_2": 309
     },
     {
-        "id": "09_december_2012_san_francisco_49ers_miami_dolphins",
         "date": "09 december 2012",
         "team_1": "san francisco 49ers",
         "team_2": "miami dolphins",
@@ -3450,7 +3220,6 @@
         "high_moneyline_2": 468
     },
     {
-        "id": "02_december_2012_miami_dolphins_new_england_patriots",
         "date": "02 december 2012",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -3465,7 +3234,6 @@
         "high_moneyline_2": -333
     },
     {
-        "id": "25_november_2012_miami_dolphins_seattle_seahawks",
         "date": "25 november 2012",
         "team_1": "miami dolphins",
         "team_2": "seattle seahawks",
@@ -3480,7 +3248,6 @@
         "high_moneyline_2": -167
     },
     {
-        "id": "15_november_2012_buffalo_bills_miami_dolphins",
         "date": "15 november 2012",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -3495,7 +3262,6 @@
         "high_moneyline_2": 125
     },
     {
-        "id": "11_november_2012_miami_dolphins_tennessee_titans",
         "date": "11 november 2012",
         "team_1": "miami dolphins",
         "team_2": "tennessee titans",
@@ -3510,7 +3276,6 @@
         "high_moneyline_2": 244
     },
     {
-        "id": "04_november_2012_indianapolis_colts_miami_dolphins",
         "date": "04 november 2012",
         "team_1": "indianapolis colts",
         "team_2": "miami dolphins",
@@ -3525,7 +3290,6 @@
         "high_moneyline_2": -130
     },
     {
-        "id": "28_october_2012_new_york_jets_miami_dolphins",
         "date": "28 october 2012",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -3540,7 +3304,6 @@
         "high_moneyline_2": 104
     },
     {
-        "id": "14_october_2012_miami_dolphins_los_angeles_rams",
         "date": "14 october 2012",
         "team_1": "miami dolphins",
         "team_2": "los angeles rams",
@@ -3555,7 +3318,6 @@
         "high_moneyline_2": 200
     },
     {
-        "id": "07_october_2012_cincinnati_bengals_miami_dolphins",
         "date": "07 october 2012",
         "team_1": "cincinnati bengals",
         "team_2": "miami dolphins",
@@ -3570,7 +3332,6 @@
         "high_moneyline_2": 160
     },
     {
-        "id": "30_september_2012_arizona_cardinals_miami_dolphins",
         "date": "30 september 2012",
         "team_1": "arizona cardinals",
         "team_2": "miami dolphins",
@@ -3585,7 +3346,6 @@
         "high_moneyline_2": 190
     },
     {
-        "id": "23_september_2012_miami_dolphins_new_york_jets",
         "date": "23 september 2012",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -3600,7 +3360,6 @@
         "high_moneyline_2": -139
     },
     {
-        "id": "16_september_2012_miami_dolphins_las_vegas_raiders",
         "date": "16 september 2012",
         "team_1": "miami dolphins",
         "team_2": "las vegas raiders",
@@ -3615,7 +3374,6 @@
         "high_moneyline_2": -125
     },
     {
-        "id": "09_september_2012_houston_texans_miami_dolphins",
         "date": "09 september 2012",
         "team_1": "houston texans",
         "team_2": "miami dolphins",
@@ -3630,7 +3388,6 @@
         "high_moneyline_2": 700
     },
     {
-        "id": "29_august_2012_dallas_cowboys_miami_dolphins",
         "date": "29 august 2012",
         "team_1": "dallas cowboys",
         "team_2": "miami dolphins",
@@ -3645,7 +3402,6 @@
         "high_moneyline_2": 127
     },
     {
-        "id": "24_august_2012_miami_dolphins_atlanta_falcons",
         "date": "24 august 2012",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -3660,7 +3416,6 @@
         "high_moneyline_2": -169
     },
     {
-        "id": "17_august_2012_carolina_panthers_miami_dolphins",
         "date": "17 august 2012",
         "team_1": "carolina panthers",
         "team_2": "miami dolphins",
@@ -3675,7 +3430,6 @@
         "high_moneyline_2": 162
     },
     {
-        "id": "10_august_2012_miami_dolphins_tampa_bay_buccaneers",
         "date": "10 august 2012",
         "team_1": "miami dolphins",
         "team_2": "tampa bay buccaneers",
@@ -3690,7 +3444,6 @@
         "high_moneyline_2": 156
     },
     {
-        "id": "01_january_2012_miami_dolphins_new_york_jets",
         "date": "01 january 2012",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -3705,7 +3458,6 @@
         "high_moneyline_2": 110
     },
     {
-        "id": "24_december_2011_new_england_patriots_miami_dolphins",
         "date": "24 december 2011",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -3720,7 +3472,6 @@
         "high_moneyline_2": 305
     },
     {
-        "id": "18_december_2011_buffalo_bills_miami_dolphins",
         "date": "18 december 2011",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -3735,7 +3486,6 @@
         "high_moneyline_2": -108
     },
     {
-        "id": "11_december_2011_miami_dolphins_philadelphia_eagles",
         "date": "11 december 2011",
         "team_1": "miami dolphins",
         "team_2": "philadelphia eagles",
@@ -3750,7 +3500,6 @@
         "high_moneyline_2": 125
     },
     {
-        "id": "04_december_2011_miami_dolphins_las_vegas_raiders",
         "date": "04 december 2011",
         "team_1": "miami dolphins",
         "team_2": "las vegas raiders",
@@ -3765,7 +3514,6 @@
         "high_moneyline_2": 152
     },
     {
-        "id": "24_november_2011_dallas_cowboys_miami_dolphins",
         "date": "24 november 2011",
         "team_1": "dallas cowboys",
         "team_2": "miami dolphins",
@@ -3780,7 +3528,6 @@
         "high_moneyline_2": 264
     },
     {
-        "id": "20_november_2011_miami_dolphins_buffalo_bills",
         "date": "20 november 2011",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -3795,7 +3542,6 @@
         "high_moneyline_2": 141
     },
     {
-        "id": "13_november_2011_miami_dolphins_washington_commanders",
         "date": "13 november 2011",
         "team_1": "miami dolphins",
         "team_2": "washington commanders",
@@ -3810,7 +3556,6 @@
         "high_moneyline_2": 191
     },
     {
-        "id": "06_november_2011_kansas_city_chiefs_miami_dolphins",
         "date": "06 november 2011",
         "team_1": "kansas city chiefs",
         "team_2": "miami dolphins",
@@ -3825,7 +3570,6 @@
         "high_moneyline_2": 220
     },
     {
-        "id": "30_october_2011_new_york_giants_miami_dolphins",
         "date": "30 october 2011",
         "team_1": "new york giants",
         "team_2": "miami dolphins",
@@ -3840,7 +3584,6 @@
         "high_moneyline_2": 425
     },
     {
-        "id": "23_october_2011_miami_dolphins_denver_broncos",
         "date": "23 october 2011",
         "team_1": "miami dolphins",
         "team_2": "denver broncos",
@@ -3855,7 +3598,6 @@
         "high_moneyline_2": -105
     },
     {
-        "id": "17_october_2011_new_york_jets_miami_dolphins",
         "date": "17 october 2011",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -3870,7 +3612,6 @@
         "high_moneyline_2": 313
     },
     {
-        "id": "02_october_2011_los_angeles_chargers_miami_dolphins",
         "date": "02 october 2011",
         "team_1": "los angeles chargers",
         "team_2": "miami dolphins",
@@ -3885,7 +3626,6 @@
         "high_moneyline_2": 270
     },
     {
-        "id": "25_september_2011_cleveland_browns_miami_dolphins",
         "date": "25 september 2011",
         "team_1": "cleveland browns",
         "team_2": "miami dolphins",
@@ -3900,7 +3640,6 @@
         "high_moneyline_2": -115
     },
     {
-        "id": "18_september_2011_miami_dolphins_houston_texans",
         "date": "18 september 2011",
         "team_1": "miami dolphins",
         "team_2": "houston texans",
@@ -3915,7 +3654,6 @@
         "high_moneyline_2": -152
     },
     {
-        "id": "12_september_2011_miami_dolphins_new_england_patriots",
         "date": "12 september 2011",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -3930,7 +3668,6 @@
         "high_moneyline_2": -345
     },
     {
-        "id": "01_september_2011_miami_dolphins_dallas_cowboys",
         "date": "01 september 2011",
         "team_1": "miami dolphins",
         "team_2": "dallas cowboys",
@@ -3945,7 +3682,6 @@
         "high_moneyline_2": 160
     },
     {
-        "id": "27_august_2011_tampa_bay_buccaneers_miami_dolphins",
         "date": "27 august 2011",
         "team_1": "tampa bay buccaneers",
         "team_2": "miami dolphins",
@@ -3960,7 +3696,6 @@
         "high_moneyline_2": 150
     },
     {
-        "id": "19_august_2011_miami_dolphins_carolina_panthers",
         "date": "19 august 2011",
         "team_1": "miami dolphins",
         "team_2": "carolina panthers",
@@ -3975,7 +3710,6 @@
         "high_moneyline_2": 229
     },
     {
-        "id": "12_august_2011_atlanta_falcons_miami_dolphins",
         "date": "12 august 2011",
         "team_1": "atlanta falcons",
         "team_2": "miami dolphins",
@@ -3990,7 +3724,6 @@
         "high_moneyline_2": 120
     },
     {
-        "id": "02_january_2011_new_england_patriots_miami_dolphins",
         "date": "02 january 2011",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -4005,7 +3738,6 @@
         "high_moneyline_2": 185
     },
     {
-        "id": "26_december_2010_miami_dolphins_detroit_lions",
         "date": "26 december 2010",
         "team_1": "miami dolphins",
         "team_2": "detroit lions",
@@ -4020,7 +3752,6 @@
         "high_moneyline_2": 172
     },
     {
-        "id": "19_december_2010_miami_dolphins_buffalo_bills",
         "date": "19 december 2010",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -4035,7 +3766,6 @@
         "high_moneyline_2": 210
     },
     {
-        "id": "12_december_2010_new_york_jets_miami_dolphins",
         "date": "12 december 2010",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -4050,7 +3780,6 @@
         "high_moneyline_2": 197
     },
     {
-        "id": "05_december_2010_miami_dolphins_cleveland_browns",
         "date": "05 december 2010",
         "team_1": "miami dolphins",
         "team_2": "cleveland browns",
@@ -4065,7 +3794,6 @@
         "high_moneyline_2": 214
     },
     {
-        "id": "28_november_2010_las_vegas_raiders_miami_dolphins",
         "date": "28 november 2010",
         "team_1": "las vegas raiders",
         "team_2": "miami dolphins",
@@ -4080,7 +3808,6 @@
         "high_moneyline_2": 135
     },
     {
-        "id": "18_november_2010_miami_dolphins_chicago_bears",
         "date": "18 november 2010",
         "team_1": "miami dolphins",
         "team_2": "chicago bears",
@@ -4095,7 +3822,6 @@
         "high_moneyline_2": 129
     },
     {
-        "id": "14_november_2010_miami_dolphins_tennessee_titans",
         "date": "14 november 2010",
         "team_1": "miami dolphins",
         "team_2": "tennessee titans",
@@ -4110,7 +3836,6 @@
         "high_moneyline_2": 110
     },
     {
-        "id": "07_november_2010_baltimore_ravens_miami_dolphins",
         "date": "07 november 2010",
         "team_1": "baltimore ravens",
         "team_2": "miami dolphins",
@@ -4125,7 +3850,6 @@
         "high_moneyline_2": 195
     },
     {
-        "id": "31_october_2010_cincinnati_bengals_miami_dolphins",
         "date": "31 october 2010",
         "team_1": "cincinnati bengals",
         "team_2": "miami dolphins",
@@ -4140,7 +3864,6 @@
         "high_moneyline_2": -108
     },
     {
-        "id": "24_october_2010_miami_dolphins_pittsburgh_steelers",
         "date": "24 october 2010",
         "team_1": "miami dolphins",
         "team_2": "pittsburgh steelers",
@@ -4155,7 +3878,6 @@
         "high_moneyline_2": -143
     },
     {
-        "id": "17_october_2010_green_bay_packers_miami_dolphins",
         "date": "17 october 2010",
         "team_1": "green bay packers",
         "team_2": "miami dolphins",
@@ -4170,7 +3892,6 @@
         "high_moneyline_2": 140
     },
     {
-        "id": "04_october_2010_miami_dolphins_new_england_patriots",
         "date": "04 october 2010",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -4185,7 +3906,6 @@
         "high_moneyline_2": -104
     },
     {
-        "id": "26_september_2010_miami_dolphins_new_york_jets",
         "date": "26 september 2010",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -4200,7 +3920,6 @@
         "high_moneyline_2": 119
     },
     {
-        "id": "19_september_2010_minnesota_vikings_miami_dolphins",
         "date": "19 september 2010",
         "team_1": "minnesota vikings",
         "team_2": "miami dolphins",
@@ -4215,7 +3934,6 @@
         "high_moneyline_2": 199
     },
     {
-        "id": "12_september_2010_buffalo_bills_miami_dolphins",
         "date": "12 september 2010",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -4230,7 +3948,6 @@
         "high_moneyline_2": -154
     },
     {
-        "id": "02_september_2010_dallas_cowboys_miami_dolphins",
         "date": "02 september 2010",
         "team_1": "dallas cowboys",
         "team_2": "miami dolphins",
@@ -4245,7 +3962,6 @@
         "high_moneyline_2": -145
     },
     {
-        "id": "27_august_2010_miami_dolphins_atlanta_falcons",
         "date": "27 august 2010",
         "team_1": "miami dolphins",
         "team_2": "atlanta falcons",
@@ -4260,7 +3976,6 @@
         "high_moneyline_2": 127
     },
     {
-        "id": "21_august_2010_jacksonville_jaguars_miami_dolphins",
         "date": "21 august 2010",
         "team_1": "jacksonville jaguars",
         "team_2": "miami dolphins",
@@ -4275,7 +3990,6 @@
         "high_moneyline_2": 114
     },
     {
-        "id": "14_august_2010_miami_dolphins_tampa_bay_buccaneers",
         "date": "14 august 2010",
         "team_1": "miami dolphins",
         "team_2": "tampa bay buccaneers",
@@ -4290,7 +4004,6 @@
         "high_moneyline_2": 184
     },
     {
-        "id": "03_january_2010_miami_dolphins_pittsburgh_steelers",
         "date": "03 january 2010",
         "team_1": "miami dolphins",
         "team_2": "pittsburgh steelers",
@@ -4305,7 +4018,6 @@
         "high_moneyline_2": -145
     },
     {
-        "id": "27_december_2009_miami_dolphins_houston_texans",
         "date": "27 december 2009",
         "team_1": "miami dolphins",
         "team_2": "houston texans",
@@ -4320,7 +4032,6 @@
         "high_moneyline_2": 112
     },
     {
-        "id": "20_december_2009_tennessee_titans_miami_dolphins",
         "date": "20 december 2009",
         "team_1": "tennessee titans",
         "team_2": "miami dolphins",
@@ -4335,7 +4046,6 @@
         "high_moneyline_2": 204
     },
     {
-        "id": "13_december_2009_jacksonville_jaguars_miami_dolphins",
         "date": "13 december 2009",
         "team_1": "jacksonville jaguars",
         "team_2": "miami dolphins",
@@ -4350,7 +4060,6 @@
         "high_moneyline_2": 118
     },
     {
-        "id": "06_december_2009_miami_dolphins_new_england_patriots",
         "date": "06 december 2009",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -4365,7 +4074,6 @@
         "high_moneyline_2": -238
     },
     {
-        "id": "29_november_2009_buffalo_bills_miami_dolphins",
         "date": "29 november 2009",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -4380,7 +4088,6 @@
         "high_moneyline_2": -189
     },
     {
-        "id": "19_november_2009_carolina_panthers_miami_dolphins",
         "date": "19 november 2009",
         "team_1": "carolina panthers",
         "team_2": "miami dolphins",
@@ -4395,7 +4102,6 @@
         "high_moneyline_2": 175
     },
     {
-        "id": "15_november_2009_miami_dolphins_tampa_bay_buccaneers",
         "date": "15 november 2009",
         "team_1": "miami dolphins",
         "team_2": "tampa bay buccaneers",
@@ -4410,7 +4116,6 @@
         "high_moneyline_2": 384
     },
     {
-        "id": "08_november_2009_new_england_patriots_miami_dolphins",
         "date": "08 november 2009",
         "team_1": "new england patriots",
         "team_2": "miami dolphins",
@@ -4425,7 +4130,6 @@
         "high_moneyline_2": 500
     },
     {
-        "id": "01_november_2009_new_york_jets_miami_dolphins",
         "date": "01 november 2009",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -4440,7 +4144,6 @@
         "high_moneyline_2": 170
     },
     {
-        "id": "25_october_2009_miami_dolphins_new_orleans_saints",
         "date": "25 october 2009",
         "team_1": "miami dolphins",
         "team_2": "new orleans saints",
@@ -4455,7 +4158,6 @@
         "high_moneyline_2": -238
     },
     {
-        "id": "12_october_2009_miami_dolphins_new_york_jets",
         "date": "12 october 2009",
         "team_1": "miami dolphins",
         "team_2": "new york jets",
@@ -4470,7 +4172,6 @@
         "high_moneyline_2": -152
     },
     {
-        "id": "04_october_2009_miami_dolphins_buffalo_bills",
         "date": "04 october 2009",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -4485,7 +4186,6 @@
         "high_moneyline_2": 110
     },
     {
-        "id": "27_september_2009_los_angeles_chargers_miami_dolphins",
         "date": "27 september 2009",
         "team_1": "los angeles chargers",
         "team_2": "miami dolphins",
@@ -4500,7 +4200,6 @@
         "high_moneyline_2": 210
     },
     {
-        "id": "21_september_2009_miami_dolphins_indianapolis_colts",
         "date": "21 september 2009",
         "team_1": "miami dolphins",
         "team_2": "indianapolis colts",
@@ -4515,7 +4214,6 @@
         "high_moneyline_2": -156
     },
     {
-        "id": "13_september_2009_atlanta_falcons_miami_dolphins",
         "date": "13 september 2009",
         "team_1": "atlanta falcons",
         "team_2": "miami dolphins",
@@ -4530,7 +4228,6 @@
         "high_moneyline_2": 190
     },
     {
-        "id": "03_september_2009_new_orleans_saints_miami_dolphins",
         "date": "03 september 2009",
         "team_1": "new orleans saints",
         "team_2": "miami dolphins",
@@ -4545,7 +4242,6 @@
         "high_moneyline_2": 133
     },
     {
-        "id": "27_august_2009_tampa_bay_buccaneers_miami_dolphins",
         "date": "27 august 2009",
         "team_1": "tampa bay buccaneers",
         "team_2": "miami dolphins",
@@ -4560,7 +4256,6 @@
         "high_moneyline_2": 100
     },
     {
-        "id": "22_august_2009_miami_dolphins_carolina_panthers",
         "date": "22 august 2009",
         "team_1": "miami dolphins",
         "team_2": "carolina panthers",
@@ -4575,7 +4270,6 @@
         "high_moneyline_2": 125
     },
     {
-        "id": "17_august_2009_miami_dolphins_jacksonville_jaguars",
         "date": "17 august 2009",
         "team_1": "miami dolphins",
         "team_2": "jacksonville jaguars",
@@ -4590,7 +4284,6 @@
         "high_moneyline_2": 135
     },
     {
-        "id": "28_december_2008_new_york_jets_miami_dolphins",
         "date": "28 december 2008",
         "team_1": "new york jets",
         "team_2": "miami dolphins",
@@ -4605,7 +4298,6 @@
         "high_moneyline_2": 127
     },
     {
-        "id": "21_december_2008_kansas_city_chiefs_miami_dolphins",
         "date": "21 december 2008",
         "team_1": "kansas city chiefs",
         "team_2": "miami dolphins",
@@ -4620,7 +4312,6 @@
         "high_moneyline_2": -154
     },
     {
-        "id": "14_december_2008_miami_dolphins_san_francisco_49ers",
         "date": "14 december 2008",
         "team_1": "miami dolphins",
         "team_2": "san francisco 49ers",
@@ -4635,7 +4326,6 @@
         "high_moneyline_2": 210
     },
     {
-        "id": "07_december_2008_buffalo_bills_miami_dolphins",
         "date": "07 december 2008",
         "team_1": "buffalo bills",
         "team_2": "miami dolphins",
@@ -4650,7 +4340,6 @@
         "high_moneyline_2": 114
     },
     {
-        "id": "30_november_2008_los_angeles_rams_miami_dolphins",
         "date": "30 november 2008",
         "team_1": "los angeles rams",
         "team_2": "miami dolphins",
@@ -4665,7 +4354,6 @@
         "high_moneyline_2": -312
     },
     {
-        "id": "23_november_2008_miami_dolphins_new_england_patriots",
         "date": "23 november 2008",
         "team_1": "miami dolphins",
         "team_2": "new england patriots",
@@ -4680,7 +4368,6 @@
         "high_moneyline_2": -120
     },
     {
-        "id": "16_november_2008_miami_dolphins_las_vegas_raiders",
         "date": "16 november 2008",
         "team_1": "miami dolphins",
         "team_2": "las vegas raiders",
@@ -4695,7 +4382,6 @@
         "high_moneyline_2": 409
     },
     {
-        "id": "09_november_2008_miami_dolphins_seattle_seahawks",
         "date": "09 november 2008",
         "team_1": "miami dolphins",
         "team_2": "seattle seahawks",
@@ -4710,7 +4396,6 @@
         "high_moneyline_2": 301
     },
     {
-        "id": "02_november_2008_denver_broncos_miami_dolphins",
         "date": "02 november 2008",
         "team_1": "denver broncos",
         "team_2": "miami dolphins",
@@ -4725,7 +4410,6 @@
         "high_moneyline_2": 166
     },
     {
-        "id": "26_october_2008_miami_dolphins_buffalo_bills",
         "date": "26 october 2008",
         "team_1": "miami dolphins",
         "team_2": "buffalo bills",
@@ -4740,7 +4424,6 @@
         "high_moneyline_2": -111
     },
     {
-        "id": "19_october_2008_miami_dolphins_baltimore_ravens",
         "date": "19 october 2008",
         "team_1": "miami dolphins",
         "team_2": "baltimore ravens",
@@ -4755,7 +4438,6 @@
         "high_moneyline_2": 136
     },
     {
-        "id": "12_october_2008_houston_texans_miami_dolphins",
         "date": "12 october 2008",
         "team_1": "houston texans",
         "team_2": "miami dolphins",
@@ -4770,7 +4452,6 @@
         "high_moneyline_2": 131
     },
     {
-        "id": "05_october_2008_miami_dolphins_los_angeles_chargers",
         "date": "05 october 2008",
         "team_1": "miami dolphins",
         "team_2": "los angeles chargers",

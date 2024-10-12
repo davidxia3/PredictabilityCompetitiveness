@@ -1,22 +1,16 @@
 import subprocess
 import time
 
-# teams = ["bears", "bengals", "bills", "broncos", "browns", "buccaneers", "cardinals", "chargers", "chiefs",
-#          "colts", "commanders", "cowboys", "dolphins", "eagles", "falcons", "fortyniners", "giants", 
-#          "jaguars", "jets", "lions", "packers", "panthers", "patriots", "raiders", "rams", "ravens",
-#          "saints", "seahawks", "steelers", "texans", "titans", "vikings"]
 
-# teams = ["angels", "astros", "athletics", "bluejays", "braves", "brewers", "cardinals", "cubs", "diamondbacks", "dodgers", "giants", 
-#          "guardians", "mariners", "marlins", "mets", "nationals", "orioles", "padres", "phillies", "pirates", "rangers", "rays",
-#          "reds", "redsox", "rockies", "royals", "tigers", "twins", "whitesox", "yankees"]
-teams = ["marlins", "mets", "nationals", "orioles", "padres", "phillies", "pirates", "rangers", "rays",
-         "reds", "redsox", "rockies", "royals", "tigers", "twins", "whitesox", "yankees"]
-league = "mlb"
-
+# defining teams and league
+teams = ["bears"]
+league = "nfl"
 print(len(teams))
-total_games_per_team = 3400
+total_games_per_team = 400
 chunk_size = 200
 
+
+# looping through teams chunk by chunk and running automated_scraper.py
 for team in teams:
     print(f"Starting scrape for team: {team}")
     for start_index in range(0, total_games_per_team, chunk_size):
