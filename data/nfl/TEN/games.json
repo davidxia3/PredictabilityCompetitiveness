@@ -1,0 +1,2610 @@
+[
+    {
+        "date": "22/Sep",
+        "team_1": "TEN",
+        "score_1": 14,
+        "score_2": 30,
+        "team_2": "GB",
+        "game_url": "usa/nfl/tennessee-titans-green-bay-packers-YVLYZLNO/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl/tennessee-titans-new-york-jets-l2KKWeBF/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "CHI",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl/chicago-bears-tennessee-titans-2P4vB2Rs/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "NO",
+        "score_1": 27,
+        "score_2": 30,
+        "team_2": "TEN",
+        "game_url": "usa/nfl/new-orleans-saints-tennessee-titans-UBviv8Rq/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 15,
+        "team_2": "SEA",
+        "game_url": "usa/nfl/tennessee-titans-seattle-seahawks-tWPeKhJD/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "SF",
+        "game_url": "usa/nfl/tennessee-titans-san-francisco-49ers-8Oncra6d/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "TEN",
+        "score_1": 28,
+        "score_2": 20,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-jacksonville-jaguars-6Pg6Dltd/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "HOU",
+        "score_1": 26,
+        "score_2": 3,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/houston-texans-tennessee-titans-OpK49rqg/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-seattle-seahawks-Ay7Icops/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 19,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-houston-texans-vJawxVNK/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "MIA",
+        "score_1": 27,
+        "score_2": 28,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/miami-dolphins-tennessee-titans-4tLzI9Wl/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "TEN",
+        "score_1": 28,
+        "score_2": 31,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-indianapolis-colts-CAtb8a3N/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-carolina-panthers-GOK3bOZb/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "JAX",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/jacksonville-jaguars-tennessee-titans-KG1db3I1/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "TB",
+        "score_1": 20,
+        "score_2": 6,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/tampa-bay-buccaneers-tennessee-titans-4OmUeAd3/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "PIT",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/pittsburgh-steelers-tennessee-titans-bqjAVDrb/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "TEN",
+        "score_1": 28,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-atlanta-falcons-pMRtU07g/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 24,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-baltimore-ravens-2szPA9EN/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "IND",
+        "score_1": 23,
+        "score_2": 16,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/indianapolis-colts-tennessee-titans-OW4Kabdo/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 3,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-cincinnati-bengals-jFdW904n/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "CLE",
+        "score_1": 27,
+        "score_2": 3,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/cleveland-browns-tennessee-titans-Eab1RMzD/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-los-angeles-chargers-4Q8HRVUe/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "NO",
+        "score_1": 16,
+        "score_2": 15,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/new-orleans-saints-tennessee-titans-z9cqPx9c/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "TEN",
+        "score_1": 23,
+        "score_2": 7,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-new-england-patriots-214eA2kB/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "MIN",
+        "score_1": 16,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-tennessee-titans-GptEcP55/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "CHI",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/chicago-bears-tennessee-titans-t8TybYal/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "JAX",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2022-2023/jacksonville-jaguars-tennessee-titans-f7mrD1Ci/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "TEN",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-dallas-cowboys-6k5EkXvt/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "TEN",
+        "score_1": 14,
+        "score_2": 19,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-houston-texans-hnuuyYPn/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "LAC",
+        "score_1": 17,
+        "score_2": 14,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2022-2023/los-angeles-chargers-tennessee-titans-p0lQt3d8/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "TEN",
+        "score_1": 22,
+        "score_2": 36,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-jacksonville-jaguars-UVjToewC/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "PHI",
+        "score_1": 35,
+        "score_2": 10,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2022-2023/philadelphia-eagles-tennessee-titans-Y5dT0LWs/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 20,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-cincinnati-bengals-bPFKXM2e/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "GB",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2022-2023/green-bay-packers-tennessee-titans-GSYZPY4H/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-denver-broncos-UBnEUdjn/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "KC",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-tennessee-titans-AmDyHwMn/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "HOU",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2022-2023/houston-texans-tennessee-titans-OG0WlLxf/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "TEN",
+        "score_1": 19,
+        "score_2": 10,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-indianapolis-colts-UyUMY8nd/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "WSH",
+        "score_1": 17,
+        "score_2": 21,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2022-2023/washington-commanders-tennessee-titans-YBkKYmVb/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "IND",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2022-2023/indianapolis-colts-tennessee-titans-W6F2KcAl/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 22,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-las-vegas-raiders-vmamF2Y8/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "BUF",
+        "score_1": 41,
+        "score_2": 7,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-tennessee-titans-fyiC3f1l/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "TEN",
+        "score_1": 20,
+        "score_2": 21,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-new-york-giants-ll3bipOB/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "TEN",
+        "score_1": 26,
+        "score_2": 23,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-arizona-cardinals-YgKsxSoL/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "TEN",
+        "score_1": 13,
+        "score_2": 3,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2022-2023/tennessee-titans-tampa-bay-buccaneers-8AuLS2iA/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "BAL",
+        "score_1": 23,
+        "score_2": 10,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2022-2023/baltimore-ravens-tennessee-titans-WjaWLfvQ/"
+    },
+    {
+        "date": "22/Jan",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 19,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-cincinnati-bengals-pnyr0Ako/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "HOU",
+        "score_1": 25,
+        "score_2": 28,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/houston-texans-tennessee-titans-KMbXzQXP/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "TEN",
+        "score_1": 34,
+        "score_2": 3,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-miami-dolphins-IF74Ckk8/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "TEN",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-san-francisco-49ers-l2GkauFi/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "PIT",
+        "score_1": 19,
+        "score_2": 13,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/pittsburgh-steelers-tennessee-titans-zajGpt0b/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "TEN",
+        "score_1": 20,
+        "score_2": 0,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-jacksonville-jaguars-rqh5F2wP/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "NE",
+        "score_1": 36,
+        "score_2": 13,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/new-england-patriots-tennessee-titans-dfE3BdtM/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "TEN",
+        "score_1": 13,
+        "score_2": 22,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-houston-texans-vu5NwIKj/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "TEN",
+        "score_1": 23,
+        "score_2": 21,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-new-orleans-saints-ITCbIAhD/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "LAR",
+        "score_1": 16,
+        "score_2": 28,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-tennessee-titans-KYUBREVQ/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "IND",
+        "score_1": 31,
+        "score_2": 34,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/indianapolis-colts-tennessee-titans-6TPYDzpU/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 3,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-kansas-city-chiefs-xzgq3JVB/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "TEN",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-buffalo-bills-8f1S61Wn/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "JAX",
+        "score_1": 19,
+        "score_2": 37,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/jacksonville-jaguars-tennessee-titans-OUNobXmF/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "NYJ",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/new-york-jets-tennessee-titans-EJxZCZcp/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "TEN",
+        "score_1": 25,
+        "score_2": 16,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-indianapolis-colts-EyW490ih/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "SEA",
+        "score_1": 30,
+        "score_2": 33,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/seattle-seahawks-tennessee-titans-CYWu5o06/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "TEN",
+        "score_1": 13,
+        "score_2": 38,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-arizona-cardinals-25QQeM5e/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2021-2022/tennessee-titans-chicago-bears-ldyfcY1f/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "TB",
+        "score_1": 3,
+        "score_2": 34,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/tampa-bay-buccaneers-tennessee-titans-Asb76xu8/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "ATL",
+        "score_1": 3,
+        "score_2": 23,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-tennessee-titans-nVg4fBUF/"
+    },
+    {
+        "date": "10/Jan",
+        "team_1": "TEN",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-baltimore-ravens-rPaDmQOr/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "HOU",
+        "score_1": 38,
+        "score_2": 41,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2020-2021/houston-texans-tennessee-titans-UFWRXiL0/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "GB",
+        "score_1": 40,
+        "score_2": 14,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2020-2021/green-bay-packers-tennessee-titans-O8r5SdqL/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "TEN",
+        "score_1": 46,
+        "score_2": 25,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-detroit-lions-rcVJGvTB/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "JAX",
+        "score_1": 10,
+        "score_2": 31,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2020-2021/jacksonville-jaguars-tennessee-titans-xI9L7qps/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "TEN",
+        "score_1": 35,
+        "score_2": 41,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-cleveland-browns-YBRvaF19/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "IND",
+        "score_1": 26,
+        "score_2": 45,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2020-2021/indianapolis-colts-tennessee-titans-d6Q6PEAj/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "BAL",
+        "score_1": 24,
+        "score_2": 30,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2020-2021/baltimore-ravens-tennessee-titans-j5LhIc3N/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 34,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-indianapolis-colts-lvpYM0Xf/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-chicago-bears-byCnB3Yr/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "CIN",
+        "score_1": 31,
+        "score_2": 20,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2020-2021/cincinnati-bengals-tennessee-titans-6HeX58d3/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-pittsburgh-steelers-WQ3HHBfM/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "TEN",
+        "score_1": 42,
+        "score_2": 36,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-houston-texans-hGtytLxs/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "TEN",
+        "score_1": 42,
+        "score_2": 16,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-buffalo-bills-YcUyB0w7/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "MIN",
+        "score_1": 30,
+        "score_2": 31,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-tennessee-titans-Iqu3DEmU/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "TEN",
+        "score_1": 33,
+        "score_2": 30,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-jacksonville-jaguars-Q1zd6uzm/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "DEN",
+        "score_1": 14,
+        "score_2": 16,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2020-2021/denver-broncos-tennessee-titans-QkCY1Qr1/"
+    },
+    {
+        "date": "19/Jan",
+        "team_1": "KC",
+        "score_1": 35,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-tennessee-titans-vsEiK9fj/"
+    },
+    {
+        "date": "11/Jan",
+        "team_1": "BAL",
+        "score_1": 12,
+        "score_2": 28,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/baltimore-ravens-tennessee-titans-2g84q0i3/"
+    },
+    {
+        "date": "04/Jan",
+        "team_1": "NE",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/new-england-patriots-tennessee-titans-hCC6rSxS/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "HOU",
+        "score_1": 14,
+        "score_2": 35,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/houston-texans-tennessee-titans-KYzhPfkI/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "TEN",
+        "score_1": 28,
+        "score_2": 38,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-new-orleans-saints-zBIW0K60/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "TEN",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-houston-texans-CAp0AXwc/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "LV",
+        "score_1": 21,
+        "score_2": 42,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/las-vegas-raiders-tennessee-titans-AsOUfhvA/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "IND",
+        "score_1": 17,
+        "score_2": 31,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/indianapolis-colts-tennessee-titans-YLtiEztO/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "TEN",
+        "score_1": 42,
+        "score_2": 20,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-jacksonville-jaguars-IXEfxmSD/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "TEN",
+        "score_1": 35,
+        "score_2": 32,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-kansas-city-chiefs-WIc1F433/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "CAR",
+        "score_1": 30,
+        "score_2": 20,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/carolina-panthers-tennessee-titans-MT33bCSB/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-tampa-bay-buccaneers-CGFrYFE6/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "TEN",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-los-angeles-chargers-nTrir0xE/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "DEN",
+        "score_1": 16,
+        "score_2": 0,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-tennessee-titans-Yk0V7J01/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "TEN",
+        "score_1": 7,
+        "score_2": 14,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-buffalo-bills-OviU1iYA/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-tennessee-titans-d8sFcfRI/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "JAX",
+        "score_1": 20,
+        "score_2": 7,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/jacksonville-jaguars-tennessee-titans-QJau8mq9/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-indianapolis-colts-nHSEYnhj/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "CLE",
+        "score_1": 13,
+        "score_2": 43,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/cleveland-browns-tennessee-titans-f581RVpN/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "CHI",
+        "score_1": 15,
+        "score_2": 19,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/chicago-bears-tennessee-titans-Moa7dmL5/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "TEN",
+        "score_1": 6,
+        "score_2": 18,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-pittsburgh-steelers-v9Ews8LI/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2019-2020/tennessee-titans-new-england-patriots-4t74iYk8/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "PHI",
+        "score_1": 10,
+        "score_2": 27,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/philadelphia-eagles-tennessee-titans-O6c7NgyS/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 33,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-indianapolis-colts-t64s3Hhk/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "TEN",
+        "score_1": 25,
+        "score_2": 16,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-washington-commanders-jDcSmomo/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "NYG",
+        "score_1": 0,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2018-2019/new-york-giants-tennessee-titans-pxpuaBen/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "TEN",
+        "score_1": 30,
+        "score_2": 9,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-jacksonville-jaguars-KIx1TJ51/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "TEN",
+        "score_1": 26,
+        "score_2": 22,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-new-york-jets-pd8HyrbL/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "HOU",
+        "score_1": 34,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2018-2019/houston-texans-tennessee-titans-xATYQQq3/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "IND",
+        "score_1": 38,
+        "score_2": 10,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2018-2019/indianapolis-colts-tennessee-titans-URWkdFvC/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "TEN",
+        "score_1": 34,
+        "score_2": 10,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-new-england-patriots-lhcQc7bJ/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "DAL",
+        "score_1": 14,
+        "score_2": 28,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2018-2019/dallas-cowboys-tennessee-titans-GQJqoUED/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "LAC",
+        "score_1": 20,
+        "score_2": 19,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2018-2019/los-angeles-chargers-tennessee-titans-bTiVqQXi/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "TEN",
+        "score_1": 0,
+        "score_2": 21,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-baltimore-ravens-KxBQFoJB/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "BUF",
+        "score_1": 13,
+        "score_2": 12,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-tennessee-titans-hUyPBuM8/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "TEN",
+        "score_1": 26,
+        "score_2": 23,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-philadelphia-eagles-WxtHrshM/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "JAX",
+        "score_1": 6,
+        "score_2": 9,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2018-2019/jacksonville-jaguars-tennessee-titans-d4DrnesH/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "TEN",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-houston-texans-fawRX4M6/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "MIA",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2018-2019/miami-dolphins-tennessee-titans-YPMWNThr/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "TEN",
+        "score_1": 3,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-minnesota-vikings-UHJbnRP8/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "PIT",
+        "score_1": 16,
+        "score_2": 6,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2018-2019/pittsburgh-steelers-tennessee-titans-C6hfK8tG/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "TEN",
+        "score_1": 14,
+        "score_2": 30,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-tampa-bay-buccaneers-IP6F2Lgo/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "GB",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2018-2019/green-bay-packers-tennessee-titans-QTxEbFdr/"
+    },
+    {
+        "date": "13/Jan",
+        "team_1": "NE",
+        "score_1": 35,
+        "score_2": 14,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/new-england-patriots-tennessee-titans-h4lLfrpS/"
+    },
+    {
+        "date": "06/Jan",
+        "team_1": "KC",
+        "score_1": 21,
+        "score_2": 22,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-tennessee-titans-Whn2HbAS/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "TEN",
+        "score_1": 15,
+        "score_2": 10,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-jacksonville-jaguars-hriWSMgn/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "TEN",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-los-angeles-rams-vJwjIWuR/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "SF",
+        "score_1": 25,
+        "score_2": 23,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/san-francisco-49ers-tennessee-titans-WzF8nEkq/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "ARI",
+        "score_1": 12,
+        "score_2": 7,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/arizona-cardinals-tennessee-titans-4nGhLyip/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 13,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-houston-texans-WCfSq0Cm/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "IND",
+        "score_1": 16,
+        "score_2": 20,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/indianapolis-colts-tennessee-titans-rDgqPPzL/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "PIT",
+        "score_1": 40,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/pittsburgh-steelers-tennessee-titans-SOHZ8DpN/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 20,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-cincinnati-bengals-rXHe8eC2/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "TEN",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-baltimore-ravens-KO1MrHWH/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "CLE",
+        "score_1": 9,
+        "score_2": 12,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/cleveland-browns-tennessee-titans-6J6kPVZR/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "TEN",
+        "score_1": 36,
+        "score_2": 22,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-indianapolis-colts-OzFYSDz3/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "MIA",
+        "score_1": 16,
+        "score_2": 10,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/miami-dolphins-tennessee-titans-YBVWeolo/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "HOU",
+        "score_1": 57,
+        "score_2": 14,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/houston-texans-tennessee-titans-Snh54Izl/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "TEN",
+        "score_1": 33,
+        "score_2": 27,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-seattle-seahawks-ERWedLrR/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "JAX",
+        "score_1": 16,
+        "score_2": 37,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/jacksonville-jaguars-tennessee-titans-IF3Png9o/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 26,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-las-vegas-raiders-SWaYFCvO/"
+    },
+    {
+        "date": "31/Aug",
+        "team_1": "KC",
+        "score_1": 30,
+        "score_2": 6,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/kansas-city-chiefs-tennessee-titans-nPtKmwYF/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "TEN",
+        "score_1": 7,
+        "score_2": 19,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-chicago-bears-zixsxtZ3/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "TEN",
+        "score_1": 34,
+        "score_2": 27,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-carolina-panthers-tASjd4LB/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "NYJ",
+        "score_1": 7,
+        "score_2": 3,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-tennessee-titans-xbBAcg0l/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-houston-texans-nZka3N1R/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "JAX",
+        "score_1": 38,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/jacksonville-jaguars-tennessee-titans-d2Gxfb7G/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "KC",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/kansas-city-chiefs-tennessee-titans-vof3MJoo/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "TEN",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-denver-broncos-KOapTU20/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "CHI",
+        "score_1": 21,
+        "score_2": 27,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/chicago-bears-tennessee-titans-xvH0CoMi/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "IND",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/indianapolis-colts-tennessee-titans-QuLdr77B/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "TEN",
+        "score_1": 47,
+        "score_2": 25,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-green-bay-packers-61szuY0J/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "LAC",
+        "score_1": 43,
+        "score_2": 35,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/los-angeles-chargers-tennessee-titans-Kxat32X2/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "TEN",
+        "score_1": 36,
+        "score_2": 22,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-jacksonville-jaguars-tIAAKO3T/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "TEN",
+        "score_1": 26,
+        "score_2": 34,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-indianapolis-colts-vB5nQSZi/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "TEN",
+        "score_1": 28,
+        "score_2": 26,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-cleveland-browns-AXrxAGqf/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "MIA",
+        "score_1": 17,
+        "score_2": 30,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/miami-dolphins-tennessee-titans-hMHXsb01/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "HOU",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/houston-texans-tennessee-titans-IuP6wq9F/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "TEN",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-las-vegas-raiders-r7rVHz7i/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "DET",
+        "score_1": 15,
+        "score_2": 16,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-tennessee-titans-dxN1o3WC/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 25,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-minnesota-vikings-I5h7sBx8/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "MIA",
+        "score_1": 10,
+        "score_2": 21,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/miami-dolphins-tennessee-titans-Ot2zOPuI/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "LV",
+        "score_1": 14,
+        "score_2": 27,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/las-vegas-raiders-tennessee-titans-27kpD8Ra/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 26,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-carolina-panthers-AH4i7ta9/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 10,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-los-angeles-chargers-zaj9f3F3/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "IND",
+        "score_1": 30,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/indianapolis-colts-tennessee-titans-QaHBeh2H/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "TEN",
+        "score_1": 6,
+        "score_2": 34,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-houston-texans-QuLf3q4Q/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "NE",
+        "score_1": 33,
+        "score_2": 16,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/new-england-patriots-tennessee-titans-82TRv9L8/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "NYJ",
+        "score_1": 30,
+        "score_2": 8,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-tennessee-titans-0Qic6lFq/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "TEN",
+        "score_1": 42,
+        "score_2": 39,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-jacksonville-jaguars-48VyUWkg/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "TEN",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-las-vegas-raiders-Qm3y1YL6/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "JAX",
+        "score_1": 19,
+        "score_2": 13,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/jacksonville-jaguars-tennessee-titans-xneWenvA/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "TEN",
+        "score_1": 10,
+        "score_2": 27,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-carolina-panthers-SEC8t7vN/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "NO",
+        "score_1": 28,
+        "score_2": 34,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/new-orleans-saints-tennessee-titans-x6iAXBeh/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "HOU",
+        "score_1": 20,
+        "score_2": 6,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/houston-texans-tennessee-titans-UsNCEckD/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "TEN",
+        "score_1": 7,
+        "score_2": 10,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-atlanta-falcons-MerU3tye/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "TEN",
+        "score_1": 10,
+        "score_2": 38,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-miami-dolphins-ncSbM6yG/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "TEN",
+        "score_1": 13,
+        "score_2": 14,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-buffalo-bills-OIXLmnVj/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "TEN",
+        "score_1": 33,
+        "score_2": 35,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-indianapolis-colts-4CJuiOuE/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "CLE",
+        "score_1": 28,
+        "score_2": 14,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/cleveland-browns-tennessee-titans-ALzuGADj/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "TB",
+        "score_1": 14,
+        "score_2": 42,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/tampa-bay-buccaneers-tennessee-titans-AwjtSG6o/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-minnesota-vikings-2ikS1Kht/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "KC",
+        "score_1": 34,
+        "score_2": 10,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-tennessee-titans-f5QAg2qM/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 14,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-los-angeles-rams-jDTgcppc/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-tennessee-titans-IR9ISYv6/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "TEN",
+        "score_1": 10,
+        "score_2": 27,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-indianapolis-colts-6ub0czlj/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "JAX",
+        "score_1": 21,
+        "score_2": 13,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/jacksonville-jaguars-tennessee-titans-n9vbC9cP/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "TEN",
+        "score_1": 11,
+        "score_2": 16,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-new-york-jets-WQR6i8La/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "TEN",
+        "score_1": 7,
+        "score_2": 36,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-new-york-giants-GIRFOIod/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "HOU",
+        "score_1": 45,
+        "score_2": 21,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/houston-texans-tennessee-titans-QRXVY293/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "PHI",
+        "score_1": 43,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/philadelphia-eagles-tennessee-titans-dAnINHq5/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-pittsburgh-steelers-r7Mr9IUB/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "BAL",
+        "score_1": 21,
+        "score_2": 7,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/baltimore-ravens-tennessee-titans-IRyLcUPr/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 30,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-houston-texans-6Rzgw3ra/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "WSH",
+        "score_1": 19,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/washington-commanders-tennessee-titans-AaLEPqEa/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 14,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-jacksonville-jaguars-2iycFvZf/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "TEN",
+        "score_1": 28,
+        "score_2": 29,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-cleveland-browns-2XvtNVz4/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "IND",
+        "score_1": 41,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/indianapolis-colts-tennessee-titans-4OXthByU/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "CIN",
+        "score_1": 33,
+        "score_2": 7,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/cincinnati-bengals-tennessee-titans-OU5Bjb0P/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "TEN",
+        "score_1": 10,
+        "score_2": 26,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-dallas-cowboys-GtzTV5Ir/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "KC",
+        "score_1": 10,
+        "score_2": 26,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-tennessee-titans-489K4TJq/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "TEN",
+        "score_1": 3,
+        "score_2": 19,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-minnesota-vikings-zmWyDiC3/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-tennessee-titans-U5woLfmQ/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "NO",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/new-orleans-saints-tennessee-titans-8GYSevKE/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "TEN",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-green-bay-packers-tjvVzwrk/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 10,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-houston-texans-UTiyHb9f/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "JAX",
+        "score_1": 16,
+        "score_2": 20,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/jacksonville-jaguars-tennessee-titans-8bJVDYdo/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "TEN",
+        "score_1": 34,
+        "score_2": 37,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-arizona-cardinals-Oh2fG61n/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "DEN",
+        "score_1": 51,
+        "score_2": 28,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-tennessee-titans-ANwgbYu1/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "IND",
+        "score_1": 22,
+        "score_2": 14,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/indianapolis-colts-tennessee-titans-bDJuYySe/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "LV",
+        "score_1": 19,
+        "score_2": 23,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/las-vegas-raiders-tennessee-titans-lEAgMvTq/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 30,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-indianapolis-colts-2PWiIYVt/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 29,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-jacksonville-jaguars-SUdF4F1s/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "LAR",
+        "score_1": 21,
+        "score_2": 28,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-tennessee-titans-rwgcbvu8/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 31,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-san-francisco-49ers-nFoSrvON/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "SEA",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/seattle-seahawks-tennessee-titans-UDyPzPPn/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 26,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-kansas-city-chiefs-Cz0zUGC2/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "TEN",
+        "score_1": 38,
+        "score_2": 13,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-new-york-jets-CMK1FHc9/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "TEN",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-los-angeles-chargers-bcJiluaA/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "HOU",
+        "score_1": 30,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/houston-texans-tennessee-titans-AXhD0CWs/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "PIT",
+        "score_1": 9,
+        "score_2": 16,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/pittsburgh-steelers-tennessee-titans-0xS2fyA8/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-tennessee-titans-OEw3T75h/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 16,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-atlanta-falcons-OvNg2V6g/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "CIN",
+        "score_1": 27,
+        "score_2": 19,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/cincinnati-bengals-tennessee-titans-0Qotma1k/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "TEN",
+        "score_1": 21,
+        "score_2": 22,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-washington-commanders-K85noIE4/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "TEN",
+        "score_1": 38,
+        "score_2": 20,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-jacksonville-jaguars-hAcylCZ2/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "GB",
+        "score_1": 55,
+        "score_2": 7,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/green-bay-packers-tennessee-titans-xzFK8r11/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "TEN",
+        "score_1": 14,
+        "score_2": 10,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-new-york-jets-noM7BpHr/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "IND",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/indianapolis-colts-tennessee-titans-G4tF5Ilh/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "TEN",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-houston-texans-4O5deD9m/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "JAX",
+        "score_1": 24,
+        "score_2": 19,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/jacksonville-jaguars-tennessee-titans-jRMAgcw7/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "MIA",
+        "score_1": 3,
+        "score_2": 37,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/miami-dolphins-tennessee-titans-jaO9k9Qc/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "TEN",
+        "score_1": 20,
+        "score_2": 51,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-chicago-bears-S4NafbCP/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "TEN",
+        "score_1": 13,
+        "score_2": 19,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-indianapolis-colts-pQBsyGAB/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "BUF",
+        "score_1": 34,
+        "score_2": 35,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-tennessee-titans-ncWxxyv8/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "TEN",
+        "score_1": 26,
+        "score_2": 23,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-pittsburgh-steelers-8rTGWu2S/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "MIN",
+        "score_1": 30,
+        "score_2": 7,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-tennessee-titans-l2WjrIal/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "HOU",
+        "score_1": 38,
+        "score_2": 14,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/houston-texans-tennessee-titans-Wnkoy1hL/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "TEN",
+        "score_1": 44,
+        "score_2": 41,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-detroit-lions-6sNuK8HT/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "LAC",
+        "score_1": 38,
+        "score_2": 10,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/los-angeles-chargers-tennessee-titans-bRQtaw5N/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "TEN",
+        "score_1": 13,
+        "score_2": 34,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-new-england-patriots-vXGxyNOA/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "TEN",
+        "score_1": 10,
+        "score_2": 6,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-new-orleans-saints-pxjPWI3J/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "TEN",
+        "score_1": 32,
+        "score_2": 27,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-arizona-cardinals-xYuHDIup/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "TB",
+        "score_1": 7,
+        "score_2": 30,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/tampa-bay-buccaneers-tennessee-titans-xjZnAqZi/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "SEA",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/seattle-seahawks-tennessee-titans-Ey2Qhr4H/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "HOU",
+        "score_1": 22,
+        "score_2": 23,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/houston-texans-tennessee-titans-YZSMqBI8/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "TEN",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-jacksonville-jaguars-65hDXCH5/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "IND",
+        "score_1": 27,
+        "score_2": 13,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/indianapolis-colts-tennessee-titans-OCiEKZXa/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-new-orleans-saints-8lcXFKtE/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "BUF",
+        "score_1": 17,
+        "score_2": 23,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-tennessee-titans-2Brb1lyA/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "TEN",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-tampa-bay-buccaneers-EDf9yY7b/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-tennessee-titans-K8UBOfOh/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "CAR",
+        "score_1": 3,
+        "score_2": 30,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/carolina-panthers-tennessee-titans-KCp0NDy8/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-cincinnati-bengals-ltdEJvVF/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 10,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-indianapolis-colts-vo3K5Ufa/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "TEN",
+        "score_1": 7,
+        "score_2": 41,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-houston-texans-KGdsfiBg/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "PIT",
+        "score_1": 38,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/pittsburgh-steelers-tennessee-titans-lQeNXqqG/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "CLE",
+        "score_1": 13,
+        "score_2": 31,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/cleveland-browns-tennessee-titans-hY6WO8Fi/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 14,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-denver-broncos-8A6E8a4O/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "TEN",
+        "score_1": 26,
+        "score_2": 13,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-baltimore-ravens-fBdMIhME/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "JAX",
+        "score_1": 16,
+        "score_2": 14,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/jacksonville-jaguars-tennessee-titans-GC9UoE0q/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "NO",
+        "score_1": 9,
+        "score_2": 32,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/new-orleans-saints-tennessee-titans-UTzuQG2r/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "TEN",
+        "score_1": 14,
+        "score_2": 13,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-chicago-bears-rB9s1SXh/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-tennessee-titans-Q5JM5HJK/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "TEN",
+        "score_1": 14,
+        "score_2": 3,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-minnesota-vikings-bXOtgbkL/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "IND",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2010-2011/indianapolis-colts-tennessee-titans-IDL4NxqM/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "KC",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2010-2011/kansas-city-chiefs-tennessee-titans-087Giv8p/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "TEN",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-houston-texans-CGvpc9v6/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "TEN",
+        "score_1": 28,
+        "score_2": 30,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-indianapolis-colts-6Zq0tcl8/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "TEN",
+        "score_1": 6,
+        "score_2": 17,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-jacksonville-jaguars-CAHQv4S9/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "HOU",
+        "score_1": 20,
+        "score_2": 0,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2010-2011/houston-texans-tennessee-titans-n1NZTbm5/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 19,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-washington-commanders-8OmEaKYO/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "MIA",
+        "score_1": 29,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2010-2011/miami-dolphins-tennessee-titans-UHxSADjF/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "LAC",
+        "score_1": 33,
+        "score_2": 25,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2010-2011/los-angeles-chargers-tennessee-titans-bHh8TehT/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "TEN",
+        "score_1": 37,
+        "score_2": 19,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-philadelphia-eagles-Qc71X62g/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "JAX",
+        "score_1": 3,
+        "score_2": 30,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2010-2011/jacksonville-jaguars-tennessee-titans-0A6MJmYg/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "DAL",
+        "score_1": 27,
+        "score_2": 34,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2010-2011/dallas-cowboys-tennessee-titans-O8ou7MN1/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "TEN",
+        "score_1": 20,
+        "score_2": 26,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-denver-broncos-fg3uHFuh/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "NYG",
+        "score_1": 10,
+        "score_2": 29,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2010-2011/new-york-giants-tennessee-titans-EV1TlHB5/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "TEN",
+        "score_1": 11,
+        "score_2": 19,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-pittsburgh-steelers-dIqvp2KJ/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "TEN",
+        "score_1": 38,
+        "score_2": 13,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-las-vegas-raiders-UZmGS9qS/"
+    },
+    {
+        "date": "02/Sep",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-new-orleans-saints-nkNO4Tx3/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "CAR",
+        "score_1": 15,
+        "score_2": 7,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2010-2011/carolina-panthers-tennessee-titans-YXwJitcN/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2010-2011/tennessee-titans-arizona-cardinals-AN6as5Tb/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "SEA",
+        "score_1": 20,
+        "score_2": 18,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2010-2011/seattle-seahawks-tennessee-titans-0SD5Tfgr/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "SEA",
+        "score_1": 13,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2009-2010/seattle-seahawks-tennessee-titans-hUCXfCcs/"
+    },
+    {
+        "date": "25/Dec",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 42,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-los-angeles-chargers-llWTzoGc/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-miami-dolphins-hrWfKPVG/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "TEN",
+        "score_1": 47,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-los-angeles-rams-GhwkVXHd/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "IND",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2009-2010/indianapolis-colts-tennessee-titans-Qa2pYTsQ/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "TEN",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-arizona-cardinals-dS0qv29N/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "HOU",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2009-2010/houston-texans-tennessee-titans-8KwfP2fU/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "TEN",
+        "score_1": 41,
+        "score_2": 17,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-buffalo-bills-CCjisOY8/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "SF",
+        "score_1": 27,
+        "score_2": 34,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2009-2010/san-francisco-49ers-tennessee-titans-OY457Za4/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "TEN",
+        "score_1": 30,
+        "score_2": 13,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-jacksonville-jaguars-ImOb5zBb/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "NE",
+        "score_1": 59,
+        "score_2": 0,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2009-2010/new-england-patriots-tennessee-titans-MuDTp0Uj/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "TEN",
+        "score_1": 9,
+        "score_2": 31,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-indianapolis-colts-zmZWWjef/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "JAX",
+        "score_1": 37,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2009-2010/jacksonville-jaguars-tennessee-titans-EZVlEzoI/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "NYJ",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-tennessee-titans-MgG9idj2/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "TEN",
+        "score_1": 31,
+        "score_2": 34,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-houston-texans-vy6vt7Zs/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "PIT",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2009-2010/pittsburgh-steelers-tennessee-titans-jo0rWAGm/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 13,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-green-bay-packers-xGoRH5b0/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "CLE",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2009-2010/cleveland-browns-tennessee-titans-CbPbvh46/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "DAL",
+        "score_1": 30,
+        "score_2": 10,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2009-2010/dallas-cowboys-tennessee-titans-6u99hk4F/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-tampa-bay-buccaneers-ja5yVNOf/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "TEN",
+        "score_1": 21,
+        "score_2": 18,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-buffalo-bills-f1o0iVHc/"
+    },
+    {
+        "date": "10/Jan",
+        "team_1": "TEN",
+        "score_1": 10,
+        "score_2": 13,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-baltimore-ravens-0l6rgErs/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "IND",
+        "score_1": 23,
+        "score_2": 0,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2008-2009/indianapolis-colts-tennessee-titans-jL3rIXLK/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "TEN",
+        "score_1": 31,
+        "score_2": 14,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-pittsburgh-steelers-MRtHk3xp/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "HOU",
+        "score_1": 13,
+        "score_2": 12,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2008-2009/houston-texans-tennessee-titans-SlsQLZjh/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "TEN",
+        "score_1": 28,
+        "score_2": 9,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-cleveland-browns-xrTIzIMj/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "DET",
+        "score_1": 10,
+        "score_2": 47,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2008-2009/detroit-lions-tennessee-titans-fuDOJ0rt/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "TEN",
+        "score_1": 13,
+        "score_2": 34,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-new-york-jets-lWwwWAPe/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "JAX",
+        "score_1": 14,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2008-2009/jacksonville-jaguars-tennessee-titans-fmeC1Fr5/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "CHI",
+        "score_1": 14,
+        "score_2": 21,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2008-2009/chicago-bears-tennessee-titans-tM2Dw0Ns/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "TEN",
+        "score_1": 19,
+        "score_2": 16,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-green-bay-packers-tvxnA6AB/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "TEN",
+        "score_1": 31,
+        "score_2": 21,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-indianapolis-colts-dhqqlDW0/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "KC",
+        "score_1": 10,
+        "score_2": 34,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2008-2009/kansas-city-chiefs-tennessee-titans-nHzBM186/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "BAL",
+        "score_1": 10,
+        "score_2": 13,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2008-2009/baltimore-ravens-tennessee-titans-EFC8TXQL/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "TEN",
+        "score_1": 30,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-minnesota-vikings-EmIGQw12/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "TEN",
+        "score_1": 31,
+        "score_2": 12,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-houston-texans-IRdw204s/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "TEN",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-jacksonville-jaguars-l2k98c2B/"
+    }
+]

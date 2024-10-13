@@ -1,0 +1,2586 @@
+[
+    {
+        "date": "22/Sep",
+        "team_1": "ARI",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl/arizona-cardinals-detroit-lions-GAFijs85/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 20,
+        "team_2": "TB",
+        "game_url": "usa/nfl/detroit-lions-tampa-bay-buccaneers-xrZpKIR9/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "DET",
+        "score_1": 26,
+        "score_2": 20,
+        "team_2": "LAR",
+        "game_url": "usa/nfl/detroit-lions-los-angeles-rams-8l2e91Di/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "PIT",
+        "game_url": "usa/nfl/detroit-lions-pittsburgh-steelers-xfyVYCk4/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "KC",
+        "score_1": 23,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl/kansas-city-chiefs-detroit-lions-KdD59y5e/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "NYG",
+        "score_1": 14,
+        "score_2": 3,
+        "team_2": "DET",
+        "game_url": "usa/nfl/new-york-giants-detroit-lions-nZV8ZUNO/"
+    },
+    {
+        "date": "28/Jan",
+        "team_1": "SF",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/san-francisco-49ers-detroit-lions-WU5Zib9G/"
+    },
+    {
+        "date": "21/Jan",
+        "team_1": "DET",
+        "score_1": 31,
+        "score_2": 23,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-tampa-bay-buccaneers-jqIgpo8U/"
+    },
+    {
+        "date": "14/Jan",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-los-angeles-rams-vN1XhUxK/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "DET",
+        "score_1": 30,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-minnesota-vikings-Kh3W0Bdj/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "DAL",
+        "score_1": 20,
+        "score_2": 19,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/dallas-cowboys-detroit-lions-C6jni1TO/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 30,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-detroit-lions-vgGn37MJ/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "DET",
+        "score_1": 42,
+        "score_2": 17,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-denver-broncos-0nTKl87Q/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "CHI",
+        "score_1": 28,
+        "score_2": 13,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/chicago-bears-detroit-lions-WlrTLIXM/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "NO",
+        "score_1": 28,
+        "score_2": 33,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/new-orleans-saints-detroit-lions-8IqsCs4b/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "DET",
+        "score_1": 22,
+        "score_2": 29,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-green-bay-packers-foIWaGg6/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "DET",
+        "score_1": 31,
+        "score_2": 26,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-chicago-bears-UR8q15Yr/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "LAC",
+        "score_1": 38,
+        "score_2": 41,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/los-angeles-chargers-detroit-lions-0jswflRF/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "DET",
+        "score_1": 26,
+        "score_2": 14,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-las-vegas-raiders-GK05WgTi/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "BAL",
+        "score_1": 38,
+        "score_2": 6,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/baltimore-ravens-detroit-lions-dIvI4pvr/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "TB",
+        "score_1": 6,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/tampa-bay-buccaneers-detroit-lions-M5Dnk5ve/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "DET",
+        "score_1": 42,
+        "score_2": 24,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-carolina-panthers-jqORbzdo/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "GB",
+        "score_1": 20,
+        "score_2": 34,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/green-bay-packers-detroit-lions-CAIgdszm/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 6,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-atlanta-falcons-hjc5QtjJ/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "DET",
+        "score_1": 31,
+        "score_2": 37,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-seattle-seahawks-CEEwZDxM/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "KC",
+        "score_1": 20,
+        "score_2": 21,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/kansas-city-chiefs-detroit-lions-pnTVqy6h/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "CAR",
+        "score_1": 17,
+        "score_2": 26,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/carolina-panthers-detroit-lions-OA5iBrz5/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "DET",
+        "score_1": 7,
+        "score_2": 25,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-jacksonville-jaguars-OUR4176t/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "DET",
+        "score_1": 21,
+        "score_2": 16,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-new-york-giants-h8EDGwCp/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "GB",
+        "score_1": 16,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/green-bay-packers-detroit-lions-CrOc5kgo/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "DET",
+        "score_1": 41,
+        "score_2": 10,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-chicago-bears-t8cRnVOb/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "CAR",
+        "score_1": 37,
+        "score_2": 23,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/carolina-panthers-detroit-lions-8tbFKCu6/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "NYJ",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-detroit-lions-KMdvJa41/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "DET",
+        "score_1": 34,
+        "score_2": 23,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-minnesota-vikings-rFlHlcgg/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "DET",
+        "score_1": 40,
+        "score_2": 14,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-jacksonville-jaguars-MRSArvHD/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "DET",
+        "score_1": 25,
+        "score_2": 28,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-buffalo-bills-bBznJNm2/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "NYG",
+        "score_1": 18,
+        "score_2": 31,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/new-york-giants-detroit-lions-fJg9vYJA/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "CHI",
+        "score_1": 30,
+        "score_2": 31,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/chicago-bears-detroit-lions-vT4hDeLB/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "DET",
+        "score_1": 15,
+        "score_2": 9,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-green-bay-packers-Ami61bMa/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "DET",
+        "score_1": 27,
+        "score_2": 31,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-miami-dolphins-YTWnAV82/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "DAL",
+        "score_1": 24,
+        "score_2": 6,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/dallas-cowboys-detroit-lions-Y9zEzVHq/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "NE",
+        "score_1": 29,
+        "score_2": 0,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/new-england-patriots-detroit-lions-nHp0ThgJ/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "DET",
+        "score_1": 45,
+        "score_2": 48,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-seattle-seahawks-nZwWPJnR/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "MIN",
+        "score_1": 28,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-detroit-lions-zJ8chuRe/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "DET",
+        "score_1": 36,
+        "score_2": 27,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-washington-commanders-Q7LR1hbh/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "DET",
+        "score_1": 35,
+        "score_2": 38,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-philadelphia-eagles-zRvVkXn7/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "PIT",
+        "score_1": 19,
+        "score_2": 9,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/pittsburgh-steelers-detroit-lions-QiaMUqve/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "IND",
+        "score_1": 26,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/indianapolis-colts-detroit-lions-OMw9V47i/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "DET",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-atlanta-falcons-lWobHEns/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "DET",
+        "score_1": 37,
+        "score_2": 30,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-green-bay-packers-ppGQHpRm/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "SEA",
+        "score_1": 51,
+        "score_2": 29,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/seattle-seahawks-detroit-lions-84MnPSYD/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-detroit-lions-fwUxlF6j/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "DET",
+        "score_1": 30,
+        "score_2": 12,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-arizona-cardinals-WQqPrKUA/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "DEN",
+        "score_1": 38,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-detroit-lions-pCEzVswC/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "DET",
+        "score_1": 29,
+        "score_2": 27,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-minnesota-vikings-KWTCJgYr/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "DET",
+        "score_1": 14,
+        "score_2": 16,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-chicago-bears-hrVdhHZq/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "CLE",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/cleveland-browns-detroit-lions-f7TjqvcT/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "PIT",
+        "score_1": 16,
+        "score_2": 16,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/pittsburgh-steelers-detroit-lions-YyeotEpK/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "DET",
+        "score_1": 6,
+        "score_2": 44,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-philadelphia-eagles-EZbnXcph/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "LAR",
+        "score_1": 28,
+        "score_2": 19,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-detroit-lions-lEM1L0ot/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "DET",
+        "score_1": 11,
+        "score_2": 34,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-cincinnati-bengals-UmE0h2Hg/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "MIN",
+        "score_1": 19,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-detroit-lions-M11GrhlS/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "CHI",
+        "score_1": 24,
+        "score_2": 14,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/chicago-bears-detroit-lions-GrNXXzzA/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "DET",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-baltimore-ravens-M7MP4x6N/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "GB",
+        "score_1": 35,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/green-bay-packers-detroit-lions-I9xdBMMu/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "DET",
+        "score_1": 33,
+        "score_2": 41,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-san-francisco-49ers-hWzi2OSR/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "DET",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-indianapolis-colts-G6yZc5h5/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "PIT",
+        "score_1": 26,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/pittsburgh-steelers-detroit-lions-CYxS9jU2/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "DET",
+        "score_1": 15,
+        "score_2": 16,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-buffalo-bills-j3OZvWUS/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "DET",
+        "score_1": 35,
+        "score_2": 37,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2020-2021/detroit-lions-minnesota-vikings-jPBhJh67/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "DET",
+        "score_1": 7,
+        "score_2": 47,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2020-2021/detroit-lions-tampa-bay-buccaneers-4SqCoaSo/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "TEN",
+        "score_1": 46,
+        "score_2": 25,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/tennessee-titans-detroit-lions-rcVJGvTB/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 31,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2020-2021/detroit-lions-green-bay-packers-bXyajrF6/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "CHI",
+        "score_1": 30,
+        "score_2": 34,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/chicago-bears-detroit-lions-vkSz0en3/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "DET",
+        "score_1": 25,
+        "score_2": 41,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2020-2021/detroit-lions-houston-texans-A9hJYIm4/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "CAR",
+        "score_1": 20,
+        "score_2": 0,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/carolina-panthers-detroit-lions-phjhKJYA/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "DET",
+        "score_1": 30,
+        "score_2": 27,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2020-2021/detroit-lions-washington-commanders-zertLv27/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-detroit-lions-lQ4a81I1/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "DET",
+        "score_1": 21,
+        "score_2": 41,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2020-2021/detroit-lions-indianapolis-colts-SWqt4nRF/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "ATL",
+        "score_1": 22,
+        "score_2": 23,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/atlanta-falcons-detroit-lions-f1ESlGLB/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "JAX",
+        "score_1": 16,
+        "score_2": 34,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/jacksonville-jaguars-detroit-lions-KlmcZzMO/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "DET",
+        "score_1": 29,
+        "score_2": 35,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2020-2021/detroit-lions-new-orleans-saints-hz5DIiuG/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "ARI",
+        "score_1": 23,
+        "score_2": 26,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/arizona-cardinals-detroit-lions-SI2n4hQM/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "GB",
+        "score_1": 42,
+        "score_2": 21,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/green-bay-packers-detroit-lions-Wvyh7LKt/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "DET",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2020-2021/detroit-lions-chicago-bears-I3Xki9Ur/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-green-bay-packers-8bXmQzzC/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "DEN",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/denver-broncos-detroit-lions-pMPJ3MMs/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "DET",
+        "score_1": 17,
+        "score_2": 38,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-tampa-bay-buccaneers-ja4pkN7l/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "MIN",
+        "score_1": 20,
+        "score_2": 7,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-detroit-lions-EaQ7uDvN/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-chicago-bears-rXmvHxd5/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "WSH",
+        "score_1": 19,
+        "score_2": 16,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/washington-commanders-detroit-lions-2PW7Eqz7/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "DET",
+        "score_1": 27,
+        "score_2": 35,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-dallas-cowboys-hAqd4ve2/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "CHI",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/chicago-bears-detroit-lions-vPAFi1Bd/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "LV",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/las-vegas-raiders-detroit-lions-6JUvuORj/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "DET",
+        "score_1": 31,
+        "score_2": 26,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-new-york-giants-ABs9lyam/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "DET",
+        "score_1": 30,
+        "score_2": 42,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-minnesota-vikings-jsalOvor/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "GB",
+        "score_1": 23,
+        "score_2": 22,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/green-bay-packers-detroit-lions-EowIVMh8/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "DET",
+        "score_1": 30,
+        "score_2": 34,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-kansas-city-chiefs-GhCoizKh/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "PHI",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/philadelphia-eagles-detroit-lions-bXcm6RDL/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "DET",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-los-angeles-chargers-YPz2fUE9/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "ARI",
+        "score_1": 27,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/arizona-cardinals-detroit-lions-KntOrXFc/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "CLE",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/cleveland-browns-detroit-lions-dbAQdTRm/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-buffalo-bills-dpPYsl6C/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "HOU",
+        "score_1": 30,
+        "score_2": 23,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/houston-texans-detroit-lions-rX58jh5E/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "DET",
+        "score_1": 3,
+        "score_2": 31,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-new-england-patriots-CWg3OZLL/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "GB",
+        "score_1": 0,
+        "score_2": 31,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/green-bay-packers-detroit-lions-f98o2y8e/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "DET",
+        "score_1": 9,
+        "score_2": 27,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-minnesota-vikings-6oVw6p9T/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "BUF",
+        "score_1": 14,
+        "score_2": 13,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/buffalo-bills-detroit-lions-6ooy0itt/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "ARI",
+        "score_1": 3,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/arizona-cardinals-detroit-lions-MaUVjE3P/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 30,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-los-angeles-rams-xW49w4T8/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 23,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-chicago-bears-v1MZe6pT/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 19,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-carolina-panthers-CjMfeZgI/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "CHI",
+        "score_1": 34,
+        "score_2": 22,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/chicago-bears-detroit-lions-MRn62Vql/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 9,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-detroit-lions-fiTOkh0r/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "DET",
+        "score_1": 14,
+        "score_2": 28,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-seattle-seahawks-fHCFOF1q/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "MIA",
+        "score_1": 21,
+        "score_2": 32,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/miami-dolphins-detroit-lions-lIOCRrIN/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "DET",
+        "score_1": 31,
+        "score_2": 23,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-green-bay-packers-QueDkk56/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "DAL",
+        "score_1": 26,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/dallas-cowboys-detroit-lions-Y52nbMi9/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "DET",
+        "score_1": 26,
+        "score_2": 10,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-new-england-patriots-bml4oq83/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "SF",
+        "score_1": 30,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/san-francisco-49ers-detroit-lions-lKskxKDh/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "DET",
+        "score_1": 17,
+        "score_2": 48,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-new-york-jets-Sr6ZskpE/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "DET",
+        "score_1": 17,
+        "score_2": 35,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-cleveland-browns-jDuMY7e9/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "TB",
+        "score_1": 30,
+        "score_2": 33,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/tampa-bay-buccaneers-detroit-lions-SvfRCQYk/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "DET",
+        "score_1": 17,
+        "score_2": 30,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-new-york-giants-badeUXnQ/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "LV",
+        "score_1": 16,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/las-vegas-raiders-detroit-lions-4tDhACef/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "DET",
+        "score_1": 35,
+        "score_2": 11,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-green-bay-packers-0lShF3Pn/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "CIN",
+        "score_1": 26,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/cincinnati-bengals-detroit-lions-xfgicV31/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 10,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-chicago-bears-IFgavHcM/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "TB",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/tampa-bay-buccaneers-detroit-lions-Ol2Ox4MH/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "BAL",
+        "score_1": 44,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/baltimore-ravens-detroit-lions-6eh1V0cf/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "DET",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-minnesota-vikings-xGIq4Obe/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "CHI",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/chicago-bears-detroit-lions-6FGw8XaT/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "DET",
+        "score_1": 38,
+        "score_2": 24,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-cleveland-browns-fJyadz1H/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "GB",
+        "score_1": 17,
+        "score_2": 30,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/green-bay-packers-detroit-lions-Qwpr0I1h/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "DET",
+        "score_1": 15,
+        "score_2": 20,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-pittsburgh-steelers-SUxqVc2I/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "NO",
+        "score_1": 52,
+        "score_2": 38,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/new-orleans-saints-detroit-lions-tl71U5fA/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-carolina-panthers-SC3aEg4C/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "MIN",
+        "score_1": 7,
+        "score_2": 14,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-detroit-lions-6wi93xjf/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "DET",
+        "score_1": 26,
+        "score_2": 30,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-atlanta-falcons-63z0x0ie/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "NYG",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/new-york-giants-detroit-lions-6uhDo4U8/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "DET",
+        "score_1": 35,
+        "score_2": 23,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-arizona-cardinals-xr7LIEf5/"
+    },
+    {
+        "date": "31/Aug",
+        "team_1": "BUF",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-detroit-lions-lUAkYcYS/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "DET",
+        "score_1": 28,
+        "score_2": 30,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-new-england-patriots-UDFFLKlN/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 6,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-new-york-jets-GM9CD5jn/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "IND",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/indianapolis-colts-detroit-lions-YPSR5Hh8/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "SEA",
+        "score_1": 26,
+        "score_2": 6,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/seattle-seahawks-detroit-lions-0vLXtJQT/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 31,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-green-bay-packers-UXHmoOuq/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "DAL",
+        "score_1": 42,
+        "score_2": 21,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/dallas-cowboys-detroit-lions-xzsDiQ2F/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "NYG",
+        "score_1": 17,
+        "score_2": 6,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/new-york-giants-detroit-lions-KtXkpNwh/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-chicago-bears-MTHcxZuE/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "NO",
+        "score_1": 13,
+        "score_2": 28,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/new-orleans-saints-detroit-lions-84hu1CJ7/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-minnesota-vikings-IZqzdQyB/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "DET",
+        "score_1": 26,
+        "score_2": 19,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-jacksonville-jaguars-bJl0qmh5/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "MIN",
+        "score_1": 16,
+        "score_2": 22,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-detroit-lions-fsCKo12S/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "HOU",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/houston-texans-detroit-lions-QuqTx6Jc/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-washington-commanders-W4rL97kB/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "DET",
+        "score_1": 31,
+        "score_2": 28,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-los-angeles-rams-tdw1IvxE/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-philadelphia-eagles-W6TOqKVl/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "CHI",
+        "score_1": 17,
+        "score_2": 14,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/chicago-bears-detroit-lions-vkQ2vPg9/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "GB",
+        "score_1": 34,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/green-bay-packers-detroit-lions-dCwBCuVB/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "DET",
+        "score_1": 15,
+        "score_2": 16,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-tennessee-titans-dxN1o3WC/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "IND",
+        "score_1": 35,
+        "score_2": 39,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/indianapolis-colts-detroit-lions-zsNikNeE/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "DET",
+        "score_1": 31,
+        "score_2": 0,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-buffalo-bills-MH5JR7tg/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "BAL",
+        "score_1": 30,
+        "score_2": 9,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/baltimore-ravens-detroit-lions-YDIf2iDs/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "DET",
+        "score_1": 14,
+        "score_2": 30,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-cincinnati-bengals-6mUinuNq/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "PIT",
+        "score_1": 17,
+        "score_2": 30,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/pittsburgh-steelers-detroit-lions-Uq8mw2pT/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "CHI",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/chicago-bears-detroit-lions-xI9g1dYu/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "DET",
+        "score_1": 32,
+        "score_2": 17,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-san-francisco-49ers-MTylp4cl/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "NO",
+        "score_1": 27,
+        "score_2": 35,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/new-orleans-saints-detroit-lions-GSh5hSk8/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "LAR",
+        "score_1": 21,
+        "score_2": 14,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-detroit-lions-dho64Sqd/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "DET",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-green-bay-packers-phz2Hg6m/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "DET",
+        "score_1": 45,
+        "score_2": 14,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-philadelphia-eagles-jVlglex1/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "DET",
+        "score_1": 18,
+        "score_2": 13,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-las-vegas-raiders-r1gEmOoj/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "GB",
+        "score_1": 16,
+        "score_2": 18,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/green-bay-packers-detroit-lions-UaGmoVPi/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "KC",
+        "score_1": 45,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/kansas-city-chiefs-detroit-lions-naRiJLzr/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "DET",
+        "score_1": 19,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-minnesota-vikings-xjorDpE8/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "DET",
+        "score_1": 37,
+        "score_2": 34,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-chicago-bears-Kpm015aj/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "DET",
+        "score_1": 17,
+        "score_2": 42,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-arizona-cardinals-QNB4CV7i/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "SEA",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/seattle-seahawks-detroit-lions-tId5Gv9P/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "DET",
+        "score_1": 12,
+        "score_2": 24,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-denver-broncos-dAbKqtYm/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "MIN",
+        "score_1": 26,
+        "score_2": 16,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-detroit-lions-OOOMvfji/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "LAC",
+        "score_1": 33,
+        "score_2": 28,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/los-angeles-chargers-detroit-lions-xjLR8g6N/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "DET",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-buffalo-bills-hIu31js0/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "JAX",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/jacksonville-jaguars-detroit-lions-QVL6frUF/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "WSH",
+        "score_1": 21,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/washington-commanders-detroit-lions-rXa2SPpN/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "DET",
+        "score_1": 23,
+        "score_2": 3,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-new-york-jets-W6VZzcXP/"
+    },
+    {
+        "date": "04/Jan",
+        "team_1": "DAL",
+        "score_1": 24,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/dallas-cowboys-detroit-lions-jZpsBkAA/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "GB",
+        "score_1": 30,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/green-bay-packers-detroit-lions-pWd4df3d/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "CHI",
+        "score_1": 14,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/chicago-bears-detroit-lions-v7Jx5Rka/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 14,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-minnesota-vikings-EketymyJ/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "DET",
+        "score_1": 34,
+        "score_2": 17,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-tampa-bay-buccaneers-OYR9p08F/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "DET",
+        "score_1": 34,
+        "score_2": 17,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-chicago-bears-xrNjxHbb/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "NE",
+        "score_1": 34,
+        "score_2": 9,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/new-england-patriots-detroit-lions-z1oMMyaB/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "ARI",
+        "score_1": 14,
+        "score_2": 6,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/arizona-cardinals-detroit-lions-MiYZAv0a/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-miami-dolphins-GIkg2AHR/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "ATL",
+        "score_1": 21,
+        "score_2": 22,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-detroit-lions-O2olvqTh/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-new-orleans-saints-phO2SoUt/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "MIN",
+        "score_1": 3,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-detroit-lions-ht4kLUMD/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "DET",
+        "score_1": 14,
+        "score_2": 17,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-buffalo-bills-h2ck08Tj/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "NYJ",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/new-york-jets-detroit-lions-MarxgiMN/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "DET",
+        "score_1": 19,
+        "score_2": 7,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-green-bay-packers-6m0opdwg/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "CAR",
+        "score_1": 24,
+        "score_2": 7,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/carolina-panthers-detroit-lions-C8TyUqme/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "DET",
+        "score_1": 35,
+        "score_2": 14,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-new-york-giants-nLdpvUA2/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "BUF",
+        "score_1": 0,
+        "score_2": 23,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-detroit-lions-jyIk1fDi/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "DET",
+        "score_1": 13,
+        "score_2": 12,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-jacksonville-jaguars-rcVcaDQ6/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "LV",
+        "score_1": 27,
+        "score_2": 26,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/las-vegas-raiders-detroit-lions-juOXfbZK/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "DET",
+        "score_1": 13,
+        "score_2": 12,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-cleveland-browns-pKhataKR/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "MIN",
+        "score_1": 14,
+        "score_2": 13,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-detroit-lions-Eut1FoYk/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-new-york-giants-fV95QBti/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 18,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-baltimore-ravens-2H6N9MpU/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "PHI",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/philadelphia-eagles-detroit-lions-AN118I38/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "DET",
+        "score_1": 40,
+        "score_2": 10,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-green-bay-packers-GQolrMk3/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "DET",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-tampa-bay-buccaneers-vuLJStjG/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "PIT",
+        "score_1": 37,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/pittsburgh-steelers-detroit-lions-EazdHhom/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "CHI",
+        "score_1": 19,
+        "score_2": 21,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/chicago-bears-detroit-lions-0dAM2gWg/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "DET",
+        "score_1": 31,
+        "score_2": 30,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-dallas-cowboys-vR1yiyGp/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-cincinnati-bengals-QacJp0gB/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "CLE",
+        "score_1": 17,
+        "score_2": 31,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/cleveland-browns-detroit-lions-nuVIH1PO/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "GB",
+        "score_1": 22,
+        "score_2": 9,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/green-bay-packers-detroit-lions-jRbvTzS8/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "DET",
+        "score_1": 40,
+        "score_2": 32,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-chicago-bears-2iwBhfjd/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "WSH",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/washington-commanders-detroit-lions-UHRzhNao/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "ARI",
+        "score_1": 25,
+        "score_2": 21,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/arizona-cardinals-detroit-lions-dlTYfjGP/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "DET",
+        "score_1": 34,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-minnesota-vikings-bXmKViX7/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "BUF",
+        "score_1": 13,
+        "score_2": 35,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-detroit-lions-8SdcMjbP/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "DET",
+        "score_1": 40,
+        "score_2": 9,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-new-england-patriots-xAqDkhNm/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "CLE",
+        "score_1": 24,
+        "score_2": 6,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/cleveland-browns-detroit-lions-AZidcqPd/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "DET",
+        "score_1": 26,
+        "score_2": 17,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-new-york-jets-6saUxfMp/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 26,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-chicago-bears-dCTADn5J/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "DET",
+        "score_1": 18,
+        "score_2": 31,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-atlanta-falcons-U9BCA4Wl/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "ARI",
+        "score_1": 38,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/arizona-cardinals-detroit-lions-2grPJ892/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "GB",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/green-bay-packers-detroit-lions-EJMeqSXk/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "DET",
+        "score_1": 33,
+        "score_2": 35,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-indianapolis-colts-QX6hdgfs/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "DET",
+        "score_1": 31,
+        "score_2": 34,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-houston-texans-zkDStKg1/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-green-bay-packers-MBIlVMfk/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-detroit-lions-nRHImmeA/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "JAX",
+        "score_1": 14,
+        "score_2": 31,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/jacksonville-jaguars-detroit-lions-zBCZmdkg/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "DET",
+        "score_1": 28,
+        "score_2": 24,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-seattle-seahawks-lbIYxxta/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "CHI",
+        "score_1": 13,
+        "score_2": 7,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/chicago-bears-detroit-lions-d0wfpKmP/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "PHI",
+        "score_1": 23,
+        "score_2": 26,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/philadelphia-eagles-detroit-lions-EqdwlsX2/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "DET",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-minnesota-vikings-Wj5nGaGe/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "TEN",
+        "score_1": 44,
+        "score_2": 41,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/tennessee-titans-detroit-lions-6sNuK8HT/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "SF",
+        "score_1": 27,
+        "score_2": 19,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/san-francisco-49ers-detroit-lions-S0VpbcKT/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "DET",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-los-angeles-rams-CMtHTaYs/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "DET",
+        "score_1": 38,
+        "score_2": 32,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-buffalo-bills-YwMzQnV6/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "LV",
+        "score_1": 31,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/las-vegas-raiders-detroit-lions-pI3lEkWf/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "BAL",
+        "score_1": 12,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/baltimore-ravens-detroit-lions-pGxe8N34/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "DET",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-cleveland-browns-2XK4c6kn/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "NO",
+        "score_1": 45,
+        "score_2": 28,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/new-orleans-saints-detroit-lions-lz5sFtXu/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "GB",
+        "score_1": 45,
+        "score_2": 41,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/green-bay-packers-detroit-lions-S4AyUVIL/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "DET",
+        "score_1": 38,
+        "score_2": 10,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-los-angeles-chargers-b7yaoWo5/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "LV",
+        "score_1": 27,
+        "score_2": 28,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/las-vegas-raiders-detroit-lions-IBpNID2C/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "DET",
+        "score_1": 34,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-minnesota-vikings-jiixhHl7/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "NO",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/new-orleans-saints-detroit-lions-Ucpj3A6c/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "DET",
+        "score_1": 15,
+        "score_2": 27,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-green-bay-packers-UPhcvzOu/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "DET",
+        "score_1": 49,
+        "score_2": 35,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-carolina-panthers-j52uKuX6/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "CHI",
+        "score_1": 37,
+        "score_2": 13,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/chicago-bears-detroit-lions-vgD8XcaF/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "DEN",
+        "score_1": 10,
+        "score_2": 45,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/denver-broncos-detroit-lions-vDc3931i/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-atlanta-falcons-pl9bhVu6/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "DET",
+        "score_1": 19,
+        "score_2": 25,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-san-francisco-49ers-6y15RYR0/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 13,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-chicago-bears-Sp21SECf/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "DAL",
+        "score_1": 30,
+        "score_2": 34,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/dallas-cowboys-detroit-lions-K04A5oFT/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 26,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-detroit-lions-n15I7JJU/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "DET",
+        "score_1": 48,
+        "score_2": 3,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-kansas-city-chiefs-CCxOeVE1/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "TB",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/tampa-bay-buccaneers-detroit-lions-Ghg7aiFS/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "BUF",
+        "score_1": 6,
+        "score_2": 16,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/buffalo-bills-detroit-lions-xIQ2bQHB/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "DET",
+        "score_1": 34,
+        "score_2": 10,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-new-england-patriots-8x1rWY0d/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "CLE",
+        "score_1": 28,
+        "score_2": 30,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/cleveland-browns-detroit-lions-4hAFpGse/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "DET",
+        "score_1": 34,
+        "score_2": 3,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-cincinnati-bengals-6gKwXGS1/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-minnesota-vikings-SOSiQva3/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "MIA",
+        "score_1": 27,
+        "score_2": 34,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/miami-dolphins-detroit-lions-va6KjbNj/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "TB",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/tampa-bay-buccaneers-detroit-lions-IgutbkPa/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "DET",
+        "score_1": 7,
+        "score_2": 3,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-green-bay-packers-dKjXYEtr/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-chicago-bears-MeXnPOSM/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 45,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-new-england-patriots-IRd0FaYB/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "DAL",
+        "score_1": 35,
+        "score_2": 19,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/dallas-cowboys-detroit-lions-UTUt5O4m/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "BUF",
+        "score_1": 14,
+        "score_2": 12,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/buffalo-bills-detroit-lions-OMELkCEk/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-new-york-jets-bktZygpj/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "DET",
+        "score_1": 37,
+        "score_2": 25,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-washington-commanders-nFOuYJwb/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "NYG",
+        "score_1": 28,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/new-york-giants-detroit-lions-EVuT5U3f/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "DET",
+        "score_1": 44,
+        "score_2": 6,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-los-angeles-rams-KSrlFpGL/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "GB",
+        "score_1": 28,
+        "score_2": 26,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/green-bay-packers-detroit-lions-4l6z0YPN/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-detroit-lions-zeo8iJRn/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "DET",
+        "score_1": 32,
+        "score_2": 35,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-philadelphia-eagles-rVwuNvD6/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "CHI",
+        "score_1": 19,
+        "score_2": 14,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/chicago-bears-detroit-lions-lGp6AUxj/"
+    },
+    {
+        "date": "02/Sep",
+        "team_1": "DET",
+        "score_1": 28,
+        "score_2": 23,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-buffalo-bills-E7DMhWwi/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "DET",
+        "score_1": 35,
+        "score_2": 27,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-cleveland-browns-KQFocpTo/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "DEN",
+        "score_1": 20,
+        "score_2": 25,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-detroit-lions-pG9mp7qt/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "PIT",
+        "score_1": 23,
+        "score_2": 7,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/pittsburgh-steelers-detroit-lions-I9krCgO7/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "DET",
+        "score_1": 23,
+        "score_2": 37,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-chicago-bears-MHtKOBDD/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "SF",
+        "score_1": 20,
+        "score_2": 6,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/san-francisco-49ers-detroit-lions-plaNp2UF/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 31,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-arizona-cardinals-Qowq04vo/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "BAL",
+        "score_1": 48,
+        "score_2": 3,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/baltimore-ravens-detroit-lions-bykbw54a/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "CIN",
+        "score_1": 23,
+        "score_2": 13,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/cincinnati-bengals-detroit-lions-EPbtZ9SJ/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "DET",
+        "score_1": 12,
+        "score_2": 34,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-green-bay-packers-CCY8pnQu/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "DET",
+        "score_1": 38,
+        "score_2": 37,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-cleveland-browns-WQK5NGM2/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-detroit-lions-4bFpMD20/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "SEA",
+        "score_1": 32,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/seattle-seahawks-detroit-lions-S6Bd9eVi/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "DET",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-los-angeles-rams-G0awjFQH/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "GB",
+        "score_1": 26,
+        "score_2": 0,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/green-bay-packers-detroit-lions-nV6VXMpo/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 28,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-pittsburgh-steelers-AF0pJXQf/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "CHI",
+        "score_1": 48,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/chicago-bears-detroit-lions-I7xtGdG5/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "DET",
+        "score_1": 19,
+        "score_2": 14,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-washington-commanders-jiqe7yjk/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "DET",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-minnesota-vikings-QqY6uwO1/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "NO",
+        "score_1": 45,
+        "score_2": 27,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/new-orleans-saints-detroit-lions-2LaQCeKG/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "BUF",
+        "score_1": 6,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/buffalo-bills-detroit-lions-25uT4SEf/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "DET",
+        "score_1": 18,
+        "score_2": 17,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-indianapolis-colts-rycU07f1/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "CLE",
+        "score_1": 27,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/cleveland-browns-detroit-lions-U5nZ8wNo/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "DET",
+        "score_1": 27,
+        "score_2": 26,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-atlanta-falcons-n1DuiEuc/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "GB",
+        "score_1": 31,
+        "score_2": 21,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2008-2009/green-bay-packers-detroit-lions-GbFDIgi8/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "DET",
+        "score_1": 7,
+        "score_2": 42,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2008-2009/detroit-lions-new-orleans-saints-zNtA9D8h/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "IND",
+        "score_1": 31,
+        "score_2": 21,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2008-2009/indianapolis-colts-detroit-lions-6utUKg6b/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2008-2009/detroit-lions-minnesota-vikings-dzS1rMa4/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "DET",
+        "score_1": 10,
+        "score_2": 47,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2008-2009/detroit-lions-tennessee-titans-fuDOJ0rt/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 38,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2008-2009/detroit-lions-tampa-bay-buccaneers-IkKNkLe4/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "CAR",
+        "score_1": 31,
+        "score_2": 22,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2008-2009/carolina-panthers-detroit-lions-0pCf1bUn/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "DET",
+        "score_1": 14,
+        "score_2": 38,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2008-2009/detroit-lions-jacksonville-jaguars-rsRKsMaK/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "CHI",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2008-2009/chicago-bears-detroit-lions-Knp9gmtC/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "DET",
+        "score_1": 17,
+        "score_2": 25,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2008-2009/detroit-lions-washington-commanders-dKXsMDyN/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "HOU",
+        "score_1": 28,
+        "score_2": 21,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2008-2009/houston-texans-detroit-lions-WhzzpqVP/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "MIN",
+        "score_1": 12,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-detroit-lions-GhGV3qjT/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "DET",
+        "score_1": 7,
+        "score_2": 34,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2008-2009/detroit-lions-chicago-bears-E3MnOBlq/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "SF",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2008-2009/san-francisco-49ers-detroit-lions-IyKiEbl0/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "ATL",
+        "score_1": 34,
+        "score_2": 21,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-detroit-lions-0ftPipR6/"
+    }
+]

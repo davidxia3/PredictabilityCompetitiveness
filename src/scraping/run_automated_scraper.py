@@ -3,7 +3,7 @@ import time
 
 
 # defining teams and league
-teams = ["bears"]
+teams = []
 league = "nfl"
 print(len(teams))
 total_games_per_team = 400

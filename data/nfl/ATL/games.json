@@ -1,0 +1,2642 @@
+[
+    {
+        "date": "29/Sep",
+        "team_1": "ATL",
+        "score_1": 26,
+        "score_2": 24,
+        "team_2": "NO",
+        "game_url": "usa/nfl/atlanta-falcons-new-orleans-saints-pWrW9S4e/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "KC",
+        "game_url": "usa/nfl/atlanta-falcons-kansas-city-chiefs-8biI62hn/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "PHI",
+        "score_1": 21,
+        "score_2": 22,
+        "team_2": "ATL",
+        "game_url": "usa/nfl/philadelphia-eagles-atlanta-falcons-OKY2qZfL/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 18,
+        "team_2": "PIT",
+        "game_url": "usa/nfl/atlanta-falcons-pittsburgh-steelers-6mfUhLBD/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "ATL",
+        "score_1": 0,
+        "score_2": 31,
+        "team_2": "JAX",
+        "game_url": "usa/nfl/atlanta-falcons-jacksonville-jaguars-OjBeKDzB/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "BAL",
+        "score_1": 13,
+        "score_2": 12,
+        "team_2": "ATL",
+        "game_url": "usa/nfl/baltimore-ravens-atlanta-falcons-KYUIIur9/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "MIA",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "ATL",
+        "game_url": "usa/nfl/miami-dolphins-atlanta-falcons-xbBIgY8t/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "NO",
+        "score_1": 48,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/new-orleans-saints-atlanta-falcons-hIDVJj3S/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "CHI",
+        "score_1": 37,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/chicago-bears-atlanta-falcons-pfL0AOTn/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "ATL",
+        "score_1": 29,
+        "score_2": 10,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-indianapolis-colts-UNYetpF6/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "CAR",
+        "score_1": 9,
+        "score_2": 7,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/carolina-panthers-atlanta-falcons-jHoURp0D/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "ATL",
+        "score_1": 25,
+        "score_2": 29,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-tampa-bay-buccaneers-OOvLNv3A/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "NYJ",
+        "score_1": 8,
+        "score_2": 13,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/new-york-jets-atlanta-falcons-xhloB1J4/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "ATL",
+        "score_1": 24,
+        "score_2": 15,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-new-orleans-saints-t2KrcEwP/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "ARI",
+        "score_1": 25,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/arizona-cardinals-atlanta-falcons-MarZfUB9/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "ATL",
+        "score_1": 28,
+        "score_2": 31,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-minnesota-vikings-xzkEUXc4/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "TEN",
+        "score_1": 28,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/tennessee-titans-atlanta-falcons-pMRtU07g/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "TB",
+        "score_1": 13,
+        "score_2": 16,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/tampa-bay-buccaneers-atlanta-falcons-4lVx0MhD/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "ATL",
+        "score_1": 16,
+        "score_2": 24,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-washington-commanders-p443ak22/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "ATL",
+        "score_1": 21,
+        "score_2": 19,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-houston-texans-lzx03GmU/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "JAX",
+        "score_1": 23,
+        "score_2": 7,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/jacksonville-jaguars-atlanta-falcons-p2wl5mxo/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 6,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-atlanta-falcons-hjc5QtjJ/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "ATL",
+        "score_1": 25,
+        "score_2": 24,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-green-bay-packers-MPLQyGh3/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "ATL",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-carolina-panthers-ni3U7yvN/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "ATL",
+        "score_1": 0,
+        "score_2": 24,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-pittsburgh-steelers-ID2qD45h/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "ATL",
+        "score_1": 13,
+        "score_2": 13,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-cincinnati-bengals-ChayJZyE/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "MIA",
+        "score_1": 3,
+        "score_2": 19,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2023-2024/miami-dolphins-atlanta-falcons-jPVg6dh8/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "ATL",
+        "score_1": 30,
+        "score_2": 17,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2022-2023/atlanta-falcons-tampa-bay-buccaneers-pYwJCX0B/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 19,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2022-2023/atlanta-falcons-arizona-cardinals-pt4Ilifn/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "BAL",
+        "score_1": 17,
+        "score_2": 9,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/baltimore-ravens-atlanta-falcons-QH8ALhQa/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "NO",
+        "score_1": 21,
+        "score_2": 18,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/new-orleans-saints-atlanta-falcons-CKuBEgWb/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "ATL",
+        "score_1": 16,
+        "score_2": 19,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2022-2023/atlanta-falcons-pittsburgh-steelers-n9zbotXf/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "WSH",
+        "score_1": 19,
+        "score_2": 13,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/washington-commanders-atlanta-falcons-hnFOWtI1/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "ATL",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2022-2023/atlanta-falcons-chicago-bears-fJXwPhKN/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "CAR",
+        "score_1": 25,
+        "score_2": 15,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/carolina-panthers-atlanta-falcons-6F6pFHja/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2022-2023/atlanta-falcons-los-angeles-chargers-OWlf40xs/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "ATL",
+        "score_1": 37,
+        "score_2": 34,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2022-2023/atlanta-falcons-carolina-panthers-ILl0nSGe/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "CIN",
+        "score_1": 35,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/cincinnati-bengals-atlanta-falcons-W0lnuB9S/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "ATL",
+        "score_1": 28,
+        "score_2": 14,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2022-2023/atlanta-falcons-san-francisco-49ers-8OGklTUo/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "TB",
+        "score_1": 21,
+        "score_2": 15,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/tampa-bay-buccaneers-atlanta-falcons-fLjGZTFh/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2022-2023/atlanta-falcons-cleveland-browns-0IyKSL28/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "SEA",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/seattle-seahawks-atlanta-falcons-WpvS7KQr/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "LAR",
+        "score_1": 31,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-atlanta-falcons-4duCtrSq/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "ATL",
+        "score_1": 26,
+        "score_2": 27,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2022-2023/atlanta-falcons-new-orleans-saints-6omEgFmr/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "ATL",
+        "score_1": 28,
+        "score_2": 12,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2022-2023/atlanta-falcons-jacksonville-jaguars-pKYoXHrd/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "NYJ",
+        "score_1": 24,
+        "score_2": 16,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/new-york-jets-atlanta-falcons-2X0fs263/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "DET",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-atlanta-falcons-lWobHEns/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 30,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-new-orleans-saints-tWaTy6IJ/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "BUF",
+        "score_1": 29,
+        "score_2": 15,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2021-2022/buffalo-bills-atlanta-falcons-27om4Rdl/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-detroit-lions-fwUxlF6j/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "SF",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2021-2022/san-francisco-49ers-atlanta-falcons-xOnXtbaN/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "CAR",
+        "score_1": 21,
+        "score_2": 29,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2021-2022/carolina-panthers-atlanta-falcons-fNLNXqgg/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 30,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-tampa-bay-buccaneers-l4R4veA8/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "JAX",
+        "score_1": 14,
+        "score_2": 21,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2021-2022/jacksonville-jaguars-atlanta-falcons-Sx5Z5z4q/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "ATL",
+        "score_1": 0,
+        "score_2": 25,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-new-england-patriots-llBwl2rb/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "DAL",
+        "score_1": 43,
+        "score_2": 3,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2021-2022/dallas-cowboys-atlanta-falcons-vwEfJjw7/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "NO",
+        "score_1": 25,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2021-2022/new-orleans-saints-atlanta-falcons-fBuYFHWE/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "ATL",
+        "score_1": 13,
+        "score_2": 19,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-carolina-panthers-A1heVyF4/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "MIA",
+        "score_1": 28,
+        "score_2": 30,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2021-2022/miami-dolphins-atlanta-falcons-p0di1c0O/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "ATL",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-new-york-jets-ARcCqYYL/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "ATL",
+        "score_1": 30,
+        "score_2": 34,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-washington-commanders-U7xwVYJS/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "NYG",
+        "score_1": 14,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2021-2022/new-york-giants-atlanta-falcons-hSU88K6b/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "TB",
+        "score_1": 48,
+        "score_2": 25,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2021-2022/tampa-bay-buccaneers-atlanta-falcons-YsYy6Rp0/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "ATL",
+        "score_1": 6,
+        "score_2": 32,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-philadelphia-eagles-p0lz66T2/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 19,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-cleveland-browns-2uwnafXs/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "MIA",
+        "score_1": 37,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2021-2022/miami-dolphins-atlanta-falcons-QysW8Aq9/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "ATL",
+        "score_1": 3,
+        "score_2": 23,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/atlanta-falcons-tennessee-titans-nVg4fBUF/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "TB",
+        "score_1": 44,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2020-2021/tampa-bay-buccaneers-atlanta-falcons-80rJZDjl/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "KC",
+        "score_1": 17,
+        "score_2": 14,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2020-2021/kansas-city-chiefs-atlanta-falcons-nBuXtysH/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "ATL",
+        "score_1": 27,
+        "score_2": 31,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2020-2021/atlanta-falcons-tampa-bay-buccaneers-SpXVDxDU/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "LAC",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2020-2021/los-angeles-chargers-atlanta-falcons-6c1x41q6/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "ATL",
+        "score_1": 16,
+        "score_2": 21,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2020-2021/atlanta-falcons-new-orleans-saints-0bTW0yXd/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "ATL",
+        "score_1": 43,
+        "score_2": 6,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2020-2021/atlanta-falcons-las-vegas-raiders-bVpWVGXM/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "NO",
+        "score_1": 24,
+        "score_2": 9,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2020-2021/new-orleans-saints-atlanta-falcons-CvhpMu4b/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "ATL",
+        "score_1": 34,
+        "score_2": 27,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2020-2021/atlanta-falcons-denver-broncos-E3zGGPAL/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "CAR",
+        "score_1": 17,
+        "score_2": 25,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2020-2021/carolina-panthers-atlanta-falcons-tv4or54d/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "ATL",
+        "score_1": 22,
+        "score_2": 23,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/atlanta-falcons-detroit-lions-f1ESlGLB/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 40,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-atlanta-falcons-CIdxva7g/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "ATL",
+        "score_1": 16,
+        "score_2": 23,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2020-2021/atlanta-falcons-carolina-panthers-jZvXBtO0/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "GB",
+        "score_1": 30,
+        "score_2": 16,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2020-2021/green-bay-packers-atlanta-falcons-4ItPD2gl/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "ATL",
+        "score_1": 26,
+        "score_2": 30,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2020-2021/atlanta-falcons-chicago-bears-SfnjGG3B/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "DAL",
+        "score_1": 40,
+        "score_2": 39,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2020-2021/dallas-cowboys-atlanta-falcons-zLgPOmjE/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "ATL",
+        "score_1": 25,
+        "score_2": 38,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2020-2021/atlanta-falcons-seattle-seahawks-YVeJdV6L/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "TB",
+        "score_1": 22,
+        "score_2": 28,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/tampa-bay-buccaneers-atlanta-falcons-dfjSUbLt/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "ATL",
+        "score_1": 24,
+        "score_2": 12,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-jacksonville-jaguars-n5CULLrQ/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "SF",
+        "score_1": 22,
+        "score_2": 29,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/san-francisco-49ers-atlanta-falcons-Kvd1ou7D/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "ATL",
+        "score_1": 40,
+        "score_2": 20,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-carolina-panthers-CzUjqeub/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "ATL",
+        "score_1": 18,
+        "score_2": 26,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-new-orleans-saints-GpnnFGQH/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "ATL",
+        "score_1": 22,
+        "score_2": 35,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-tampa-bay-buccaneers-UBYaG55f/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "CAR",
+        "score_1": 3,
+        "score_2": 29,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/carolina-panthers-atlanta-falcons-EJph5Kud/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "NO",
+        "score_1": 9,
+        "score_2": 26,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/new-orleans-saints-atlanta-falcons-Sl7Bhsdj/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-seattle-seahawks-YPGvZea0/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 37,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-los-angeles-rams-OfcdMIFf/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "ARI",
+        "score_1": 34,
+        "score_2": 33,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/arizona-cardinals-atlanta-falcons-QPdN9uWl/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "HOU",
+        "score_1": 53,
+        "score_2": 32,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/houston-texans-atlanta-falcons-bBbtakIT/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-tennessee-titans-d8sFcfRI/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "IND",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/indianapolis-colts-atlanta-falcons-QsrSbq6e/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "ATL",
+        "score_1": 24,
+        "score_2": 20,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-philadelphia-eagles-CvIhppi2/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "MIN",
+        "score_1": 28,
+        "score_2": 12,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-atlanta-falcons-QPKlUX04/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "JAX",
+        "score_1": 12,
+        "score_2": 31,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/jacksonville-jaguars-atlanta-falcons-40Zk3VlK/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "ATL",
+        "score_1": 7,
+        "score_2": 19,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-washington-commanders-tM0rpjrr/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 22,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-new-york-jets-noM5WWDr/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "MIA",
+        "score_1": 34,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/miami-dolphins-atlanta-falcons-I9faPF6F/"
+    },
+    {
+        "date": "01/Aug",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-denver-broncos-lbpjXWif/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "TB",
+        "score_1": 32,
+        "score_2": 34,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2018-2019/tampa-bay-buccaneers-atlanta-falcons-pbyv8ReE/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "CAR",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2018-2019/carolina-panthers-atlanta-falcons-hIyBCUPo/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "ATL",
+        "score_1": 40,
+        "score_2": 14,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-arizona-cardinals-YcGMtUuI/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "GB",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2018-2019/green-bay-packers-atlanta-falcons-CO3WVCRa/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "ATL",
+        "score_1": 16,
+        "score_2": 26,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-baltimore-ravens-6kLkNrqS/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "NO",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2018-2019/new-orleans-saints-atlanta-falcons-AqD5jp8j/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "ATL",
+        "score_1": 19,
+        "score_2": 22,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-dallas-cowboys-lGqOw7Op/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "CLE",
+        "score_1": 28,
+        "score_2": 16,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2018-2019/cleveland-browns-atlanta-falcons-Qe1z8iMQ/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "WSH",
+        "score_1": 14,
+        "score_2": 38,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2018-2019/washington-commanders-atlanta-falcons-lAjdfYiR/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-new-york-giants-S2dZrpmb/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "ATL",
+        "score_1": 34,
+        "score_2": 29,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-tampa-bay-buccaneers-Q1Wm2SlC/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "PIT",
+        "score_1": 41,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2018-2019/pittsburgh-steelers-atlanta-falcons-d03dgX5s/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "ATL",
+        "score_1": 36,
+        "score_2": 37,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-cincinnati-bengals-xv9w0rNd/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "ATL",
+        "score_1": 37,
+        "score_2": 43,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-new-orleans-saints-SOLRkwrh/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-carolina-panthers-YqkIZQif/"
+    },
+    {
+        "date": "06/Sep",
+        "team_1": "PHI",
+        "score_1": 18,
+        "score_2": 12,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2018-2019/philadelphia-eagles-atlanta-falcons-88K59Uwk/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "ATL",
+        "score_1": 7,
+        "score_2": 34,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-miami-dolphins-ShZaRPmq/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "JAX",
+        "score_1": 17,
+        "score_2": 6,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2018-2019/jacksonville-jaguars-atlanta-falcons-b3SK59RM/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "ATL",
+        "score_1": 14,
+        "score_2": 28,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2018-2019/atlanta-falcons-kansas-city-chiefs-Q9tzNku0/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "NYJ",
+        "score_1": 17,
+        "score_2": 0,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-atlanta-falcons-65996UfJ/"
+    },
+    {
+        "date": "13/Jan",
+        "team_1": "PHI",
+        "score_1": 15,
+        "score_2": 10,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/philadelphia-eagles-atlanta-falcons-pvoDd4FF/"
+    },
+    {
+        "date": "06/Jan",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 26,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-atlanta-falcons-t4gkK0Q9/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "ATL",
+        "score_1": 22,
+        "score_2": 10,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-carolina-panthers-6mAKXBuE/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "NO",
+        "score_1": 23,
+        "score_2": 13,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/new-orleans-saints-atlanta-falcons-WhzrKhBE/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "TB",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/tampa-bay-buccaneers-atlanta-falcons-jwV9phKe/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-new-orleans-saints-8IkivdtP/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "ATL",
+        "score_1": 9,
+        "score_2": 14,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-minnesota-vikings-S4gcWtrl/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "ATL",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-tampa-bay-buccaneers-no0zRo68/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "SEA",
+        "score_1": 31,
+        "score_2": 34,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/seattle-seahawks-atlanta-falcons-bPJu54qk/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "ATL",
+        "score_1": 27,
+        "score_2": 7,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-dallas-cowboys-0dbQCeob/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "CAR",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/carolina-panthers-atlanta-falcons-fHGdlL2t/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "NYJ",
+        "score_1": 20,
+        "score_2": 25,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/new-york-jets-atlanta-falcons-GQeNZLmm/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "NE",
+        "score_1": 23,
+        "score_2": 7,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/new-england-patriots-atlanta-falcons-23XgY8Cr/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-miami-dolphins-KrM68OXj/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 23,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-buffalo-bills-zkDQB0rE/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "DET",
+        "score_1": 26,
+        "score_2": 30,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-atlanta-falcons-63z0x0ie/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "ATL",
+        "score_1": 34,
+        "score_2": 23,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-green-bay-packers-Slg9npF2/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "CHI",
+        "score_1": 17,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/chicago-bears-atlanta-falcons-jR49LGAn/"
+    },
+    {
+        "date": "31/Aug",
+        "team_1": "ATL",
+        "score_1": 7,
+        "score_2": 13,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-jacksonville-jaguars-8xj9RnHD/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "ATL",
+        "score_1": 14,
+        "score_2": 24,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-arizona-cardinals-QLfjFIRj/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "PIT",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/pittsburgh-steelers-atlanta-falcons-tUfx81KN/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "MIA",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/miami-dolphins-atlanta-falcons-reWV0S6t/"
+    },
+    {
+        "date": "05/Feb",
+        "team_1": "ATL",
+        "score_1": 28,
+        "score_2": 34,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-new-england-patriots-Sl5CwNtF/"
+    },
+    {
+        "date": "22/Jan",
+        "team_1": "ATL",
+        "score_1": 44,
+        "score_2": 21,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-green-bay-packers-WI7aFnlc/"
+    },
+    {
+        "date": "14/Jan",
+        "team_1": "ATL",
+        "score_1": 36,
+        "score_2": 20,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-seattle-seahawks-QFwg88A7/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "ATL",
+        "score_1": 38,
+        "score_2": 32,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-new-orleans-saints-KbWHjpIL/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "CAR",
+        "score_1": 16,
+        "score_2": 33,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/carolina-panthers-atlanta-falcons-hAJLct8i/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "ATL",
+        "score_1": 41,
+        "score_2": 13,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-san-francisco-49ers-S6zbr184/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "LAR",
+        "score_1": 14,
+        "score_2": 42,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-atlanta-falcons-fshcQSnJ/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "ATL",
+        "score_1": 28,
+        "score_2": 29,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-kansas-city-chiefs-Mg1lBdsF/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "ATL",
+        "score_1": 38,
+        "score_2": 19,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-arizona-cardinals-8OxmgOLT/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "PHI",
+        "score_1": 24,
+        "score_2": 15,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/philadelphia-eagles-atlanta-falcons-UZ6wujoD/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "TB",
+        "score_1": 28,
+        "score_2": 43,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/tampa-bay-buccaneers-atlanta-falcons-nBLajPmc/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "ATL",
+        "score_1": 33,
+        "score_2": 32,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-green-bay-packers-MBhwGrCp/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "ATL",
+        "score_1": 30,
+        "score_2": 33,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-los-angeles-chargers-YoKkPnkb/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "SEA",
+        "score_1": 26,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/seattle-seahawks-atlanta-falcons-vDzg6YrJ/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "DEN",
+        "score_1": 16,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-atlanta-falcons-bJ8N4L7E/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "ATL",
+        "score_1": 48,
+        "score_2": 33,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-carolina-panthers-rNWgtoPd/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "NO",
+        "score_1": 32,
+        "score_2": 45,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/new-orleans-saints-atlanta-falcons-0CKL7jqp/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "LV",
+        "score_1": 28,
+        "score_2": 35,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/las-vegas-raiders-atlanta-falcons-EZ8XbM0C/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "ATL",
+        "score_1": 24,
+        "score_2": 31,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-tampa-bay-buccaneers-nHEOkZUR/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 15,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-jacksonville-jaguars-IqaSPoB5/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "MIA",
+        "score_1": 17,
+        "score_2": 6,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/miami-dolphins-atlanta-falcons-fsnxFUdm/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "CLE",
+        "score_1": 13,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/cleveland-browns-atlanta-falcons-l83e60EF/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2016-2017/atlanta-falcons-washington-commanders-2Xx2dPpi/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-new-orleans-saints-UD3weLB6/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-carolina-panthers-jooIkQZQ/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "JAX",
+        "score_1": 17,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/jacksonville-jaguars-atlanta-falcons-UJOnH5T1/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "CAR",
+        "score_1": 38,
+        "score_2": 0,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/carolina-panthers-atlanta-falcons-84v5TKGu/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "TB",
+        "score_1": 23,
+        "score_2": 19,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/tampa-bay-buccaneers-atlanta-falcons-hYRXUCzm/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-minnesota-vikings-00WqBIqE/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "ATL",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-indianapolis-colts-6Laze6gG/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "SF",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/san-francisco-49ers-atlanta-falcons-OMgMU9uB/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-tampa-bay-buccaneers-02VeIujl/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "TEN",
+        "score_1": 7,
+        "score_2": 10,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-atlanta-falcons-MerU3tye/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "NO",
+        "score_1": 31,
+        "score_2": 21,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/new-orleans-saints-atlanta-falcons-6w7P77MM/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "ATL",
+        "score_1": 25,
+        "score_2": 19,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-washington-commanders-QkYyBIWn/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "ATL",
+        "score_1": 48,
+        "score_2": 21,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-houston-texans-vgjytbXC/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "DAL",
+        "score_1": 28,
+        "score_2": 39,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/dallas-cowboys-atlanta-falcons-OrLwX2lr/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "NYG",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/new-york-giants-atlanta-falcons-INHVxYK3/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "ATL",
+        "score_1": 26,
+        "score_2": 24,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-philadelphia-eagles-r53mQfyb/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 19,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-baltimore-ravens-0CEXbcL1/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "MIA",
+        "score_1": 13,
+        "score_2": 9,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/miami-dolphins-atlanta-falcons-jD5om0Mk/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "NYJ",
+        "score_1": 30,
+        "score_2": 22,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2015-2016/new-york-jets-atlanta-falcons-v3oYM38p/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-tennessee-titans-IR9ISYv6/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "ATL",
+        "score_1": 3,
+        "score_2": 34,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-carolina-panthers-nyymLwtc/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "NO",
+        "score_1": 14,
+        "score_2": 30,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/new-orleans-saints-atlanta-falcons-drUX57zg/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-pittsburgh-steelers-IN1Xx966/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "GB",
+        "score_1": 43,
+        "score_2": 37,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/green-bay-packers-atlanta-falcons-lrAGti7s/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "ATL",
+        "score_1": 29,
+        "score_2": 18,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-arizona-cardinals-pUmXWtvG/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "ATL",
+        "score_1": 24,
+        "score_2": 26,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-cleveland-browns-SfOf6GEU/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "CAR",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/carolina-panthers-atlanta-falcons-W2uNDtGt/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "TB",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/tampa-bay-buccaneers-atlanta-falcons-EgVTe8fe/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "ATL",
+        "score_1": 21,
+        "score_2": 22,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-detroit-lions-O2olvqTh/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "BAL",
+        "score_1": 29,
+        "score_2": 7,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/baltimore-ravens-atlanta-falcons-OrN6R5qm/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "ATL",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-chicago-bears-MuKaGKJl/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "NYG",
+        "score_1": 30,
+        "score_2": 20,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/new-york-giants-atlanta-falcons-UoeM21kk/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "MIN",
+        "score_1": 41,
+        "score_2": 28,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-atlanta-falcons-Ma478WLA/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "ATL",
+        "score_1": 56,
+        "score_2": 14,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-tampa-bay-buccaneers-WzJPSf8I/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "CIN",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/cincinnati-bengals-atlanta-falcons-YHUXUPXl/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "ATL",
+        "score_1": 37,
+        "score_2": 34,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-new-orleans-saints-CYCS27ld/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "JAX",
+        "score_1": 14,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/jacksonville-jaguars-atlanta-falcons-CpJo2zbo/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-tennessee-titans-U5woLfmQ/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "HOU",
+        "score_1": 32,
+        "score_2": 7,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/houston-texans-atlanta-falcons-2wAOpEBD/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "ATL",
+        "score_1": 16,
+        "score_2": 10,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2014-2015/atlanta-falcons-miami-dolphins-2aJeMwTe/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 21,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-carolina-panthers-2FyeyTf9/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "SF",
+        "score_1": 34,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/san-francisco-49ers-atlanta-falcons-Ms1MMTuG/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "ATL",
+        "score_1": 27,
+        "score_2": 26,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-washington-commanders-KKe3EpWb/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "GB",
+        "score_1": 22,
+        "score_2": 21,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/green-bay-packers-atlanta-falcons-dIrD3THt/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "BUF",
+        "score_1": 31,
+        "score_2": 34,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-atlanta-falcons-jq0WfaZ8/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "ATL",
+        "score_1": 13,
+        "score_2": 17,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-new-orleans-saints-r13mQmUH/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "TB",
+        "score_1": 41,
+        "score_2": 28,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/tampa-bay-buccaneers-atlanta-falcons-Q3HHCUaI/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 33,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-seattle-seahawks-rLaR1Do0/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "CAR",
+        "score_1": 34,
+        "score_2": 10,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/carolina-panthers-atlanta-falcons-Q1OCjSL1/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "ARI",
+        "score_1": 27,
+        "score_2": 13,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/arizona-cardinals-atlanta-falcons-SnrWCIx4/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 23,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-tampa-bay-buccaneers-8OnOqK8H/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "ATL",
+        "score_1": 28,
+        "score_2": 30,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-new-york-jets-joNLuEBE/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-new-england-patriots-OEJu8Zkq/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "MIA",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/miami-dolphins-atlanta-falcons-WnB4owqT/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-los-angeles-rams-IcUUeW0J/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "NO",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/new-orleans-saints-atlanta-falcons-82VAhFvL/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "ATL",
+        "score_1": 16,
+        "score_2": 20,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-jacksonville-jaguars-6NvpDnLB/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 16,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/tennessee-titans-atlanta-falcons-OvNg2V6g/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "BAL",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2013-2014/baltimore-ravens-atlanta-falcons-MJbEYand/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 34,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-cincinnati-bengals-SY8fqdqH/"
+    },
+    {
+        "date": "20/Jan",
+        "team_1": "ATL",
+        "score_1": 24,
+        "score_2": 28,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-san-francisco-49ers-ldanetdt/"
+    },
+    {
+        "date": "13/Jan",
+        "team_1": "ATL",
+        "score_1": 30,
+        "score_2": 28,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-seattle-seahawks-KWy6NYwT/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 22,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-tampa-bay-buccaneers-nsnKjPc6/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "DET",
+        "score_1": 18,
+        "score_2": 31,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-atlanta-falcons-U9BCA4Wl/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "ATL",
+        "score_1": 34,
+        "score_2": 0,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-new-york-giants-8I3n6ku3/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "CAR",
+        "score_1": 30,
+        "score_2": 20,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/carolina-panthers-atlanta-falcons-fkh67vKu/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 13,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-new-orleans-saints-pnVxcWqa/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "TB",
+        "score_1": 23,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/tampa-bay-buccaneers-atlanta-falcons-82X5fwO0/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 19,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-arizona-cardinals-QuXIzqXR/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "NO",
+        "score_1": 31,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/new-orleans-saints-atlanta-falcons-KvGQoRPM/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "ATL",
+        "score_1": 19,
+        "score_2": 13,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-dallas-cowboys-K0NKSoJp/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "PHI",
+        "score_1": 17,
+        "score_2": 30,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/philadelphia-eagles-atlanta-falcons-6ZpTturQ/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-las-vegas-raiders-QNFrSaAq/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "WSH",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/washington-commanders-atlanta-falcons-WQLesxFf/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "ATL",
+        "score_1": 30,
+        "score_2": 28,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-carolina-panthers-bw7vILoq/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "LAC",
+        "score_1": 3,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/los-angeles-chargers-atlanta-falcons-zcckvC2o/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "ATL",
+        "score_1": 27,
+        "score_2": 21,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-denver-broncos-U9HCgHSp/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "KC",
+        "score_1": 24,
+        "score_2": 40,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/kansas-city-chiefs-atlanta-falcons-MgsEHYNk/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "JAX",
+        "score_1": 24,
+        "score_2": 14,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/jacksonville-jaguars-atlanta-falcons-xCSRR80f/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "MIA",
+        "score_1": 6,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2012-2013/miami-dolphins-atlanta-falcons-n3N7ztmc/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "ATL",
+        "score_1": 19,
+        "score_2": 24,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-cincinnati-bengals-Msi0ntso/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "ATL",
+        "score_1": 17,
+        "score_2": 31,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2012-2013/atlanta-falcons-baltimore-ravens-S4Bjt5KB/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "NYG",
+        "score_1": 24,
+        "score_2": 2,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/new-york-giants-atlanta-falcons-2w9oE0nn/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "ATL",
+        "score_1": 45,
+        "score_2": 24,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-tampa-bay-buccaneers-ADXmTkYR/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "NO",
+        "score_1": 45,
+        "score_2": 16,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/new-orleans-saints-atlanta-falcons-Ee3ZP10j/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "ATL",
+        "score_1": 41,
+        "score_2": 14,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-jacksonville-jaguars-jL2W5zJ6/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "CAR",
+        "score_1": 23,
+        "score_2": 31,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/carolina-panthers-atlanta-falcons-02bPfJ4l/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "HOU",
+        "score_1": 17,
+        "score_2": 10,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/houston-texans-atlanta-falcons-QkPeu7Ej/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "ATL",
+        "score_1": 24,
+        "score_2": 14,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-minnesota-vikings-8KBUYViH/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-tennessee-titans-K8UBOfOh/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 26,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-new-orleans-saints-6gYhVPfE/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "IND",
+        "score_1": 7,
+        "score_2": 31,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/indianapolis-colts-atlanta-falcons-AkcAKKF9/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 23,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-atlanta-falcons-pl9bhVu6/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-carolina-panthers-E14DPCdD/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "ATL",
+        "score_1": 14,
+        "score_2": 25,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-green-bay-packers-A97dTfcl/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "SEA",
+        "score_1": 28,
+        "score_2": 30,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/seattle-seahawks-atlanta-falcons-xpyJDOip/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "TB",
+        "score_1": 16,
+        "score_2": 13,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/tampa-bay-buccaneers-atlanta-falcons-M1vn9TF4/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "ATL",
+        "score_1": 35,
+        "score_2": 31,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-philadelphia-eagles-AV6AJPCP/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "CHI",
+        "score_1": 30,
+        "score_2": 12,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/chicago-bears-atlanta-falcons-jV1sqCp2/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "ATL",
+        "score_1": 7,
+        "score_2": 21,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-baltimore-ravens-W4HXFRnn/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "PIT",
+        "score_1": 34,
+        "score_2": 16,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/pittsburgh-steelers-atlanta-falcons-bop9VxuL/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "JAX",
+        "score_1": 15,
+        "score_2": 13,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2011-2012/jacksonville-jaguars-atlanta-falcons-GvM3wH8M/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 28,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-miami-dolphins-OEWTe052/"
+    },
+    {
+        "date": "15/Jan",
+        "team_1": "ATL",
+        "score_1": 21,
+        "score_2": 48,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-green-bay-packers-d8GDSpGd/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 10,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-carolina-panthers-YRbf3Hij/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "ATL",
+        "score_1": 14,
+        "score_2": 17,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-new-orleans-saints-j39k4cxp/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "SEA",
+        "score_1": 18,
+        "score_2": 34,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/seattle-seahawks-atlanta-falcons-j7wldTgC/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "CAR",
+        "score_1": 10,
+        "score_2": 31,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/carolina-panthers-atlanta-falcons-Eam8vyJK/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "TB",
+        "score_1": 24,
+        "score_2": 28,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/tampa-bay-buccaneers-atlanta-falcons-YJIMupD3/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-green-bay-packers-2VQ4CcIU/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 34,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-atlanta-falcons-pUtyJsZn/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "ATL",
+        "score_1": 26,
+        "score_2": 21,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-baltimore-ravens-pWFHjhaq/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "ATL",
+        "score_1": 27,
+        "score_2": 21,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-tampa-bay-buccaneers-KAmspHxA/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "ATL",
+        "score_1": 39,
+        "score_2": 32,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-cincinnati-bengals-tMNJI7m0/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "PHI",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/philadelphia-eagles-atlanta-falcons-CGbW4lJ0/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "CLE",
+        "score_1": 10,
+        "score_2": 20,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/cleveland-browns-atlanta-falcons-txppGQ0F/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "ATL",
+        "score_1": 16,
+        "score_2": 14,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-san-francisco-49ers-QDkF2zt5/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "NO",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/new-orleans-saints-atlanta-falcons-dAZGkcda/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "ATL",
+        "score_1": 41,
+        "score_2": 7,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-arizona-cardinals-zLYgrkqF/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "PIT",
+        "score_1": 15,
+        "score_2": 9,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/pittsburgh-steelers-atlanta-falcons-fcgDVVEF/"
+    },
+    {
+        "date": "02/Sep",
+        "team_1": "JAX",
+        "score_1": 13,
+        "score_2": 9,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/jacksonville-jaguars-atlanta-falcons-0OFYkUN9/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "MIA",
+        "score_1": 6,
+        "score_2": 16,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/miami-dolphins-atlanta-falcons-4UNKv3DH/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 28,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-new-england-patriots-CGSYOW7D/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 10,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2010-2011/atlanta-falcons-kansas-city-chiefs-AqnzEFge/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "TB",
+        "score_1": 10,
+        "score_2": 20,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/tampa-bay-buccaneers-atlanta-falcons-6VsFnF5K/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 3,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-buffalo-bills-lM5EnOa3/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "NYJ",
+        "score_1": 7,
+        "score_2": 10,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-atlanta-falcons-MclwO7Wi/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "ATL",
+        "score_1": 23,
+        "score_2": 26,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-new-orleans-saints-GCagvokg/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "ATL",
+        "score_1": 7,
+        "score_2": 34,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-philadelphia-eagles-0xgsCnL6/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-tampa-bay-buccaneers-bTzLspAb/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "NYG",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/new-york-giants-atlanta-falcons-44MdFhUr/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "CAR",
+        "score_1": 28,
+        "score_2": 19,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/carolina-panthers-atlanta-falcons-COIhKiXC/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-washington-commanders-0nzKedGb/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "NO",
+        "score_1": 35,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/new-orleans-saints-atlanta-falcons-61vnES2a/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "DAL",
+        "score_1": 37,
+        "score_2": 21,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/dallas-cowboys-atlanta-falcons-pSDTrtYm/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "ATL",
+        "score_1": 21,
+        "score_2": 14,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-chicago-bears-t6JO83Mc/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "SF",
+        "score_1": 10,
+        "score_2": 45,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/san-francisco-49ers-atlanta-falcons-Gd9ivZ2K/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "NE",
+        "score_1": 26,
+        "score_2": 10,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/new-england-patriots-atlanta-falcons-YRvCDwDL/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "ATL",
+        "score_1": 28,
+        "score_2": 20,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-carolina-panthers-WMY2tJ8e/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "ATL",
+        "score_1": 19,
+        "score_2": 7,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-miami-dolphins-8livcGKT/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "ATL",
+        "score_1": 3,
+        "score_2": 20,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-baltimore-ravens-lMwy36q7/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "ATL",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2009-2010/atlanta-falcons-los-angeles-chargers-W0u0xWYI/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-atlanta-falcons-WCLQjTYR/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "DET",
+        "score_1": 27,
+        "score_2": 26,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-atlanta-falcons-n1DuiEuc/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "ARI",
+        "score_1": 30,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2008-2009/arizona-cardinals-atlanta-falcons-pWviJ1Su/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 27,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-los-angeles-rams-QmBAdCUl/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "MIN",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-atlanta-falcons-h0ttDpa3/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "ATL",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-tampa-bay-buccaneers-YklHNeMu/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "NO",
+        "score_1": 29,
+        "score_2": 25,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2008-2009/new-orleans-saints-atlanta-falcons-8SxmtvaT/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "LAC",
+        "score_1": 16,
+        "score_2": 22,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2008-2009/los-angeles-chargers-atlanta-falcons-joFx0lTs/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "ATL",
+        "score_1": 45,
+        "score_2": 28,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-carolina-panthers-bogygYW8/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "ATL",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-denver-broncos-4EMT0vFt/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "ATL",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-new-orleans-saints-4jSGr2pE/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "LV",
+        "score_1": 0,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2008-2009/las-vegas-raiders-atlanta-falcons-QHAIC5P4/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "PHI",
+        "score_1": 27,
+        "score_2": 14,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2008-2009/philadelphia-eagles-atlanta-falcons-j7OCwF6c/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "ATL",
+        "score_1": 22,
+        "score_2": 20,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-chicago-bears-xIaA6o6A/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "GB",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2008-2009/green-bay-packers-atlanta-falcons-QwQjNV3k/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "CAR",
+        "score_1": 24,
+        "score_2": 9,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2008-2009/carolina-panthers-atlanta-falcons-n108xxE4/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "ATL",
+        "score_1": 38,
+        "score_2": 14,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-kansas-city-chiefs-OfheouK0/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "TB",
+        "score_1": 24,
+        "score_2": 9,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2008-2009/tampa-bay-buccaneers-atlanta-falcons-vRpFC2eb/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "ATL",
+        "score_1": 34,
+        "score_2": 21,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-detroit-lions-0ftPipR6/"
+    }
+]

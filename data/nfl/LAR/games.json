@@ -1,0 +1,2626 @@
+[
+    {
+        "date": "29/Sep",
+        "team_1": "CHI",
+        "score_1": 24,
+        "score_2": 18,
+        "team_2": "LAR",
+        "game_url": "usa/nfl/chicago-bears-los-angeles-rams-Ik6IV9RE/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "LAR",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "SF",
+        "game_url": "usa/nfl/los-angeles-rams-san-francisco-49ers-pj78na7U/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "ARI",
+        "score_1": 41,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl/arizona-cardinals-los-angeles-rams-vXbaPD3k/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "DET",
+        "score_1": 26,
+        "score_2": 20,
+        "team_2": "LAR",
+        "game_url": "usa/nfl/detroit-lions-los-angeles-rams-8l2e91Di/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "HOU",
+        "score_1": 17,
+        "score_2": 15,
+        "team_2": "LAR",
+        "game_url": "usa/nfl/houston-texans-los-angeles-rams-pQNoVUlT/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "LAC",
+        "score_1": 9,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl/los-angeles-chargers-los-angeles-rams-OfktS4xK/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 12,
+        "team_2": "DAL",
+        "game_url": "usa/nfl/los-angeles-rams-dallas-cowboys-CIUOdbLk/"
+    },
+    {
+        "date": "14/Jan",
+        "team_1": "DET",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-los-angeles-rams-vN1XhUxK/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "SF",
+        "score_1": 20,
+        "score_2": 21,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/san-francisco-49ers-los-angeles-rams-xjk2EUQk/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "NYG",
+        "score_1": 25,
+        "score_2": 26,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/new-york-giants-los-angeles-rams-vyNG6tTB/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "LAR",
+        "score_1": 30,
+        "score_2": 22,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2023-2024/los-angeles-rams-new-orleans-saints-WUJjqnVm/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "LAR",
+        "score_1": 28,
+        "score_2": 20,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2023-2024/los-angeles-rams-washington-commanders-b3tAW8or/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "BAL",
+        "score_1": 37,
+        "score_2": 31,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/baltimore-ravens-los-angeles-rams-2FwPMbIG/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "LAR",
+        "score_1": 36,
+        "score_2": 19,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2023-2024/los-angeles-rams-cleveland-browns-fqm4RM3o/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "ARI",
+        "score_1": 14,
+        "score_2": 37,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/arizona-cardinals-los-angeles-rams-URO7crk5/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2023-2024/los-angeles-rams-seattle-seahawks-4dPJ2I9m/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "GB",
+        "score_1": 20,
+        "score_2": 3,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/green-bay-packers-los-angeles-rams-SOsRRVsN/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "DAL",
+        "score_1": 43,
+        "score_2": 20,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/dallas-cowboys-los-angeles-rams-hYkGDuNC/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2023-2024/los-angeles-rams-pittsburgh-steelers-WfJKO5VD/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "LAR",
+        "score_1": 26,
+        "score_2": 9,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2023-2024/los-angeles-rams-arizona-cardinals-UVGfmq97/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "LAR",
+        "score_1": 14,
+        "score_2": 23,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2023-2024/los-angeles-rams-philadelphia-eagles-UZfuezBG/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "IND",
+        "score_1": 23,
+        "score_2": 29,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/indianapolis-colts-los-angeles-rams-MaIIjw4O/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "CIN",
+        "score_1": 19,
+        "score_2": 16,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/cincinnati-bengals-los-angeles-rams-ryEkcNKt/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "LAR",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2023-2024/los-angeles-rams-san-francisco-49ers-pMo4kZM2/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "SEA",
+        "score_1": 13,
+        "score_2": 30,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/seattle-seahawks-los-angeles-rams-IeVzFhoj/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "DEN",
+        "score_1": 41,
+        "score_2": 0,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-los-angeles-rams-QcUYNLJA/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 34,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2023-2024/los-angeles-rams-las-vegas-raiders-pQXUgs5U/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 34,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2023-2024/los-angeles-rams-los-angeles-chargers-2NHpdCU0/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "SEA",
+        "score_1": 19,
+        "score_2": 16,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2022-2023/seattle-seahawks-los-angeles-rams-ri8LQKti/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "LAC",
+        "score_1": 31,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2022-2023/los-angeles-chargers-los-angeles-rams-ziY5bSNA/"
+    },
+    {
+        "date": "25/Dec",
+        "team_1": "LAR",
+        "score_1": 51,
+        "score_2": 14,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-denver-broncos-Y1z0W9vI/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "GB",
+        "score_1": 24,
+        "score_2": 12,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2022-2023/green-bay-packers-los-angeles-rams-Ii52NEem/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-las-vegas-raiders-6JSpdu1J/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "LAR",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-seattle-seahawks-SSeXaunl/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "KC",
+        "score_1": 26,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2022-2023/kansas-city-chiefs-los-angeles-rams-nodFg4PE/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "NO",
+        "score_1": 27,
+        "score_2": 20,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2022-2023/new-orleans-saints-los-angeles-rams-Cf44uE44/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-arizona-cardinals-QwtNSzLb/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "TB",
+        "score_1": 16,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2022-2023/tampa-bay-buccaneers-los-angeles-rams-GQDXHJ6t/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "LAR",
+        "score_1": 14,
+        "score_2": 31,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-san-francisco-49ers-Wt4vma76/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "LAR",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-carolina-panthers-vmPxw3Mp/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 22,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-dallas-cowboys-O0rXVoFH/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "SF",
+        "score_1": 24,
+        "score_2": 9,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2022-2023/san-francisco-49ers-los-angeles-rams-WKfyZdPs/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "ARI",
+        "score_1": 12,
+        "score_2": 20,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2022-2023/arizona-cardinals-los-angeles-rams-Uyh0C0IR/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "LAR",
+        "score_1": 31,
+        "score_2": 27,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-atlanta-falcons-4duCtrSq/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 31,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-buffalo-bills-04AobeuR/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "CIN",
+        "score_1": 16,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2022-2023/cincinnati-bengals-los-angeles-rams-r5ikWyb2/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2022-2023/los-angeles-rams-houston-texans-MHaQ6LUj/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "LAC",
+        "score_1": 22,
+        "score_2": 29,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2022-2023/los-angeles-chargers-los-angeles-rams-t0utSV0a/"
+    },
+    {
+        "date": "13/Feb",
+        "team_1": "CIN",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/cincinnati-bengals-los-angeles-rams-OnP3ahP5/"
+    },
+    {
+        "date": "30/Jan",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-san-francisco-49ers-Szr6UPTo/"
+    },
+    {
+        "date": "23/Jan",
+        "team_1": "TB",
+        "score_1": 27,
+        "score_2": 30,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/tampa-bay-buccaneers-los-angeles-rams-j1is1ngq/"
+    },
+    {
+        "date": "17/Jan",
+        "team_1": "LAR",
+        "score_1": 34,
+        "score_2": 11,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-arizona-cardinals-pGpNbnrD/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "LAR",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-san-francisco-49ers-hWf9S1u6/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "BAL",
+        "score_1": 19,
+        "score_2": 20,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/baltimore-ravens-los-angeles-rams-Wnw40qdD/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-los-angeles-rams-Is86ecEG/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 10,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-seattle-seahawks-KnxxtIET/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "ARI",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/arizona-cardinals-los-angeles-rams-AJBnSuNU/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "LAR",
+        "score_1": 37,
+        "score_2": 7,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-jacksonville-jaguars-KjlxMnfs/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "GB",
+        "score_1": 36,
+        "score_2": 28,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/green-bay-packers-los-angeles-rams-O4br4EYe/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "SF",
+        "score_1": 31,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/san-francisco-49ers-los-angeles-rams-fFNxWTMC/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "LAR",
+        "score_1": 16,
+        "score_2": 28,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-tennessee-titans-KYUBREVQ/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "HOU",
+        "score_1": 22,
+        "score_2": 38,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/houston-texans-los-angeles-rams-8xC09fho/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "LAR",
+        "score_1": 28,
+        "score_2": 19,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-detroit-lions-lEM1L0ot/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "NYG",
+        "score_1": 11,
+        "score_2": 38,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/new-york-giants-los-angeles-rams-zkLifOns/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "SEA",
+        "score_1": 17,
+        "score_2": 26,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/seattle-seahawks-los-angeles-rams-S287pEJF/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 37,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-arizona-cardinals-QwO8PCsj/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "LAR",
+        "score_1": 34,
+        "score_2": 24,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-tampa-bay-buccaneers-xvqeKH5A/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "IND",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/indianapolis-colts-los-angeles-rams-YJkkFVND/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "LAR",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-chicago-bears-pQaUFscR/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "DEN",
+        "score_1": 17,
+        "score_2": 12,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/denver-broncos-los-angeles-rams-EsuI1mgt/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "LAR",
+        "score_1": 16,
+        "score_2": 17,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-las-vegas-raiders-redF4G9K/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "LAR",
+        "score_1": 6,
+        "score_2": 13,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2021-2022/los-angeles-rams-los-angeles-chargers-0xzul97q/"
+    },
+    {
+        "date": "16/Jan",
+        "team_1": "GB",
+        "score_1": 32,
+        "score_2": 18,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2020-2021/green-bay-packers-los-angeles-rams-vN76s3hL/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "SEA",
+        "score_1": 20,
+        "score_2": 30,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2020-2021/seattle-seahawks-los-angeles-rams-QmkInpvk/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "LAR",
+        "score_1": 18,
+        "score_2": 7,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2020-2021/los-angeles-rams-arizona-cardinals-xtzzWVkD/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "SEA",
+        "score_1": 20,
+        "score_2": 9,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2020-2021/seattle-seahawks-los-angeles-rams-GrucUIE8/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2020-2021/los-angeles-rams-new-york-jets-GATREIcO/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "LAR",
+        "score_1": 24,
+        "score_2": 3,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2020-2021/los-angeles-rams-new-england-patriots-OEqngpVm/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "ARI",
+        "score_1": 28,
+        "score_2": 38,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2020-2021/arizona-cardinals-los-angeles-rams-6JERkBOe/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2020-2021/los-angeles-rams-san-francisco-49ers-Wr59qz2M/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "TB",
+        "score_1": 24,
+        "score_2": 27,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2020-2021/tampa-bay-buccaneers-los-angeles-rams-WIgFZbYc/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "LAR",
+        "score_1": 23,
+        "score_2": 16,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2020-2021/los-angeles-rams-seattle-seahawks-IsjDJnr0/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "MIA",
+        "score_1": 28,
+        "score_2": 17,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2020-2021/miami-dolphins-los-angeles-rams-tvQGcp4q/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "LAR",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2020-2021/los-angeles-rams-chicago-bears-2m5sqokj/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "SF",
+        "score_1": 24,
+        "score_2": 16,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2020-2021/san-francisco-49ers-los-angeles-rams-4CLFiIyg/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "WSH",
+        "score_1": 10,
+        "score_2": 30,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2020-2021/washington-commanders-los-angeles-rams-bu2bS18s/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 9,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2020-2021/los-angeles-rams-new-york-giants-x4QrYWv3/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "BUF",
+        "score_1": 35,
+        "score_2": 32,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2020-2021/buffalo-bills-los-angeles-rams-pWteFzJH/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "PHI",
+        "score_1": 19,
+        "score_2": 37,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2020-2021/philadelphia-eagles-los-angeles-rams-fsSC2cZB/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2020-2021/los-angeles-rams-dallas-cowboys-4zOP3nEl/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "LAR",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-arizona-cardinals-t6fGPO0b/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "SF",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/san-francisco-49ers-los-angeles-rams-69ZsbIjJ/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "DAL",
+        "score_1": 44,
+        "score_2": 21,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/dallas-cowboys-los-angeles-rams-nopqAOqE/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "LAR",
+        "score_1": 28,
+        "score_2": 12,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-seattle-seahawks-I7RxgW8M/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "ARI",
+        "score_1": 7,
+        "score_2": 34,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/arizona-cardinals-los-angeles-rams-hWdQSZfH/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "LAR",
+        "score_1": 6,
+        "score_2": 45,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-baltimore-ravens-pnVzIIta/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 7,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-chicago-bears-Uepx1Q57/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "PIT",
+        "score_1": 17,
+        "score_2": 12,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/pittsburgh-steelers-los-angeles-rams-M7jEC2mM/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "LAR",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-cincinnati-bengals-KtJjWgqJ/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 37,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/atlanta-falcons-los-angeles-rams-OfcdMIFf/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "LAR",
+        "score_1": 7,
+        "score_2": 20,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-san-francisco-49ers-r17IALGr/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "SEA",
+        "score_1": 30,
+        "score_2": 29,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/seattle-seahawks-los-angeles-rams-xOlI4glh/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "LAR",
+        "score_1": 40,
+        "score_2": 55,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-tampa-bay-buccaneers-6s5blY3B/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "CLE",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/cleveland-browns-los-angeles-rams-6Jl20ds0/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "LAR",
+        "score_1": 27,
+        "score_2": 9,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-new-orleans-saints-4EEpn6Mk/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "CAR",
+        "score_1": 27,
+        "score_2": 30,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/carolina-panthers-los-angeles-rams-j7SyXZGo/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "HOU",
+        "score_1": 10,
+        "score_2": 22,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/houston-texans-los-angeles-rams-fkI5kXoI/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 6,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-denver-broncos-zP9TH2SG/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2019-2020/los-angeles-rams-dallas-cowboys-YoKgihqQ/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "LV",
+        "score_1": 14,
+        "score_2": 3,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2019-2020/las-vegas-raiders-los-angeles-rams-hCC6jfgC/"
+    },
+    {
+        "date": "03/Feb",
+        "team_1": "LAR",
+        "score_1": 3,
+        "score_2": 13,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-new-england-patriots-fZcVtzul/"
+    },
+    {
+        "date": "20/Jan",
+        "team_1": "NO",
+        "score_1": 23,
+        "score_2": 26,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/new-orleans-saints-los-angeles-rams-xbJPfwCI/"
+    },
+    {
+        "date": "12/Jan",
+        "team_1": "LAR",
+        "score_1": 30,
+        "score_2": 22,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-dallas-cowboys-0OQKAZqg/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "LAR",
+        "score_1": 48,
+        "score_2": 32,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-san-francisco-49ers-IPEKK4uK/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "ARI",
+        "score_1": 9,
+        "score_2": 31,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/arizona-cardinals-los-angeles-rams-vZahP79i/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "LAR",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-philadelphia-eagles-KU6dg7PN/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "CHI",
+        "score_1": 15,
+        "score_2": 6,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/chicago-bears-los-angeles-rams-YwhuUjdC/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 30,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-los-angeles-rams-xW49w4T8/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "LAR",
+        "score_1": 54,
+        "score_2": 51,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-kansas-city-chiefs-0ANVdnVM/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "LAR",
+        "score_1": 36,
+        "score_2": 31,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-seattle-seahawks-6TRA5JHP/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "NO",
+        "score_1": 45,
+        "score_2": 35,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/new-orleans-saints-los-angeles-rams-KbQzmjp1/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "LAR",
+        "score_1": 29,
+        "score_2": 27,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-green-bay-packers-StNEse8L/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "SF",
+        "score_1": 10,
+        "score_2": 39,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/san-francisco-49ers-los-angeles-rams-KxgRp6Io/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "DEN",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-los-angeles-rams-nPCIH7la/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "SEA",
+        "score_1": 31,
+        "score_2": 33,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/seattle-seahawks-los-angeles-rams-M7lMmTZI/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "LAR",
+        "score_1": 38,
+        "score_2": 31,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-minnesota-vikings-K2xDqNxG/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "LAR",
+        "score_1": 35,
+        "score_2": 23,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-los-angeles-chargers-nkKFvDZj/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "LAR",
+        "score_1": 34,
+        "score_2": 0,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-arizona-cardinals-SAtgyvTb/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "LV",
+        "score_1": 13,
+        "score_2": 33,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/las-vegas-raiders-los-angeles-rams-6Z4ws9aK/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "NO",
+        "score_1": 28,
+        "score_2": 0,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/new-orleans-saints-los-angeles-rams-rVrrv3Xl/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "LAR",
+        "score_1": 21,
+        "score_2": 20,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-houston-texans-MHasNAdc/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "LAR",
+        "score_1": 19,
+        "score_2": 15,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-las-vegas-raiders-UNz49iSc/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "BAL",
+        "score_1": 33,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2018-2019/baltimore-ravens-los-angeles-rams-CrYDHf3K/"
+    },
+    {
+        "date": "06/Jan",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 26,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-atlanta-falcons-t4gkK0Q9/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 34,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-san-francisco-49ers-QekvR0Ob/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "TEN",
+        "score_1": 23,
+        "score_2": 27,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/tennessee-titans-los-angeles-rams-vJwjIWuR/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "SEA",
+        "score_1": 7,
+        "score_2": 42,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/seattle-seahawks-los-angeles-rams-EeStifsS/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "LAR",
+        "score_1": 35,
+        "score_2": 43,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-philadelphia-eagles-Aq3vquqi/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "ARI",
+        "score_1": 16,
+        "score_2": 32,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/arizona-cardinals-los-angeles-rams-vwbzrvs0/"
+    },
+    {
+        "date": "26/Nov",
+        "team_1": "LAR",
+        "score_1": 26,
+        "score_2": 20,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-new-orleans-saints-S4XRG1r1/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-los-angeles-rams-IgpdQEFc/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "LAR",
+        "score_1": 33,
+        "score_2": 7,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-houston-texans-IX8LDyWi/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "NYG",
+        "score_1": 17,
+        "score_2": 51,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/new-york-giants-los-angeles-rams-b9DDpw25/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "LAR",
+        "score_1": 33,
+        "score_2": 0,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-arizona-cardinals-KQnQITCe/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "JAX",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/jacksonville-jaguars-los-angeles-rams-YontNNnp/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 16,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-seattle-seahawks-MXBRHSA4/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "DAL",
+        "score_1": 30,
+        "score_2": 35,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/dallas-cowboys-los-angeles-rams-pO205bLs/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "SF",
+        "score_1": 39,
+        "score_2": 41,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/san-francisco-49ers-los-angeles-rams-zFdHpOqF/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-washington-commanders-E9BMOtNe/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "LAR",
+        "score_1": 46,
+        "score_2": 9,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-indianapolis-colts-WpQrzGPu/"
+    },
+    {
+        "date": "31/Aug",
+        "team_1": "GB",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/green-bay-packers-los-angeles-rams-8YsGlJI9/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "LAR",
+        "score_1": 19,
+        "score_2": 21,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-los-angeles-chargers-hSnxwMJc/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "LV",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/las-vegas-raiders-los-angeles-rams-KE6T9NkB/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 10,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2017-2018/los-angeles-rams-dallas-cowboys-p0WV4y8E/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "LAR",
+        "score_1": 6,
+        "score_2": 44,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-arizona-cardinals-rsVZdLve/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "LAR",
+        "score_1": 21,
+        "score_2": 22,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-san-francisco-49ers-YsAGnGaj/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "SEA",
+        "score_1": 24,
+        "score_2": 3,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/seattle-seahawks-los-angeles-rams-hWWAqjms/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "LAR",
+        "score_1": 14,
+        "score_2": 42,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-atlanta-falcons-fshcQSnJ/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "NE",
+        "score_1": 26,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/new-england-patriots-los-angeles-rams-f1ly2h41/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "NO",
+        "score_1": 49,
+        "score_2": 21,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/new-orleans-saints-los-angeles-rams-pA3H83LG/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-miami-dolphins-xKlF0lNu/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "NYJ",
+        "score_1": 6,
+        "score_2": 9,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/new-york-jets-los-angeles-rams-M97ZuWV6/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 13,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-carolina-panthers-QP2jtuQk/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-new-york-giants-bipDBTKb/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "DET",
+        "score_1": 31,
+        "score_2": 28,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-los-angeles-rams-tdw1IvxE/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "LAR",
+        "score_1": 19,
+        "score_2": 30,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-buffalo-bills-fo2W2axR/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "ARI",
+        "score_1": 13,
+        "score_2": 17,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/arizona-cardinals-los-angeles-rams-xp8kVKGe/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "TB",
+        "score_1": 32,
+        "score_2": 37,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/tampa-bay-buccaneers-los-angeles-rams-UNtwGEy4/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "LAR",
+        "score_1": 9,
+        "score_2": 3,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-seattle-seahawks-695P0rWa/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "SF",
+        "score_1": 28,
+        "score_2": 0,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/san-francisco-49ers-los-angeles-rams-CMGVsull/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 25,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-los-angeles-rams-WnP1voQb/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "DEN",
+        "score_1": 17,
+        "score_2": 9,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/denver-broncos-los-angeles-rams-pIaGcTRC/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "LAR",
+        "score_1": 21,
+        "score_2": 20,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-kansas-city-chiefs-OOOdoaxj/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "LAR",
+        "score_1": 28,
+        "score_2": 24,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2016-2017/los-angeles-rams-dallas-cowboys-4vrQjLES/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "SF",
+        "score_1": 19,
+        "score_2": 16,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/san-francisco-49ers-los-angeles-rams-p4lxCDnb/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "SEA",
+        "score_1": 17,
+        "score_2": 23,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/seattle-seahawks-los-angeles-rams-pQ1RcNRm/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "LAR",
+        "score_1": 31,
+        "score_2": 23,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-tampa-bay-buccaneers-xMq8OmyS/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "LAR",
+        "score_1": 21,
+        "score_2": 14,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-detroit-lions-dho64Sqd/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "LAR",
+        "score_1": 3,
+        "score_2": 27,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-arizona-cardinals-A9xTVhLt/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "CIN",
+        "score_1": 31,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/cincinnati-bengals-los-angeles-rams-viVmAxaK/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "BAL",
+        "score_1": 16,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/baltimore-ravens-los-angeles-rams-pCbvfQ8M/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 37,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-chicago-bears-Kl90rT9A/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "MIN",
+        "score_1": 21,
+        "score_2": 18,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-los-angeles-rams-Gj31ZXQu/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "LAR",
+        "score_1": 27,
+        "score_2": 6,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-san-francisco-49ers-zJSSKYBn/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "LAR",
+        "score_1": 24,
+        "score_2": 6,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-cleveland-browns-r5qQ4MLl/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "GB",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/green-bay-packers-los-angeles-rams-C6zl8GG5/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "ARI",
+        "score_1": 22,
+        "score_2": 24,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/arizona-cardinals-los-angeles-rams-KCBAfcn6/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "LAR",
+        "score_1": 6,
+        "score_2": 12,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-pittsburgh-steelers-j9VcSv3D/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "WSH",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/washington-commanders-los-angeles-rams-QmLwyCkG/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "LAR",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-seattle-seahawks-2XSEBeM4/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-kansas-city-chiefs-QVc060pP/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "LAR",
+        "score_1": 14,
+        "score_2": 24,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2015-2016/los-angeles-rams-indianapolis-colts-UNvg6uTR/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "TEN",
+        "score_1": 27,
+        "score_2": 14,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-los-angeles-rams-jDTgcppc/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "LV",
+        "score_1": 18,
+        "score_2": 3,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/las-vegas-raiders-los-angeles-rams-IPExYTGo/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "SEA",
+        "score_1": 20,
+        "score_2": 6,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2014-2015/seattle-seahawks-los-angeles-rams-fFJTXGP2/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "LAR",
+        "score_1": 27,
+        "score_2": 37,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-new-york-giants-zZl7K6kn/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "LAR",
+        "score_1": 6,
+        "score_2": 12,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-arizona-cardinals-W6aLuBMm/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "WSH",
+        "score_1": 0,
+        "score_2": 24,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2014-2015/washington-commanders-los-angeles-rams-CdqnRB7f/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "LAR",
+        "score_1": 52,
+        "score_2": 0,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-las-vegas-raiders-4fE7YYcN/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "LAC",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2014-2015/los-angeles-chargers-los-angeles-rams-Uy0PLeEH/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "LAR",
+        "score_1": 22,
+        "score_2": 7,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-denver-broncos-nL8A8ov1/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "ARI",
+        "score_1": 31,
+        "score_2": 14,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2014-2015/arizona-cardinals-los-angeles-rams-86RJIV18/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "SF",
+        "score_1": 10,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2014-2015/san-francisco-49ers-los-angeles-rams-SYUFlimS/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "KC",
+        "score_1": 34,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-los-angeles-rams-hrw5z1SH/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "LAR",
+        "score_1": 28,
+        "score_2": 26,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-seattle-seahawks-hOAJO3T5/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 31,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-san-francisco-49ers-xn1yCQq0/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "PHI",
+        "score_1": 34,
+        "score_2": 28,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2014-2015/philadelphia-eagles-los-angeles-rams-zPeI3szq/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "LAR",
+        "score_1": 31,
+        "score_2": 34,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-dallas-cowboys-Sd1soxOn/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "TB",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2014-2015/tampa-bay-buccaneers-los-angeles-rams-6TXaYbvs/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "LAR",
+        "score_1": 6,
+        "score_2": 34,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-minnesota-vikings-SteFQAt3/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "MIA",
+        "score_1": 14,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2014-2015/miami-dolphins-los-angeles-rams-pbHg0ESc/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "CLE",
+        "score_1": 14,
+        "score_2": 33,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2014-2015/cleveland-browns-los-angeles-rams-4S7UCWf6/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "LAR",
+        "score_1": 7,
+        "score_2": 21,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-green-bay-packers-MNE3kxcr/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "LAR",
+        "score_1": 24,
+        "score_2": 26,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-new-orleans-saints-Srbfsu5L/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "SEA",
+        "score_1": 27,
+        "score_2": 9,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/seattle-seahawks-los-angeles-rams-4nplEdgD/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "LAR",
+        "score_1": 23,
+        "score_2": 13,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-tampa-bay-buccaneers-EHyq9ABG/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "LAR",
+        "score_1": 27,
+        "score_2": 16,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-new-orleans-saints-8tSpd3GU/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "ARI",
+        "score_1": 30,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/arizona-cardinals-los-angeles-rams-4pwcche7/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "SF",
+        "score_1": 23,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/san-francisco-49ers-los-angeles-rams-KI4zfJlF/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "LAR",
+        "score_1": 42,
+        "score_2": 21,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-chicago-bears-ljS6Vr6c/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "IND",
+        "score_1": 8,
+        "score_2": 38,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/indianapolis-colts-los-angeles-rams-QLAm9egQ/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "LAR",
+        "score_1": 21,
+        "score_2": 28,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-tennessee-titans-rwgcbvu8/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "LAR",
+        "score_1": 9,
+        "score_2": 14,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-seattle-seahawks-zDovBd7G/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "CAR",
+        "score_1": 30,
+        "score_2": 15,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/carolina-panthers-los-angeles-rams-6eQhUv9U/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "HOU",
+        "score_1": 13,
+        "score_2": 38,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/houston-texans-los-angeles-rams-v9vbMPAg/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "LAR",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-jacksonville-jaguars-K6niQYBR/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "LAR",
+        "score_1": 11,
+        "score_2": 35,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-san-francisco-49ers-jirV1bT9/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "DAL",
+        "score_1": 31,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/dallas-cowboys-los-angeles-rams-AXMemaEG/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/atlanta-falcons-los-angeles-rams-IcUUeW0J/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "LAR",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-arizona-cardinals-00AkoXWf/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "LAR",
+        "score_1": 24,
+        "score_2": 21,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-baltimore-ravens-dh76Umjn/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "DEN",
+        "score_1": 27,
+        "score_2": 26,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/denver-broncos-los-angeles-rams-2VLc1kMa/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "LAR",
+        "score_1": 7,
+        "score_2": 19,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2013-2014/los-angeles-rams-green-bay-packers-8jklowW1/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "CLE",
+        "score_1": 27,
+        "score_2": 19,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2013-2014/cleveland-browns-los-angeles-rams-EV4jpxUA/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "SEA",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/seattle-seahawks-los-angeles-rams-M1DFlqQD/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "TB",
+        "score_1": 13,
+        "score_2": 28,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/tampa-bay-buccaneers-los-angeles-rams-jZlr6qtd/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "LAR",
+        "score_1": 22,
+        "score_2": 36,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-minnesota-vikings-dhF227vS/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "BUF",
+        "score_1": 12,
+        "score_2": 15,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/buffalo-bills-los-angeles-rams-G4Kqjwk5/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "LAR",
+        "score_1": 16,
+        "score_2": 13,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-san-francisco-49ers-bo50fXOg/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "ARI",
+        "score_1": 17,
+        "score_2": 31,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/arizona-cardinals-los-angeles-rams-IXEdH0VD/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-new-york-jets-tEYkT0P1/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "SF",
+        "score_1": 24,
+        "score_2": 24,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/san-francisco-49ers-los-angeles-rams-Mmz2vRX2/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "LAR",
+        "score_1": 7,
+        "score_2": 45,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-new-england-patriots-OGAozzQH/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 30,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-green-bay-packers-fNwdPIBa/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "MIA",
+        "score_1": 17,
+        "score_2": 14,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/miami-dolphins-los-angeles-rams-Mk9iQwud/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 3,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-arizona-cardinals-d4iCk07E/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "LAR",
+        "score_1": 19,
+        "score_2": 13,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-seattle-seahawks-pWnZw382/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "CHI",
+        "score_1": 23,
+        "score_2": 6,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/chicago-bears-los-angeles-rams-rkaaHKKi/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "LAR",
+        "score_1": 31,
+        "score_2": 28,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-washington-commanders-O8YT1uL4/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "DET",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-los-angeles-rams-CMtHTaYs/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "LAR",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-baltimore-ravens-KCkbQGtm/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "DAL",
+        "score_1": 20,
+        "score_2": 19,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/dallas-cowboys-los-angeles-rams-tpccCT07/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "LAR",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-kansas-city-chiefs-bT1v0aBp/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "IND",
+        "score_1": 38,
+        "score_2": 3,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2012-2013/indianapolis-colts-los-angeles-rams-QB5Ui2JN/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "LAR",
+        "score_1": 27,
+        "score_2": 34,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-san-francisco-49ers-nggvVB3F/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "PIT",
+        "score_1": 27,
+        "score_2": 0,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2011-2012/pittsburgh-steelers-los-angeles-rams-llpUTUGU/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-cincinnati-bengals-t4U1LFIg/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "SEA",
+        "score_1": 30,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2011-2012/seattle-seahawks-los-angeles-rams-CU3S6G30/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "SF",
+        "score_1": 26,
+        "score_2": 0,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2011-2012/san-francisco-49ers-los-angeles-rams-fgufhpbd/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-arizona-cardinals-UZawX9MT/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "LAR",
+        "score_1": 7,
+        "score_2": 24,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-seattle-seahawks-dh6RMYh5/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "CLE",
+        "score_1": 12,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2011-2012/cleveland-browns-los-angeles-rams-hdHCWHEL/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "ARI",
+        "score_1": 19,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2011-2012/arizona-cardinals-los-angeles-rams-4jJ0CdNk/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "LAR",
+        "score_1": 31,
+        "score_2": 21,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-new-orleans-saints-jTUz48PB/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "DAL",
+        "score_1": 34,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2011-2012/dallas-cowboys-los-angeles-rams-W4BAkTPO/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "GB",
+        "score_1": 24,
+        "score_2": 3,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2011-2012/green-bay-packers-los-angeles-rams-0b09Qhs7/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-washington-commanders-l00uNnp4/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "LAR",
+        "score_1": 7,
+        "score_2": 37,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-baltimore-ravens-hMnVCBGu/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "NYG",
+        "score_1": 28,
+        "score_2": 16,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2011-2012/new-york-giants-los-angeles-rams-nibxFqLt/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 31,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-philadelphia-eagles-bXM2jfhS/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "JAX",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2011-2012/jacksonville-jaguars-los-angeles-rams-QuWzFo2h/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "KC",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-los-angeles-rams-tOxBdDt7/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-tennessee-titans-Q5JM5HJK/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "LAR",
+        "score_1": 33,
+        "score_2": 10,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2011-2012/los-angeles-rams-indianapolis-colts-KtQxfvzF/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "SEA",
+        "score_1": 16,
+        "score_2": 6,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/seattle-seahawks-los-angeles-rams-KATfxxbF/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "LAR",
+        "score_1": 25,
+        "score_2": 17,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-san-francisco-49ers-nN2fD1Fc/"
+    },
+    {
+        "date": "19/Dec",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-kansas-city-chiefs-0YCTbV9g/"
+    },
+    {
+        "date": "12/Dec",
+        "team_1": "NO",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/new-orleans-saints-los-angeles-rams-8850UjeD/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "ARI",
+        "score_1": 6,
+        "score_2": 19,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/arizona-cardinals-los-angeles-rams-WWkhLeCr/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "DEN",
+        "score_1": 33,
+        "score_2": 36,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/denver-broncos-los-angeles-rams-KvPQLzeo/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 34,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-atlanta-falcons-pUtyJsZn/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "SF",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/san-francisco-49ers-los-angeles-rams-vypJ2kbe/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 10,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-carolina-panthers-pEl4UywN/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "TB",
+        "score_1": 18,
+        "score_2": 17,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/tampa-bay-buccaneers-los-angeles-rams-rZHdYnmm/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 17,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-los-angeles-chargers-YVnu3SmD/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "DET",
+        "score_1": 44,
+        "score_2": 6,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-los-angeles-rams-KSrlFpGL/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 3,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-seattle-seahawks-G24yIeQo/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "LAR",
+        "score_1": 30,
+        "score_2": 16,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-washington-commanders-4KftnFeO/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "LV",
+        "score_1": 16,
+        "score_2": 14,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/las-vegas-raiders-los-angeles-rams-tjLAvtrs/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 17,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-arizona-cardinals-rsUjM7Me/"
+    },
+    {
+        "date": "02/Sep",
+        "team_1": "LAR",
+        "score_1": 27,
+        "score_2": 21,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-baltimore-ravens-fVWgmS7S/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "NE",
+        "score_1": 35,
+        "score_2": 36,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/new-england-patriots-los-angeles-rams-hnd4tPr5/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "CLE",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2010-2011/cleveland-browns-los-angeles-rams-UZa5Toaa/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "LAR",
+        "score_1": 7,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-minnesota-vikings-WdesZGVK/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "LAR",
+        "score_1": 6,
+        "score_2": 28,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-san-francisco-49ers-GKwCQXr1/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "ARI",
+        "score_1": 31,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/arizona-cardinals-los-angeles-rams-WpeJorF9/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 16,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-houston-texans-zN3rL5GA/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "TEN",
+        "score_1": 47,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/tennessee-titans-los-angeles-rams-GhwkVXHd/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "CHI",
+        "score_1": 17,
+        "score_2": 9,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/chicago-bears-los-angeles-rams-d4njAQkJ/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 27,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-seattle-seahawks-Iy2uurfH/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "LAR",
+        "score_1": 23,
+        "score_2": 28,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-new-orleans-saints-W03POFIs/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "DET",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-los-angeles-rams-G0awjFQH/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "LAR",
+        "score_1": 6,
+        "score_2": 42,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-indianapolis-colts-CYa6Rv3D/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "JAX",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/jacksonville-jaguars-los-angeles-rams-4jJLd6No/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 38,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-minnesota-vikings-roEFQZmR/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "SF",
+        "score_1": 35,
+        "score_2": 0,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/san-francisco-49ers-los-angeles-rams-8I67SFp5/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 36,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-green-bay-packers-tKM4Far9/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "WSH",
+        "score_1": 9,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/washington-commanders-los-angeles-rams-Kj1wvRll/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "SEA",
+        "score_1": 28,
+        "score_2": 0,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/seattle-seahawks-los-angeles-rams-8Mv55DCj/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "LAR",
+        "score_1": 17,
+        "score_2": 9,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-kansas-city-chiefs-rgnNIoqf/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "CIN",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/cincinnati-bengals-los-angeles-rams-pMA4eQ9K/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-atlanta-falcons-WCLQjTYR/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "NYJ",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2009-2010/new-york-jets-los-angeles-rams-bLGEYWPS/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "ATL",
+        "score_1": 31,
+        "score_2": 27,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2008-2009/atlanta-falcons-los-angeles-rams-QmBAdCUl/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "LAR",
+        "score_1": 16,
+        "score_2": 17,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2008-2009/los-angeles-rams-san-francisco-49ers-GSEq8BhB/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "LAR",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2008-2009/los-angeles-rams-seattle-seahawks-n7eJHVKT/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "ARI",
+        "score_1": 34,
+        "score_2": 10,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2008-2009/arizona-cardinals-los-angeles-rams-juIncJbG/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "LAR",
+        "score_1": 12,
+        "score_2": 16,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2008-2009/los-angeles-rams-miami-dolphins-6el1JxU2/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "LAR",
+        "score_1": 3,
+        "score_2": 27,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2008-2009/los-angeles-rams-chicago-bears-67lYWjAk/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "SF",
+        "score_1": 35,
+        "score_2": 16,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2008-2009/san-francisco-49ers-los-angeles-rams-bgo1EyEh/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "NYJ",
+        "score_1": 47,
+        "score_2": 3,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2008-2009/new-york-jets-los-angeles-rams-EJIxzIM6/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "LAR",
+        "score_1": 13,
+        "score_2": 34,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2008-2009/los-angeles-rams-arizona-cardinals-G6PUBSua/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "NE",
+        "score_1": 23,
+        "score_2": 16,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2008-2009/new-england-patriots-los-angeles-rams-hjJDGiap/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "LAR",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2008-2009/los-angeles-rams-dallas-cowboys-IkWVpPFJ/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "WSH",
+        "score_1": 17,
+        "score_2": 19,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2008-2009/washington-commanders-los-angeles-rams-UwNHNQ5c/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "LAR",
+        "score_1": 14,
+        "score_2": 31,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2008-2009/los-angeles-rams-buffalo-bills-n1GOOHVE/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "SEA",
+        "score_1": 37,
+        "score_2": 13,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2008-2009/seattle-seahawks-los-angeles-rams-dSIeDI36/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "PHI",
+        "score_1": 38,
+        "score_2": 3,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2008-2009/philadelphia-eagles-los-angeles-rams-WKDHcaIh/"
+    }
+]

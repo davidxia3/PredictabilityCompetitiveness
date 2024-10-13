@@ -19,7 +19,7 @@ month_abbreviation_to_month = {
 }
 
 # input arguments from run_automated_scraper.py
-team = sys.argv[1] if len(sys.argv) > 1 else "bears"  
+team = sys.argv[1] if len(sys.argv) > 1 else "CHI"  
 league = sys.argv[2] if len(sys.argv) > 2 else "nfl"   
 start_index = int(sys.argv[3]) if len(sys.argv) > 3 else 0
 
@@ -51,11 +51,9 @@ fails = 0
 while i < min(len(games), end_index):
     print("scraping " + team + " " + str(i))
 
-    # 
     game = games[i]
     game_url = game["game_url"]
-    team_1 = game["team_1"]
-    team_2 = game["team_2"]
+
 
     try:
         # retrieve game webpage
@@ -80,8 +78,8 @@ while i < min(len(games), end_index):
         # creating dictionary for the game and adding it to the json list
         game_data = {
             "date": f"{day} {month} {year}",
-            "team_1": game["team_1"].lower(),
-            "team_2": game["team_2"].lower(),
+            "team_1": game["team_1"],
+            "team_2": game["team_2"],
             "score_1": game["score_1"],
             "score_2": game["score_2"],
             "result": 1 if int(game["score_1"]) > int(game["score_2"]) else 0,

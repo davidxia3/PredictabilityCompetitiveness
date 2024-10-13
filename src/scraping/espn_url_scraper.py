@@ -7,65 +7,72 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 from webdriver_manager.chrome import ChromeDriverManager
+import re
+import os
 
 chrome_options = Options()
 chrome_options.add_argument("--headless=new")
+
 service = ChromeService(executable_path=ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-google_url = "https://www.google.com/"
-league = "nfl"
+def list_subfolders(folder_path):
+    subfolders = [name for name in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, name))]
+    return subfolders
 
-def valid(value):
-    return value.isdigit() and len(value) == 9
+league = "nba"
+teams = list_subfolders(f'data/{league}/')
+print(teams)
+
+seasons = list(range(2009, 2025))
+
+game_to_id_map = {}
+
+def get_id(s):
+    pattern = r'\b\d{9}\b'
+    
+    match = re.search(pattern, s)
+    
+    if match:
+        return match.group(0)
+    else:
+        return "000000000"
 
 
+for i in range(len(teams)):
+    team = teams[i]
+    file = files[i]
 
-with open(f'data/master/{league}_market.csv', mode='r') as file:
-    csv_reader = csv.DictReader(file)
+    for season in seasons:
 
-    with open(f'data/master/{league}_market_with_espn_id.csv', mode='w', newline='') as new_file:
-        fieldnames = csv_reader.fieldnames + ['espn_id']
-        csv_writer = csv.DictWriter(new_file, fieldnames=fieldnames)
+        for j in range(1,4):
 
-        csv_writer.writeheader()
+            base_url = f'https://www.espn.com/{league}/team/schedule/_/name/{team}/season/{season}/seasontype/{j}'
 
-        for row in csv_reader:
-            google_search = row["team_1"] + " " + row["team_2"] + " " + row["date"] + " espn"
-            retries = 3
-            espn_id = ""
+            driver.get(base_url)
 
-            for attempt in range(retries):
-                try:
-                    driver.get(google_url)
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "Table__TBODY"))
+            )
+            table = driver.find_element(By.CLASS_NAME, "Table__TBODY")
 
-                    search_box = WebDriverWait(driver, 10).until(
-                        EC.presence_of_element_located((By.NAME, "q"))
-                    )
-                    search_box.send_keys(google_search)
-                    search_box.submit()
+            rows = table.find_elements(By.TAG_NAME, "tr")
 
-                    time.sleep(1)
-                    
-                    first_result = driver.find_elements(By.CLASS_NAME, "yuRUbf")[0]
-                    first_link = first_result.find_elements(By.TAG_NAME, "a")[0]
-                    espn_id = first_link.get_attribute('href').split("gameId")[1][1:10]
-                    if not valid(espn_id):
-                        print("not valid " + google_search)
-                    # espn_id = first_link.get_attribute("href").split("gameId/")[1].split("/")[0]
-                    break 
+            game_type = rows[0].text.lower()
 
-                except Exception as e:
-                    print(f"Attempt {attempt+1} failed for {google_search}")
-                    print(e)
-                    time.sleep(1) 
+            for row in rows:
+                time.sleep(0.5)
+                if len(row.find_elements(By.TAG_NAME, "td")) < 3:
+                    continue
+                if row.find_elements(By.TAG_NAME, "td")[0].text == "DATE":
+                    continue
+                score = row.find_elements(By.TAG_NAME, "td")[2]
+                link = score.find_element(By.TAG_NAME, "a").get_attribute("href")
+                
+                
 
-            if not espn_id:
-                print(f"No ESPN ID found for {google_search} after {retries} attempts")
+                id = get_id(link)
 
-            row['espn_id'] = espn_id if espn_id else None
-            csv_writer.writerow(row)
 
-            time.sleep(1)
+            
 
-driver.quit()

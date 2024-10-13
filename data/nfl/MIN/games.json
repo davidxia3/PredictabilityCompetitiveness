@@ -1,0 +1,2642 @@
+[
+    {
+        "date": "29/Sep",
+        "team_1": "GB",
+        "score_1": 29,
+        "score_2": 31,
+        "team_2": "MIN",
+        "game_url": "usa/nfl/green-bay-packers-minnesota-vikings-v5fRTmdR/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 7,
+        "team_2": "HOU",
+        "game_url": "usa/nfl/minnesota-vikings-houston-texans-4h9ybY9E/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 17,
+        "team_2": "SF",
+        "game_url": "usa/nfl/minnesota-vikings-san-francisco-49ers-0tvQAEld/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "NYG",
+        "score_1": 6,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl/new-york-giants-minnesota-vikings-xrJMNuBm/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "PHI",
+        "score_1": 3,
+        "score_2": 26,
+        "team_2": "MIN",
+        "game_url": "usa/nfl/philadelphia-eagles-minnesota-vikings-4A4IP8Cj/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "CLE",
+        "score_1": 12,
+        "score_2": 27,
+        "team_2": "MIN",
+        "game_url": "usa/nfl/cleveland-browns-minnesota-vikings-tC1E7FZ7/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "LV",
+        "game_url": "usa/nfl/minnesota-vikings-las-vegas-raiders-voz06Bhn/"
+    },
+    {
+        "date": "07/Jan",
+        "team_1": "DET",
+        "score_1": 30,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/detroit-lions-minnesota-vikings-Kh3W0Bdj/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "MIN",
+        "score_1": 10,
+        "score_2": 33,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-green-bay-packers-YeVrAFZ3/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 30,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-detroit-lions-vgGn37MJ/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "CIN",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/cincinnati-bengals-minnesota-vikings-vXvCjUxE/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "LV",
+        "score_1": 0,
+        "score_2": 3,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/las-vegas-raiders-minnesota-vikings-KjAkwK2c/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "MIN",
+        "score_1": 10,
+        "score_2": 12,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-chicago-bears-zTiUEqKu/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "DEN",
+        "score_1": 21,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/denver-broncos-minnesota-vikings-bJON1xPg/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 19,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-new-orleans-saints-CU0rY64d/"
+    },
+    {
+        "date": "05/Nov",
+        "team_1": "ATL",
+        "score_1": 28,
+        "score_2": 31,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/atlanta-falcons-minnesota-vikings-xzkEUXc4/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "GB",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/green-bay-packers-minnesota-vikings-jJ8JCaxJ/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "MIN",
+        "score_1": 22,
+        "score_2": 17,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-san-francisco-49ers-2qc3Gswf/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "CHI",
+        "score_1": 13,
+        "score_2": 19,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/chicago-bears-minnesota-vikings-Of37b9H8/"
+    },
+    {
+        "date": "08/Oct",
+        "team_1": "MIN",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-kansas-city-chiefs-zZMCxSfk/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "CAR",
+        "score_1": 13,
+        "score_2": 21,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/carolina-panthers-minnesota-vikings-YP62fL4a/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 28,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-los-angeles-chargers-vsWNrO5m/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "PHI",
+        "score_1": 34,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/philadelphia-eagles-minnesota-vikings-rZMMxdwc/"
+    },
+    {
+        "date": "10/Sep",
+        "team_1": "MIN",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-tampa-bay-buccaneers-dIbuQIgi/"
+    },
+    {
+        "date": "26/Aug",
+        "team_1": "MIN",
+        "score_1": 17,
+        "score_2": 18,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-arizona-cardinals-WGSIR3Ko/"
+    },
+    {
+        "date": "19/Aug",
+        "team_1": "MIN",
+        "score_1": 16,
+        "score_2": 24,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2023-2024/minnesota-vikings-tennessee-titans-GptEcP55/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "SEA",
+        "score_1": 24,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2023-2024/seattle-seahawks-minnesota-vikings-WbDHFcRj/"
+    },
+    {
+        "date": "15/Jan",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 31,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-new-york-giants-nqPkMmo6/"
+    },
+    {
+        "date": "08/Jan",
+        "team_1": "CHI",
+        "score_1": 13,
+        "score_2": 29,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/chicago-bears-minnesota-vikings-t0XRABVN/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "GB",
+        "score_1": 41,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/green-bay-packers-minnesota-vikings-hSr1a884/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-new-york-giants-M3l9tf2P/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "MIN",
+        "score_1": 39,
+        "score_2": 36,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-indianapolis-colts-EZM7FZGh/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "DET",
+        "score_1": 34,
+        "score_2": 23,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/detroit-lions-minnesota-vikings-rFlHlcgg/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 22,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-new-york-jets-ELFd6s9K/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "MIN",
+        "score_1": 33,
+        "score_2": 26,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-new-england-patriots-QHSXtRu9/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "MIN",
+        "score_1": 3,
+        "score_2": 40,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-dallas-cowboys-v9KpLqJk/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "BUF",
+        "score_1": 30,
+        "score_2": 33,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/buffalo-bills-minnesota-vikings-p65lEy65/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "WSH",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/washington-commanders-minnesota-vikings-vTrNcGLO/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 26,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-arizona-cardinals-CKVj9kO8/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "MIA",
+        "score_1": 16,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/miami-dolphins-minnesota-vikings-x486poUA/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "MIN",
+        "score_1": 29,
+        "score_2": 22,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-chicago-bears-8QodUYwD/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "NO",
+        "score_1": 25,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/new-orleans-saints-minnesota-vikings-E3C0Iu6A/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "MIN",
+        "score_1": 28,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-detroit-lions-zJ8chuRe/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "PHI",
+        "score_1": 24,
+        "score_2": 7,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/philadelphia-eagles-minnesota-vikings-21jG2EGf/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 7,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-green-bay-packers-6PDghQ85/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "DEN",
+        "score_1": 23,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/denver-broncos-minnesota-vikings-hv1EW59r/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "MIN",
+        "score_1": 7,
+        "score_2": 17,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2022-2023/minnesota-vikings-san-francisco-49ers-QozQRM6G/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "LV",
+        "score_1": 26,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2022-2023/las-vegas-raiders-minnesota-vikings-f3qpRkG5/"
+    },
+    {
+        "date": "09/Jan",
+        "team_1": "MIN",
+        "score_1": 31,
+        "score_2": 17,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-chicago-bears-W0IxFrB6/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "GB",
+        "score_1": 37,
+        "score_2": 10,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/green-bay-packers-minnesota-vikings-neLjOnlK/"
+    },
+    {
+        "date": "26/Dec",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-los-angeles-rams-Is86ecEG/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "CHI",
+        "score_1": 9,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/chicago-bears-minnesota-vikings-ABHo0Lao/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "MIN",
+        "score_1": 36,
+        "score_2": 28,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-pittsburgh-steelers-OrogI4g6/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "DET",
+        "score_1": 29,
+        "score_2": 27,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/detroit-lions-minnesota-vikings-KWTCJgYr/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "SF",
+        "score_1": 34,
+        "score_2": 26,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/san-francisco-49ers-minnesota-vikings-2ecn3Ym2/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-green-bay-packers-Sfb521ci/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "LAC",
+        "score_1": 20,
+        "score_2": 27,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/los-angeles-chargers-minnesota-vikings-4KoHzh8s/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "BAL",
+        "score_1": 34,
+        "score_2": 31,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/baltimore-ravens-minnesota-vikings-hnL89F9r/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "MIN",
+        "score_1": 16,
+        "score_2": 20,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-dallas-cowboys-rDBq9ob2/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "CAR",
+        "score_1": 28,
+        "score_2": 34,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/carolina-panthers-minnesota-vikings-G4GCk01C/"
+    },
+    {
+        "date": "10/Oct",
+        "team_1": "MIN",
+        "score_1": 19,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-detroit-lions-M11GrhlS/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "MIN",
+        "score_1": 7,
+        "score_2": 14,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-cleveland-browns-2uJTYGK3/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "MIN",
+        "score_1": 30,
+        "score_2": 17,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-seattle-seahawks-K2ljLcj4/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "ARI",
+        "score_1": 34,
+        "score_2": 33,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/arizona-cardinals-minnesota-vikings-48TX67Vg/"
+    },
+    {
+        "date": "12/Sep",
+        "team_1": "CIN",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/cincinnati-bengals-minnesota-vikings-A7on34DL/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "KC",
+        "score_1": 28,
+        "score_2": 25,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2021-2022/kansas-city-chiefs-minnesota-vikings-ABP2eCW6/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "MIN",
+        "score_1": 10,
+        "score_2": 12,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-indianapolis-colts-WdSQcpy8/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "MIN",
+        "score_1": 6,
+        "score_2": 33,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2021-2022/minnesota-vikings-denver-broncos-Ugq9gVqM/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "DET",
+        "score_1": 35,
+        "score_2": 37,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2020-2021/detroit-lions-minnesota-vikings-jPBhJh67/"
+    },
+    {
+        "date": "25/Dec",
+        "team_1": "NO",
+        "score_1": 52,
+        "score_2": 33,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2020-2021/new-orleans-saints-minnesota-vikings-jPeUMFko/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 33,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-chicago-bears-WbctYubn/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "TB",
+        "score_1": 26,
+        "score_2": 14,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2020-2021/tampa-bay-buccaneers-minnesota-vikings-82JkD5MJ/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-jacksonville-jaguars-ELZncgWL/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "MIN",
+        "score_1": 28,
+        "score_2": 27,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-carolina-panthers-A9Ellbmi/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "MIN",
+        "score_1": 28,
+        "score_2": 31,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-dallas-cowboys-Ohj7yL3o/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "CHI",
+        "score_1": 13,
+        "score_2": 19,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2020-2021/chicago-bears-minnesota-vikings-jXsQGpSI/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 20,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-detroit-lions-lQ4a81I1/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "GB",
+        "score_1": 22,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2020-2021/green-bay-packers-minnesota-vikings-d6lp36tM/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 40,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-atlanta-falcons-CIdxva7g/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "SEA",
+        "score_1": 27,
+        "score_2": 26,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2020-2021/seattle-seahawks-minnesota-vikings-KSBMMcxJ/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "HOU",
+        "score_1": 23,
+        "score_2": 31,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2020-2021/houston-texans-minnesota-vikings-bDRvZCPd/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "MIN",
+        "score_1": 30,
+        "score_2": 31,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-tennessee-titans-Iqu3DEmU/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "IND",
+        "score_1": 28,
+        "score_2": 11,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2020-2021/indianapolis-colts-minnesota-vikings-4hZa5akg/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 43,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2020-2021/minnesota-vikings-green-bay-packers-nwxfjTqk/"
+    },
+    {
+        "date": "11/Jan",
+        "team_1": "SF",
+        "score_1": 27,
+        "score_2": 10,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/san-francisco-49ers-minnesota-vikings-x8pohV1f/"
+    },
+    {
+        "date": "05/Jan",
+        "team_1": "NO",
+        "score_1": 20,
+        "score_2": 26,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/new-orleans-saints-minnesota-vikings-6JhsxQFe/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "MIN",
+        "score_1": 19,
+        "score_2": 21,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-chicago-bears-fkh4SQGu/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "MIN",
+        "score_1": 10,
+        "score_2": 23,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-green-bay-packers-SvCEByLI/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "LAC",
+        "score_1": 10,
+        "score_2": 39,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/los-angeles-chargers-minnesota-vikings-Qyqm9raK/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "MIN",
+        "score_1": 20,
+        "score_2": 7,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-detroit-lions-EaQ7uDvN/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "SEA",
+        "score_1": 37,
+        "score_2": 30,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/seattle-seahawks-minnesota-vikings-vNVroHAo/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-denver-broncos-raClAUrL/"
+    },
+    {
+        "date": "10/Nov",
+        "team_1": "DAL",
+        "score_1": 24,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/dallas-cowboys-minnesota-vikings-zBfIBM2S/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "KC",
+        "score_1": 26,
+        "score_2": 23,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/kansas-city-chiefs-minnesota-vikings-v5EbahD5/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "MIN",
+        "score_1": 19,
+        "score_2": 9,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-washington-commanders-GlMZZypf/"
+    },
+    {
+        "date": "20/Oct",
+        "team_1": "DET",
+        "score_1": 30,
+        "score_2": 42,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/detroit-lions-minnesota-vikings-jsalOvor/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "MIN",
+        "score_1": 38,
+        "score_2": 20,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-philadelphia-eagles-4CmYVVni/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "NYG",
+        "score_1": 10,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/new-york-giants-minnesota-vikings-xxUjJh3o/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "CHI",
+        "score_1": 16,
+        "score_2": 6,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/chicago-bears-minnesota-vikings-QqLanCYN/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-las-vegas-raiders-IHvK05yq/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "GB",
+        "score_1": 21,
+        "score_2": 16,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/green-bay-packers-minnesota-vikings-CGZ5glUF/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "MIN",
+        "score_1": 28,
+        "score_2": 12,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-atlanta-falcons-QPKlUX04/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "BUF",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/buffalo-bills-minnesota-vikings-vNgCe7zC/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "MIN",
+        "score_1": 20,
+        "score_2": 9,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-arizona-cardinals-dWR2Ke7R/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "MIN",
+        "score_1": 25,
+        "score_2": 19,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2019-2020/minnesota-vikings-seattle-seahawks-UH5PoW6m/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "NO",
+        "score_1": 25,
+        "score_2": 34,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2019-2020/new-orleans-saints-minnesota-vikings-zHwfMHxF/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "MIN",
+        "score_1": 10,
+        "score_2": 24,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-chicago-bears-CSNUcsY6/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "DET",
+        "score_1": 9,
+        "score_2": 27,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/detroit-lions-minnesota-vikings-6oVw6p9T/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "MIN",
+        "score_1": 41,
+        "score_2": 17,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-miami-dolphins-zRxhd9u5/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "SEA",
+        "score_1": 21,
+        "score_2": 7,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/seattle-seahawks-minnesota-vikings-WYJ5pCtg/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "NE",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/new-england-patriots-minnesota-vikings-UTqlWLLr/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-green-bay-packers-QZPUR6Ud/"
+    },
+    {
+        "date": "18/Nov",
+        "team_1": "CHI",
+        "score_1": 25,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/chicago-bears-minnesota-vikings-M1TsbyAa/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 9,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-detroit-lions-fiTOkh0r/"
+    },
+    {
+        "date": "28/Oct",
+        "team_1": "MIN",
+        "score_1": 20,
+        "score_2": 30,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-new-orleans-saints-dGRItFNR/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "NYJ",
+        "score_1": 17,
+        "score_2": 37,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/new-york-jets-minnesota-vikings-6ZSiW63h/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-arizona-cardinals-fyyh1n4I/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "PHI",
+        "score_1": 21,
+        "score_2": 23,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/philadelphia-eagles-minnesota-vikings-E1y8BWRP/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "LAR",
+        "score_1": 38,
+        "score_2": 31,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/los-angeles-rams-minnesota-vikings-K2xDqNxG/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "MIN",
+        "score_1": 6,
+        "score_2": 27,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-buffalo-bills-OjFzlHC4/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "GB",
+        "score_1": 29,
+        "score_2": 29,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/green-bay-packers-minnesota-vikings-tfvsvtqt/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 16,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-san-francisco-49ers-KItdUVFE/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "TEN",
+        "score_1": 3,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/tennessee-titans-minnesota-vikings-UHJbnRP8/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "MIN",
+        "score_1": 21,
+        "score_2": 20,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-seattle-seahawks-IqgjLlR9/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "MIN",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2018-2019/minnesota-vikings-jacksonville-jaguars-nPUrLT9C/"
+    },
+    {
+        "date": "11/Aug",
+        "team_1": "DEN",
+        "score_1": 28,
+        "score_2": 42,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2018-2019/denver-broncos-minnesota-vikings-nqRMdgRf/"
+    },
+    {
+        "date": "21/Jan",
+        "team_1": "PHI",
+        "score_1": 38,
+        "score_2": 7,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/philadelphia-eagles-minnesota-vikings-GdQoSFR5/"
+    },
+    {
+        "date": "14/Jan",
+        "team_1": "MIN",
+        "score_1": 29,
+        "score_2": 24,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-new-orleans-saints-6mn9cp09/"
+    },
+    {
+        "date": "31/Dec",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 10,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-chicago-bears-pxU4C195/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "GB",
+        "score_1": 0,
+        "score_2": 16,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/green-bay-packers-minnesota-vikings-lY0v0XJr/"
+    },
+    {
+        "date": "17/Dec",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 7,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-cincinnati-bengals-A3VPfxr3/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "CAR",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/carolina-panthers-minnesota-vikings-nq7ar8ht/"
+    },
+    {
+        "date": "03/Dec",
+        "team_1": "ATL",
+        "score_1": 9,
+        "score_2": 14,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/atlanta-falcons-minnesota-vikings-S4gcWtrl/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "DET",
+        "score_1": 23,
+        "score_2": 30,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/detroit-lions-minnesota-vikings-xGIq4Obe/"
+    },
+    {
+        "date": "19/Nov",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 7,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-los-angeles-rams-IgpdQEFc/"
+    },
+    {
+        "date": "12/Nov",
+        "team_1": "WSH",
+        "score_1": 30,
+        "score_2": 38,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/washington-commanders-minnesota-vikings-vsAHEHGo/"
+    },
+    {
+        "date": "29/Oct",
+        "team_1": "CLE",
+        "score_1": 16,
+        "score_2": 33,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/cleveland-browns-minnesota-vikings-hhQ6V6d1/"
+    },
+    {
+        "date": "22/Oct",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 16,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-baltimore-ravens-CKZBtX42/"
+    },
+    {
+        "date": "15/Oct",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 10,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-green-bay-packers-UD3cVou4/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "CHI",
+        "score_1": 17,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/chicago-bears-minnesota-vikings-zBpzEpAT/"
+    },
+    {
+        "date": "01/Oct",
+        "team_1": "MIN",
+        "score_1": 7,
+        "score_2": 14,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-detroit-lions-6wi93xjf/"
+    },
+    {
+        "date": "24/Sep",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 17,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-tampa-bay-buccaneers-Q5j1zvM7/"
+    },
+    {
+        "date": "17/Sep",
+        "team_1": "PIT",
+        "score_1": 26,
+        "score_2": 9,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/pittsburgh-steelers-minnesota-vikings-hYexpig4/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "MIN",
+        "score_1": 29,
+        "score_2": 19,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-new-orleans-saints-Y9MaWXO4/"
+    },
+    {
+        "date": "31/Aug",
+        "team_1": "MIN",
+        "score_1": 9,
+        "score_2": 30,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-miami-dolphins-vcbhVUHl/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "MIN",
+        "score_1": 32,
+        "score_2": 31,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2017-2018/minnesota-vikings-san-francisco-49ers-rHukzK3G/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "SEA",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/seattle-seahawks-minnesota-vikings-6B2PA3z5/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "BUF",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2017-2018/buffalo-bills-minnesota-vikings-tWutrE01/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "MIN",
+        "score_1": 38,
+        "score_2": 10,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-chicago-bears-4jA0rMP1/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "GB",
+        "score_1": 38,
+        "score_2": 25,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/green-bay-packers-minnesota-vikings-SSBYfvhA/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "MIN",
+        "score_1": 6,
+        "score_2": 34,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-indianapolis-colts-tjYoo3Oo/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "JAX",
+        "score_1": 16,
+        "score_2": 25,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/jacksonville-jaguars-minnesota-vikings-SQK5zDAQ/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "MIN",
+        "score_1": 15,
+        "score_2": 17,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-dallas-cowboys-SW1pCxS8/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/detroit-lions-minnesota-vikings-IZqzdQyB/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "MIN",
+        "score_1": 30,
+        "score_2": 24,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-arizona-cardinals-bgJ4toxO/"
+    },
+    {
+        "date": "13/Nov",
+        "team_1": "WSH",
+        "score_1": 26,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/washington-commanders-minnesota-vikings-K4ovvhGP/"
+    },
+    {
+        "date": "06/Nov",
+        "team_1": "MIN",
+        "score_1": 16,
+        "score_2": 22,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-detroit-lions-fsCKo12S/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "CHI",
+        "score_1": 20,
+        "score_2": 10,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/chicago-bears-minnesota-vikings-nJFORuBd/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "PHI",
+        "score_1": 21,
+        "score_2": 10,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/philadelphia-eagles-minnesota-vikings-0K6rR8Ko/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "MIN",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-houston-texans-6PLysIF7/"
+    },
+    {
+        "date": "03/Oct",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-new-york-giants-Q5lpi2wF/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "CAR",
+        "score_1": 10,
+        "score_2": 22,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/carolina-panthers-minnesota-vikings-0pp2E10a/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "MIN",
+        "score_1": 17,
+        "score_2": 14,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-green-bay-packers-QDxjH3Gt/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "TEN",
+        "score_1": 16,
+        "score_2": 25,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/tennessee-titans-minnesota-vikings-I5h7sBx8/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 25,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-los-angeles-rams-WnP1voQb/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 10,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2016-2017/minnesota-vikings-los-angeles-chargers-pWvkCSt6/"
+    },
+    {
+        "date": "18/Aug",
+        "team_1": "SEA",
+        "score_1": 11,
+        "score_2": 18,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/seattle-seahawks-minnesota-vikings-2VRO7DkK/"
+    },
+    {
+        "date": "12/Aug",
+        "team_1": "CIN",
+        "score_1": 16,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2016-2017/cincinnati-bengals-minnesota-vikings-AHrMi1aM/"
+    },
+    {
+        "date": "10/Jan",
+        "team_1": "MIN",
+        "score_1": 9,
+        "score_2": 10,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-seattle-seahawks-hj5mJP4t/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "GB",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/green-bay-packers-minnesota-vikings-6c1AcEX4/"
+    },
+    {
+        "date": "27/Dec",
+        "team_1": "MIN",
+        "score_1": 49,
+        "score_2": 17,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-new-york-giants-xKv0s2s7/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "MIN",
+        "score_1": 38,
+        "score_2": 17,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-chicago-bears-UBUNuk62/"
+    },
+    {
+        "date": "10/Dec",
+        "team_1": "ARI",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/arizona-cardinals-minnesota-vikings-tEQ0OSJU/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "MIN",
+        "score_1": 7,
+        "score_2": 38,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-seattle-seahawks-tfbFCVKI/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "ATL",
+        "score_1": 10,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/atlanta-falcons-minnesota-vikings-00WqBIqE/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "MIN",
+        "score_1": 13,
+        "score_2": 30,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-green-bay-packers-x0z5Aog3/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "LV",
+        "score_1": 14,
+        "score_2": 30,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/las-vegas-raiders-minnesota-vikings-AZFXzo2p/"
+    },
+    {
+        "date": "08/Nov",
+        "team_1": "MIN",
+        "score_1": 21,
+        "score_2": 18,
+        "team_2": "LAR",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-los-angeles-rams-Gj31ZXQu/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "CHI",
+        "score_1": 20,
+        "score_2": 23,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/chicago-bears-minnesota-vikings-MHJ4GJK0/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "DET",
+        "score_1": 19,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/detroit-lions-minnesota-vikings-xjorDpE8/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "MIN",
+        "score_1": 16,
+        "score_2": 10,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-kansas-city-chiefs-CvznP8ic/"
+    },
+    {
+        "date": "04/Oct",
+        "team_1": "DEN",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/denver-broncos-minnesota-vikings-WnFEgH1C/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "MIN",
+        "score_1": 31,
+        "score_2": 14,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-los-angeles-chargers-W8OoVtJf/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "MIN",
+        "score_1": 26,
+        "score_2": 16,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-detroit-lions-OOOMvfji/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "SF",
+        "score_1": 20,
+        "score_2": 3,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/san-francisco-49ers-minnesota-vikings-Me2iPEj4/"
+    },
+    {
+        "date": "03/Sep",
+        "team_1": "TEN",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/tennessee-titans-minnesota-vikings-2ikS1Kht/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "DAL",
+        "score_1": 14,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2015-2016/dallas-cowboys-minnesota-vikings-vw2slt7q/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "MIN",
+        "score_1": 20,
+        "score_2": 12,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-las-vegas-raiders-WdABzNxp/"
+    },
+    {
+        "date": "15/Aug",
+        "team_1": "MIN",
+        "score_1": 26,
+        "score_2": 16,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-tampa-bay-buccaneers-hr7kVR04/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "MIN",
+        "score_1": 14,
+        "score_2": 3,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2015-2016/minnesota-vikings-pittsburgh-steelers-WGYmDguJ/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "MIN",
+        "score_1": 13,
+        "score_2": 9,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-chicago-bears-f1veJHA9/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "MIA",
+        "score_1": 37,
+        "score_2": 35,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/miami-dolphins-minnesota-vikings-IcIt4o55/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 14,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/detroit-lions-minnesota-vikings-EketymyJ/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "MIN",
+        "score_1": 30,
+        "score_2": 24,
+        "team_2": "NYJ",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-new-york-jets-GUkwTXxr/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "MIN",
+        "score_1": 31,
+        "score_2": 13,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-carolina-panthers-MVO2ZErH/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "MIN",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-green-bay-packers-0rg9PwFh/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "CHI",
+        "score_1": 21,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/chicago-bears-minnesota-vikings-8U969ROf/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "MIN",
+        "score_1": 29,
+        "score_2": 26,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-washington-commanders-W6y7jDIF/"
+    },
+    {
+        "date": "26/Oct",
+        "team_1": "TB",
+        "score_1": 13,
+        "score_2": 19,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/tampa-bay-buccaneers-minnesota-vikings-0nqLtxki/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "BUF",
+        "score_1": 17,
+        "score_2": 16,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/buffalo-bills-minnesota-vikings-Q7sWX76J/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "MIN",
+        "score_1": 3,
+        "score_2": 17,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-detroit-lions-ht4kLUMD/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "GB",
+        "score_1": 42,
+        "score_2": 10,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/green-bay-packers-minnesota-vikings-dIdK5U5T/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "MIN",
+        "score_1": 41,
+        "score_2": 28,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-atlanta-falcons-Ma478WLA/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "NO",
+        "score_1": 20,
+        "score_2": 9,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/new-orleans-saints-minnesota-vikings-42d6uYiO/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "MIN",
+        "score_1": 7,
+        "score_2": 30,
+        "team_2": "NE",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-new-england-patriots-MwBSj7f8/"
+    },
+    {
+        "date": "07/Sep",
+        "team_1": "LAR",
+        "score_1": 6,
+        "score_2": 34,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/los-angeles-rams-minnesota-vikings-SteFQAt3/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "TEN",
+        "score_1": 3,
+        "score_2": 19,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/tennessee-titans-minnesota-vikings-zmWyDiC3/"
+    },
+    {
+        "date": "23/Aug",
+        "team_1": "KC",
+        "score_1": 12,
+        "score_2": 30,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2014-2015/kansas-city-chiefs-minnesota-vikings-M3IPDCu0/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "MIN",
+        "score_1": 30,
+        "score_2": 28,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-arizona-cardinals-4rl79clE/"
+    },
+    {
+        "date": "08/Aug",
+        "team_1": "MIN",
+        "score_1": 10,
+        "score_2": 6,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2014-2015/minnesota-vikings-las-vegas-raiders-fVanq1z9/"
+    },
+    {
+        "date": "29/Dec",
+        "team_1": "MIN",
+        "score_1": 14,
+        "score_2": 13,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-detroit-lions-Eut1FoYk/"
+    },
+    {
+        "date": "22/Dec",
+        "team_1": "CIN",
+        "score_1": 42,
+        "score_2": 14,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/cincinnati-bengals-minnesota-vikings-Msui7ltT/"
+    },
+    {
+        "date": "15/Dec",
+        "team_1": "MIN",
+        "score_1": 48,
+        "score_2": 30,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-philadelphia-eagles-CEYybPoI/"
+    },
+    {
+        "date": "08/Dec",
+        "team_1": "BAL",
+        "score_1": 29,
+        "score_2": 26,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/baltimore-ravens-minnesota-vikings-xYot1zdr/"
+    },
+    {
+        "date": "01/Dec",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-chicago-bears-QaLXZccq/"
+    },
+    {
+        "date": "24/Nov",
+        "team_1": "GB",
+        "score_1": 26,
+        "score_2": 26,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/green-bay-packers-minnesota-vikings-M3QETMzA/"
+    },
+    {
+        "date": "17/Nov",
+        "team_1": "SEA",
+        "score_1": 41,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/seattle-seahawks-minnesota-vikings-ELBWTVUh/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 27,
+        "team_2": "WSH",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-washington-commanders-x0UhmEW6/"
+    },
+    {
+        "date": "03/Nov",
+        "team_1": "DAL",
+        "score_1": 27,
+        "score_2": 23,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/dallas-cowboys-minnesota-vikings-v5SGkny8/"
+    },
+    {
+        "date": "27/Oct",
+        "team_1": "MIN",
+        "score_1": 31,
+        "score_2": 44,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-green-bay-packers-tjnzCxhA/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "NYG",
+        "score_1": 23,
+        "score_2": 7,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/new-york-giants-minnesota-vikings-CdFp1Lwh/"
+    },
+    {
+        "date": "13/Oct",
+        "team_1": "MIN",
+        "score_1": 10,
+        "score_2": 35,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-carolina-panthers-ERWAJNfC/"
+    },
+    {
+        "date": "29/Sep",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 27,
+        "team_2": "PIT",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-pittsburgh-steelers-txk2fGLq/"
+    },
+    {
+        "date": "22/Sep",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 31,
+        "team_2": "CLE",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-cleveland-browns-4zKmkLq4/"
+    },
+    {
+        "date": "15/Sep",
+        "team_1": "CHI",
+        "score_1": 31,
+        "score_2": 30,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/chicago-bears-minnesota-vikings-6JlYeloD/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "DET",
+        "score_1": 34,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/detroit-lions-minnesota-vikings-bXmKViX7/"
+    },
+    {
+        "date": "29/Aug",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 23,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-tennessee-titans-OEw3T75h/"
+    },
+    {
+        "date": "25/Aug",
+        "team_1": "SF",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/san-francisco-49ers-minnesota-vikings-WADEc7LO/"
+    },
+    {
+        "date": "16/Aug",
+        "team_1": "BUF",
+        "score_1": 20,
+        "score_2": 16,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2013-2014/buffalo-bills-minnesota-vikings-Wlt5eNg9/"
+    },
+    {
+        "date": "09/Aug",
+        "team_1": "MIN",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2013-2014/minnesota-vikings-houston-texans-zNQQs4P9/"
+    },
+    {
+        "date": "05/Jan",
+        "team_1": "GB",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/green-bay-packers-minnesota-vikings-AwG77ms8/"
+    },
+    {
+        "date": "30/Dec",
+        "team_1": "MIN",
+        "score_1": 37,
+        "score_2": 34,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-green-bay-packers-pIFrnj4F/"
+    },
+    {
+        "date": "23/Dec",
+        "team_1": "HOU",
+        "score_1": 6,
+        "score_2": 23,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/houston-texans-minnesota-vikings-tOHzCZTE/"
+    },
+    {
+        "date": "16/Dec",
+        "team_1": "LAR",
+        "score_1": 22,
+        "score_2": 36,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/los-angeles-rams-minnesota-vikings-dhF227vS/"
+    },
+    {
+        "date": "09/Dec",
+        "team_1": "MIN",
+        "score_1": 21,
+        "score_2": 14,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-chicago-bears-U7pJ4x4b/"
+    },
+    {
+        "date": "02/Dec",
+        "team_1": "GB",
+        "score_1": 23,
+        "score_2": 14,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/green-bay-packers-minnesota-vikings-WpSJnhOG/"
+    },
+    {
+        "date": "25/Nov",
+        "team_1": "CHI",
+        "score_1": 28,
+        "score_2": 10,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/chicago-bears-minnesota-vikings-UmfJ3s1E/"
+    },
+    {
+        "date": "11/Nov",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 24,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-detroit-lions-nRHImmeA/"
+    },
+    {
+        "date": "04/Nov",
+        "team_1": "SEA",
+        "score_1": 30,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/seattle-seahawks-minnesota-vikings-Qa5nofZB/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "MIN",
+        "score_1": 17,
+        "score_2": 36,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-tampa-bay-buccaneers-b9PLuvdt/"
+    },
+    {
+        "date": "21/Oct",
+        "team_1": "MIN",
+        "score_1": 21,
+        "score_2": 14,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-arizona-cardinals-Odr0OxR5/"
+    },
+    {
+        "date": "14/Oct",
+        "team_1": "WSH",
+        "score_1": 38,
+        "score_2": 26,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/washington-commanders-minnesota-vikings-0tUQvwfk/"
+    },
+    {
+        "date": "07/Oct",
+        "team_1": "MIN",
+        "score_1": 30,
+        "score_2": 7,
+        "team_2": "TEN",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-tennessee-titans-l2WjrIal/"
+    },
+    {
+        "date": "30/Sep",
+        "team_1": "DET",
+        "score_1": 13,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/detroit-lions-minnesota-vikings-Wj5nGaGe/"
+    },
+    {
+        "date": "23/Sep",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 13,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-san-francisco-49ers-CUjGDxKG/"
+    },
+    {
+        "date": "16/Sep",
+        "team_1": "IND",
+        "score_1": 23,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/indianapolis-colts-minnesota-vikings-jwuMe0Xt/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "MIN",
+        "score_1": 26,
+        "score_2": 23,
+        "team_2": "JAX",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-jacksonville-jaguars-xzFns1Im/"
+    },
+    {
+        "date": "30/Aug",
+        "team_1": "HOU",
+        "score_1": 28,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/houston-texans-minnesota-vikings-fmNWQSF0/"
+    },
+    {
+        "date": "24/Aug",
+        "team_1": "MIN",
+        "score_1": 10,
+        "score_2": 12,
+        "team_2": "LAC",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-los-angeles-chargers-06RBZa23/"
+    },
+    {
+        "date": "17/Aug",
+        "team_1": "MIN",
+        "score_1": 36,
+        "score_2": 14,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2012-2013/minnesota-vikings-buffalo-bills-SvSa7sJA/"
+    },
+    {
+        "date": "10/Aug",
+        "team_1": "SF",
+        "score_1": 17,
+        "score_2": 6,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2012-2013/san-francisco-49ers-minnesota-vikings-hMDHf4Z4/"
+    },
+    {
+        "date": "01/Jan",
+        "team_1": "MIN",
+        "score_1": 13,
+        "score_2": 17,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-chicago-bears-EueWWXY2/"
+    },
+    {
+        "date": "24/Dec",
+        "team_1": "WSH",
+        "score_1": 26,
+        "score_2": 33,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/washington-commanders-minnesota-vikings-8IrnlY1n/"
+    },
+    {
+        "date": "18/Dec",
+        "team_1": "MIN",
+        "score_1": 20,
+        "score_2": 42,
+        "team_2": "NO",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-new-orleans-saints-CUPcMe3m/"
+    },
+    {
+        "date": "11/Dec",
+        "team_1": "DET",
+        "score_1": 34,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/detroit-lions-minnesota-vikings-jiixhHl7/"
+    },
+    {
+        "date": "04/Dec",
+        "team_1": "MIN",
+        "score_1": 32,
+        "score_2": 35,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-denver-broncos-dIaJbnLS/"
+    },
+    {
+        "date": "27/Nov",
+        "team_1": "ATL",
+        "score_1": 24,
+        "score_2": 14,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/atlanta-falcons-minnesota-vikings-8KBUYViH/"
+    },
+    {
+        "date": "20/Nov",
+        "team_1": "MIN",
+        "score_1": 21,
+        "score_2": 27,
+        "team_2": "LV",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-las-vegas-raiders-EqqFNEwa/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "GB",
+        "score_1": 45,
+        "score_2": 7,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/green-bay-packers-minnesota-vikings-0G9SMsml/"
+    },
+    {
+        "date": "30/Oct",
+        "team_1": "CAR",
+        "score_1": 21,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/carolina-panthers-minnesota-vikings-MgQW4lA5/"
+    },
+    {
+        "date": "23/Oct",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 33,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-green-bay-packers-nmOuDC2P/"
+    },
+    {
+        "date": "16/Oct",
+        "team_1": "CHI",
+        "score_1": 39,
+        "score_2": 10,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/chicago-bears-minnesota-vikings-bN18wWQC/"
+    },
+    {
+        "date": "09/Oct",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 10,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-arizona-cardinals-UBkAzw5E/"
+    },
+    {
+        "date": "02/Oct",
+        "team_1": "KC",
+        "score_1": 22,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/kansas-city-chiefs-minnesota-vikings-A91yOSUc/"
+    },
+    {
+        "date": "25/Sep",
+        "team_1": "MIN",
+        "score_1": 23,
+        "score_2": 26,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-detroit-lions-n15I7JJU/"
+    },
+    {
+        "date": "18/Sep",
+        "team_1": "MIN",
+        "score_1": 20,
+        "score_2": 24,
+        "team_2": "TB",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-tampa-bay-buccaneers-AceRfkU7/"
+    },
+    {
+        "date": "11/Sep",
+        "team_1": "LAC",
+        "score_1": 24,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/los-angeles-chargers-minnesota-vikings-8WVS4ZiF/"
+    },
+    {
+        "date": "01/Sep",
+        "team_1": "MIN",
+        "score_1": 28,
+        "score_2": 0,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-houston-texans-f1mdOfXf/"
+    },
+    {
+        "date": "27/Aug",
+        "team_1": "MIN",
+        "score_1": 17,
+        "score_2": 23,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2011-2012/minnesota-vikings-dallas-cowboys-xY8o0nma/"
+    },
+    {
+        "date": "20/Aug",
+        "team_1": "SEA",
+        "score_1": 7,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/seattle-seahawks-minnesota-vikings-8QMo0esr/"
+    },
+    {
+        "date": "13/Aug",
+        "team_1": "TEN",
+        "score_1": 14,
+        "score_2": 3,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2011-2012/tennessee-titans-minnesota-vikings-bXOtgbkL/"
+    },
+    {
+        "date": "02/Jan",
+        "team_1": "DET",
+        "score_1": 20,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/detroit-lions-minnesota-vikings-SOSiQva3/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "PHI",
+        "score_1": 14,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/philadelphia-eagles-minnesota-vikings-8W3jEs0i/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "MIN",
+        "score_1": 14,
+        "score_2": 40,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-chicago-bears-vmzFEA9t/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "MIN",
+        "score_1": 3,
+        "score_2": 21,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-new-york-giants-YkDmXhBf/"
+    },
+    {
+        "date": "05/Dec",
+        "team_1": "MIN",
+        "score_1": 38,
+        "score_2": 14,
+        "team_2": "BUF",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-buffalo-bills-xhPDs6ri/"
+    },
+    {
+        "date": "28/Nov",
+        "team_1": "WSH",
+        "score_1": 13,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/washington-commanders-minnesota-vikings-CYZjSxIH/"
+    },
+    {
+        "date": "21/Nov",
+        "team_1": "MIN",
+        "score_1": 3,
+        "score_2": 31,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-green-bay-packers-Ozn22Ml6/"
+    },
+    {
+        "date": "14/Nov",
+        "team_1": "CHI",
+        "score_1": 27,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/chicago-bears-minnesota-vikings-hdJPlWTe/"
+    },
+    {
+        "date": "07/Nov",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "ARI",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-arizona-cardinals-UDdTadxc/"
+    },
+    {
+        "date": "31/Oct",
+        "team_1": "NE",
+        "score_1": 28,
+        "score_2": 18,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/new-england-patriots-minnesota-vikings-fmvvOZFj/"
+    },
+    {
+        "date": "24/Oct",
+        "team_1": "GB",
+        "score_1": 28,
+        "score_2": 24,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/green-bay-packers-minnesota-vikings-d2eDSO1I/"
+    },
+    {
+        "date": "17/Oct",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 21,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-dallas-cowboys-Ovp6L93s/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "NYJ",
+        "score_1": 29,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/new-york-jets-minnesota-vikings-OhwxEhdE/"
+    },
+    {
+        "date": "26/Sep",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-detroit-lions-zeo8iJRn/"
+    },
+    {
+        "date": "19/Sep",
+        "team_1": "MIN",
+        "score_1": 10,
+        "score_2": 14,
+        "team_2": "MIA",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-miami-dolphins-4pSmLIsJ/"
+    },
+    {
+        "date": "09/Sep",
+        "team_1": "NO",
+        "score_1": 14,
+        "score_2": 9,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/new-orleans-saints-minnesota-vikings-4r9ZFjFS/"
+    },
+    {
+        "date": "02/Sep",
+        "team_1": "MIN",
+        "score_1": 31,
+        "score_2": 24,
+        "team_2": "DEN",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-denver-broncos-v38Qs6Vk/"
+    },
+    {
+        "date": "28/Aug",
+        "team_1": "MIN",
+        "score_1": 24,
+        "score_2": 13,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2010-2011/minnesota-vikings-seattle-seahawks-j9lEhMsH/"
+    },
+    {
+        "date": "22/Aug",
+        "team_1": "SF",
+        "score_1": 15,
+        "score_2": 10,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/san-francisco-49ers-minnesota-vikings-WW7eroEh/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "LAR",
+        "score_1": 7,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2010-2011/los-angeles-rams-minnesota-vikings-WdesZGVK/"
+    },
+    {
+        "date": "24/Jan",
+        "team_1": "NO",
+        "score_1": 31,
+        "score_2": 28,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/new-orleans-saints-minnesota-vikings-SAqmp2bk/"
+    },
+    {
+        "date": "17/Jan",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 3,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-dallas-cowboys-hWuamdl6/"
+    },
+    {
+        "date": "03/Jan",
+        "team_1": "MIN",
+        "score_1": 44,
+        "score_2": 7,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-new-york-giants-ABlAwBS6/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "CHI",
+        "score_1": 36,
+        "score_2": 30,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/chicago-bears-minnesota-vikings-xUv8RDTf/"
+    },
+    {
+        "date": "20/Dec",
+        "team_1": "CAR",
+        "score_1": 26,
+        "score_2": 7,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/carolina-panthers-minnesota-vikings-ptBZCsOj/"
+    },
+    {
+        "date": "13/Dec",
+        "team_1": "MIN",
+        "score_1": 30,
+        "score_2": 10,
+        "team_2": "CIN",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-cincinnati-bengals-fVxjuIu4/"
+    },
+    {
+        "date": "06/Dec",
+        "team_1": "ARI",
+        "score_1": 30,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/arizona-cardinals-minnesota-vikings-IsatPP4C/"
+    },
+    {
+        "date": "29/Nov",
+        "team_1": "MIN",
+        "score_1": 36,
+        "score_2": 10,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-chicago-bears-UamFe3vb/"
+    },
+    {
+        "date": "22/Nov",
+        "team_1": "MIN",
+        "score_1": 35,
+        "score_2": 9,
+        "team_2": "SEA",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-seattle-seahawks-bwCMJYLR/"
+    },
+    {
+        "date": "15/Nov",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-detroit-lions-4bFpMD20/"
+    },
+    {
+        "date": "01/Nov",
+        "team_1": "GB",
+        "score_1": 26,
+        "score_2": 38,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/green-bay-packers-minnesota-vikings-fJpF3EuB/"
+    },
+    {
+        "date": "25/Oct",
+        "team_1": "PIT",
+        "score_1": 27,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/pittsburgh-steelers-minnesota-vikings-bVe2SKm7/"
+    },
+    {
+        "date": "18/Oct",
+        "team_1": "MIN",
+        "score_1": 33,
+        "score_2": 31,
+        "team_2": "BAL",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-baltimore-ravens-IgNPeQxh/"
+    },
+    {
+        "date": "11/Oct",
+        "team_1": "LAR",
+        "score_1": 10,
+        "score_2": 38,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/los-angeles-rams-minnesota-vikings-roEFQZmR/"
+    },
+    {
+        "date": "05/Oct",
+        "team_1": "MIN",
+        "score_1": 30,
+        "score_2": 23,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-green-bay-packers-KnRo57dA/"
+    },
+    {
+        "date": "27/Sep",
+        "team_1": "MIN",
+        "score_1": 27,
+        "score_2": 24,
+        "team_2": "SF",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-san-francisco-49ers-GjUGCcSR/"
+    },
+    {
+        "date": "20/Sep",
+        "team_1": "DET",
+        "score_1": 13,
+        "score_2": 27,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/detroit-lions-minnesota-vikings-QqY6uwO1/"
+    },
+    {
+        "date": "13/Sep",
+        "team_1": "CLE",
+        "score_1": 20,
+        "score_2": 34,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/cleveland-browns-minnesota-vikings-Opq5Fczb/"
+    },
+    {
+        "date": "04/Sep",
+        "team_1": "MIN",
+        "score_1": 31,
+        "score_2": 35,
+        "team_2": "DAL",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-dallas-cowboys-fBEp7nGc/"
+    },
+    {
+        "date": "31/Aug",
+        "team_1": "HOU",
+        "score_1": 10,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/houston-texans-minnesota-vikings-bLrJDyDd/"
+    },
+    {
+        "date": "21/Aug",
+        "team_1": "MIN",
+        "score_1": 17,
+        "score_2": 13,
+        "team_2": "KC",
+        "game_url": "usa/nfl-2009-2010/minnesota-vikings-kansas-city-chiefs-l4bEi9JL/"
+    },
+    {
+        "date": "14/Aug",
+        "team_1": "IND",
+        "score_1": 3,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2009-2010/indianapolis-colts-minnesota-vikings-YD7tUjYq/"
+    },
+    {
+        "date": "04/Jan",
+        "team_1": "MIN",
+        "score_1": 14,
+        "score_2": 26,
+        "team_2": "PHI",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-philadelphia-eagles-KlX3GaCb/"
+    },
+    {
+        "date": "28/Dec",
+        "team_1": "MIN",
+        "score_1": 20,
+        "score_2": 19,
+        "team_2": "NYG",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-new-york-giants-UB2nHiyR/"
+    },
+    {
+        "date": "21/Dec",
+        "team_1": "MIN",
+        "score_1": 17,
+        "score_2": 24,
+        "team_2": "ATL",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-atlanta-falcons-h0ttDpa3/"
+    },
+    {
+        "date": "14/Dec",
+        "team_1": "ARI",
+        "score_1": 14,
+        "score_2": 35,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2008-2009/arizona-cardinals-minnesota-vikings-lGsoDkTp/"
+    },
+    {
+        "date": "07/Dec",
+        "team_1": "DET",
+        "score_1": 16,
+        "score_2": 20,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2008-2009/detroit-lions-minnesota-vikings-dzS1rMa4/"
+    },
+    {
+        "date": "30/Nov",
+        "team_1": "MIN",
+        "score_1": 34,
+        "score_2": 14,
+        "team_2": "CHI",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-chicago-bears-dSTwv5Q4/"
+    },
+    {
+        "date": "23/Nov",
+        "team_1": "JAX",
+        "score_1": 12,
+        "score_2": 30,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2008-2009/jacksonville-jaguars-minnesota-vikings-0E9SluBA/"
+    },
+    {
+        "date": "16/Nov",
+        "team_1": "TB",
+        "score_1": 19,
+        "score_2": 13,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2008-2009/tampa-bay-buccaneers-minnesota-vikings-4WocFHbn/"
+    },
+    {
+        "date": "09/Nov",
+        "team_1": "MIN",
+        "score_1": 28,
+        "score_2": 27,
+        "team_2": "GB",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-green-bay-packers-h4UTyvhf/"
+    },
+    {
+        "date": "02/Nov",
+        "team_1": "MIN",
+        "score_1": 28,
+        "score_2": 21,
+        "team_2": "HOU",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-houston-texans-UoR0ClBn/"
+    },
+    {
+        "date": "19/Oct",
+        "team_1": "CHI",
+        "score_1": 48,
+        "score_2": 41,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2008-2009/chicago-bears-minnesota-vikings-8Qy7Nsg0/"
+    },
+    {
+        "date": "12/Oct",
+        "team_1": "MIN",
+        "score_1": 12,
+        "score_2": 10,
+        "team_2": "DET",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-detroit-lions-GhGV3qjT/"
+    },
+    {
+        "date": "06/Oct",
+        "team_1": "NO",
+        "score_1": 27,
+        "score_2": 30,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2008-2009/new-orleans-saints-minnesota-vikings-C4THrLwg/"
+    },
+    {
+        "date": "28/Sep",
+        "team_1": "TEN",
+        "score_1": 30,
+        "score_2": 17,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2008-2009/tennessee-titans-minnesota-vikings-EmIGQw12/"
+    },
+    {
+        "date": "21/Sep",
+        "team_1": "MIN",
+        "score_1": 20,
+        "score_2": 10,
+        "team_2": "CAR",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-carolina-panthers-KjH282RD/"
+    },
+    {
+        "date": "14/Sep",
+        "team_1": "MIN",
+        "score_1": 15,
+        "score_2": 18,
+        "team_2": "IND",
+        "game_url": "usa/nfl-2008-2009/minnesota-vikings-indianapolis-colts-h6noDOQo/"
+    },
+    {
+        "date": "08/Sep",
+        "team_1": "GB",
+        "score_1": 24,
+        "score_2": 19,
+        "team_2": "MIN",
+        "game_url": "usa/nfl-2008-2009/green-bay-packers-minnesota-vikings-YqKVO7bo/"
+    }
+]

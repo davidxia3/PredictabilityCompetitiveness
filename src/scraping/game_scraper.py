@@ -24,6 +24,10 @@ sport = "baseball"
 teams = ["Texas Rangers"]
 file_names = ["rangers"]
 
+# load team abbreviations
+with open('data/team_to_abbr.json', 'r') as file:
+    abbr = json.load(file)
+
 # looping through each team
 for i in range(len(teams)):
     team = teams[i]
@@ -74,11 +78,11 @@ for i in range(len(teams)):
                 lines = game_text.splitlines()
 
                 try:
-                    game_data["date"] = lines[0]
+                    game_data["date"] = abbr[lines[0].lower()]
                     game_data["team_1"] = lines[1]
                     game_data["score_1"] = int(lines[2])
                     game_data["score_2"] = int(lines[4])
-                    game_data["team_2"] = lines[5]
+                    game_data["team_2"] = abbr[lines[5].lower()]
                     
                     game_data["game_url"] = game.find_elements(By.TAG_NAME, "a")[-4].get_attribute("href").split("https://www.oddsportal.com/" + sport + "/")[1]
                     total_data.append(game_data)
