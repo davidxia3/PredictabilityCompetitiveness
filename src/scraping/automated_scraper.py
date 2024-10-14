@@ -1,59 +1,50 @@
+import os
+import time
+import sys
+import pandas as pd
+import csv
+import gc
 from selenium import webdriver  
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-import json
-import time
-import os
-import gc
-import sys
 
 options = Options()
 options.add_argument("--headless=new")
-
-driver = webdriver.Chrome(options=options) 
+driver = webdriver.Chrome(options=options)
 
 month_abbreviation_to_month = {
-    "Jan": "january", "Feb": "february", "Mar": "march", "Apr": "april",
-    "May": "may", "Jun": "june", "Jul": "july", "Aug": "august",
-    "Sep": "september", "Oct": "october", "Nov": "november", "Dec": "december"
+    "jan": "01", "feb": "02", "mar": "03", "apr": "04",
+    "may": "05", "jun": "06", "jul": "07", "aug": "08",
+    "sep": "09", "oct": "10", "nov": "11", "dec": "12"
 }
 
 # input arguments from run_automated_scraper.py
-team = sys.argv[1] if len(sys.argv) > 1 else "CHI"  
-league = sys.argv[2] if len(sys.argv) > 2 else "nfl"   
+team = sys.argv[1] if len(sys.argv) > 1 else ""  
+league = sys.argv[2] if len(sys.argv) > 2 else ""   
 start_index = int(sys.argv[3]) if len(sys.argv) > 3 else 0
 
-# must scrape in chunks because of insufficient memory
-chunk_size = 200
-end_index = start_index + chunk_size
+sport = ""
 
-
-# define sport and base_url
-sport = "american-football"
-base_url = f'https://www.oddsportal.com/{sport}/'
-
-
-# retrieve previously scraped chunks
-data_path = f'data/{league}/{team}/games.json'
+data_path = f'data/{league}/{team}/games.csv'
 if not os.path.exists(data_path):
     print("not found")
     sys.exit(1)
 
-with open(data_path, 'r') as file:
-    games = json.load(file)
-
+games = pd.read_csv(data_path)
 
 total_data = []
 i = start_index
 fails = 0
+end_index = min(len(games), start_index + 200) 
+
+base_url = f'https://www.oddsportal.com/{sport}/'
 
 # scraping each individual game
-while i < min(len(games), end_index):
+while i < end_index:
     print("scraping " + team + " " + str(i))
 
-    game = games[i]
+    game = games.iloc[i] 
     game_url = game["game_url"]
-
 
     try:
         # retrieve game webpage
@@ -71,13 +62,13 @@ while i < min(len(games), end_index):
         # converting date 
         date = driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[1]/div[2]/div[1]/p[2]").text.split(" ")
         day = date[0]
-        month_abbreviation = date[1]
-        month = month_abbreviation_to_month.get(month_abbreviation, month_abbreviation)
+        month_abbreviation = date[1].lower()
+        month = month_abbreviation_to_month.get(month_abbreviation)
         year = date[2][:-1]
 
-        # creating dictionary for the game and adding it to the json list
+        # creating dictionary for the game and adding it to the list
         game_data = {
-            "date": f"{day} {month} {year}",
+            "date": f"{day}-{month}-{year}",
             "team_1": game["team_1"],
             "team_2": game["team_2"],
             "score_1": game["score_1"],
@@ -94,7 +85,6 @@ while i < min(len(games), end_index):
         total_data.append(game_data)
         driver.delete_all_cookies()
 
-        
         fails = 0
         i += 1
 
@@ -114,14 +104,23 @@ while i < min(len(games), end_index):
 
     gc.collect()
 
-market_file = f"data/{league}/{team}/market.json"
-existing_data = []
+market_file = f"data/{league}/{team}/market.csv"
+fieldnames = [
+    "date", "team_1", "team_2", "score_1", "score_2", 
+    "result", "tournament", "game_url", 
+    "avg_moneyline_1", "avg_moneyline_2", 
+    "high_moneyline_1", "high_moneyline_2"
+]
 
-if os.path.exists(market_file) and os.path.getsize(market_file) > 0:
-    with open(market_file, "r") as market:
-        existing_data = json.load(market)
-
-with open(market_file, "w") as outfile:
-    json.dump(existing_data + total_data, outfile, indent=4)
+# Open the market.csv file in append mode
+with open(market_file, mode="a", newline="", encoding="utf-8") as csv_file:
+    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+    
+    # Check if the file is empty to write the header
+    if csv_file.tell() == 0:  # Only write header if the file is empty
+        writer.writeheader()
+        
+    for game_data in total_data:
+        writer.writerow(game_data)
 
 driver.quit()
