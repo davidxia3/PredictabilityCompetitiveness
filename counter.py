@@ -1,23 +1,10 @@
 import os
-import json
 
-main_folder = 'data/nfl'
+def count_files_in_subfolder(subfolder_path):
+    # Count the number of files in the subfolder
+    file_count = len([f for f in os.listdir(subfolder_path) if os.path.isfile(os.path.join(subfolder_path, f))])
+    print(f"Number of files in '{subfolder_path}':", file_count)
 
-for subfolder in os.listdir(main_folder):
-    subfolder_path = os.path.join(main_folder, subfolder)
-    
-    if os.path.isdir(subfolder_path):
-        games_file = os.path.join(subfolder_path, 'games.json')
-        market_file = os.path.join(subfolder_path, 'market.json')
-        
-        try:
-            with open(games_file, 'r') as f:
-                games_data = json.load(f)
-            with open(market_file, 'r') as f:
-                market_data = json.load(f)
-            
-            print(f"Difference found in {subfolder}:")
-            print(len(games_data)- len(market_data))
-
-        except Exception as e:
-            print(f"Error in {subfolder}: {e}")
+# Example usage
+subfolder_path = 'data/espn_mapping/nba'  # Replace with your subfolder path
+count_files_in_subfolder(subfolder_path)

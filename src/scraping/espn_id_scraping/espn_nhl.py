@@ -19,12 +19,9 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 
 
-league = "nfl"
-
-
 def list_subfolders(folder_path):
-    subfolders = [name for name in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, name))]
-    return subfolders
+    teams = [name for name in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, name))]
+    return teams
 
 
 month_abbreviation_to_month = {
@@ -33,11 +30,10 @@ month_abbreviation_to_month = {
     "sep": "09", "oct": "10", "nov": "11", "dec": "12"
 }
 
-teams = list_subfolders(f'data/{league}/')
+teams = list_subfolders('data/nhl')
 
 seasons = list(range(2009, 2025))
 
-game_to_id_map = {}
 
 def get_id(s):
     pattern = r'\b\d{9}\b'
@@ -50,13 +46,34 @@ def get_id(s):
         return "000000000"
 
 
+error_list = []
+
 for team in teams:
+
+    game_to_id_map = {}
 
     for season in seasons:
 
-        for j in range(1,4):
+        base_url = f'https://www.espn.com/nhl/team/schedule/_/name/{team}/season/{season}'
 
-            base_url = f'https://www.espn.com/{league}/team/schedule/_/name/{team}/season/{season}/seasontype/{j}'
+        driver.get(base_url)
+
+        WebDriverWait(driver, 9).until(
+            EC.presence_of_element_located((By.XPATH, "/html/body/div[1]/div/div/div/div/main/div[2]/div/div[5]/div/div/section/div/section/div[2]/div[2]/select[1]"))
+        )
+
+
+        game_types = {}
+        dropdown = driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div/div/main/div[2]/div/div[5]/div/div/section/div/section/div[2]/div[2]/select[1]")
+        options = dropdown.find_elements(By.TAG_NAME, "option")
+        for option in options:
+            game_types[option.get_attribute("value")[:1]] = option.text.lower().replace(" ","_")
+
+        for j in game_types:
+            print(team)
+            print(season)
+            print(j)
+            base_url = f'https://www.espn.com/nhl/team/schedule/_/name/{team}/season/{season}/seasontype/{j}'
 
             driver.get(base_url)
 
@@ -64,11 +81,10 @@ for team in teams:
                 EC.presence_of_element_located((By.CLASS_NAME, "Table__TBODY"))
             )
             table = driver.find_element(By.CLASS_NAME, "Table__TBODY")
-
+            
             rows = table.find_elements(By.TAG_NAME, "tr")
 
-            game_type = rows[0].text.lower()
-
+            print(len(rows))
             for row in rows:
                 try:
                     time.sleep(0.5)
@@ -81,11 +97,11 @@ for team in teams:
                     link = score.find_element(By.TAG_NAME, "a").get_attribute("href")
                 except:
                     print(f'{team} {season} {j}')
+                    error_list.append(f'{team} {season} {j}')
                     continue
                 
 
                 id = get_id(link)
-                print(id)
 
                 d = row_data[0].text.split(" ")
                 m = d[1].lower()
@@ -94,26 +110,25 @@ for team in teams:
                 if len(day) == 1:
                     day = "0" + day
                 year = season
-                if league != "mlb":
-                    if month in ["08", "09", "10", "11", "12"]:
-                        year = season - 1
+                if month in ["08", "09", "10", "11", "12"]:
+                    year = season - 1
+
+                if j == "3":
+                    year = season
 
                 date = day + "-" + month + "-" + str(year)
 
-                game_id = date + "/" + team
+                game_id = date
 
-                game_type = "preseason"
-                if j == 1:
-                    game_type = "regular"
-                elif j ==2:
-                    game_type = "postseason"
+
                 
-                game_to_id_map[game_id] = (id, game_type)
+                game_to_id_map[game_id] = (id, game_types[j])
 
 
 
-with open(f'data/espn_mapping/{league}_mapping.json', 'w') as json_file:
-    json.dump(game_to_id_map, json_file, indent=4)
+    with open(f'data/espn_mapping/nhl/{team}.json', 'w') as json_file:
+        json.dump(game_to_id_map, json_file, indent=4)
 
             
 
+print(error_list)
