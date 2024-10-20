@@ -31,7 +31,7 @@ month_abbreviation_to_month = {
 
 teams = list_subfolders('data/nfl/')
 
-seasons = list(range(2009, 2025))
+seasons = list(range(2008, 2023))
 
 
 def get_id(s):
