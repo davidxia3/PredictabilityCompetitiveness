@@ -48,6 +48,7 @@ def get_id(s):
 
 error_list = []
 
+
 for team in teams:
 
     game_to_id_map = {}
@@ -67,13 +68,17 @@ for team in teams:
         dropdown = driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div/div/main/div[2]/div/div[5]/div/div/section/div/section/div[2]/div[2]/select[1]")
         options = dropdown.find_elements(By.TAG_NAME, "option")
         for option in options:
-            game_types[option.get_attribute("value")[:1]] = option.text.lower().replace(" ","_")
+            value = option.get_attribute("value")
+            if len(value) == 2:
+                game_types[option.text.lower().replace(" ", "_")] = value[:1]
+            else:
+                game_types[option.text.lower().replace(" ", "_")] = value[:1] + "/half/" + value[2:]
 
-        for j in game_types:
+        for game_type in game_types:
             print(team)
             print(season)
-            print(j)
-            base_url = f'https://www.espn.com/mlb/team/schedule/_/name/{team}/season/{season}/seasontype/{j}'
+            print(game_type)
+            base_url = f'https://www.espn.com/mlb/team/schedule/_/name/{team}/season/{season}/seasontype/{game_types[game_type]}'
 
             driver.get(base_url)
 
@@ -96,8 +101,8 @@ for team in teams:
                     score = row_data[2]
                     link = score.find_element(By.TAG_NAME, "a").get_attribute("href")
                 except:
-                    print(f'{team} {season} {j}')
-                    error_list.append(f'{team} {season} {j}')
+                    print(f'{team} {season} {game_type}')
+                    error_list.append(f'{team} {season} {game_type}')
                     continue
                 
 
@@ -117,7 +122,7 @@ for team in teams:
 
 
                 
-                game_to_id_map[game_id] = (id, game_types[j])
+                game_to_id_map[game_id] = (id, game_type)
 
 
 
@@ -127,3 +132,9 @@ for team in teams:
             
 
 print(error_list)
+
+# manual matching notes
+# - PIT STL 22-07-2019 (game does not exist on ESPN)
+# - NYY DET 01-10-2011 (game date on ESPN was 30-09-2011, kept oddsportal date and added ESPN game id manually)
+# - PHI TB 29-10-2008 (game date on ESPN was 27-10-2008, kept oddsportal date and added ESPN game id manually)
+# - COL WSH 06-08-2008 (game date on ESPN was 07-08-2008, there seem to be two games with that date on ESPN, kept oddsportal date and added ESPN game id manually)

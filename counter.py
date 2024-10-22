@@ -6,5 +6,5 @@ def count_files_in_subfolder(subfolder_path):
     print(f"Number of files in '{subfolder_path}':", file_count)
 
 # Example usage
-subfolder_path = 'data/espn_mapping/nba'  # Replace with your subfolder path
+subfolder_path = 'data/espn_mapping/nhl'  # Replace with your subfolder path
 count_files_in_subfolder(subfolder_path)

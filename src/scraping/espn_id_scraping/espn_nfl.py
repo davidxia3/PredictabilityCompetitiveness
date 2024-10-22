@@ -31,8 +31,7 @@ month_abbreviation_to_month = {
 
 teams = list_subfolders('data/nfl/')
 
-seasons = list(range(2008, 2023))
-
+seasons = list(range(2008, 2024))
 
 def get_id(s):
     pattern = r'\b\d{9}\b'
@@ -113,3 +112,6 @@ for team in teams:
             
 
 print(error_list)
+
+# manual matcing notes
+# - WSH SF 31-12-2023 (ESPN had the date listed as TBD-Flex Game, kept oddsportal date and added ESPN game id)
