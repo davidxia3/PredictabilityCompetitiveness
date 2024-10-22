@@ -110,7 +110,7 @@ for team in teams:
                 if len(day) == 1:
                     day = "0" + day
                 year = season
-                if month in ["10", "11", "12"]:
+                if (game_types[j] != "postseason") and (month in ["08", "09", "10", "11", "12"]):
                     year = season - 1
 
                 date = day + "-" + month + "-" + str(year)
@@ -129,3 +129,6 @@ for team in teams:
             
 
 print(error_list)
+
+# notes
+# -there are a total of 114 games from the 2020 nba season that are listed at oddsportal but not at ESPN, the games simply do not exist on ESPN
