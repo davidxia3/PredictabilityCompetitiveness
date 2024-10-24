@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-league = "nba"
+league = "nhl"
 df = pd.read_csv(f'data/combined/{league}_market.csv')
 
 df['espn_id'] = "000000000"
