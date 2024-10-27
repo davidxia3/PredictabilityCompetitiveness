@@ -44,7 +44,6 @@ def get_id(s):
         return "000000000"
 
 
-error_list = []
 
 for team in teams:
 
@@ -94,24 +93,16 @@ for team in teams:
                 date = day + "-" + month + "-" + str(year)
 
                 game_id = date
-
-
                 
                 game_to_id_map[game_id] = (id, game_type)
             except:
                 print(f'{team} {season}')
-                error_list.append(f'{team} {season}')
                 continue
             
 
 
 
-    with open(f'data/espn_mapping/nfl/{team}.json', 'w') as json_file:
+    with open(f'raw_data/espn_mapping/nfl/{team}.json', 'w') as json_file:
         json.dump(game_to_id_map, json_file, indent=4)
 
-            
-
-print(error_list)
-
-# manual matcing notes
-# - WSH SF 31-12-2023 (ESPN had the date listed as TBD-Flex Game, kept oddsportal date and added ESPN game id)
+        

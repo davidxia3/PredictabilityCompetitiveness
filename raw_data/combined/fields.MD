@@ -1,0 +1,13 @@
+### Data Fields
+- date : "dd-mm-yyyy" of the game
+- team_1 : home team (if applicable)
+- team_2 : away_team (if applicable)
+- score_1 : team_1 score
+- score_2 : team_2 score
+- result : 1 if team_1 won and 0 if team_1 lost
+- tournament : the league/tournament/competition (e.g NBA_2009/2009, NHL_2016/2017) 
+- game_url : individual OddsPortal url for that specific game
+- avg_moneyline_1 : average moneyline across all bookmakers for team_1
+- avg_moneyline_2 : average moneyline across all bookmakers for team_2
+- high_moneyline_1 : highest moneyline across all bookmakers for team_1
+- high_moneyline_2 : highest moneyline across all bookmakers for team_2

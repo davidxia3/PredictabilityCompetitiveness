@@ -25,7 +25,7 @@ start_index = int(sys.argv[3]) if len(sys.argv) > 3 else 0
 
 sport = ""
 
-data_path = f'data/{league}/{team}/games.csv'
+data_path = f'raw_data/{league}/{team}/games.csv'
 if not os.path.exists(data_path):
     print("not found")
     sys.exit(1)
@@ -104,7 +104,7 @@ while i < end_index:
 
     gc.collect()
 
-market_file = f"data/{league}/{team}/market.csv"
+market_file = f"raw_data/{league}/{team}/market.csv"
 fieldnames = [
     "date", "team_1", "team_2", "score_1", "score_2", 
     "result", "tournament", "game_url", 

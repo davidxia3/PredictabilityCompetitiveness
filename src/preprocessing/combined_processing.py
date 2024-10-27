@@ -16,10 +16,10 @@ def load_team_abbreviations(file_path):
         return json.load(f)
 
 # loading team data
-folder_path = f'data/{league}'
+folder_path = f'raw_data/{league}'
 teams = list_subfolders(folder_path)
 
-abbreviation_file_path = f'data/abbreviations.json' 
+abbreviation_file_path = f'raw_data/abbreviations.json' 
 team_abbreviation_dict = load_team_abbreviations(abbreviation_file_path)
 
 # combining files into a single list
@@ -27,7 +27,7 @@ combined_list = []
 id_set = set()
 
 for team in teams:
-    file_path = f'data/{league}/{team}/market.csv'
+    file_path = f'raw_data/{league}/{team}/market.csv'
     try:
         data = pd.read_csv(file_path) 
         for _, item in data.iterrows():
@@ -71,6 +71,6 @@ df['tournament'] = df['tournament'].str.replace(two_year_pattern, r'\1_\3', rege
 df = df[df['tournament'].str.match(one_year_pattern)]
 
 
-df.to_csv(f'data/combined/{league}_market.csv', index=False)
+df.to_csv(f'raw_data/combined/{league}_market.csv', index=False)
 
 print("done.")

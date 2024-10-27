@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 league = "mlb"
 
-df = pd.read_csv(f'data/master/{league}_market.csv')
+df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
 
 y_true = df['result'].values 
 y_prob = df['avg_prob_1'].values 

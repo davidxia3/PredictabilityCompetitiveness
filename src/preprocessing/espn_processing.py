@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 league = "nhl"
-df = pd.read_csv(f'data/combined/{league}_market.csv')
+df = pd.read_csv(f'raw_data/combined/{league}_market.csv')
 
 df['espn_id'] = "000000000"
 df["game_type"] = "N/A"
@@ -13,7 +13,7 @@ for index, row in df.iterrows():
     team2 = row["team_2"]
 
     try:
-        with open(f'data/espn_mapping/{league}/{team1}.json', 'r') as json_file:
+        with open(f'raw_data/espn_mapping/{league}/{team1}.json', 'r') as json_file:
             mapping = json.load(json_file)
             
             if date in mapping:
@@ -23,7 +23,7 @@ for index, row in df.iterrows():
                 print(f'{team1} {team2} {date}')
     except Exception as e:
         try:
-            with open(f'data/espn_mapping/{league}/{team2}.json', 'r') as json_file:
+            with open(f'raw_data/espn_mapping/{league}/{team2}.json', 'r') as json_file:
                 mapping = json.load(json_file)
                 
                 if date in mapping:
@@ -34,4 +34,4 @@ for index, row in df.iterrows():
         except Exception as e:
             print(f"Error for {team1} on {date}: {e}")
 
-df.to_csv(f'data/espn_combined/{league}_espn_combined.csv', index=False)
+df.to_csv(f'processed_data/{league}_espn_combined.csv', index=False)

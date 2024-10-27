@@ -46,9 +46,6 @@ def get_id(s):
         return "000000000"
 
 
-error_list = []
-
-
 for team in teams:
 
     game_to_id_map = {}
@@ -102,7 +99,6 @@ for team in teams:
                     link = score.find_element(By.TAG_NAME, "a").get_attribute("href")
                 except:
                     print(f'{team} {season} {game_type}')
-                    error_list.append(f'{team} {season} {game_type}')
                     continue
                 
 
@@ -126,15 +122,7 @@ for team in teams:
 
 
 
-    with open(f'data/espn_mapping/mlb/{team}.json', 'w') as json_file:
+    with open(f'raw_data/espn_mapping/mlb/{team}.json', 'w') as json_file:
         json.dump(game_to_id_map, json_file, indent=4)
 
             
-
-print(error_list)
-
-# manual matching notes
-# - PIT STL 22-07-2019 (game does not exist on ESPN)
-# - NYY DET 01-10-2011 (game date on ESPN was 30-09-2011, kept oddsportal date and added ESPN game id manually)
-# - PHI TB 29-10-2008 (game date on ESPN was 27-10-2008, kept oddsportal date and added ESPN game id manually)
-# - COL WSH 06-08-2008 (game date on ESPN was 07-08-2008, there seem to be two games with that date on ESPN, kept oddsportal date and added ESPN game id manually)

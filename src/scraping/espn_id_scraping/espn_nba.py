@@ -46,7 +46,6 @@ def get_id(s):
         return "000000000"
 
 
-error_list = []
 
 for team in teams:
 
@@ -97,7 +96,6 @@ for team in teams:
                     link = score.find_element(By.TAG_NAME, "a").get_attribute("href")
                 except:
                     print(f'{team} {season} {j}')
-                    error_list.append(f'{team} {season} {j}')
                     continue
                 
 
@@ -123,12 +121,8 @@ for team in teams:
 
 
 
-    with open(f'data/espn_mapping/nba/{team}.json', 'w') as json_file:
+    with open(f'raw_data/espn_mapping/nba/{team}.json', 'w') as json_file:
         json.dump(game_to_id_map, json_file, indent=4)
 
             
 
-print(error_list)
-
-# notes
-# -there are a total of 114 games from the 2020 nba season that are listed at oddsportal but not at ESPN, the games simply do not exist on ESPN

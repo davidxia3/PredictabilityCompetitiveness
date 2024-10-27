@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import brier_score_loss
 
 league = "mlb"
-df = pd.read_csv(f'data/combined/{league}_market.csv')
+df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
 
 season_groups = df.groupby('tournament')
 

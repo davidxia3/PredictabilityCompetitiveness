@@ -3,48 +3,78 @@
 
 ## In this project, we look into the betting market predictability of the four major American sports leagues (MLB, NFL, NBA, NHL)
 
-## Scraping
 
-### game_scraper.py
-Archived historical data was scraped from [OddsPortal.com's Historical Sports Betting Odds webpage](https://www.oddsportal.com/results/#football). Historical data is displayed as a list of games, ranging from the current season back to the 2008-2009 seasons. The game_scraper.py script scrapes these initial games and their corresponding game_url. game_url is a unique url for each game and is only available from scraping. Games and their respective game_url are stored in each team's respective games.json file. Here is a breakdown of each field in all the games.json files. Each field is well-defined for every game.
-- "date" : the date and month the game is played
-- "team_1" : home team, (if neutral game, then one of the teams)
-- "score_1" : team_1 score
-- "score_2" : team_2 score
-- "team_2" : away team, (if netural game, then the other team)
-- "game_url" : unique game url
+### src/
+- Contains all the scripts for scraping, processing, and analyzing data
+
+#### src/scraping/
+- Contains all the scripts for scraping
+
+##### src/scraping/game_scraper.py
+- Scrapes game data from the OddsPortal.com archived results webpage
+- Scrapes by team, and saves each individual team's games to raw_data/{league}/{team}/games.csv
+- Includes team_1, team_2, score_1, score_2, game_url
+    - team_1 : home team (if applicable)
+    - team_2 : away team (if applicable)
+    - score_1 : team_1 score
+    - score_2 : team_2 score
+    - game_url : individual OddsPortal url for that specific game
+
+##### src/scraping/automated_scraper.py
+- Opens each team's game csv at raw_data/{league}/{team}/games.csv
+- Loops through each game and opens the game's webpage and scrapes the average and high moneylines for each team
+- Saves the file with additional information at raw_data/{league}/{team}/market.csv
+- Includes date, team_1, team_2, score_1, score_2, result, tournament, game_url, avg_moneyline_1, avg_moneyline_2, high_moneyline_1, high_moneyline_2
+    - date : "dd-mm-yyyy" of the game
+    - team_1 : home team (if applicable)
+    - team_2 : away_team (if applicable)
+    - score_1 : team_1 score
+    - score_2 : team_2 score
+    - result : 1 if team_1 won and 0 if team_1 lost
+    - tournament : the league/tournament/competition (e.g NBA_2009/2009, NHL_2016/2017) 
+    - game_url : individual OddsPortal url for that specific game
+    - avg_moneyline_1 : average moneyline across all bookmakers for team_1
+    - avg_moneyline_2 : average moneyline across all bookmakers for team_2
+    - high_moneyline_1 : highest moneyline across all bookmakers for team_1
+    - high_moneyline_2 : highest moneyline across all bookmakers for team_2
+- There were a handful of games with no available betting data (~10 per team); these games weren't included in the saved file
+
+##### src/scraping/run_automated_scraper.py
+- runs the automated_scraper.py file chunk by chunk to reduce memory allocation
+
+##### src/scraping/espn_id_scraping/
+- Contains four scripts, one for each league, to scrape ESPN ids for each game
+- The ESPN id is a string of 9 digits that defines the url for the ESPN webpage of that game
+- Each script is slightly different because of each league's inherent differences (e.g start and end dates, 2020 season)
+- All scripts loads each team's ESPN webpage and scrapes their schedule going back to the earliest season that is included in OddsPortal (2003-2004 for NHL, 2006 for MLB, 2008-2009 for NFL, 2008-2009 for NBA)
+    - Seattle Kraken (NHL) only started in the 2021-2022 NHL season
+    - Vegas Golden Knights (NHL) only started in the 2017-2018 NHL season
+    - Arizona Coyotes moved and rebranded as the Utah Hockey Club, starting for the NHL 2023-2024 season
+        - The last seasons that are included in this project are (NHL 2022-2023, NFL 2023-2024, NBA 2023-2024, MLB 2023)
+        - For this project, we can pretend the Arizona Coyotes never rebranded, but ESPN no longer lists an individual webpage for the team
+        - The team's past games can only be found through looking at other teams' schedules
+        - This actually does not pose any issues, because each Arizona Coyotes game is also another NHL team's games, so can still be found in another team's webpage
+- It creates a mapping for each team between the date of the game and the id of the game as well as the type of game (e.g postseason, regular_season)
+- It saves the mapping to raw_data/espn_mapping/{league}/{team}.json
 
 
-### automated_scraper.py and run_automated_scraper.py
-The automated_scraper uses the game_url of each game to access the individual webpage of each game to scrape betting data. The four key betting lines that are scraped for each game are the average_moneyline_1, average_money_line_2, high_moneyline_1, high_moneyline_2. The average moneylines is the average of all the different bookmaker's lines. The high moneyline is the most positive moneyline of any bookmaker. Furthermore, some additional metadata was also scraped. Here is the breakdown of each field in all the market.json files. Each team is well-defined for every game. For each team, there were approximately 10 games that had missing betting market data. These games were skipped and not added to the market.json files.
-- "date" : date, month, and year the game is played
-- "team_1" : home team, (if neutral game, then one of the teams)
-- "team_2" : away team, (if neutral game, then other team)
-- "score_1" : team_1 score
-- "score_2" : taem_2 score
-- "result" : 1 if team_1 won, 0 if team_2 won (there are no ties)
-- "tournament" : unique string representing the season or tournament (e.g. NFL_2021-2022, NBA_Las_Vegas_Summer_League)
-- "game_url" : unique game url
-- "avg_moneyline_1" : average moneyline of team_1
-- "avg_moneyline_2" : average moenyline of team_2
-- "high_moneyline_1" : high moneyline of team_1
-- "high_moneyline_2" : high moneyline of team_2
+#### src/preprocessing/
+- Contains all the scripts for preprocessing data and consolidating it into more manageable forms
+
+##### src/preprocessing/combined_preprocessing.py
+- Combines each team's market csvs into a combined market csv at raw_data/combined/{league}_market.csv
+- Filters out duplicate games and other miscellaneous games (e.g friendly games, ongoing season games)
+- Computes the win probability derived from moneylines
+- avg_prob_1 : the probability that team_1 wins according the average moneylines and is defined as avg_prob_1 = abs[(avg_moneyline_1) / (avg_moneyline_1 + avg_moneyline_2)]
+- high_prob_1 : the probability that team_1 wins according the high moneylines and is defined as high_prob_1 = abs[(high_moneyline_1) / (high_moneyline_1 + high_moneyline_2)]
+
+##### src/preprocessing/espn_processing.py
+- Uses the combined market csv and the collection of json dictionaries in raw_data/espn_mapping/ to map each game with its corresponding ESPN id and game type
+- It then adds this additional information to the csv and saves it to processed_data/{league}_espn_combined.csv
+- These are the files used for analysis
 
 
 
-
-## Preprocessing
-
-### team_combiner.py
-This script combines every team's games.json and market.json files into the combined_games.json and combined_market.json files.
-
-### convert_to_csv.py
-This script converts the combined_market.json files into csv files and places it into the data/master/ subfolder.
-
-### ml_probabilities.py
-This script rearranges the columns as well as computes the moneyline probabilities. The moneyline probability of a team is given by the absolute value of the moneyline divided by the sum of the absolute values of both moneylines.
-- "avg_prob_1" : abs(avg_moneyline_1) / (abs(avg_moneyline_1) + abs(avg_moneyline_2))
-- "avg_prob_2" : abs(avg_moneyline_2) / (abs(avg_moneyline_1) + abs(avg_moneyline_2))
-- "avg_prob_1" : abs(high_moneyline_1) / (abs(high_moneyline_1) + abs(high_moneyline_2))
-- "avg_prob_2" : abs(high_moneyline_2) / (abs(high_moneyline_1) + abs(high_moneyline_2))
+#### src/analysis
+- Contains all the scripts for conducting analysis
 

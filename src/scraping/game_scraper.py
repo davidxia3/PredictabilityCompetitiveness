@@ -27,7 +27,7 @@ teams =  []
 
 
 # load team abbreviations
-with open('data/abbreviations.json', 'r') as file:
+with open('raw_data/abbreviations.json', 'r') as file:
     abbr = json.load(file)
 
 # looping through each team
@@ -93,7 +93,7 @@ for team in teams:
 
 
 
-    csv_file_path = f"data/{league}/{file_name}/games.csv"
+    csv_file_path = f'raw_data/{league}/{file_name}/games.csv'
     with open(csv_file_path, mode='w', newline='', encoding='utf-8') as csv_file:
         fieldnames = ["team_1", "team_2", "score_1", "score_2", "game_url"]
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)

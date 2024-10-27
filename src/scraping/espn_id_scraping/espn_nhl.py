@@ -46,7 +46,6 @@ def get_id(s):
         return "000000000"
 
 
-error_list = []
 
 print(len(teams))
 for team in teams:
@@ -98,7 +97,6 @@ for team in teams:
                     link = score.find_element(By.TAG_NAME, "a").get_attribute("href")
                 except:
                     print(f'{team} {season} {j}')
-                    error_list.append(f'{team} {season} {j}')
                     continue
                 
 
@@ -120,25 +118,11 @@ for team in teams:
                 date = day + "-" + month + "-" + str(year)
 
                 game_id = date
-
-
                 
                 game_to_id_map[game_id] = (id, game_types[j])
 
 
 
-    with open(f'data/espn_mapping/nhl/{team}.json', 'w') as json_file:
+    with open(f'raw_data/espn_mapping/nhl/{team}.json', 'w') as json_file:
         json.dump(game_to_id_map, json_file, indent=4)
 
-            
-
-print(error_list)
-
-# notes
-# - the arizona coyotes moved and rebranded in 2024-2025 to the utah hockey club. the 2024-2025 season is not considered for analysis, so there is no Utah hockey club in any of the data
-# - however, espn no longer has its own individual webpage for the arizona coyotes, meaning it no longer has an easily scrapible schedule
-# - luckily, each arizona coyote game is also a game for another team. the espn_processing file first tries to access the file for the coyotes, but because there is none, it will automatically use the second team's file
-# - In most seasons, regular season ends in April and postseason begins in April
-# - In 2020, when the pandemic hit in March, the remaining regular season games were cancelled and the postseason was delayed until August
-# - Oddsportal lists 11 regular season games that all happened at the end of July (28-30), but espn does not, these games are left with null espn game ids
-# - NJ TB 10-01-2010 (listed as January 10th on Oddsportal, but listed as January 8th on espn; manually added the espn game id and kept oddsportal date)
