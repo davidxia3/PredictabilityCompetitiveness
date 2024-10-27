@@ -2,6 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_auc_score
 
+
+# calculates AUC for entirety of league by season
+
 league = "nhl"
 df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
 

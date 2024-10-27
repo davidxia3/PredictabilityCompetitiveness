@@ -1,6 +1,9 @@
 import pandas as pd
 from sklearn.metrics import brier_score_loss
 
+
+# calculates brier score for entirety of league throughout all seasons
+
 league = "nfl"
 
 df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')

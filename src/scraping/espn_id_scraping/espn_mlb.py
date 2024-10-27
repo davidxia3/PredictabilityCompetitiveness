@@ -1,4 +1,3 @@
-import csv
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options
@@ -34,7 +33,7 @@ teams = list_subfolders('data/mlb')
 
 seasons = list(range(2006, 2024))
 
-
+# function to extract the string of 9 digits from the url
 def get_id(s):
     pattern = r'\b\d{9}\b'
     
@@ -46,10 +45,12 @@ def get_id(s):
         return "000000000"
 
 
+# iterates through each team and saves a json dictionary for that team
 for team in teams:
 
     game_to_id_map = {}
 
+    # scraping the team's ESPN webpage
     for season in seasons:
 
         base_url = f'https://www.espn.com/mlb/team/schedule/_/name/{team}/season/{season}'
@@ -64,6 +65,7 @@ for team in teams:
         game_types = {}
         dropdown = driver.find_element(By.XPATH, "/html/body/div[1]/div/div/div/div/main/div[2]/div/div[5]/div/div/section/div/section/div[2]/div[2]/select[1]")
         options = dropdown.find_elements(By.TAG_NAME, "option")
+
         for option in options:
             value = option.get_attribute("value")
             if len(value) == 2:
@@ -87,7 +89,9 @@ for team in teams:
             rows = table.find_elements(By.TAG_NAME, "tr")
 
             print(len(rows))
+
             for row in rows:
+                # for each game, extract the espn_id and the game_type
                 try:
                     time.sleep(0.5)
                     row_data = row.find_elements(By.TAG_NAME, "td")
@@ -116,10 +120,7 @@ for team in teams:
 
                 game_id = date
 
-
-                
                 game_to_id_map[game_id] = (id, game_type)
-
 
 
     with open(f'raw_data/espn_mapping/mlb/{team}.json', 'w') as json_file:

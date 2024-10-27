@@ -2,6 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import brier_score_loss
 
+
+# calculates brier score for entirety of league by season
+
 league = "mlb"
 df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
 

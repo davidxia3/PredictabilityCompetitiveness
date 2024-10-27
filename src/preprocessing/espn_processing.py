@@ -1,17 +1,22 @@
 import pandas as pd
 import json
 
+
+# open the combined file and create new columns with default values
 league = "nhl"
 df = pd.read_csv(f'raw_data/combined/{league}_market.csv')
 
 df['espn_id'] = "000000000"
 df["game_type"] = "N/A"
 
+
+# try matching up games with dates in espn_mapping files
 for index, row in df.iterrows():
     date = row["date"]
     team1 = row["team_1"]
     team2 = row["team_2"]
 
+    # tries the first team
     try:
         with open(f'raw_data/espn_mapping/{league}/{team1}.json', 'r') as json_file:
             mapping = json.load(json_file)
@@ -22,6 +27,7 @@ for index, row in df.iterrows():
             else:
                 print(f'{team1} {team2} {date}')
     except Exception as e:
+        # if first team does not have espn_mapping file (Arizona Coyotes), then try with second team
         try:
             with open(f'raw_data/espn_mapping/{league}/{team2}.json', 'r') as json_file:
                 mapping = json.load(json_file)

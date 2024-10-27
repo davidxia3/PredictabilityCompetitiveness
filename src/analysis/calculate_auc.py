@@ -2,6 +2,8 @@ import pandas as pd
 from sklearn.metrics import roc_curve, auc
 import matplotlib.pyplot as plt
 
+
+# calculates AUC for entirety of league throughout all seasons
 league = "mlb"
 
 df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
