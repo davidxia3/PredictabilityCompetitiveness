@@ -1,0 +1,13 @@
+### fields
+- date : "dd-mm-yyyy" of the game
+- season : NFL season (e.g 2015 is 2015-2016)
+- neutral : 1 if neutral game, 0 if not
+- playoff : 1 if postseason, 0 if not
+- team1 : home team (if applicable)
+- team2 : away team (if applicable)
+- elo1 : team1 elo, going into the game
+- elo2 : team2 elo, going into the game
+- elo_prob1 : probability that team1 wins derived from elo1 and elo2 (elo_prob1 = elo1/(elo1 + elo2))
+- score1 : team1 score
+- score2 : team2 score
+- result1 : 1 if team 1 won, 0 if team 1 lost
