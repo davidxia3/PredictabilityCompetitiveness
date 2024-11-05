@@ -4,8 +4,7 @@ from sklearn.metrics import brier_score_loss
 
 
 # calculates brier score for entirety of league by season
-
-league = "mlb"
+league = "nhl"
 df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
 
 season_groups = df.groupby('tournament')

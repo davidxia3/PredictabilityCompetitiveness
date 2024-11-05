@@ -45,6 +45,24 @@ for team in teams:
 
 df = pd.DataFrame(combined_list)
 
+# differentiate positive and negative moneylines
+def fix_moneyline_signs(row, col1, col2):
+    val1, val2 = abs(row[col1]), abs(row[col2])
+
+    if val1 > val2:
+        return -val1, val2
+    else:
+        return val1, -val2
+
+df[['avg_moneyline_1', 'avg_moneyline_2']] = df.apply(
+    lambda row: fix_moneyline_signs(row, 'avg_moneyline_1', 'avg_moneyline_2'), axis=1, result_type='expand'
+)
+
+df[['high_moneyline_1', 'high_moneyline_2']] = df.apply(
+    lambda row: fix_moneyline_signs(row, 'high_moneyline_1', 'high_moneyline_2'), axis=1, result_type='expand'
+)
+
+
 # function to truncate probabilities to 4 digits
 def truncate(value):
     return float(int(value * 10**4)) / 10**4

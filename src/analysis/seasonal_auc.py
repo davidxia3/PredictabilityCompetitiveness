@@ -5,7 +5,7 @@ from sklearn.metrics import roc_auc_score
 
 # calculates AUC for entirety of league by season
 
-league = "nhl"
+league = "nfl"
 df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
 
 season_groups = df.groupby('tournament')
