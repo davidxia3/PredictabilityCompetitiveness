@@ -23,7 +23,7 @@ team = sys.argv[1] if len(sys.argv) > 1 else ""
 league = sys.argv[2] if len(sys.argv) > 2 else ""   
 start_index = int(sys.argv[3]) if len(sys.argv) > 3 else 0
 
-sport = ""
+sport = "hockey"
 
 data_path = f'raw_data/{league}/{team}/games.csv'
 if not os.path.exists(data_path):
@@ -44,18 +44,31 @@ while i < end_index:
     print("scraping " + team + " " + str(i))
 
     game = games.iloc[i] 
-    game_url = game["game_url"]
+    game_url = game["game_url"] + "#home-away;1"
 
     try:
         # retrieve game webpage
         driver.get(base_url + game_url) 
-        time.sleep(1)
+        time.sleep(2)
 
         # scrape moneyline data
-        avg_moneyline_1 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[1]/div[2]").text)
-        avg_moneyline_2 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[1]/div[3]").text)
-        high_moneyline_1 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[2]").text)
-        high_moneyline_2 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[3]").text)
+        # avg_moneyline_1 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[1]/div[2]").text)
+        # avg_moneyline_2 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[1]/div[3]").text)
+        # high_moneyline_1 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[2]").text)
+        # high_moneyline_2 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[3]").text)
+
+        avg_moneyline_1 = (driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div/p").text)
+        avg_moneyline_2 = (driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div[3]/div/p").text)
+        high_moneyline_1 = (driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/p").text)
+        high_moneyline_2 = (driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[2]/div[3]/div/p").text)
+
+        print(avg_moneyline_1)
+        print(avg_moneyline_2)
+        print(high_moneyline_1)
+        print(high_moneyline_2)
+
+        screenshot_file_path = 's' + str(i) + 'screenshot.png'  # You can change the file name and format
+        driver.save_screenshot(screenshot_file_path)
 
         tournament = driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[1]/div/ul[2]").find_elements(By.TAG_NAME, "a")[-1].text
         
@@ -112,12 +125,10 @@ fieldnames = [
     "high_moneyline_1", "high_moneyline_2"
 ]
 
-# Open the market.csv file in append mode
 with open(market_file, mode="a", newline="", encoding="utf-8") as csv_file:
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     
-    # Check if the file is empty to write the header
-    if csv_file.tell() == 0:  # Only write header if the file is empty
+    if csv_file.tell() == 0: 
         writer.writeheader()
         
     for game_data in total_data:

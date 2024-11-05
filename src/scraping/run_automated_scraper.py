@@ -3,10 +3,10 @@ import time
 
 
 # defining teams and league
-teams = []
-league = "nfl"
+teams = ["ANA"]
+league = "nhl"
 print(len(teams))
-total_games_per_team = 400
+total_games_per_team = 1800
 chunk_size = 200
 
 
