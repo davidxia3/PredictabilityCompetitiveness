@@ -9,7 +9,7 @@
 - game_url : individual OddsPortal url for that specific game
 - avg_moneyline_1 : average moneyline across all bookmakers for team_1
 - avg_moneyline_2 : average moneyline across all bookmakers for team_2
-- high_moneyline_1 : highest moneyline across all bookmakers for team_1
-- high_moneyline_2 : highest moneyline across all bookmakers for team_2
+- avg_prob_1 : the predicted probability that team_1 wins, derived from moneylines
+- game_url : OddsPortal url of specific game
 - espn_id : unique game id that ESPN uses for game's webpage
 - game_type : type of game (e.g postseason, regular_season)

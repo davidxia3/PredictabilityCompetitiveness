@@ -35,8 +35,6 @@
     - game_url : individual OddsPortal url for that specific game
     - avg_moneyline_1 : average moneyline across all bookmakers for team_1
     - avg_moneyline_2 : average moneyline across all bookmakers for team_2
-    - high_moneyline_1 : highest moneyline across all bookmakers for team_1
-    - high_moneyline_2 : highest moneyline across all bookmakers for team_2
 - There were a handful of games with no available betting data (~10 per team); these games weren't included in the saved file
 
 ##### src/scraping/run_automated_scraper.py
@@ -65,8 +63,11 @@
 - Combines each team's market csvs into a combined market csv at raw_data/combined/{league}_market.csv
 - Filters out duplicate games and other miscellaneous games (e.g friendly games, ongoing season games)
 - Computes the win probability derived from moneylines
-- avg_prob_1 : the probability that team_1 wins according the average moneylines and is defined as avg_prob_1 = abs[(avg_moneyline_1) / (avg_moneyline_1 + avg_moneyline_2)]
-- high_prob_1 : the probability that team_1 wins according the high moneylines and is defined as high_prob_1 = abs[(high_moneyline_1) / (high_moneyline_1 + high_moneyline_2)]
+- avg_prob_1 : the probability that team_1 wins according the average moneylines and is calculated as:
+    - First, need normalized moneylines, M1* and M2*
+        - The normalized value of the larger absolute value moneyline is calculated as M* = M/(M+100)
+        - The normalized value of the smaller absolute value moneyline is calculated as M* = 100/(M+100)
+    - The predicted probability of team 1 winning is M1*/(M1* + M2*)
 
 ##### src/preprocessing/espn_processing.py
 - Uses the combined market csv and the collection of json dictionaries in raw_data/espn_mapping/ to map each game with its corresponding ESPN id and game type

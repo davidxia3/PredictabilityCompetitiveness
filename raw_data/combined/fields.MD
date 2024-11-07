@@ -9,5 +9,3 @@
 - game_url : individual OddsPortal url for that specific game
 - avg_moneyline_1 : average moneyline across all bookmakers for team_1
 - avg_moneyline_2 : average moneyline across all bookmakers for team_2
-- high_moneyline_1 : highest moneyline across all bookmakers for team_1
-- high_moneyline_2 : highest moneyline across all bookmakers for team_2

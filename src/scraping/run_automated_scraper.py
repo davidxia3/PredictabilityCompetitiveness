@@ -3,7 +3,7 @@ import time
 
 
 # defining teams and league
-teams = ["ANA"]
+teams = ["ANA", 'ARI', 'BOS', 'BUF', 'CAR', 'CBJ', 'CGY', 'CHI', 'COL', 'DAL', 'DET', 'EDM', 'FLA']
 league = "nhl"
 print(len(teams))
 total_games_per_team = 1800

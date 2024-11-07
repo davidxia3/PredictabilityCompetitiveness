@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import os
+import numpy as np
 
 # define the league
 league = "mlb"
@@ -58,27 +59,28 @@ df[['avg_moneyline_1', 'avg_moneyline_2']] = df.apply(
     lambda row: fix_moneyline_signs(row, 'avg_moneyline_1', 'avg_moneyline_2'), axis=1, result_type='expand'
 )
 
-df[['high_moneyline_1', 'high_moneyline_2']] = df.apply(
-    lambda row: fix_moneyline_signs(row, 'high_moneyline_1', 'high_moneyline_2'), axis=1, result_type='expand'
-)
-
 
 # function to truncate probabilities to 4 digits
 def truncate(value):
     return float(int(value * 10**4)) / 10**4
 
 # calculate moneyline probabilities
-df['avg_prob_1'] = abs(df['avg_moneyline_1']) / (abs(df['avg_moneyline_1']) + abs(df['avg_moneyline_2']))
-df['high_prob_1'] = abs(df['high_moneyline_1']) / (abs(df['high_moneyline_1']) + abs(df['high_moneyline_2']))
+avg_moneyline_1 = abs(df['avg_moneyline_1'])
+avg_moneyline_2 = abs(df['avg_moneyline_2'])
+
+star1 = np.where(avg_moneyline_2 > avg_moneyline_1, 100 / (avg_moneyline_1 + 100), avg_moneyline_1 / (avg_moneyline_1 + 100))
+star2 = np.where(avg_moneyline_2 > avg_moneyline_1, avg_moneyline_2 / (avg_moneyline_2 + 100), 100 / (avg_moneyline_2 + 100))
+
+avg_prob_1 = star1 / (star1 + star2)
+df['avg_prob_1'] = avg_prob_1
 
 # truncate probabilities
 df['avg_prob_1'] = df['avg_prob_1'].apply(truncate)
-df['high_prob_1'] = df['high_prob_1'].apply(truncate)
 
 # rearranging columns
 new_order = ['date', 'tournament', 'team_1', 'team_2', 'score_1', 'score_2', 'result', 
-             'avg_moneyline_1', 'avg_moneyline_2', 'high_moneyline_1', 'high_moneyline_2', 
-             'avg_prob_1', 'high_prob_1', 'game_url']
+             'avg_moneyline_1', 'avg_moneyline_2',
+             'avg_prob_1', 'game_url']
 df = df[new_order]
 
 # filter out friendly games and current season

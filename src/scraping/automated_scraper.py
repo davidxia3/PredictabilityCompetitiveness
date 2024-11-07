@@ -54,21 +54,11 @@ while i < end_index:
         # scrape moneyline data
         # avg_moneyline_1 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[1]/div[2]").text)
         # avg_moneyline_2 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[1]/div[3]").text)
-        # high_moneyline_1 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[2]").text)
-        # high_moneyline_2 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[3]").text)
+        
 
-        avg_moneyline_1 = (driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div/p").text)
-        avg_moneyline_2 = (driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div[3]/div/p").text)
-        high_moneyline_1 = (driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/p").text)
-        high_moneyline_2 = (driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[2]/div[3]/div/p").text)
-
-        print(avg_moneyline_1)
-        print(avg_moneyline_2)
-        print(high_moneyline_1)
-        print(high_moneyline_2)
-
-        screenshot_file_path = 's' + str(i) + 'screenshot.png'  # You can change the file name and format
-        driver.save_screenshot(screenshot_file_path)
+        avg_moneyline_1 = float(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div/p").text)
+        avg_moneyline_2 = float(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div[3]/div/p").text)
+        
 
         tournament = driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[1]/div/ul[2]").find_elements(By.TAG_NAME, "a")[-1].text
         
@@ -91,8 +81,6 @@ while i < end_index:
             "game_url": game_url,
             "avg_moneyline_1": avg_moneyline_1,
             "avg_moneyline_2": avg_moneyline_2,
-            "high_moneyline_1": high_moneyline_1,
-            "high_moneyline_2": high_moneyline_2
         }
 
         total_data.append(game_data)
@@ -121,8 +109,7 @@ market_file = f"raw_data/{league}/{team}/market.csv"
 fieldnames = [
     "date", "team_1", "team_2", "score_1", "score_2", 
     "result", "tournament", "game_url", 
-    "avg_moneyline_1", "avg_moneyline_2", 
-    "high_moneyline_1", "high_moneyline_2"
+    "avg_moneyline_1", "avg_moneyline_2"
 ]
 
 with open(market_file, mode="a", newline="", encoding="utf-8") as csv_file:
