@@ -31,16 +31,6 @@ for i in range(len(totals)):
     percentiles.append((totals[i]-placements[i])/totals[i])
 
 
-plt.plot(seasons, placements)
-plt.xlabel("NFL Season")
-plt.ylabel("FiveThirtyEight Leaderboard Placement")
-plt.title("FiveThirtyEight Leaderboard Placement by Season")
-plt.savefig('figures/fivethirtyeight_placements.png')
-plt.clf()
+df = pd.DataFrame({'season': seasons, 'percentiles': percentiles, 'placements': placements})
 
-
-plt.plot(seasons, percentiles)
-plt.xlabel("NFL Season")
-plt.ylabel("FiveThirtyEight Leaderboard Percentiles")
-plt.title("FiveThirtyEight Leaderboard Percentiles by Season")
-plt.savefig('figures/fivethirtyeight_percentiles.png')
+df.to_csv(f'results/fivethirtyeight_results.csv', index=False)

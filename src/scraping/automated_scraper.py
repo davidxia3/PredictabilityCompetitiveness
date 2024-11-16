@@ -58,7 +58,12 @@ while i < end_index:
 
         avg_moneyline_1 = float(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div/p").text)
         avg_moneyline_2 = float(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div[3]/div/p").text)
-        
+
+        print(avg_moneyline_1)
+        print(avg_moneyline_2)
+
+        driver.save_screenshot("screenshot.png")
+
 
         tournament = driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[1]/div/ul[2]").find_elements(By.TAG_NAME, "a")[-1].text
         
