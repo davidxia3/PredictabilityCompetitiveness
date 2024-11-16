@@ -1,7 +1,6 @@
 import pandas as pd
-import numpy as np
 
-league = 'nba'
+league = 'nfl'
 
 df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
 
@@ -10,16 +9,23 @@ df['pred_prob'] = df['avg_prob_1']
 brier_scores = {}
 
 teams = pd.concat([df['team_1'], df['team_2']]).unique()
+tournaments = pd.concat([df['tournament']]).unique()
+tournaments.sort()
 
 for team in teams:
-    team_games = df[(df['team_1'] == team) | (df['team_2'] == team)]
-    
-    team_games['team_result'] = team_games.apply(lambda row: row['result'] if row['team_1'] == team else 1 - row['result'], axis=1)
-    team_games['brier_score'] = (team_games['pred_prob'] - team_games['team_result']) ** 2
-    
-    team_brier_scores = team_games.groupby(['tournament'])['brier_score'].mean()
-    
-    brier_scores[team] = team_brier_scores
+    team_data = []
+    for tournament in tournaments:
+        score = 0
+        count = 0
+        for index, row in df.iterrows():
+            if row['tournament'] == tournament:
+                if row['team_2'] == team or row['team_1'] == team:
+                    count = count + 1
+                    score = score + ((row['avg_prob_1'] - row['result'])**2)
+
+        team_data.append(score/count)
+
+    brier_scores[team] = team_data
 
 brier_df = pd.DataFrame(brier_scores)
 
