@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.metrics import log_loss
 
 leagues = ["nfl", "mlb", "nba"]
 
@@ -16,19 +17,19 @@ for league in leagues:
         'prediction_0': df[(df['pred'] == 0)]
     }
 
-    brier_scores = {
-        scenario: ((scenario_df['avg_prob_1'] - scenario_df['result']) ** 2).mean()
+    log_losses = {
+        scenario: log_loss(scenario_df['result'], scenario_df['avg_prob_1'])
         for scenario, scenario_df in scenarios.items()
     }
 
     l.append(league)
     predictions.append(1)
-    scores.append(brier_scores['prediction_1'])
+    scores.append(log_losses['prediction_1'])
 
     l.append(league)
     predictions.append(0)
-    scores.append(brier_scores['prediction_0'])
+    scores.append(log_losses['prediction_0'])
 
-result_df = pd.DataFrame({'league': l, 'prediction': predictions, 'brier_score': scores})
+result_df = pd.DataFrame({'league': l, 'prediction': predictions, 'log_loss': scores})
 
-result_df.to_csv(f'results/home_away_results.csv', index=False)
+result_df.to_csv(f'results/home_away_log_loss.csv', index=False)

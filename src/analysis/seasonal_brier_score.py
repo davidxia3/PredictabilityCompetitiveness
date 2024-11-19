@@ -19,4 +19,4 @@ for season, group in season_groups:
 
 df = pd.DataFrame({'season': seasons, 'brier_score': brier_scores})
 
-df.to_csv(f'results/seasonal_brier/{league}_seasonal_brier.csv', index=False)
+df.to_csv(f'results/seasonal_brier/{league}_seasonal_brier_score.csv', index=False)
