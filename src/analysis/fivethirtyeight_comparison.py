@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 
 
 df = pd.read_csv('processed_data/nfl_espn_combined.csv')
