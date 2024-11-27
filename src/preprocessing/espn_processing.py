@@ -3,7 +3,7 @@ import json
 
 
 # open the combined file and create new columns with default values
-league = "nhl"
+league = "nfl"
 df = pd.read_csv(f'raw_data/combined/{league}_market.csv')
 
 df['espn_id'] = "000000000"
@@ -39,5 +39,8 @@ for index, row in df.iterrows():
                     print(f'{team1} {team2} {date}')
         except Exception as e:
             print(f"Error for {team1} on {date}: {e}")
+
+df = df[df['game_type'] != 'preseason']
+
 
 df.to_csv(f'processed_data/{league}_espn_combined.csv', index=False)

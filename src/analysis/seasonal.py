@@ -12,7 +12,12 @@ seasons = []
 brier_scores = []
 log_losses = []
 brier_skill_losses_50_50 = []
-brier_skill_losses_team1 = []
+brier_skill_losses_team1_grouped = []
+brier_skill_losses_team1_overall = []
+
+overall_percentage = df['result'].mean()
+overall_brier_score = ((overall_percentage - df['result']) ** 2).mean()
+
 
 for season, group in season_groups:
     brier = brier_score_loss(group['result'], group['avg_prob_1'])
@@ -25,23 +30,25 @@ for season, group in season_groups:
 
     brier_skill_score_50_50 = 1 - (brier / reference_brier_50_50)
     
-    brier_skill_score_team1 = 1 - (brier / reference_brier_team1)
+    brier_skill_score_team1_grouped = 1 - (brier / reference_brier_team1)
+
+    brier_skill_score_team1_overall = 1 - (brier / overall_brier_score)
     
-    brier_skill_loss_50_50 = 1 - brier_skill_score_50_50
-    brier_skill_loss_team1 = 1 - brier_skill_score_team1
     
     seasons.append(season)
     brier_scores.append(brier)
     log_losses.append(log_loss(group['result'], group['avg_prob_1']))
-    brier_skill_losses_50_50.append(brier_skill_loss_50_50)
-    brier_skill_losses_team1.append(brier_skill_loss_team1)
+    brier_skill_losses_50_50.append(brier_skill_score_50_50)
+    brier_skill_losses_team1_grouped.append(brier_skill_score_team1_grouped)
+    brier_skill_losses_team1_overall.append(brier_skill_score_team1_overall)
 
 df_results = pd.DataFrame({
     'season': seasons, 
     'brier_score': brier_scores, 
     'log_loss': log_losses, 
     'brier_skill_loss_50_50': brier_skill_losses_50_50,
-    'brier_skill_loss_home_prob': brier_skill_losses_team1
+    'brier_skill_loss_home_prob_grouped': brier_skill_losses_team1_grouped,
+    'brier_skill_loss_home_prob_overall': brier_skill_losses_team1_overall
 })
 
 df_results = df_results.round(4)
