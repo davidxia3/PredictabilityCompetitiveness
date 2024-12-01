@@ -42,3 +42,5 @@
     - Corrected espn_id manually
     - Corrected game_type manually
 
+- SMALL BUG CURRENTLY AFFECTING ~50 games, currently being fixed
+

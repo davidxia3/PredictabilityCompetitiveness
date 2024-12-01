@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 # define the league
-league = "mlb"
+league = "nhl"
 
 # getting team names
 def list_subfolders(folder_path):

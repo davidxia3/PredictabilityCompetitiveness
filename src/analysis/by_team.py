@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.metrics import brier_score_loss
 from sklearn.metrics import log_loss
 
-league = "nfl"
+league = "nhl"
 
 df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
 

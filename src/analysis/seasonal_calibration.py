@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.calibration import calibration_curve
 
-league = 'mlb'
+league = 'nhl'
 
 df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
 
