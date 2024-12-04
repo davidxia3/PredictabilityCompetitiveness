@@ -11,3 +11,4 @@
     - These games weren't included in the saved files
     - These games were scattered around, but almost all of them were concentrated in the earlier pre-2010 seasons
     - Could be due to insufficient moneyline data, and preference of the 1x2 line for NHL as opposed to home/away moneylines
+    - The NHL was also on strike for the 2005 season, so there is no available data

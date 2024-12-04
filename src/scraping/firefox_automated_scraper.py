@@ -60,6 +60,10 @@ while i < end_index:
         driver.get(base_url + game_url) 
         time.sleep(2)
 
+        odd_types = driver.find_element(By.CLASS_NAME, "prio-odds")
+        if "Home/Away" not in odd_types.text:
+            raise ValueError("no home/away line")
+
         # Scrape moneyline data
         avg_moneyline_1 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div[2]/div/p").text)
         avg_moneyline_2 = int(driver.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[1]/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div[3]/div/p").text)

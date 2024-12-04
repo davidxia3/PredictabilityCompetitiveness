@@ -37,10 +37,21 @@
     - OddsPortal lists 12 total regular season games that supposedly happened right before the delayed postseason, but ESPN does not list these
     - Kept default espn_id value (000000000)
     - Corrected game_type to be regular_season manually
+    - List:
+        - PHI PIT 28-07-2020
+        - CHI STL 29-07-2020
+        - WSH CAR 29-07-2020
+        - CGY EDM 28-07-2020
+        - ARI VGK 30-07-2020
+        - FLA TB 29-07-2020
+        - WPG VAN 29-07-2020
+        - DAL NSH 30-07-2020
+        - NYR NYI 29-07-2020
+        - CBJ BOS 30-07-2020
+        - MTL TOR 28-07-2020
+        - MIN COL 29-07-2020
+
 - NJ TB 10-01-2010 (listed as January 10th on OddsPortal, but listed as January 8th on ESPN)
     - Kept OddsPortal date
     - Corrected espn_id manually
     - Corrected game_type manually
-
-- SMALL BUG CURRENTLY AFFECTING ~50 games, currently being fixed
-

@@ -12,7 +12,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 11-04-2024,SEA,SJ,1,3,0,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-san-jose-sharks-88zq0YDS/#home-away;1,-289,236
 09-04-2024,SEA,ARI,5,0,1,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-arizona-coyotes-MH3S5xpi/#home-away;1,-140,121
 05-04-2024,ANA,SEA,1,3,0,NHL_2023/2024,usa/nhl-2023-2024/anaheim-ducks-seattle-kraken-4ExgkdrD/#home-away;1,140,-162
-03-04-2024,LA,SEA,5,2,1,NHL_2023/2024,usa/nhl-2023-2024/los-angeles-kings-seattle-kraken-WnaCxJb7/#home-away;1,-187,160
+05-04-2024,LA,SEA,5,2,1,NHL_2023/2024,usa/nhl-2023-2024/los-angeles-kings-seattle-kraken-WnaCxJb7/#home-away;1,140,-162
 01-04-2024,SJ,SEA,2,4,0,NHL_2023/2024,usa/nhl-2023-2024/san-jose-sharks-seattle-kraken-hrLFIOf7/#home-away;1,184,-217
 30-03-2024,SEA,DAL,0,3,0,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-dallas-stars-r9oWQnmR/#home-away;1,140,-163
 28-03-2024,SEA,ANA,4,2,1,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-anaheim-ducks-Im9oFklF/#home-away;1,-214,182
@@ -56,11 +56,11 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 18-12-2023,DAL,SEA,4,3,1,NHL_2023/2024,usa/nhl-2023-2024/dallas-stars-seattle-kraken-rXgXm9eg/#home-away;1,-184,157
 16-12-2023,SEA,LA,2,3,0,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-los-angeles-kings-fasNGFxQ/#home-away;1,130,-151
 14-12-2023,SEA,CHI,7,1,1,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-chicago-blackhawks-EqtgtZ0D/#home-away;1,-237,201
-14-12-2023,SEA,FLA,4,0,1,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-florida-panthers-QJ75kwvR/#home-away;1,-237,201
+12-12-2023,SEA,FLA,4,0,1,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-florida-panthers-QJ75kwvR/#home-away;1,145,-168
 10-12-2023,SEA,MIN,0,3,0,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-minnesota-wild-6aAaWcXl/#home-away;1,113,-132
 09-12-2023,SEA,TB,3,4,0,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-tampa-bay-lightning-vofJjSI3/#home-away;1,-103,-114
 07-12-2023,SEA,NJ,1,2,0,NHL_2023/2024,usa/nhl-2023-2024/seattle-kraken-new-jersey-devils-IFHnw9l4/#home-away;1,127,-147
-07-12-2023,MTL,SEA,4,2,1,NHL_2023/2024,usa/nhl-2023-2024/montreal-canadiens-seattle-kraken-4rOFo02C/#home-away;1,127,-147
+04-12-2023,MTL,SEA,4,2,1,NHL_2023/2024,usa/nhl-2023-2024/montreal-canadiens-seattle-kraken-4rOFo02C/#home-away;1,138,-159
 02-12-2023,OTT,SEA,2,0,1,NHL_2023/2024,usa/nhl-2023-2024/ottawa-senators-seattle-kraken-UPV2l2Ig/#home-away;1,-120,102
 30-11-2023,TOR,SEA,4,3,1,NHL_2023/2024,usa/nhl-2023-2024/toronto-maple-leafs-seattle-kraken-l6EXYMI6/#home-away;1,-180,156
 28-11-2023,CHI,SEA,4,3,1,NHL_2023/2024,usa/nhl-2023-2024/chicago-blackhawks-seattle-kraken-zcHx2z5q/#home-away;1,165,-193
@@ -191,7 +191,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 01-05-2022,WPG,SEA,4,3,1,NHL_2021/2022,usa/nhl-2021-2022/winnipeg-jets-seattle-kraken-QLlau7RA/#home-away;1,-179,155
 29-04-2022,SEA,SJ,3,0,1,NHL_2021/2022,usa/nhl-2021-2022/seattle-kraken-san-jose-sharks-SQ0wG5Gk/#home-away;1,-134,115
 27-04-2022,SEA,LA,3,5,0,NHL_2021/2022,usa/nhl-2021-2022/seattle-kraken-los-angeles-kings-ATE72nnj/#home-away;1,127,-148
-27-04-2022,VAN,SEA,5,2,1,NHL_2021/2022,usa/nhl-2021-2022/vancouver-canucks-seattle-kraken-p06ztgzC/#home-away;1,127,-148
+26-04-2022,VAN,SEA,5,2,1,NHL_2021/2022,usa/nhl-2021-2022/vancouver-canucks-seattle-kraken-p06ztgzC/#home-away;1,-190,164
 23-04-2022,DAL,SEA,3,2,1,NHL_2021/2022,usa/nhl-2021-2022/dallas-stars-seattle-kraken-bk56dKJa/#home-away;1,-284,236
 22-04-2022,MIN,SEA,6,3,1,NHL_2021/2022,usa/nhl-2021-2022/minnesota-wild-seattle-kraken-8KQR32RP/#home-away;1,-290,238
 20-04-2022,SEA,COL,3,2,1,NHL_2021/2022,usa/nhl-2021-2022/seattle-kraken-colorado-avalanche-6LBOo35s/#home-away;1,237,-287

@@ -3,10 +3,12 @@ import time
 
 
 # defining teams and league
-teams = ["PIT"]
+teams = ['ANA', 'ARI', 'BOS', 'BUF', 'CAR', 'CBJ', 'CGY', 'CHI', 'COL', 'DAL', 'DET', 'EDM', 'FLA', 'LA',
+         'MIN', 'MTL', 'NJ', 'NSH', 'NYI', 'NYR', 'OTT', 'PHI', 'PIT', 'SEA', 'SJ', 'STL', 'TB',
+         'TOR', 'VAN', 'VGK', 'WPG', 'WSH']
 league = "nhl"
 print(len(teams))
-total_games_per_team = 1800
+total_games_per_team = 2000
 chunk_size = 200
 
 
