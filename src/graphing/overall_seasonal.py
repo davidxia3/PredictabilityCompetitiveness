@@ -14,7 +14,7 @@ for i, file_path in enumerate(file_paths):
     
     df['year'] = df['season'].str.extract(r'_(\d{4})').astype(int)
     
-    df = df[(df['year'] >= 2009) & (df['year'] <= 2023)]
+    df = df[(df['year'] >= 2009) & (df['year'] <= 2021)]
     
     all_years.update(df['year'])
     
