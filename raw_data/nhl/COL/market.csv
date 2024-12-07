@@ -877,7 +877,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 08-01-2015,COL,OTT,5,2,1,NHL_2014/2015,usa/nhl-2014-2015/colorado-avalanche-ottawa-senators-M9XI4PkT/#home-away;1,-132,112
 06-01-2015,CHI,COL,0,2,0,NHL_2014/2015,usa/nhl-2014-2015/chicago-blackhawks-colorado-avalanche-ltJbQBy9/#home-away;1,-246,208
 04-01-2015,COL,CBJ,3,4,0,NHL_2014/2015,usa/nhl-2014-2015/colorado-avalanche-columbus-blue-jackets-2ZJ05Aaq/#home-away;1,-187,162
-04-01-2015,COL,EDM,2,1,1,NHL_2014/2015,usa/nhl-2014-2015/colorado-avalanche-edmonton-oilers-S83HdAih/#home-away;1,-187,162
+02-01-2015,COL,EDM,2,1,1,NHL_2014/2015,usa/nhl-2014-2015/colorado-avalanche-edmonton-oilers-S83HdAih/#home-away;1,-211,178
 31-12-2014,COL,PHI,4,3,1,NHL_2014/2015,usa/nhl-2014-2015/colorado-avalanche-philadelphia-flyers-r9as1e8c/#home-away;1,-117,100
 29-12-2014,STL,COL,3,0,1,NHL_2014/2015,usa/nhl-2014-2015/st-louis-blues-colorado-avalanche-GtKls1HO/#home-away;1,-188,161
 27-12-2014,COL,CHI,2,5,0,NHL_2014/2015,usa/nhl-2014-2015/colorado-avalanche-chicago-blackhawks-zROToP2g/#home-away;1,148,-172
@@ -1182,7 +1182,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 22-01-2011,COL,BOS,2,6,0,NHL_2010/2011,usa/nhl-2010-2011/colorado-avalanche-boston-bruins-URB64OqG/#home-away;1,-110,-112
 20-01-2011,COL,NSH,1,5,0,NHL_2010/2011,usa/nhl-2010-2011/colorado-avalanche-nashville-predators-Wbv64Xwa/#home-away;1,-138,115
 18-01-2011,COL,VAN,4,3,1,NHL_2010/2011,usa/nhl-2010-2011/colorado-avalanche-vancouver-canucks-0C7yax2J/#home-away;1,-102,-119
-18-01-2011,MIN,COL,1,4,0,NHL_2010/2011,usa/nhl-2010-2011/minnesota-wild-colorado-avalanche-KQy4RxPj/#home-away;1,-102,-119
+14-01-2011,MIN,COL,1,4,0,NHL_2010/2011,usa/nhl-2010-2011/minnesota-wild-colorado-avalanche-KQy4RxPj/#home-away;1,-104,-116
 12-01-2011,CHI,COL,4,0,1,NHL_2010/2011,usa/nhl-2010-2011/chicago-blackhawks-colorado-avalanche-ITiMMNX4/#home-away;1,-184,156
 10-01-2011,COL,DET,5,4,1,NHL_2010/2011,usa/nhl-2010-2011/colorado-avalanche-detroit-red-wings-hEYdISeP/#home-away;1,-119,-102
 08-01-2011,COL,NYI,3,4,0,NHL_2010/2011,usa/nhl-2010-2011/colorado-avalanche-new-york-islanders-8CFDQKOP/#home-away;1,-242,197
