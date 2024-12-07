@@ -5,19 +5,26 @@ file_paths = ["results/mlb_seasonal.csv", "results/nba_seasonal.csv", "results/n
 leagues = ['MLB', 'NBA', 'NHL', 'NFL']
 colors = ['blue', 'green', 'red', 'purple']
 
-data = {}
+plt.figure(figsize=(10, 6))
 
 for i, file_path in enumerate(file_paths):
     df = pd.read_csv(file_path)
-    data[leagues[i]] = df["brier_score"]
+    
+    # Extract the year from the 'season' column (e.g., "MLB_2022" -> 2022)
+    df['year'] = df['season'].str.extract(r'_(\d{4})').astype(int)
+    
+    # Plot Brier Score against the year
+    plt.plot(df['year'], df['brier_score'], color=colors[i], label=leagues[i])
 
-plt.figure(figsize=(10, 6))
-for i, (label, brier_scores) in enumerate(data.items()):
-    plt.plot(brier_scores, color=colors[i], label=label)
-
-plt.xlabel("Seasons")
+# Add labels, title, legend, and grid
+plt.xlabel("Year")
 plt.ylabel("Brier Score")
 plt.title("Seasonal Brier Scores by League")
 plt.legend()
 plt.grid(True)
+
+# Save the figure
 plt.savefig('figures/league_seasonal.png')
+
+# Display the plot
+plt.show()
