@@ -43,4 +43,8 @@ for index, row in df.iterrows():
 df = df[df['game_type'] != 'preseason']
 
 
-df.to_csv(f'processed_data/{league}_espn_combined.csv', index=False)
+save_file = f'processed_data/{league}_espn_combined.csv'
+if league == "nfl":
+    save_file = "raw_data/nfl_espn_combined.csv"
+
+df.to_csv(save_file, index=False)

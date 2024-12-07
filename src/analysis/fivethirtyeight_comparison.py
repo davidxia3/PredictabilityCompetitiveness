@@ -1,7 +1,8 @@
 import pandas as pd
 
 
-df = pd.read_csv('processed_data/nfl_espn_combined.csv')
+
+df = pd.read_csv('processed_data/nfl_espn_combined_with_elo.csv')
 
 seasons = ['NFL_2019', 'NFL_2020', 'NFL_2022', 'NFL_2023']
 

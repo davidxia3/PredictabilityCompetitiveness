@@ -7,6 +7,8 @@ import gc
 from selenium import webdriver  
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 # Selenium browser setup
 options = Options()
@@ -40,12 +42,6 @@ i = start_index
 fails = 0
 end_index = min(len(games), start_index + 200) 
 
-# Failed games CSV
-fail_file = 'failures.csv'
-if os.path.exists(fail_file):
-    failed_games = pd.read_csv(fail_file)
-else:
-    failed_games = pd.DataFrame(columns=["team", "index", "game_url"])
 
 base_url = f'https://www.oddsportal.com/{sport}/'
 
@@ -56,9 +52,14 @@ while i < end_index:
     game_url = game["game_url"] + "#home-away;1"
 
     try:
+        avg_moneyline_1 = None
+        avg_moneyline_2 = None
+        date = None
+
         # Retrieve game webpage
         driver.get(base_url + game_url) 
-        time.sleep(2)
+        time.sleep(5)
+
 
         odd_types = driver.find_element(By.CLASS_NAME, "prio-odds")
         if "Home/Away" not in odd_types.text:
@@ -92,9 +93,9 @@ while i < end_index:
         }
         total_data.append(game_data)
 
-        date = "null"
-        avg_moneyline_1 = "null"
-        avg_moneyline_2 = "null"
+        date = None
+        avg_moneyline_1 = None
+        avg_moneyline_2 = None
 
         # reset failure counter
         fails = 0
@@ -110,15 +111,6 @@ while i < end_index:
             print(f"Failed {i}. Skipping.")
             fails = 0
             i += 1
-
-            failed_games = pd.concat([
-            failed_games,
-            pd.DataFrame({
-                "team": [team],
-                "index": [i],
-                "game_url": [game_url],
-            })
-        ], ignore_index=True)
         else:
             print(f"Retrying {i}, attempt {fails}")
             time.sleep(2)
@@ -141,7 +133,5 @@ with open(market_file, mode="a", newline="", encoding="utf-8") as csv_file:
     for game_data in total_data:
         writer.writerow(game_data)
 
-# Save failures to CSV
-failed_games.to_csv(fail_file, index=False)
 
 driver.quit()

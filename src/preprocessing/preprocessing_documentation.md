@@ -16,3 +16,11 @@
 - Uses the combined market csv and the collection of json dictionaries in raw_data/espn_mapping/ to map each game with its corresponding ESPN id and game type
 - It then adds this additional information to the csv and saves it to processed_data/{league}_espn_combined.csv
 - These are the files used for analysis
+
+### src/preprocessing/fivethirtyeight_combining.py
+- Uses the "raw_data/fivethirtyeight_mapping.json" file to map games in "raw_data/fivethirtyeight_nfl_elo.csv" and games in "nfl_espn_combined.csv"
+- This adds the elo data to all available games and saves it to the final version, "processed_data/nfl_espn_combined_with_elo.csv"
+
+### src/preprocesing/fivethirtyeight_mapping.py
+- Creates the JSON dictionary ("raw_data/fivethirtyeight_mapping.json") file that contains keys that include information about the date of the game and the teams
+- The values are the respective elo based probabilistic predictions for each game

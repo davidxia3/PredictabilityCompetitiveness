@@ -3,8 +3,11 @@ from sklearn.metrics import brier_score_loss
 from sklearn.metrics import log_loss
 
 league = "nhl"
+file = f'processed_data/{league}_espn_combined.csv'
+if league == "nfl":
+    file = f'processed_data/{league}_espn_combined_with_elo.csv'
 
-df = pd.read_csv(f'processed_data/{league}_espn_combined.csv')
+df = pd.read_csv(file)
 
 teams = pd.concat([df['team_1'], df['team_2']]).unique()
 

@@ -221,7 +221,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 30-01-2022,COL,BUF,4,1,1,NHL_2021/2022,usa/nhl-2021-2022/colorado-avalanche-buffalo-sabres-ruf4zuZi/#home-away;1,-588,438
 29-01-2022,ARI,BUF,1,3,0,NHL_2021/2022,usa/nhl-2021-2022/arizona-coyotes-buffalo-sabres-CbApKJlB/#home-away;1,-139,115
 25-01-2022,OTT,BUF,5,0,1,NHL_2021/2022,usa/nhl-2021-2022/ottawa-senators-buffalo-sabres-6D5KdaAT/#home-away;1,-172,149
-25-01-2022,BUF,PHI,6,3,1,NHL_2021/2022,usa/nhl-2021-2022/buffalo-sabres-philadelphia-flyers-r1DXdJSu/#home-away;1,-172,149
+22-01-2022,BUF,PHI,6,3,1,NHL_2021/2022,usa/nhl-2021-2022/buffalo-sabres-philadelphia-flyers-r1DXdJSu/#home-away;1,120,-140
 20-01-2022,BUF,DAL,4,5,0,NHL_2021/2022,usa/nhl-2021-2022/buffalo-sabres-dallas-stars-hI9tQxbI/#home-away;1,184,-219
 18-01-2022,OTT,BUF,1,3,0,NHL_2021/2022,usa/nhl-2021-2022/ottawa-senators-buffalo-sabres-OGzBtD0k/#home-away;1,-229,192
 17-01-2022,BUF,DET,2,3,0,NHL_2021/2022,usa/nhl-2021-2022/buffalo-sabres-detroit-red-wings-OMT1Eua6/#home-away;1,127,-147
@@ -403,7 +403,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 31-03-2019,BUF,CBJ,0,4,0,NHL_2018/2019,usa/nhl-2018-2019/buffalo-sabres-columbus-blue-jackets-nyRdISF9/#home-away;1,185,-220
 30-03-2019,NYI,BUF,5,1,1,NHL_2018/2019,usa/nhl-2018-2019/new-york-islanders-buffalo-sabres-QDpS2mGM/#home-away;1,-227,191
 28-03-2019,BUF,DET,4,5,0,NHL_2018/2019,usa/nhl-2018-2019/buffalo-sabres-detroit-red-wings-2BXyhW14/#home-away;1,-156,134
-28-03-2019,OTT,BUF,4,0,1,NHL_2018/2019,usa/nhl-2018-2019/ottawa-senators-buffalo-sabres-OvPXg7kr/#home-away;1,-156,134
+26-03-2019,OTT,BUF,4,0,1,NHL_2018/2019,usa/nhl-2018-2019/ottawa-senators-buffalo-sabres-OvPXg7kr/#home-away;1,105,-123
 25-03-2019,NJ,BUF,3,1,1,NHL_2018/2019,usa/nhl-2018-2019/new-jersey-devils-buffalo-sabres-2mZlgLts/#home-away;1,-102,-114
 23-03-2019,MTL,BUF,7,4,1,NHL_2018/2019,usa/nhl-2018-2019/montreal-canadiens-buffalo-sabres-GEaftlLr/#home-away;1,-206,177
 20-03-2019,BUF,TOR,2,4,0,NHL_2018/2019,usa/nhl-2018-2019/buffalo-sabres-toronto-maple-leafs-pSGiqHyN/#home-away;1,124,-147
@@ -657,7 +657,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 29-09-2016,TOR,BUF,0,1,0,NHL_2016/2017,usa/nhl-2016-2017/toronto-maple-leafs-buffalo-sabres-UPqbGUem/#home-away;1,-113,-109
 27-09-2016,BUF,OTT,3,2,1,NHL_2016/2017,usa/nhl-2016-2017/buffalo-sabres-ottawa-senators-OY3T0kd0/#home-away;1,-121,-101
 26-09-2016,BUF,MIN,1,2,0,NHL_2016/2017,usa/nhl-2016-2017/buffalo-sabres-minnesota-wild-fyTJuW68/#home-away;1,-118,-110
-26-09-2016,NYI,BUF,3,4,0,NHL_2016/2017,usa/nhl-2015-2016/new-york-islanders-buffalo-sabres-ju6WMHMr/#home-away;1,-118,-110
+09-04-2016,NYI,BUF,3,4,0,NHL_2015/2016,usa/nhl-2015-2016/new-york-islanders-buffalo-sabres-ju6WMHMr/#home-away;1,-176,150
 08-04-2016,BUF,CBJ,1,4,0,NHL_2015/2016,usa/nhl-2015-2016/buffalo-sabres-columbus-blue-jackets-8I73JrGj/#home-away;1,-117,-102
 05-04-2016,NJ,BUF,1,3,0,NHL_2015/2016,usa/nhl-2015-2016/new-jersey-devils-buffalo-sabres-KISkEmvB/#home-away;1,-129,109
 02-04-2016,NYR,BUF,3,4,0,NHL_2015/2016,usa/nhl-2015-2016/new-york-rangers-buffalo-sabres-OW6e4CAn/#home-away;1,-224,187
@@ -901,7 +901,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 25-10-2013,FLA,BUF,1,3,0,NHL_2013/2014,usa/nhl-2013-2014/florida-panthers-buffalo-sabres-h2ZIQnNQ/#home-away;1,-144,123
 23-10-2013,BUF,BOS,2,5,0,NHL_2013/2014,usa/nhl-2013-2014/buffalo-sabres-boston-bruins-t43v5Efj/#home-away;1,147,-169
 19-10-2013,BUF,COL,2,4,0,NHL_2013/2014,usa/nhl-2013-2014/buffalo-sabres-colorado-avalanche-AL6zk24h/#home-away;1,119,-138
-19-10-2013,BUF,VAN,0,3,0,NHL_2013/2014,usa/nhl-2013-2014/buffalo-sabres-vancouver-canucks-tUUQYkEf/#home-away;1,119,-138
+17-10-2013,BUF,VAN,0,3,0,NHL_2013/2014,usa/nhl-2013-2014/buffalo-sabres-vancouver-canucks-tUUQYkEf/#home-away;1,122,-141
 15-10-2013,NYI,BUF,3,4,0,NHL_2013/2014,usa/nhl-2013-2014/new-york-islanders-buffalo-sabres-S0DFSEiL/#home-away;1,-199,170
 14-10-2013,BUF,MIN,1,2,0,NHL_2013/2014,usa/nhl-2013-2014/buffalo-sabres-minnesota-wild-KzA7UzN8/#home-away;1,128,-147
 12-10-2013,CHI,BUF,2,1,1,NHL_2013/2014,usa/nhl-2013-2014/chicago-blackhawks-buffalo-sabres-hAgvffod/#home-away;1,-244,207
@@ -1070,7 +1070,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 08-03-2011,PIT,BUF,3,1,1,NHL_2010/2011,usa/nhl-2010-2011/pittsburgh-penguins-buffalo-sabres-MyHtEMcf/#home-away;1,-128,106
 06-03-2011,MIN,BUF,2,3,0,NHL_2010/2011,usa/nhl-2010-2011/minnesota-wild-buffalo-sabres-lIP22qEl/#home-away;1,-140,116
 05-03-2011,PHI,BUF,3,5,0,NHL_2010/2011,usa/nhl-2010-2011/philadelphia-flyers-buffalo-sabres-vXNS6YaG/#home-away;1,-188,159
-05-03-2011,CAR,BUF,3,2,1,NHL_2010/2011,usa/nhl-2010-2011/carolina-hurricanes-buffalo-sabres-tlKHdcWi/#home-away;1,-188,159
+03-03-2011,CAR,BUF,3,2,1,NHL_2010/2011,usa/nhl-2010-2011/carolina-hurricanes-buffalo-sabres-tlKHdcWi/#home-away;1,-135,112
 01-03-2011,NYR,BUF,2,3,0,NHL_2010/2011,usa/nhl-2010-2011/new-york-rangers-buffalo-sabres-AihoX0In/#home-away;1,-129,106
 26-02-2011,BUF,DET,2,3,0,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-detroit-red-wings-SWKfprCn/#home-away;1,-104,-117
 25-02-2011,BUF,OTT,4,2,1,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-ottawa-senators-tWvIWrcg/#home-away;1,-211,173
@@ -1113,7 +1113,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 20-11-2010,BUF,TB,1,2,0,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-tampa-bay-lightning-zFiSjuE4/#home-away;1,-144,120
 19-11-2010,BUF,LA,4,2,1,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-los-angeles-kings-lzRYxMq5/#home-away;1,-131,108
 17-11-2010,WSH,BUF,4,2,1,NHL_2010/2011,usa/nhl-2010-2011/washington-capitals-buffalo-sabres-4UZ09NFI/#home-away;1,-192,163
-17-11-2010,BUF,VAN,4,3,1,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-vancouver-canucks-z7L89W91/#home-away;1,-192,163
+15-11-2010,BUF,VAN,4,3,1,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-vancouver-canucks-z7L89W91/#home-away;1,-111,-111
 13-11-2010,BUF,WSH,3,2,1,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-washington-capitals-OAlW5HIF/#home-away;1,100,-121
 11-11-2010,NYR,BUF,3,2,1,NHL_2010/2011,usa/nhl-2010-2011/new-york-rangers-buffalo-sabres-0Ww4CmGS/#home-away;1,-154,130
 10-11-2010,NJ,BUF,4,5,0,NHL_2010/2011,usa/nhl-2010-2011/new-jersey-devils-buffalo-sabres-zs4xflfp/#home-away;1,-136,113
@@ -1126,7 +1126,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 23-10-2010,NJ,BUF,1,6,0,NHL_2010/2011,usa/nhl-2010-2011/new-jersey-devils-buffalo-sabres-GdBg37kl/#home-away;1,-151,127
 22-10-2010,BUF,OTT,2,4,0,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-ottawa-senators-KdG93JO1/#home-away;1,-155,131
 20-10-2010,WPG,BUF,1,4,0,NHL_2010/2011,usa/nhl-2010-2011/winnipeg-jets-buffalo-sabres-KK8FapI9/#home-away;1,-109,-113
-20-10-2010,CHI,BUF,4,3,1,NHL_2010/2011,usa/nhl-2010-2011/chicago-blackhawks-buffalo-sabres-rXU5qhsI/#home-away;1,-109,-113
+16-10-2010,CHI,BUF,4,3,1,NHL_2010/2011,usa/nhl-2010-2011/chicago-blackhawks-buffalo-sabres-rXU5qhsI/#home-away;1,-186,159
 15-10-2010,BUF,MTL,1,2,0,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-montreal-canadiens-UVP3Xfr6/#home-away;1,-152,128
 13-10-2010,BUF,NJ,0,1,0,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-new-jersey-devils-bayITLyE/#home-away;1,-144,120
 11-10-2010,BUF,CHI,3,4,0,NHL_2010/2011,usa/nhl-2010-2011/buffalo-sabres-chicago-blackhawks-OdsA8Kal/#home-away;1,-130,108
@@ -1245,7 +1245,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 19-02-2009,PHI,BUF,6,3,1,NHL_2008/2009,usa/nhl-2008-2009/philadelphia-flyers-buffalo-sabres-xIyaJQnI/#home-away;1,-159,133
 17-02-2009,TOR,BUF,1,4,0,NHL_2008/2009,usa/nhl-2008-2009/toronto-maple-leafs-buffalo-sabres-QTKiP8ca/#home-away;1,106,-129
 15-02-2009,BUF,CAR,0,3,0,NHL_2008/2009,usa/nhl-2008-2009/buffalo-sabres-carolina-hurricanes-O4EpJKDO/#home-away;1,-159,150
-15-02-2009,BUF,SJ,6,5,1,NHL_2008/2009,usa/nhl-2008-2009/buffalo-sabres-san-jose-sharks-6P355pMl/#home-away;1,-159,150
+13-02-2009,BUF,SJ,6,5,1,NHL_2008/2009,usa/nhl-2008-2009/buffalo-sabres-san-jose-sharks-6P355pMl/#home-away;1,150,-154
 11-02-2009,BUF,OTT,1,3,0,NHL_2008/2009,usa/nhl-2008-2009/buffalo-sabres-ottawa-senators-zuxHswdk/#home-away;1,-156,152
 07-02-2009,OTT,BUF,3,2,1,NHL_2008/2009,usa/nhl-2008-2009/ottawa-senators-buffalo-sabres-672tTsmh/#home-away;1,-101,-109
 06-02-2009,BUF,MTL,3,2,1,NHL_2008/2009,usa/nhl-2008-2009/buffalo-sabres-montreal-canadiens-YVV4mjPD/#home-away;1,-127,116

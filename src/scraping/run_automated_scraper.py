@@ -3,8 +3,8 @@ import time
 
 
 # defining teams and league
-teams = ['ANA', 'ARI', 'BOS', 'BUF', 'CAR', 'CBJ', 'CGY', 'CHI', 'COL', 'DAL', 'DET', 'EDM', 'FLA', 'LA',
-         'MIN', 'MTL', 'NJ', 'NSH', 'NYI', 'NYR', 'OTT', 'PHI', 'PIT', 'SEA', 'SJ', 'STL', 'TB',
+teams = ['CAR', 'CBJ', 'CGY', 'CHI', 'COL', 'DAL', 'DET', 'EDM', 'FLA', 'LA',
+         'MIN', 'MTL', 'NJ', 'NSH', 'NYI', 'NYR', 'OTT', 'PHI', 'SEA', 'SJ', 'STL', 'TB',
          'TOR', 'VAN', 'VGK', 'WPG', 'WSH']
 league = "nhl"
 print(len(teams))

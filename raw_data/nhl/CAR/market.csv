@@ -263,7 +263,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 21-01-2022,CAR,NYR,6,3,1,NHL_2021/2022,usa/nhl-2021-2022/carolina-hurricanes-new-york-rangers-xnVBuIc5/#home-away;1,-218,182
 18-01-2022,BOS,CAR,1,7,0,NHL_2021/2022,usa/nhl-2021-2022/boston-bruins-carolina-hurricanes-YiBhy36J/#home-away;1,-134,115
 15-01-2022,CAR,VAN,4,1,1,NHL_2021/2022,usa/nhl-2021-2022/carolina-hurricanes-vancouver-canucks-pCdYSgWk/#home-away;1,-196,169
-15-01-2022,CAR,CBJ,0,6,0,NHL_2021/2022,usa/nhl-2021-2022/carolina-hurricanes-columbus-blue-jackets-tb8rHMcj/#home-away;1,-196,169
+13-01-2022,CAR,CBJ,0,6,0,NHL_2021/2022,usa/nhl-2021-2022/carolina-hurricanes-columbus-blue-jackets-tb8rHMcj/#home-away;1,-290,240
 08-01-2022,CAR,FLA,3,4,0,NHL_2021/2022,usa/nhl-2021-2022/carolina-hurricanes-florida-panthers-Au13e6yU/#home-away;1,-106,-109
 07-01-2022,CAR,CGY,6,3,1,NHL_2021/2022,usa/nhl-2021-2022/carolina-hurricanes-calgary-flames-EuhWQCq5/#home-away;1,-186,161
 01-01-2022,CBJ,CAR,4,7,0,NHL_2021/2022,usa/nhl-2021-2022/columbus-blue-jackets-carolina-hurricanes-MHHNwsAR/#home-away;1,174,-206
@@ -356,7 +356,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 17-02-2021,CAR,FLA,3,4,0,NHL_2020/2021,usa/nhl-2020-2021/carolina-hurricanes-florida-panthers-WvFs68Gc/#home-away;1,-137,118
 15-02-2021,CAR,CBJ,7,3,1,NHL_2020/2021,usa/nhl-2020-2021/carolina-hurricanes-columbus-blue-jackets-pKAYcuaH/#home-away;1,-178,154
 13-02-2021,DAL,CAR,3,4,0,NHL_2020/2021,usa/nhl-2020-2021/dallas-stars-carolina-hurricanes-jNfLXroC/#home-away;1,104,-121
-13-02-2021,DAL,CAR,3,5,0,NHL_2020/2021,usa/nhl-2020-2021/dallas-stars-carolina-hurricanes-j3SZLon0/#home-away;1,104,-121
+11-02-2021,DAL,CAR,3,5,0,NHL_2020/2021,usa/nhl-2020-2021/dallas-stars-carolina-hurricanes-j3SZLon0/#home-away;1,107,-124
 08-02-2021,CBJ,CAR,3,2,1,NHL_2020/2021,usa/nhl-2020-2021/columbus-blue-jackets-carolina-hurricanes-OUmCTxl9/#home-away;1,125,-145
 07-02-2021,CBJ,CAR,5,6,0,NHL_2020/2021,usa/nhl-2020-2021/columbus-blue-jackets-carolina-hurricanes-46GFOSpp/#home-away;1,128,-150
 04-02-2021,CHI,CAR,6,4,1,NHL_2020/2021,usa/nhl-2020-2021/chicago-blackhawks-carolina-hurricanes-QHMJ6fPb/#home-away;1,157,-181
@@ -424,7 +424,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 21-11-2019,CAR,PHI,3,5,0,NHL_2019/2020,usa/nhl-2019-2020/carolina-hurricanes-philadelphia-flyers-6Fv13i09/#home-away;1,-152,131
 19-11-2019,CHI,CAR,2,4,0,NHL_2019/2020,usa/nhl-2019-2020/chicago-blackhawks-carolina-hurricanes-xrs9rjOq/#home-away;1,105,-124
 16-11-2019,MIN,CAR,3,4,0,NHL_2019/2020,usa/nhl-2019-2020/minnesota-wild-carolina-hurricanes-Sp9xh3et/#home-away;1,-103,-115
-16-11-2019,BUF,CAR,4,5,0,NHL_2019/2020,usa/nhl-2019-2020/buffalo-sabres-carolina-hurricanes-4lT8xOeg/#home-away;1,-103,-115
+14-11-2019,BUF,CAR,4,5,0,NHL_2019/2020,usa/nhl-2019-2020/buffalo-sabres-carolina-hurricanes-4lT8xOeg/#home-away;1,114,-134
 11-11-2019,CAR,OTT,8,2,1,NHL_2019/2020,usa/nhl-2019-2020/carolina-hurricanes-ottawa-senators-UmKMjTYg/#home-away;1,-244,204
 09-11-2019,OTT,CAR,4,1,1,NHL_2019/2020,usa/nhl-2019-2020/ottawa-senators-carolina-hurricanes-Aqmdz8lD/#home-away;1,153,-177
 07-11-2019,CAR,NYR,2,4,0,NHL_2019/2020,usa/nhl-2019-2020/carolina-hurricanes-new-york-rangers-4jrFzs98/#home-away;1,-281,233
@@ -532,7 +532,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 08-11-2018,CHI,CAR,3,4,0,NHL_2018/2019,usa/nhl-2018-2019/chicago-blackhawks-carolina-hurricanes-IRTwqupO/#home-away;1,-103,-115
 03-11-2018,VGK,CAR,3,0,1,NHL_2018/2019,usa/nhl-2018-2019/vegas-golden-knights-carolina-hurricanes-pKARn8S8/#home-away;1,-140,120
 02-11-2018,ARI,CAR,4,3,1,NHL_2018/2019,usa/nhl-2018-2019/arizona-coyotes-carolina-hurricanes-reQSR6jq/#home-away;1,-103,-113
-02-11-2018,CAR,BOS,2,3,0,NHL_2018/2019,usa/nhl-2018-2019/carolina-hurricanes-boston-bruins-fDp9YH7b/#home-away;1,-103,-113
+30-10-2018,CAR,BOS,2,3,0,NHL_2018/2019,usa/nhl-2018-2019/carolina-hurricanes-boston-bruins-fDp9YH7b/#home-away;1,-131,112
 28-10-2018,CAR,NYI,1,2,0,NHL_2018/2019,usa/nhl-2018-2019/carolina-hurricanes-new-york-islanders-8drcyKNu/#home-away;1,-221,185
 26-10-2018,CAR,SJ,4,3,1,NHL_2018/2019,usa/nhl-2018-2019/carolina-hurricanes-san-jose-sharks-CUSIN0gt/#home-away;1,-115,-102
 22-10-2018,DET,CAR,1,3,0,NHL_2018/2019,usa/nhl-2018-2019/detroit-red-wings-carolina-hurricanes-lI8P9DD0/#home-away;1,129,-151
@@ -935,7 +935,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 10-01-2014,CBJ,CAR,3,0,1,NHL_2013/2014,usa/nhl-2013-2014/columbus-blue-jackets-carolina-hurricanes-6enzZz7j/#home-away;1,-151,132
 09-01-2014,CAR,TOR,6,1,1,NHL_2013/2014,usa/nhl-2013-2014/carolina-hurricanes-toronto-maple-leafs-nXdyos0o/#home-away;1,-127,109
 05-01-2014,CAR,NSH,2,1,1,NHL_2013/2014,usa/nhl-2013-2014/carolina-hurricanes-nashville-predators-GAa5Vtq1/#home-away;1,-126,109
-05-01-2014,NYI,CAR,2,3,0,NHL_2013/2014,usa/nhl-2013-2014/new-york-islanders-carolina-hurricanes-Cf8FuR68/#home-away;1,-126,109
+04-01-2014,NYI,CAR,2,3,0,NHL_2013/2014,usa/nhl-2013-2014/new-york-islanders-carolina-hurricanes-Cf8FuR68/#home-away;1,-124,107
 02-01-2014,WSH,CAR,3,4,0,NHL_2013/2014,usa/nhl-2013-2014/washington-capitals-carolina-hurricanes-bV65El89/#home-away;1,-150,131
 31-12-2013,CAR,MTL,5,4,1,NHL_2013/2014,usa/nhl-2013-2014/carolina-hurricanes-montreal-canadiens-YBcIFwmn/#home-away;1,100,-117
 29-12-2013,TOR,CAR,5,2,1,NHL_2013/2014,usa/nhl-2013-2014/toronto-maple-leafs-carolina-hurricanes-jmAMqw3I/#home-away;1,-132,114
@@ -1064,7 +1064,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 21-01-2012,NYI,CAR,2,1,1,NHL_2011/2012,usa/nhl-2011-2012/new-york-islanders-carolina-hurricanes-OCFlbBB9/#home-away;1,-150,125
 20-01-2012,CAR,WSH,3,0,1,NHL_2011/2012,usa/nhl-2011-2012/carolina-hurricanes-washington-capitals-YeShcvLb/#home-away;1,-109,-114
 17-01-2012,PIT,CAR,2,1,1,NHL_2011/2012,usa/nhl-2011-2012/pittsburgh-penguins-carolina-hurricanes-nNbTwQEJ/#home-away;1,-205,169
-17-01-2012,WSH,CAR,2,1,1,NHL_2011/2012,usa/nhl-2011-2012/washington-capitals-carolina-hurricanes-0IEq5PN0/#home-away;1,-205,169
+15-01-2012,WSH,CAR,2,1,1,NHL_2011/2012,usa/nhl-2011-2012/washington-capitals-carolina-hurricanes-0IEq5PN0/#home-away;1,-210,173
 14-01-2012,CAR,BOS,4,2,1,NHL_2011/2012,usa/nhl-2011-2012/carolina-hurricanes-boston-bruins-SMg03Cnd/#home-away;1,175,-213
 12-01-2012,TB,CAR,2,5,0,NHL_2011/2012,usa/nhl-2011-2012/tampa-bay-lightning-carolina-hurricanes-QHa8FUE4/#home-away;1,-163,136
 10-01-2012,CAR,PHI,1,2,0,NHL_2011/2012,usa/nhl-2011-2012/carolina-hurricanes-philadelphia-flyers-6JsyjY0a/#home-away;1,138,-165

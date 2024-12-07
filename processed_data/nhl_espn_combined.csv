@@ -143,7 +143,7 @@ date,tournament,team_1,team_2,score_1,score_2,result,avg_moneyline_1,avg_moneyli
 20-11-2022,NHL_2023,CHI,PIT,3,5,0,193,-229,0.329,usa/nhl-2022-2023/chicago-blackhawks-pittsburgh-penguins-QkYtxT3a/#home-away;1,401458878,regular_season
 19-11-2022,NHL_2023,WPG,PIT,0,3,0,107,-125,0.4651,usa/nhl-2022-2023/winnipeg-jets-pittsburgh-penguins-Gf1NRFK3/#home-away;1,401458877,regular_season
 17-11-2022,NHL_2023,MIN,PIT,4,6,0,107,-108,0.4819,usa/nhl-2022-2023/minnesota-wild-pittsburgh-penguins-vL4dA4da/#home-away;1,401458853,regular_season
-17-11-2022,NHL_2023,PIT,TOR,2,5,0,107,-108,0.4819,usa/nhl-2022-2023/pittsburgh-penguins-toronto-maple-leafs-dxsSOITr/#home-away;1,401458853,regular_season
+15-11-2022,NHL_2023,PIT,TOR,2,5,0,104,-114,0.4792,usa/nhl-2022-2023/pittsburgh-penguins-toronto-maple-leafs-dxsSOITr/#home-away;1,401458843,regular_season
 12-11-2022,NHL_2023,MTL,PIT,5,4,1,145,-169,0.3938,usa/nhl-2022-2023/montreal-canadiens-pittsburgh-penguins-OOMlBaaq/#home-away;1,401458820,regular_season
 11-11-2022,NHL_2023,TOR,PIT,2,4,0,-153,132,0.5838,usa/nhl-2022-2023/toronto-maple-leafs-pittsburgh-penguins-AHtEH1MF/#home-away;1,401458812,regular_season
 09-11-2022,NHL_2023,WSH,PIT,1,4,0,106,-125,0.4663,usa/nhl-2022-2023/washington-capitals-pittsburgh-penguins-xtEVUywj/#home-away;1,401458799,regular_season
@@ -312,7 +312,7 @@ date,tournament,team_1,team_2,score_1,score_2,result,avg_moneyline_1,avg_moneyli
 05-08-2020,NHL_2020,MTL,PIT,4,3,1,146,-172,0.3912,usa/nhl-2019-2020/montreal-canadiens-pittsburgh-penguins-nszhDICm/#home-away;1,401230379,postseason
 03-08-2020,NHL_2020,PIT,MTL,3,1,1,-178,152,0.6173,usa/nhl-2019-2020/pittsburgh-penguins-montreal-canadiens-l6fHJKZJ/#home-away;1,401230347,postseason
 01-08-2020,NHL_2020,PIT,MTL,2,3,0,-167,140,0.6001,usa/nhl-2019-2020/pittsburgh-penguins-montreal-canadiens-zkizeycJ/#home-away;1,401230342,postseason
-28-07-2020,NHL_2020,PHI,PIT,3,2,1,101,-132,0.4665,usa/nhl-2019-2020/philadelphia-flyers-pittsburgh-penguins-2uBwt5Im/#home-away;1,000000000,regular_season
+28-07-2020,NHL_2020,PHI,PIT,3,2,1,101,-132,0.4665,usa/nhl-2019-2020/philadelphia-flyers-pittsburgh-penguins-2uBwt5Im/#home-away;1,000000000,N/A
 10-03-2020,NHL_2020,NJ,PIT,2,5,0,150,-172,0.3874,usa/nhl-2019-2020/new-jersey-devils-pittsburgh-penguins-xKh4U7Ki/#home-away;1,401146113,regular_season
 08-03-2020,NHL_2020,PIT,CAR,2,6,0,-169,145,0.6061,usa/nhl-2019-2020/pittsburgh-penguins-carolina-hurricanes-txesFSK4/#home-away;1,401146100,regular_season
 07-03-2020,NHL_2020,PIT,WSH,2,5,0,-132,112,0.5467,usa/nhl-2019-2020/pittsburgh-penguins-washington-capitals-UswV4Tv7/#home-away;1,401146091,regular_season
@@ -700,7 +700,7 @@ date,tournament,team_1,team_2,score_1,score_2,result,avg_moneyline_1,avg_moneyli
 15-03-2016,NHL_2016,PIT,NYI,2,1,1,-172,150,0.6125,usa/nhl-2015-2016/pittsburgh-penguins-new-york-islanders-Y5IQ6jEf/#home-away;1,400815904,regular_season
 13-03-2016,NHL_2016,NYR,PIT,3,5,0,-113,104,0.5197,usa/nhl-2015-2016/new-york-rangers-pittsburgh-penguins-ptpwGfi8/#home-away;1,400815894,regular_season
 11-03-2016,NHL_2016,CBJ,PIT,2,3,0,140,-162,0.4025,usa/nhl-2015-2016/columbus-blue-jackets-pittsburgh-penguins-CM0LvYU1/#home-away;1,400815877,regular_season
-08-03-2016,NHL_2016,NYI,PIT,2,1,1,100,-115,0.4832,usa/nhl-2015-2016/new-york-islanders-pittsburgh-penguins-ET1glWq8/#home-away;1,400815858,regular_season
+08-03-2016,NHL_2016,NYI,PIT,2,1,1,100,-115,0.4831,usa/nhl-2015-2016/new-york-islanders-pittsburgh-penguins-ET1glWq8/#home-away;1,400815858,regular_season
 06-03-2016,NHL_2016,NJ,PIT,1,6,0,133,-153,0.4151,usa/nhl-2015-2016/new-jersey-devils-pittsburgh-penguins-C0uOYjpL/#home-away;1,400815845,regular_season
 05-03-2016,NHL_2016,PIT,CGY,2,4,0,-278,236,0.7119,usa/nhl-2015-2016/pittsburgh-penguins-calgary-flames-UcFsj7Xo/#home-away;1,400815834,regular_season
 03-03-2016,NHL_2016,PIT,NYR,4,1,1,-142,121,0.5646,usa/nhl-2015-2016/pittsburgh-penguins-new-york-rangers-vFutIqrp/#home-away;1,400815821,regular_season
@@ -1348,7 +1348,7 @@ date,tournament,team_1,team_2,score_1,score_2,result,avg_moneyline_1,avg_moneyli
 20-12-2008,NHL_2009,PIT,TOR,3,7,0,-213,190,0.6636,usa/nhl-2008-2009/pittsburgh-penguins-toronto-maple-leafs-8C8G8xt7/#home-away;1,281220016,regular_season
 18-12-2008,NHL_2009,WPG,PIT,3,6,0,145,-149,0.4055,usa/nhl-2008-2009/winnipeg-jets-pittsburgh-penguins-AsKOutZF/#home-away;1,281218028,regular_season
 13-12-2008,NHL_2009,PHI,PIT,6,3,1,-125,114,0.5431,usa/nhl-2008-2009/philadelphia-flyers-pittsburgh-penguins-fXtpP3ZP/#home-away;1,281213015,regular_season
-13-12-2008,NHL_2009,PIT,NYI,9,2,1,-125,114,0.5431,usa/nhl-2008-2009/pittsburgh-penguins-new-york-islanders-zid7EVSq/#home-away;1,281213015,regular_season
+11-12-2008,NHL_2009,PIT,NYI,9,2,1,-222,190,0.6665,usa/nhl-2008-2009/pittsburgh-penguins-new-york-islanders-zid7EVSq/#home-away;1,281211016,regular_season
 10-12-2008,NHL_2009,NJ,PIT,4,1,1,-122,112,0.5381,usa/nhl-2008-2009/new-jersey-devils-pittsburgh-penguins-KzWipQgR/#home-away;1,281210011,regular_season
 08-12-2008,NHL_2009,PIT,BUF,3,4,0,-167,156,0.6155,usa/nhl-2008-2009/pittsburgh-penguins-buffalo-sabres-buIeAIY1/#home-away;1,281208016,regular_season
 06-12-2008,NHL_2009,OTT,PIT,3,2,1,102,-108,0.488,usa/nhl-2008-2009/ottawa-senators-pittsburgh-penguins-jJjfDLzT/#home-away;1,281206014,regular_season
@@ -1663,7 +1663,7 @@ date,tournament,team_1,team_2,score_1,score_2,result,avg_moneyline_1,avg_moneyli
 05-08-2020,NHL_2020,CHI,EDM,4,3,1,114,-136,0.4477,usa/nhl-2019-2020/chicago-blackhawks-edmonton-oilers-veqwJmq9/#home-away;1,401230380,postseason
 03-08-2020,NHL_2020,EDM,CHI,6,3,1,-141,117,0.5593,usa/nhl-2019-2020/edmonton-oilers-chicago-blackhawks-SKuZJTT2/#home-away;1,401230360,postseason
 01-08-2020,NHL_2020,EDM,CHI,4,6,0,-141,119,0.5616,usa/nhl-2019-2020/edmonton-oilers-chicago-blackhawks-QF1jepi2/#home-away;1,401230343,postseason
-29-07-2020,NHL_2020,CHI,STL,4,0,1,130,-170,0.4084,usa/nhl-2019-2020/chicago-blackhawks-st-louis-blues-fePnxNHC/#home-away;1,000000000,regular_season
+29-07-2020,NHL_2020,CHI,STL,4,0,1,130,-170,0.4084,usa/nhl-2019-2020/chicago-blackhawks-st-louis-blues-fePnxNHC/#home-away;1,000000000,N/A
 11-03-2020,NHL_2020,CHI,SJ,6,2,1,-168,146,0.6066,usa/nhl-2019-2020/chicago-blackhawks-san-jose-sharks-zZlPPqZM/#home-away;1,401146120,regular_season
 08-03-2020,NHL_2020,CHI,STL,0,2,0,116,-136,0.4454,usa/nhl-2019-2020/chicago-blackhawks-st-louis-blues-2iqjD6kH/#home-away;1,401146102,regular_season
 06-03-2020,NHL_2020,DET,CHI,2,1,1,169,-196,0.3595,usa/nhl-2019-2020/detroit-red-wings-chicago-blackhawks-YFqM6kAf/#home-away;1,401146085,regular_season
@@ -1762,7 +1762,7 @@ date,tournament,team_1,team_2,score_1,score_2,result,avg_moneyline_1,avg_moneyli
 01-02-2019,NHL_2019,BUF,CHI,3,7,0,-166,141,0.6006,usa/nhl-2018-2019/buffalo-sabres-chicago-blackhawks-hbi0In5m/#home-away;1,401045101,regular_season
 22-01-2019,NHL_2019,CHI,NYI,3,2,1,121,-142,0.4353,usa/nhl-2018-2019/chicago-blackhawks-new-york-islanders-tGFlNyiF/#home-away;1,401045082,regular_season
 20-01-2019,NHL_2019,CHI,WSH,8,5,1,132,-156,0.4142,usa/nhl-2018-2019/chicago-blackhawks-washington-capitals-t0RQ7diS/#home-away;1,401045071,regular_season
-17-01-2019,NHL_2019,NYR,CHI,4,3,1,-121,103,0.5263,usa/nhl-2018-2019/new-york-rangers-chicago-blackhawks-C6fycuwA/#home-away;1,401045048,regular_season
+20-01-2019,NHL_2019,NYR,CHI,4,3,1,132,-156,0.4142,usa/nhl-2018-2019/new-york-rangers-chicago-blackhawks-C6fycuwA/#home-away;1,000000000,N/A
 14-01-2019,NHL_2019,NJ,CHI,8,5,1,-161,135,0.5917,usa/nhl-2018-2019/new-jersey-devils-chicago-blackhawks-htn4i4rs/#home-away;1,401045027,regular_season
 12-01-2019,NHL_2019,CHI,VGK,3,4,0,145,-173,0.3917,usa/nhl-2018-2019/chicago-blackhawks-vegas-golden-knights-Ma2pyqb0/#home-away;1,401045014,regular_season
 09-01-2019,NHL_2019,CHI,NSH,3,4,0,157,-186,0.3743,usa/nhl-2018-2019/chicago-blackhawks-nashville-predators-n73Nrz09/#home-away;1,401044988,regular_season
@@ -5152,7 +5152,7 @@ date,tournament,team_1,team_2,score_1,score_2,result,avg_moneyline_1,avg_moneyli
 04-08-2020,NHL_2020,NYR,CAR,1,4,0,115,-136,0.4466,usa/nhl-2019-2020/new-york-rangers-carolina-hurricanes-jwcu3G4n/#home-away;1,401230363,postseason
 03-08-2020,NHL_2020,CAR,NYR,4,1,1,-144,121,0.566,usa/nhl-2019-2020/carolina-hurricanes-new-york-rangers-Kf698xsP/#home-away;1,401230346,postseason
 01-08-2020,NHL_2020,CAR,NYR,3,2,1,-138,116,0.556,usa/nhl-2019-2020/carolina-hurricanes-new-york-rangers-xWS4AGd6/#home-away;1,401230340,postseason
-29-07-2020,NHL_2020,WSH,CAR,3,2,1,-133,102,0.5355,usa/nhl-2019-2020/washington-capitals-carolina-hurricanes-0YPrw326/#home-away;1,000000000,regular_season
+29-07-2020,NHL_2020,WSH,CAR,3,2,1,-133,102,0.5355,usa/nhl-2019-2020/washington-capitals-carolina-hurricanes-0YPrw326/#home-away;1,000000000,N/A
 10-03-2020,NHL_2020,DET,CAR,2,5,0,216,-255,0.3058,usa/nhl-2019-2020/detroit-red-wings-carolina-hurricanes-ppdCSok4/#home-away;1,401146115,regular_season
 07-03-2020,NHL_2020,NYI,CAR,2,3,0,-123,105,0.5306,usa/nhl-2019-2020/new-york-islanders-carolina-hurricanes-nJmQ59P0/#home-away;1,401146090,regular_season
 05-03-2020,NHL_2020,PHI,CAR,4,1,1,-131,111,0.5447,usa/nhl-2019-2020/philadelphia-flyers-carolina-hurricanes-tI4sEXHK/#home-away;1,401146078,regular_season
@@ -5599,7 +5599,7 @@ date,tournament,team_1,team_2,score_1,score_2,result,avg_moneyline_1,avg_moneyli
 10-01-2014,NHL_2014,CBJ,CAR,3,0,1,-151,132,0.5825,usa/nhl-2013-2014/columbus-blue-jackets-carolina-hurricanes-6enzZz7j/#home-away;1,400484914,regular_season
 09-01-2014,NHL_2014,CAR,TOR,6,1,1,-127,109,0.539,usa/nhl-2013-2014/carolina-hurricanes-toronto-maple-leafs-nXdyos0o/#home-away;1,400484905,regular_season
 05-01-2014,NHL_2014,CAR,NSH,2,1,1,-126,109,0.5381,usa/nhl-2013-2014/carolina-hurricanes-nashville-predators-GAa5Vtq1/#home-away;1,400484882,regular_season
-04-01-2014,NHL_2014,NYI,CAR,2,3,0,-124,107,0.5339,usa/nhl-2013-2014/new-york-islanders-carolina-hurricanes-Cf8FuR68/#home-away;1,400484875,regular_season
+05-01-2014,NHL_2014,NYI,CAR,2,3,0,-126,109,0.5381,usa/nhl-2013-2014/new-york-islanders-carolina-hurricanes-Cf8FuR68/#home-away;1,000000000,N/A
 02-01-2014,NHL_2014,WSH,CAR,3,4,0,-150,131,0.5808,usa/nhl-2013-2014/washington-capitals-carolina-hurricanes-bV65El89/#home-away;1,400484857,regular_season
 31-12-2013,NHL_2014,CAR,MTL,5,4,1,100,-117,0.4811,usa/nhl-2013-2014/carolina-hurricanes-montreal-canadiens-YBcIFwmn/#home-away;1,400484846,regular_season
 29-12-2013,NHL_2014,TOR,CAR,5,2,1,-132,114,0.549,usa/nhl-2013-2014/toronto-maple-leafs-carolina-hurricanes-jmAMqw3I/#home-away;1,400484833,regular_season
@@ -6234,7 +6234,7 @@ date,tournament,team_1,team_2,score_1,score_2,result,avg_moneyline_1,avg_moneyli
 04-08-2020,NHL_2020,WPG,CGY,2,6,0,136,-161,0.4072,usa/nhl-2019-2020/winnipeg-jets-calgary-flames-t4ZeCxSg/#home-away;1,401230376,postseason
 03-08-2020,NHL_2020,CGY,WPG,2,3,0,-166,142,0.6016,usa/nhl-2019-2020/calgary-flames-winnipeg-jets-SdgLIvkQ/#home-away;1,401230359,postseason
 01-08-2020,NHL_2020,CGY,WPG,4,1,1,-131,109,0.5423,usa/nhl-2019-2020/calgary-flames-winnipeg-jets-dbhWeHsD/#home-away;1,401230344,postseason
-28-07-2020,NHL_2020,CGY,EDM,1,4,0,105,-130,0.4632,usa/nhl-2019-2020/calgary-flames-edmonton-oilers-21nEhr2g/#home-away;1,000000000,regular_season
+28-07-2020,NHL_2020,CGY,EDM,1,4,0,105,-130,0.4632,usa/nhl-2019-2020/calgary-flames-edmonton-oilers-21nEhr2g/#home-away;1,000000000,N/A
 08-03-2020,NHL_2020,CGY,VGK,3,5,0,107,-110,0.4797,usa/nhl-2019-2020/calgary-flames-vegas-golden-knights-xvNYFNNl/#home-away;1,401146103,regular_season
 06-03-2020,NHL_2020,CGY,ARI,3,2,1,-146,125,0.5718,usa/nhl-2019-2020/calgary-flames-arizona-coyotes-6PTBamLH/#home-away;1,401146087,regular_season
 04-03-2020,NHL_2020,CGY,CBJ,3,2,1,-179,154,0.6197,usa/nhl-2019-2020/calgary-flames-columbus-blue-jackets-lKiL9XrP/#home-away;1,401146071,regular_season
@@ -7544,7 +7544,7 @@ date,tournament,team_1,team_2,score_1,score_2,result,avg_moneyline_1,avg_moneyli
 31-10-2014,NHL_2015,DET,LA,5,2,1,-135,115,0.5525,usa/nhl-2014-2015/detroit-red-wings-los-angeles-kings-CM0YDwxI/#home-away;1,400564090,regular_season
 29-10-2014,NHL_2015,WSH,DET,2,4,0,-128,110,0.541,usa/nhl-2014-2015/washington-capitals-detroit-red-wings-ClN5CQ0D/#home-away;1,400564089,regular_season
 25-10-2014,NHL_2015,PHI,DET,4,2,1,107,-110,0.4797,usa/nhl-2014-2015/philadelphia-flyers-detroit-red-wings-hvVv8B9R/#home-away;1,400564088,regular_season
-21-10-2014,NHL_2015,MTL,DET,2,1,1,102,-120,0.4757,usa/nhl-2014-2015/montreal-canadiens-detroit-red-wings-W0YI2p8S/#home-away;1,000000000,N/A
+23-10-2014,NHL_2015,MTL,DET,2,1,1,102,-120,0.4757,usa/nhl-2014-2015/montreal-canadiens-detroit-red-wings-W0YI2p8S/#home-away;1,000000000,N/A
 18-10-2014,NHL_2015,DET,TOR,1,0,1,-122,104,0.5285,usa/nhl-2014-2015/detroit-red-wings-toronto-maple-leafs-Yoxb78gc/#home-away;1,400563883,regular_season
 17-10-2014,NHL_2015,TOR,DET,1,4,0,-119,101,0.522,usa/nhl-2014-2015/toronto-maple-leafs-detroit-red-wings-r1eo6bcN/#home-away;1,400563882,regular_season
 15-10-2014,NHL_2015,DET,BOS,2,3,0,105,-123,0.4693,usa/nhl-2014-2015/detroit-red-wings-boston-bruins-2ZeKsfvP/#home-away;1,400563722,regular_season

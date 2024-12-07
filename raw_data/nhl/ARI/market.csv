@@ -103,7 +103,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 11-03-2023,COL,ARI,3,2,1,NHL_2022/2023,usa/nhl-2022-2023/colorado-avalanche-arizona-coyotes-8zkVvQng/#home-away;1,-465,369
 09-03-2023,ARI,NSH,4,1,1,NHL_2022/2023,usa/nhl-2022-2023/arizona-coyotes-nashville-predators-lWH4O42C/#home-away;1,154,-178
 05-03-2023,ARI,NJ,4,5,0,NHL_2022/2023,usa/nhl-2022-2023/arizona-coyotes-new-jersey-devils-d8RVLBtE/#home-away;1,285,-351
-05-03-2023,ARI,CAR,1,6,0,NHL_2022/2023,usa/nhl-2022-2023/arizona-coyotes-carolina-hurricanes-8Y52oV41/#home-away;1,285,-351
+03-03-2023,ARI,CAR,1,6,0,NHL_2022/2023,usa/nhl-2022-2023/arizona-coyotes-carolina-hurricanes-8Y52oV41/#home-away;1,293,-361
 01-03-2023,DAL,ARI,4,2,1,NHL_2022/2023,usa/nhl-2022-2023/dallas-stars-arizona-coyotes-rX1bjKjT/#home-away;1,-414,328
 28-02-2023,ARI,CHI,4,1,1,NHL_2022/2023,usa/nhl-2022-2023/arizona-coyotes-chicago-blackhawks-n58khtMG/#home-away;1,-185,160
 26-02-2023,ARI,NSH,2,6,0,NHL_2022/2023,usa/nhl-2022-2023/arizona-coyotes-nashville-predators-tpwHws7N/#home-away;1,144,-167
@@ -398,11 +398,11 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 11-03-2019,CHI,ARI,7,1,1,NHL_2018/2019,usa/nhl-2018-2019/chicago-blackhawks-arizona-coyotes-lzI972r8/#home-away;1,-120,100
 09-03-2019,ARI,LAK,4,2,1,NHL_2018/2019,usa/nhl-2018-2019/arizona-coyotes-los-angeles-kings-6eOjisbR/#home-away;1,-183,153
 07-03-2019,ARI,CGY,2,0,1,NHL_2018/2019,usa/nhl-2018-2019/arizona-coyotes-calgary-flames-6mxecCLg/#home-away;1,108,-128
-07-03-2019,ARI,ANA,1,3,0,NHL_2018/2019,usa/nhl-2018-2019/arizona-coyotes-anaheim-ducks-n52G2Yp5/#home-away;1,108,-128
+05-03-2019,ARI,ANA,1,3,0,NHL_2018/2019,usa/nhl-2018-2019/arizona-coyotes-anaheim-ducks-n52G2Yp5/#home-away;1,-161,135
 02-03-2019,ARI,DET,3,1,1,NHL_2018/2019,usa/nhl-2018-2019/arizona-coyotes-detroit-red-wings-4MpQiHWn/#home-away;1,-179,150
 28-02-2019,ARI,VAN,5,2,1,NHL_2018/2019,usa/nhl-2018-2019/arizona-coyotes-vancouver-canucks-0EgElrwM/#home-away;1,-173,144
 26-02-2019,ARI,FLA,4,3,1,NHL_2018/2019,usa/nhl-2018-2019/arizona-coyotes-florida-panthers-4nUGQvYm/#home-away;1,-132,111
-26-02-2019,ARI,WPG,4,1,1,NHL_2018/2019,usa/nhl-2018-2019/arizona-coyotes-winnipeg-jets-IPhFumfi/#home-away;1,-132,111
+24-02-2019,ARI,WPG,4,1,1,NHL_2018/2019,usa/nhl-2018-2019/arizona-coyotes-winnipeg-jets-IPhFumfi/#home-away;1,109,-129
 21-02-2019,VAN,ARI,2,3,0,NHL_2018/2019,usa/nhl-2018-2019/vancouver-canucks-arizona-coyotes-h8jlRmub/#home-away;1,-119,101
 19-02-2019,EDM,ARI,2,3,0,NHL_2018/2019,usa/nhl-2018-2019/edmonton-oilers-arizona-coyotes-juUIB8uB/#home-away;1,-147,126
 18-02-2019,CGY,ARI,5,2,1,NHL_2018/2019,usa/nhl-2018-2019/calgary-flames-arizona-coyotes-lGX1Fjtn/#home-away;1,-229,190
@@ -611,7 +611,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 03-12-2016,ARI,CBJ,2,3,0,NHL_2016/2017,usa/nhl-2016-2017/arizona-coyotes-columbus-blue-jackets-QyoNSaAE/#home-away;1,138,-160
 01-12-2016,ARI,LAK,3,4,0,NHL_2016/2017,usa/nhl-2016-2017/arizona-coyotes-los-angeles-kings-noQmE0eL/#home-away;1,129,-149
 29-11-2016,SJ,ARI,2,1,1,NHL_2016/2017,usa/nhl-2016-2017/san-jose-sharks-arizona-coyotes-Aod61NBF/#home-away;1,-270,228
-29-11-2016,EDM,ARI,1,2,0,NHL_2016/2017,usa/nhl-2016-2017/edmonton-oilers-arizona-coyotes-pvooKst2/#home-away;1,-270,228
+27-11-2016,EDM,ARI,1,2,0,NHL_2016/2017,usa/nhl-2016-2017/edmonton-oilers-arizona-coyotes-pvooKst2/#home-away;1,-208,179
 25-11-2016,ARI,EDM,3,2,1,NHL_2016/2017,usa/nhl-2016-2017/arizona-coyotes-edmonton-oilers-GI72S5YL/#home-away;1,138,-160
 23-11-2016,ARI,VAN,1,4,0,NHL_2016/2017,usa/nhl-2016-2017/arizona-coyotes-vancouver-canucks-xfJe9QRq/#home-away;1,-109,-106
 19-11-2016,ARI,SJ,3,2,1,NHL_2016/2017,usa/nhl-2016-2017/arizona-coyotes-san-jose-sharks-QysQuURs/#home-away;1,152,-175
@@ -856,7 +856,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 10-12-2013,COL,ARI,1,3,0,NHL_2013/2014,usa/nhl-2013-2014/colorado-avalanche-arizona-coyotes-4A685n0g/#home-away;1,-132,114
 06-12-2013,VAN,ARI,3,2,1,NHL_2013/2014,usa/nhl-2013-2014/vancouver-canucks-arizona-coyotes-tApGr4yq/#home-away;1,-147,127
 04-12-2013,CGY,ARI,4,1,1,NHL_2013/2014,usa/nhl-2013-2014/calgary-flames-arizona-coyotes-CI86Sioo/#home-away;1,113,-131
-04-12-2013,EDM,ARI,2,6,0,NHL_2013/2014,usa/nhl-2013-2014/edmonton-oilers-arizona-coyotes-KKTRZZhB/#home-away;1,113,-131
+03-12-2013,EDM,ARI,2,6,0,NHL_2013/2014,usa/nhl-2013-2014/edmonton-oilers-arizona-coyotes-KKTRZZhB/#home-away;1,106,-123
 30-11-2013,ARI,CHI,2,5,0,NHL_2013/2014,usa/nhl-2013-2014/arizona-coyotes-chicago-blackhawks-6eSH8cfC/#home-away;1,-113,-103
 27-11-2013,MIN,ARI,1,3,0,NHL_2013/2014,usa/nhl-2013-2014/minnesota-wild-arizona-coyotes-v3L84ic9/#home-away;1,-130,112
 25-11-2013,NSH,ARI,4,2,1,NHL_2013/2014,usa/nhl-2013-2014/nashville-predators-arizona-coyotes-djYrVj6j/#home-away;1,100,-115
@@ -1101,7 +1101,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 28-10-2010,DET,ARI,2,4,0,NHL_2010/2011,usa/nhl-2010-2011/detroit-red-wings-arizona-coyotes-CxEu5jjC/#home-away;1,-178,149
 26-10-2010,OTT,ARI,5,2,1,NHL_2010/2011,usa/nhl-2010-2011/ottawa-senators-arizona-coyotes-EwOSHcAb/#home-away;1,-137,114
 25-10-2010,MTL,ARI,3,2,1,NHL_2010/2011,usa/nhl-2010-2011/montreal-canadiens-arizona-coyotes-OQf0C2YI/#home-away;1,-128,105
-25-10-2010,ARI,CAR,3,4,0,NHL_2010/2011,usa/nhl-2010-2011/arizona-coyotes-carolina-hurricanes-KSEzI64s/#home-away;1,-128,105
+23-10-2010,ARI,CAR,3,4,0,NHL_2010/2011,usa/nhl-2010-2011/arizona-coyotes-carolina-hurricanes-KSEzI64s/#home-away;1,-135,112
 21-10-2010,ARI,LAK,4,2,1,NHL_2010/2011,usa/nhl-2010-2011/arizona-coyotes-los-angeles-kings-YuI15ufk/#home-away;1,-138,114
 17-10-2010,ANA,ARI,3,2,1,NHL_2010/2011,usa/nhl-2010-2011/anaheim-ducks-arizona-coyotes-WCRW1Zdn/#home-away;1,-144,120
 16-10-2010,ARI,DET,1,2,0,NHL_2010/2011,usa/nhl-2010-2011/arizona-coyotes-detroit-red-wings-08PArCdO/#home-away;1,-111,-111

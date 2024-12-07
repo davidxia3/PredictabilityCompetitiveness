@@ -133,7 +133,6 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 13-01-2023,ANA,NJ,2,6,0,NHL_2022/2023,usa/nhl-2022-2023/anaheim-ducks-new-jersey-devils-CnrhoQKn/#home-away;1,269,-331
 11-01-2023,ANA,EDM,2,6,0,NHL_2022/2023,usa/nhl-2022-2023/anaheim-ducks-edmonton-oilers-bsw7K7WJ/#home-away;1,212,-251
 08-01-2023,ANA,BOS,1,7,0,NHL_2022/2023,usa/nhl-2022-2023/anaheim-ducks-boston-bruins-db6rVDUl/#home-away;1,250,-306
-06-01-2023,ANA,SJ,5,4,1,NHL_2022/2023,usa/nhl-2022-2023/anaheim-ducks-san-jose-sharks-dvr1Izoq/#home-away;1,146,-168
 04-01-2023,ANA,DAL,2,0,1,NHL_2022/2023,usa/nhl-2022-2023/anaheim-ducks-dallas-stars-nk439c8S/#home-away;1,192,-229
 02-01-2023,ANA,PHI,1,4,0,NHL_2022/2023,usa/nhl-2022-2023/anaheim-ducks-philadelphia-flyers-fyuf7kLp/#home-away;1,102,-120
 30-12-2022,ANA,NSH,1,6,0,NHL_2022/2023,usa/nhl-2022-2023/anaheim-ducks-nashville-predators-4KBNG2hs/#home-away;1,148,-171
@@ -547,7 +546,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 26-10-2017,FLA,ANA,8,3,1,NHL_2017/2018,usa/nhl-2017-2018/florida-panthers-anaheim-ducks-SfhtZ0G5/#home-away;1,-132,114
 24-10-2017,PHI,ANA,2,6,0,NHL_2017/2018,usa/nhl-2017-2018/philadelphia-flyers-anaheim-ducks-vyi5Xmu1/#home-away;1,-141,120
 20-10-2017,ANA,MTL,6,2,1,NHL_2017/2018,usa/nhl-2017-2018/anaheim-ducks-montreal-canadiens-8dCG9miP/#home-away;1,-103,-114
-20-10-2017,ANA,BUF,1,3,0,NHL_2017/2018,usa/nhl-2017-2018/anaheim-ducks-buffalo-sabres-dIv14zgO/#home-away;1,-103,-114
+15-10-2017,ANA,BUF,1,3,0,NHL_2017/2018,usa/nhl-2017-2018/anaheim-ducks-buffalo-sabres-dIv14zgO/#home-away;1,-156,134
 13-10-2017,COL,ANA,3,1,1,NHL_2017/2018,usa/nhl-2017-2018/colorado-avalanche-anaheim-ducks-KdeEfaPa/#home-away;1,-102,-114
 11-10-2017,ANA,NYI,3,2,1,NHL_2017/2018,usa/nhl-2017-2018/anaheim-ducks-new-york-islanders-6ytzfSYl/#home-away;1,-127,108
 09-10-2017,ANA,CGY,0,2,0,NHL_2017/2018,usa/nhl-2017-2018/anaheim-ducks-calgary-flames-S2Qd6Bt2/#home-away;1,-126,107
@@ -598,7 +597,6 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 22-02-2017,ANA,BOS,5,3,1,NHL_2016/2017,usa/nhl-2016-2017/anaheim-ducks-boston-bruins-t4yGOoxg/#home-away;1,104,-123
 20-02-2017,ARI,ANA,3,2,1,NHL_2016/2017,usa/nhl-2016-2017/arizona-coyotes-anaheim-ducks-ANid8QiC/#home-away;1,111,-130
 19-02-2017,ANA,LAK,1,0,1,NHL_2016/2017,usa/nhl-2016-2017/anaheim-ducks-los-angeles-kings-2cllAnNa/#home-away;1,-127,108
-17-02-2017,ANA,FLA,1,4,0,NHL_2016/2017,usa/nhl-2016-2017/anaheim-ducks-florida-panthers-dxsO5XVD/#home-away;1,-135,115
 14-02-2017,MIN,ANA,0,1,0,NHL_2016/2017,usa/nhl-2016-2017/minnesota-wild-anaheim-ducks-Eetq50u3/#home-away;1,-167,143
 11-02-2017,WSH,ANA,6,4,1,NHL_2016/2017,usa/nhl-2016-2017/washington-capitals-anaheim-ducks-AmuEisB3/#home-away;1,-185,159
 09-02-2017,BUF,ANA,2,5,0,NHL_2016/2017,usa/nhl-2016-2017/buffalo-sabres-anaheim-ducks-ELPZwOt4/#home-away;1,101,-119
@@ -626,7 +624,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 19-12-2016,TOR,ANA,2,3,0,NHL_2016/2017,usa/nhl-2016-2017/toronto-maple-leafs-anaheim-ducks-bLm5MhOL/#home-away;1,-128,110
 17-12-2016,DET,ANA,6,4,1,NHL_2016/2017,usa/nhl-2016-2017/detroit-red-wings-anaheim-ducks-SbGiiXl1/#home-away;1,106,-125
 15-12-2016,BOS,ANA,3,4,0,NHL_2016/2017,usa/nhl-2016-2017/boston-bruins-anaheim-ducks-nszxc2LM/#home-away;1,-107,-110
-15-12-2016,DAL,ANA,6,2,1,NHL_2016/2017,usa/nhl-2016-2017/dallas-stars-anaheim-ducks-8G6T0pMc/#home-away;1,-107,-110
+13-12-2016,DAL,ANA,6,2,1,NHL_2016/2017,usa/nhl-2016-2017/dallas-stars-anaheim-ducks-8G6T0pMc/#home-away;1,-115,100
 11-12-2016,ANA,OTT,5,1,1,NHL_2016/2017,usa/nhl-2016-2017/anaheim-ducks-ottawa-senators-nZPZEkab/#home-away;1,-201,170
 09-12-2016,ANA,SJ,3,2,1,NHL_2016/2017,usa/nhl-2016-2017/anaheim-ducks-san-jose-sharks-MaMGYRx5/#home-away;1,100,-117
 07-12-2016,ANA,CAR,6,5,1,NHL_2016/2017,usa/nhl-2016-2017/anaheim-ducks-carolina-hurricanes-0WhZLlga/#home-away;1,-169,147
@@ -798,7 +796,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 15-02-2015,ANA,WSH,3,5,0,NHL_2014/2015,usa/nhl-2014-2015/anaheim-ducks-washington-capitals-KbhnJcHj/#home-away;1,-180,156
 12-02-2015,CAR,ANA,1,2,0,NHL_2014/2015,usa/nhl-2014-2015/carolina-hurricanes-anaheim-ducks-YNgJTjZt/#home-away;1,109,-128
 10-02-2015,FLA,ANA,6,2,1,NHL_2014/2015,usa/nhl-2014-2015/florida-panthers-anaheim-ducks-KQGdCk46/#home-away;1,-107,-110
-10-02-2015,TB,ANA,5,3,1,NHL_2014/2015,usa/nhl-2014-2015/tampa-bay-lightning-anaheim-ducks-lxwEKDdQ/#home-away;1,-107,-110
+08-02-2015,TB,ANA,5,3,1,NHL_2014/2015,usa/nhl-2014-2015/tampa-bay-lightning-anaheim-ducks-lxwEKDdQ/#home-away;1,-115,-102
 06-02-2015,WSH,ANA,3,2,1,NHL_2014/2015,usa/nhl-2014-2015/washington-capitals-anaheim-ducks-vmXuoD57/#home-away;1,-138,118
 05-02-2015,NSH,ANA,2,5,0,NHL_2014/2015,usa/nhl-2014-2015/nashville-predators-anaheim-ducks-A7uPle6r/#home-away;1,-138,119
 03-02-2015,ANA,CAR,5,4,1,NHL_2014/2015,usa/nhl-2014-2015/anaheim-ducks-carolina-hurricanes-fLKlcJb2/#home-away;1,-231,192
@@ -978,7 +976,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 24-03-2013,ANA,DET,1,2,0,NHL_2012/2013,usa/nhl-2012-2013/anaheim-ducks-detroit-red-wings-MRtGsvZ9/#home-away;1,-152,128
 22-03-2013,ANA,DET,1,5,0,NHL_2012/2013,usa/nhl-2012-2013/anaheim-ducks-detroit-red-wings-no07Eu5N/#home-away;1,-175,148
 20-03-2013,ANA,CHI,4,2,1,NHL_2012/2013,usa/nhl-2012-2013/anaheim-ducks-chicago-blackhawks-tE2L44ya/#home-away;1,-115,-106
-20-03-2013,ANA,SJ,5,3,1,NHL_2012/2013,usa/nhl-2012-2013/anaheim-ducks-san-jose-sharks-A7cH33Z7/#home-away;1,-115,-106
+18-03-2013,ANA,SJ,5,3,1,NHL_2012/2013,usa/nhl-2012-2013/anaheim-ducks-san-jose-sharks-A7cH33Z7/#home-away;1,-142,118
 14-03-2013,DAL,ANA,1,2,0,NHL_2012/2013,usa/nhl-2012-2013/dallas-stars-anaheim-ducks-rc74kDEc/#home-away;1,-114,-106
 12-03-2013,MIN,ANA,1,2,0,NHL_2012/2013,usa/nhl-2012-2013/minnesota-wild-anaheim-ducks-tCZbYKw6/#home-away;1,-117,-104
 08-03-2013,ANA,CGY,4,0,1,NHL_2012/2013,usa/nhl-2012-2013/anaheim-ducks-calgary-flames-MXZ6F6XQ/#home-away;1,-160,143
@@ -1063,7 +1061,7 @@ date,team_1,team_2,score_1,score_2,result,tournament,game_url,avg_moneyline_1,av
 25-11-2011,ANA,CHI,5,6,0,NHL_2011/2012,usa/nhl-2011-2012/anaheim-ducks-chicago-blackhawks-0hafDeeB/#home-away;1,116,-139
 23-11-2011,ARI,ANA,4,2,1,NHL_2011/2012,usa/nhl-2011-2012/arizona-coyotes-anaheim-ducks-YTiGCrK6/#home-away;1,-140,117
 20-11-2011,ANA,DET,2,4,0,NHL_2011/2012,usa/nhl-2011-2012/anaheim-ducks-detroit-red-wings-dSpqgUDR/#home-away;1,-105,-116
-20-11-2011,ANA,LAK,3,5,0,NHL_2011/2012,usa/nhl-2011-2012/anaheim-ducks-los-angeles-kings-fT91vvgH/#home-away;1,-105,-116
+17-11-2011,ANA,LAK,3,5,0,NHL_2011/2012,usa/nhl-2011-2012/anaheim-ducks-los-angeles-kings-fT91vvgH/#home-away;1,-101,-120
 16-11-2011,LAK,ANA,2,1,1,NHL_2011/2012,usa/nhl-2011-2012/los-angeles-kings-anaheim-ducks-zFVGS09B/#home-away;1,-180,151
 13-11-2011,ANA,MIN,2,3,0,NHL_2011/2012,usa/nhl-2011-2012/anaheim-ducks-minnesota-wild-dhhtGZbJ/#home-away;1,-152,127
 11-11-2011,ANA,VAN,4,3,1,NHL_2011/2012,usa/nhl-2011-2012/anaheim-ducks-vancouver-canucks-KIkR6vGl/#home-away;1,-103,-118
