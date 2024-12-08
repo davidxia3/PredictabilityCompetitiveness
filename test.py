@@ -1,6 +1,6 @@
 import pandas as pd
 
-csv_file_path = "raw_data/nhl/COL/market.csv" 
+csv_file_path = "raw_data/nhl/DAL/market.csv" 
 column_to_check = "date"   
 
 try:

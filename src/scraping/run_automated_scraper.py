@@ -3,7 +3,7 @@ import time
 
 
 # defining teams and league
-teams = ['DAL', 'DET', 'EDM', 'FLA', 'LA',
+teams = ['DET', 'EDM', 'FLA', 'LA',
          'MIN', 'MTL', 'NJ', 'NSH', 'NYI', 'NYR', 'OTT', 'PHI', 'SEA', 'SJ', 'STL', 'TB',
          'TOR', 'VAN', 'VGK', 'WPG', 'WSH']
 league = "nhl"
