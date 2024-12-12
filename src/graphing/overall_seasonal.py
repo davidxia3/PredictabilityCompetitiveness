@@ -1,9 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-file_paths = ["results/mlb_seasonal.csv", "results/nba_seasonal.csv", "results/nhl_seasonal.csv", "results/nfl_seasonal.csv"]
-leagues = ['MLB', 'NBA', 'NHL', 'NFL']
-colors = ['red', 'green', 'blue', 'purple']
+file_paths = ["results/mlb_seasonal.csv", "results/nhl_seasonal.csv", "results/nfl_seasonal.csv", "results/nba_seasonal.csv"]
+leagues = ['MLB', 'NHL', 'NFL', 'NBA']
+colors = ['blue', 'orange', 'red', 'purple']
 
 plt.figure(figsize=(10, 6))
 
@@ -27,7 +27,6 @@ plt.ylim(0.15, 0.26)
 
 plt.xlabel("Season",fontsize=20)
 plt.ylabel("Brier Score",fontsize=20)
-plt.title("Seasonal Brier Scores by League (2009–2023)",fontsize=25)
 plt.legend(fontsize=15)
 plt.grid(True)
 plt.tick_params(axis='both', which='major', labelsize=15)

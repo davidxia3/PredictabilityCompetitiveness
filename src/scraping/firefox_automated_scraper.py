@@ -58,7 +58,7 @@ while i < end_index:
 
         # Retrieve game webpage
         driver.get(base_url + game_url) 
-        time.sleep(5)
+        time.sleep(2)
 
 
         odd_types = driver.find_element(By.CLASS_NAME, "prio-odds")

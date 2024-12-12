@@ -36,10 +36,9 @@ ax.set_xticks(x)
 ax.set_xticklabels(x_labels, rotation=270, ha='right', fontsize=15)
 ax.set_xlabel("Teams", fontsize=20)
 ax.set_ylabel("Brier Score", fontsize=20)
-ax.set_title("Brier Score by Team", fontsize=25)
 plt.tick_params(axis='y', which='major', labelsize=15)
 
 plt.ylim(0.15, 0.26)
 plt.tight_layout()
 
-plt.savefig(f'figures/by_team/{league}_brier_by_team_sorted.png', dpi=300, bbox_inches='tight')
+plt.savefig(f'figures/{league}_brier_by_team_sorted.png', dpi=300, bbox_inches='tight')

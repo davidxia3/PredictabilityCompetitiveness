@@ -33,6 +33,7 @@ with open('raw_data/abbreviations.json', 'r') as file:
 # looping through each team
 for team in teams:
     file_name = abbr[team.lower()]
+    print(file_name)
     total_data = []
     search_query = team.replace(" ", "+")
 
@@ -74,14 +75,13 @@ for team in teams:
                 start_index = match.start()
                 game_text = game.text[start_index:]
                 lines = game_text.splitlines()
-
                 try:
+                    
                     game_data["team_1"] = abbr[lines[1].lower()]
                     game_data["team_2"] = abbr[lines[5].lower()]
                     game_data["score_1"] = int(lines[2])
                     game_data["score_2"] = int(lines[4])
 
-                    
                     game_data["game_url"] = game.find_elements(By.TAG_NAME, "a")[-4].get_attribute("href").split("https://www.oddsportal.com/" + sport + "/")[1]
                     total_data.append(game_data)
                 except:
@@ -94,6 +94,8 @@ for team in teams:
 
 
     csv_file_path = f'raw_data/{league}/{file_name}/games.csv'
+    print(league)
+    print(file_name)
     with open(csv_file_path, mode='w', newline='', encoding='utf-8') as csv_file:
         fieldnames = ["team_1", "team_2", "score_1", "score_2", "game_url"]
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
