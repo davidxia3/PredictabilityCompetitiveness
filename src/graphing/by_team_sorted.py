@@ -39,6 +39,10 @@ ax.set_ylabel("Brier Score", fontsize=20)
 plt.tick_params(axis='y', which='major', labelsize=15)
 
 plt.ylim(0.15, 0.26)
+
+plt.text(-4, 0.245, "More Accurate", fontsize=12, ha='center', va='center',rotation=90)
+plt.text(-4, 0.165, "Less Accurate", fontsize=12, ha='center', va='center', rotation=90)
+
 plt.tight_layout()
 
 plt.savefig(f'figures/{league}_brier_by_team_sorted.png', dpi=300, bbox_inches='tight')

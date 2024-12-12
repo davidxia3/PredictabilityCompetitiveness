@@ -7,27 +7,29 @@ colors = ['blue', 'orange', 'red', 'purple']
 
 plt.figure(figsize=(10, 6))
 
-all_years = set()
-
+all_years = [str(year) for year in range(2009,2022)]
 for i, file_path in enumerate(file_paths):
     df = pd.read_csv(file_path)
+    df = df.sort_values(by="season")
+
+    season_years = df["season"].str.split("_").str[1]
     
-    df['year'] = df['season'].str.extract(r'_(\d{4})').astype(int)
-    
-    df = df[(df['year'] >= 2009) & (df['year'] <= 2021)]
-    
-    all_years.update(df['year'])
-    
-    plt.plot(df['year'], df['brier_score'], color=colors[i], label=leagues[i], marker = 'o', linewidth=3,markersize=10)
+    df_filtered = df[season_years.isin(all_years)]
+
+    plt.plot(season_years[season_years.isin(all_years)],
+             df_filtered['brier_score'], color=colors[i], label=leagues[i], marker='o', linewidth=3, markersize=10)
+
 
 all_years = sorted(all_years)
-plt.xticks(ticks=all_years, labels=[str(year) for year in all_years], rotation=45)
+plt.xticks(ticks=range(len(all_years)), labels=all_years, rotation=45)
 
 plt.ylim(0.15, 0.26)
 
 plt.xlabel("Season",fontsize=20)
 plt.ylabel("Brier Score",fontsize=20)
 plt.legend(fontsize=15)
+plt.text(-1.7, 0.245, "More Accurate", fontsize=12, ha='center', va='center',rotation=90)
+plt.text(-1.7, 0.165, "Less Accurate", fontsize=12, ha='center', va='center', rotation=90)
 plt.grid(True)
 plt.tick_params(axis='both', which='major', labelsize=15)
 
