@@ -11,8 +11,8 @@ season_years = results_df["season"].str.split("_").str[1]
 plt.figure(figsize=(10, 6))
 
 plt.plot(results_df["season"], results_df["moneyline_brier_score"], label="Betting Market", marker='o', color='green',linewidth=3,markersize=10)
-plt.plot(results_df["season"], results_df["elo_brier_score"], label="Elo Model", marker='o', color='cyan',linewidth=3,markersize=10)
-plt.plot(results_df["season"], results_df["baseline_brier_score"], label="Home Bias Coinflip Model", marker='o', color='magenta',linewidth=3,markersize=10)
+plt.plot(results_df["season"], results_df["elo_brier_score"], label="Elo Model", marker='o', color='magenta',linewidth=3,markersize=10)
+plt.plot(results_df["season"], results_df["baseline_brier_score"], label="Home Bias Coinflip Model", marker='o', color='cyan',linewidth=3,markersize=10)
 plt.plot(results_df["season"], [0.25]*len(results_df["season"]), label="Coinflip Model", marker='o',color='black',linewidth=3,markersize=10)
 
 plt.xticks(ticks=range(len(results_df["season"])), labels=season_years, rotation=45)
