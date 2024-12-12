@@ -40,8 +40,8 @@ plt.tick_params(axis='y', which='major', labelsize=15)
 
 plt.ylim(0.15, 0.26)
 
-plt.text(-4, 0.245, "More Accurate", fontsize=12, ha='center', va='center',rotation=90)
-plt.text(-4, 0.165, "Less Accurate", fontsize=12, ha='center', va='center', rotation=90)
+plt.text(-4, 0.245, "Less Accurate", fontsize=12, ha='center', va='center',rotation=90)
+plt.text(-4, 0.165, "More Accurate", fontsize=12, ha='center', va='center', rotation=90)
 
 plt.tight_layout()
 

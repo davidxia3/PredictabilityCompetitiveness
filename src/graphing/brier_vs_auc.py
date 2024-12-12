@@ -31,11 +31,11 @@ fig.legend(
     fontsize=15
 )
 
-plt.text(2006.7, 0.32, "More Accurate", fontsize=12, ha='center', va='center',rotation=90,color="red")
-plt.text(2006.7, 0.25, "Less Accurate", fontsize=12, ha='center', va='center', rotation=90,color="red")
+plt.text(2006.7, 0.32, "Less Accurate", fontsize=12, ha='center', va='center',rotation=90,color="red")
+plt.text(2006.7, 0.25, "More Accurate", fontsize=12, ha='center', va='center', rotation=90,color="red")
 
-plt.text(2026.1, 0.32, "More Accurate", fontsize=12, ha='center', va='center',rotation=90,color="green")
-plt.text(2026.1, 0.25, "Less Accurate", fontsize=12, ha='center', va='center', rotation=90,color="green")
+plt.text(2026.1, 0.32, "Less Accurate", fontsize=12, ha='center', va='center',rotation=90,color="green")
+plt.text(2026.1, 0.25, "More Accurate", fontsize=12, ha='center', va='center', rotation=90,color="green")
 
 plt.tight_layout()
 plt.savefig("figures/nfl_brier_auc.png", dpi=300, bbox_inches='tight')
