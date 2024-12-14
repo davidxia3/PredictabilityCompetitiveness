@@ -1,5 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
+
 
 leagues = ['MLB', 'NHL', 'NFL', 'NBA']
 csv_files = [
@@ -29,10 +31,13 @@ for element in ['whiskers', 'caps']:
     plt.setp(bp[element], linewidth=2)
 plt.setp(bp['medians'], linewidth=2, color='black') 
 
-plt.ylabel("Leagues", fontsize=20)  
-plt.xlabel("Probabilistic Predictions", fontsize=20)
+plt.axvline(0.5, color='black', linestyle='--', linewidth=4)
+
+
+plt.xlabel("Home Team Win Probability", fontsize=20)
 plt.grid(True, linestyle="--", alpha=0.6)
-plt.xticks(fontsize=15)
+xticks = np.arange(0, 1.1, 0.1)
+plt.xticks(xticks, fontsize=15)
 plt.yticks(fontsize=15)
 plt.tight_layout()
 
