@@ -23,7 +23,7 @@ x_labels = df.iloc[:, 0]
 x = np.arange(num_rows)
 bar_width = 0.5
 
-fig, ax = plt.subplots(figsize=(12, 6))
+fig, ax = plt.subplots(figsize=(10, 6))
 bars = ax.bar(
     x, 
     df.iloc[:, 1], 
@@ -40,8 +40,8 @@ plt.tick_params(axis='y', which='major', labelsize=15)
 
 plt.ylim(0.15, 0.26)
 
-plt.text(-4, 0.245, "Less Accurate", fontsize=12, ha='center', va='center',rotation=90)
-plt.text(-4, 0.165, "More Accurate", fontsize=12, ha='center', va='center', rotation=90)
+plt.text(-4.75, 0.245, "Less Accurate", fontsize=12, ha='center', va='center',rotation=90)
+plt.text(-4.75, 0.165, "More Accurate", fontsize=12, ha='center', va='center', rotation=90)
 
 plt.tight_layout()
 

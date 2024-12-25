@@ -21,7 +21,7 @@ for i, file_path in enumerate(file_paths):
 
 
 all_years = sorted(all_years)
-plt.xticks(ticks=range(len(all_years)), labels=all_years, rotation=45)
+plt.xticks(ticks=range(len(all_years)), labels=all_years, rotation=0)
 
 plt.ylim(0.15, 0.26)
 
