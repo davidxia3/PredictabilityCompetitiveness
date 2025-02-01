@@ -3,7 +3,7 @@ import json
 
 
 # open the combined file and create new columns with default values
-league = "nhl"
+league = "nba"
 df = pd.read_csv(f'raw_data/combined/{league}_market.csv')
 
 df['espn_id'] = "000000000"

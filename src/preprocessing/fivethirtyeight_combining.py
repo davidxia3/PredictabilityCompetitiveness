@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-file_path = 'raw_data/nfl_espn_combined.csv'
+file_path = 'raw_data/nfl/nfl_espn_combined.csv'
 output_path = 'processed_data/nfl_espn_combined_with_elo.csv'
 
 df = pd.read_csv(file_path)

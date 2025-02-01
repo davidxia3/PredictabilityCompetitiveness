@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 
-file_path = 'raw_data/fivethirtyeight_nfl_elo.csv'
+file_path = 'raw_data/fivethirtyeight/fivethirtyeight_nfl_elo.csv'
 
 df = pd.read_csv(file_path)
 
@@ -27,5 +27,5 @@ for index, row in df.iterrows():
     mapping[key] = row["elo_prob1"]
     mapping[key2] = 1-row["elo_prob1"]
 
-with open("raw_data/fivethirtyeight_mapping.json", 'w') as json_file:
+with open("raw_data/fivethirtyeight/fivethirtyeight_mapping.json", 'w') as json_file:
     json.dump(mapping, json_file, indent=4)
