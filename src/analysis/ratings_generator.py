@@ -1,6 +1,7 @@
 from ratingslib.ratings.elo import Elo
 from ratingslib.ratings.keener import Keener
 from ratingslib.ratings.massey import Massey
+from ratingslib.ratings.od import OffenseDefense
 from ratingslib.utils.enums import ratings
 from ratingslib.ratings.methods import normalization_rating
 
@@ -27,3 +28,8 @@ for league in leagues:
     massey = massey.sort_values(by='ranking', ascending=True)
     massey['rating'] = normalization_rating(massey, "rating")
     massey.to_csv(f'results/ratings/massey/{league}_massey_rankings.csv', index=False)
+
+    od = OffenseDefense(tol=0.0001).rate_from_file(f'processed_data/{league}_ratingslib_formatted.csv')
+    od = od.sort_values(by='ranking', ascending=True)
+    od['rating'] = normalization_rating(od, "rating")
+    od.to_csv(f'results/ratings/od/{league}_od_rankings.csv', index=False)
