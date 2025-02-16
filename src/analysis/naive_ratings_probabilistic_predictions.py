@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 leagues = ['nfl', 'nhl', 'mlb','nba']
-ratingtypes = ["elopoint", "elowin", "keener", "massey"]
+ratingtypes = ["elopoint", "elowin", "keener", "massey", "od"]
 
 for ratingtype in ratingtypes:
     for league in leagues:
