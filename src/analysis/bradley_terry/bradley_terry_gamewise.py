@@ -54,10 +54,9 @@ def get_loser(r):
         return np.nan
 
 leagues = ['nfl', 'nba', 'nhl', 'mlb']
-leagues = ['nfl']
 
 for league in leagues:
-    league_csv = pd.read_csv(f'processed_data/ratings_lib_formatted/{league}_ratingslib_formatted.csv')
+    league_csv = pd.read_csv(f'processed_data/ratingslib_formatted/{league}_ratingslib_formatted.csv')
 
     league_csv['winner'] = league_csv.apply(get_winner, axis=1)
     league_csv['loser'] = league_csv.apply(get_loser, axis=1)

@@ -1,7 +1,6 @@
 import pandas as pd
 
 leagues = ['nfl', 'nhl', 'mlb', 'nba']
-leagues = ['nfl']
 brier_scores_list = []
 
 for league in leagues:
