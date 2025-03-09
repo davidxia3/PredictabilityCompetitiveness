@@ -11,7 +11,7 @@ leagues = ['nfl','nba','mlb','nhl']
 
 for league in leagues:
 
-    df = pd.read_csv(f'processed_data/{league}_ratingslib_formatted.csv')
+    df = pd.read_csv(f'processed_data/ratingslib_formatted/{league}_ratingslib_formatted.csv')
 
     df['Date'] = pd.to_datetime(df['Date'], format="%d/%m/%Y")
 
