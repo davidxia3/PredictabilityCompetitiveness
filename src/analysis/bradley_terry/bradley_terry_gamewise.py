@@ -12,7 +12,7 @@ def get_estimate(i, p, df):
     d_d = pd.Series([get_prob(i, j) for j in range(len(p))], index=p.index)
     d = (d_n / d_d).sum()
 
-    return n / d
+    return n/d
 
 def estimate_p(p, df):
     return pd.Series([get_estimate(i, p, df) for i in range(df.shape[0])], index=p.index)
@@ -54,24 +54,45 @@ def get_loser(r):
         return np.nan
 
 leagues = ['nfl', 'nba', 'nhl', 'mlb']
+leagues = ['nfl']
 
 for league in leagues:
     league_csv = pd.read_csv(f'processed_data/{league}_ratingslib_formatted.csv')
 
     league_csv['winner'] = league_csv.apply(get_winner, axis=1)
     league_csv['loser'] = league_csv.apply(get_loser, axis=1)
+    
+    league_csv['bradley_terry_prediction'] = np.nan
+    
+    for index, row in league_csv.iterrows():
+        if index % 100 == 0:
+            print(str(index) +" " + league) 
 
-    seasons = league_csv['Season'].unique()
+        season_total = league_csv[
+            (league_csv['Season'] == row['Season'])]
+        past_games = league_csv[
+            (league_csv['Season'] == row['Season']) & 
+            (pd.to_datetime(league_csv['Date'], format="%d/%m/%Y") < pd.to_datetime(row['Date'], format="%d/%m/%Y"))
+        ]
 
-    season_results = []
+        if len(past_games) <= len(season_total)/2:
+            season = row['Season']
+            year = int(season.split("_")[1])
+            prev_year = year - 1
+            prev_season = season.split("_")[0] + "_" + str(prev_year)
 
-    for season in seasons:
-        season_data = league_csv[league_csv['Season'] == season]
-        
-        teams = sorted(list(set(season_data.HomeTeam) | set(season_data.AwayTeam)))
+            past_games = league_csv[
+                ((league_csv['Season'] == season) | (league_csv['Season'] == prev_season)) & 
+                (pd.to_datetime(league_csv['Date'], format="%d/%m/%Y") < pd.to_datetime(row['Date'], format="%d/%m/%Y"))
+            ]
+
+            if len(past_games) <= len(season_total)/2:
+                continue
+
+        teams = sorted(list(set(past_games.HomeTeam) | set(past_games.AwayTeam)))
         t2i = {t: i for i, t in enumerate(teams)}
 
-        df = season_data\
+        df = past_games\
             .groupby(['winner', 'loser'])\
             .agg('count')\
             .drop(columns=['AwayTeam', 'FTHG', 'FTAG'])\
@@ -86,12 +107,18 @@ for league in leagues:
         for _, r in df.iterrows():
             mat[r.r, r.c] = r.n
 
-        season_df = pd.DataFrame(mat, columns=teams, index=teams)
+        iterate_df = pd.DataFrame(mat, columns=teams, index=teams)
 
-        p, estimates = iterate(season_df, n=100)
+        p, estimates = iterate(iterate_df, n=20)
 
-        season_results.append(pd.DataFrame({f'team_{season}': p.index, f'prediction_{season}': p.values}))
+        home_team, away_team = row['HomeTeam'], row['AwayTeam']
 
-    final_df = pd.concat(season_results, axis=1)
+        if home_team in p and away_team in p:
+            league_csv.at[index, 'bradley_terry_prediction'] = p[home_team] / (p[home_team] + p[away_team])
 
-    final_df.to_csv(f'processed_data/{league}_seasonal_bradley_terry.csv', index=False)
+            
+
+    league_csv.drop(columns=['winner', 'loser'], inplace=True)
+
+
+    league_csv.to_csv(f'results/bradley_terry/{league}_bradley_terry_predictions.csv', index=False)
