@@ -8,7 +8,6 @@ from ratingslib.utils.enums import ratings
 from ratingslib.ratings.methods import normalization_rating
 
 leagues = ['nfl','nba','mlb','nhl']
-leagues = ['nhl']
 
 for league in leagues:
 
