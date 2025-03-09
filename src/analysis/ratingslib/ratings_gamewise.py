@@ -29,13 +29,13 @@ for league in leagues:
 
         filtered_df = df[(df['Date'] < row['Date']) & (df['Season'] == row['Season'])]
 
-        # if len(filtered_df) <= len(total_season_df)/2:
-        #     df.at[index, "elopoint_prediction"] = np.nan
-        #     df.at[index, "elowin_prediction"] = np.nan
-        #     df.at[index, "keener_prediction"] = np.nan
-        #     df.at[index, "massey_prediction"] = np.nan
-        #     df.at[index, "od_prediction"] = np.nan
-        #     continue
+        if len(filtered_df) <= len(total_season_df)/2:
+            df.at[index, "elopoint_prediction"] = np.nan
+            df.at[index, "elowin_prediction"] = np.nan
+            df.at[index, "keener_prediction"] = np.nan
+            df.at[index, "massey_prediction"] = np.nan
+            df.at[index, "od_prediction"] = np.nan
+            continue
 
         unique_teams = pd.unique(filtered_df[['HomeTeam', 'AwayTeam']].values.ravel())
         unique_teams_df = pd.DataFrame(unique_teams, columns=['Item'])
@@ -94,6 +94,6 @@ for league in leagues:
 
 
 
-    # df.to_csv(f'results/ratings/{league}_half_ratingslib_predictions.csv', index=False)
-    df.to_csv(f'results/ratings/{league}_ratingslib_predictions.csv', index=False)
+    df.to_csv(f'results/ratings/{league}_half_ratingslib_predictions.csv', index=False)
+    # df.to_csv(f'results/ratings/{league}_ratingslib_predictions.csv', index=False)
 
