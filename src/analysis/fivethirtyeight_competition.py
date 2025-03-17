@@ -1,8 +1,6 @@
 import pandas as pd
 
-
-
-df = pd.read_csv('processed_data/nfl_espn_combined_with_elo.csv')
+df = pd.read_csv('processed_data/combined/nfl_espn_combined_with_elo.csv')
 
 seasons = ['NFL_2019', 'NFL_2020', 'NFL_2022', 'NFL_2023']
 
@@ -38,4 +36,4 @@ for i in range(len(totals)):
 
 df = pd.DataFrame({'season': seasons, 'percentiles': percentiles, 'placements': placements})
 
-df.to_csv(f'results/fivethirtyeight_results.csv', index=False)
+df.to_csv(f'results/fivethirtyeight_competition.csv', index=False)

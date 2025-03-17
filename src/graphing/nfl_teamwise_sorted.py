@@ -14,7 +14,7 @@ team_colors = {
 }
 
 league = "nfl"
-file = f'results/{league}_by_team.csv'
+file = f'results/moneyline/teamwise/{league}_teamwise.csv'
 df = pd.read_csv(file)
 df = df.sort_values(by="brier_score", ascending=True)
 
@@ -45,4 +45,4 @@ plt.text(-4.75, 0.165, "More Accurate", fontsize=12, ha='center', va='center', r
 
 plt.tight_layout()
 
-plt.savefig(f'figures/{league}_brier_by_team_sorted.png', dpi=300, bbox_inches='tight')
+plt.savefig(f'figures/{league}_brier_teamwise_sorted.png', dpi=300, bbox_inches='tight')

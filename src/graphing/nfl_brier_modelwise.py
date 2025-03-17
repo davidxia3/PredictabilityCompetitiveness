@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-results_df = pd.read_csv("results/nfl_by_model.csv")
+results_df = pd.read_csv("results/moneyline/modelwise/nfl_modelwise.csv")
 results_df = results_df.sort_values(by="season")
 
 all_years = [str(year) for year in range(2009,2022)]
@@ -25,5 +25,5 @@ plt.grid(True)
 plt.tick_params(axis='both', which='major', labelsize=15)
 
 plt.tight_layout()
-plt.savefig("figures/brier_score_by_model.png", dpi=300, bbox_inches='tight')
+plt.savefig("figures/nfl_brier_modelwise.png", dpi=300, bbox_inches='tight')
 plt.close()

@@ -5,10 +5,10 @@ import numpy as np
 
 leagues = ['MLB', 'NHL', 'NFL', 'NBA']
 csv_files = [
-    "processed_data/mlb_espn_combined.csv",  
-    "processed_data/nhl_espn_combined.csv", 
-    "processed_data/nfl_espn_combined_with_elo.csv",
-    "processed_data/nba_espn_combined.csv",
+    "processed_data/combined/mlb_espn_combined.csv",  
+    "processed_data/combined/nhl_espn_combined.csv", 
+    "processed_data/combined/nfl_espn_combined_with_elo.csv",
+    "processed_data/combined/nba_espn_combined.csv",
 ]
 column_name = "avg_prob_1"
 colors = ['blue', 'orange', 'red', 'purple']
@@ -41,4 +41,4 @@ plt.xticks(xticks, fontsize=15)
 plt.yticks(fontsize=15)
 plt.tight_layout()
 
-plt.savefig("figures/prob_box_plot.png", dpi=300, bbox_inches='tight')
+plt.savefig("figures/predicted_home_win_box_plot.png", dpi=300, bbox_inches='tight')

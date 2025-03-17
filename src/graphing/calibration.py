@@ -7,9 +7,9 @@ leagues = ["nfl", "nba", "mlb", "nhl"]
 
 
 for league in leagues:
-    file_path = f'processed_data/{league}_espn_combined.csv'
+    file_path = f'processed_data/combined/{league}_espn_combined.csv'
     if league == "nfl":
-        file_path = 'processed_data/nfl_espn_combined_with_elo.csv'
+        file_path = 'processed_data/combined/nfl_espn_combined_with_elo.csv'
 
         df = pd.read_csv(file_path)
 
@@ -64,6 +64,6 @@ for league in leagues:
         plt.tick_params(axis='both', which='major', labelsize=15)
 
         plt.tight_layout()
-        plt.savefig(f'figures/{league}_calibration_plot.png', dpi=300, bbox_inches='tight')
+        plt.savefig(f'figures/calibration/{league}_calibration.png', dpi=300, bbox_inches='tight')
         plt.close()
         

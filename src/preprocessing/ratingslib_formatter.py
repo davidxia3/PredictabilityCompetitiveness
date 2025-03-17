@@ -3,9 +3,9 @@ import pandas as pd
 leagues = ['mlb','nba','nfl','nhl']
 
 for league in leagues:
-    filename = f'processed_data/{league}_espn_combined.csv'
+    filename = f'processed_data/combined/{league}_espn_combined.csv'
     if league == 'nfl':
-        filename = 'processed_data/nfl_espn_combined_with_elo.csv'
+        filename = 'processed_data/combined/nfl_espn_combined_with_elo.csv'
     df = pd.read_csv(filename)
 
 
@@ -21,5 +21,5 @@ for league in leagues:
 
     df = df[['Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'Season']]
 
-    df.to_csv(f'processed_data/{league}_ratingslib_formatted.csv', index=False)
+    df.to_csv(f'processed_data/ratingslib_formatted/{league}_ratingslib_formatted.csv', index=False)
 

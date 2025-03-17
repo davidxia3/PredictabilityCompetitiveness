@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("processed_data/nfl_espn_combined_with_elo.csv")
+df = pd.read_csv("processed_data/combined/nfl_espn_combined_with_elo.csv")
 
 team_1_wins = df[['team_1', 'result']].copy()
 team_1_wins.columns = ['team', 'win']
@@ -16,4 +16,4 @@ win_rates = all_teams.groupby('team')['win'].mean()
 
 win_rates_df = win_rates.reset_index().rename(columns={'win': 'win_rate'}).sort_values(by='win_rate', ascending=False)
 
-win_rates_df.to_csv("results/nfl_team_win_rates.csv", index=False)
+win_rates_df.to_csv("results/nfl_teamwise_winrate.csv", index=False)

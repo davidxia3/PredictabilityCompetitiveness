@@ -54,6 +54,7 @@ def get_loser(r):
         return np.nan
 
 leagues = ['nfl', 'nba', 'nhl', 'mlb']
+leagues = ['nhl', 'mlb']
 
 for league in leagues:
     league_csv = pd.read_csv(f'processed_data/ratingslib_formatted/{league}_ratingslib_formatted.csv')
@@ -74,19 +75,8 @@ for league in leagues:
             (pd.to_datetime(league_csv['Date'], format="%d/%m/%Y") < pd.to_datetime(row['Date'], format="%d/%m/%Y"))
         ]
 
-        if len(past_games) <= len(season_total)/2:
-            season = row['Season']
-            year = int(season.split("_")[1])
-            prev_year = year - 1
-            prev_season = season.split("_")[0] + "_" + str(prev_year)
-
-            past_games = league_csv[
-                ((league_csv['Season'] == season) | (league_csv['Season'] == prev_season)) & 
-                (pd.to_datetime(league_csv['Date'], format="%d/%m/%Y") < pd.to_datetime(row['Date'], format="%d/%m/%Y"))
-            ]
-
-            if len(past_games) <= len(season_total)/2:
-                continue
+        # if len(past_games) <= len(season_total)/2:
+        #     continue
 
         teams = sorted(list(set(past_games.HomeTeam) | set(past_games.AwayTeam)))
         t2i = {t: i for i, t in enumerate(teams)}
@@ -120,4 +110,5 @@ for league in leagues:
     league_csv.drop(columns=['winner', 'loser'], inplace=True)
 
 
+    # league_csv.to_csv(f'results/bradley_terry/{league}_half_bradley_terry_predictions.csv', index=False)
     league_csv.to_csv(f'results/bradley_terry/{league}_bradley_terry_predictions.csv', index=False)

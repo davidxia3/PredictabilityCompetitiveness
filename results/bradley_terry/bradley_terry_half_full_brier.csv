@@ -1,0 +1,9 @@
+Prediction_Method,Brier_Score
+nfl_full_bradley_terry,0.2828014688290425
+nfl_half_bradley_terry,0.24302484774471775
+nhl_full_bradley_terry,0.2623347165996484
+nhl_half_bradley_terry,0.24622287481317806
+mlb_full_bradley_terry,0.2581620461977252
+mlb_half_bradley_terry,0.2520661119058445
+nba_full_bradley_terry,0.23340520011806645
+nba_half_bradley_terry,0.22251262334080232

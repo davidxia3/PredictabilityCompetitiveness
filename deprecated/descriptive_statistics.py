@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 
 # List of league CSV file paths
 leagues = [
-    'processed_data/mlb_espn_combined.csv', 
-    'processed_data/nba_espn_combined.csv', 
-    'processed_data/nhl_espn_combined.csv', 
-    'processed_data/nfl_espn_combined_with_elo.csv'
+    'processed_data/combined/mlb_espn_combined.csv', 
+    'processed_data/combined/nba_espn_combined.csv', 
+    'processed_data/combined/nhl_espn_combined.csv', 
+    'processed_data/combined/nfl_espn_combined_with_elo.csv'
 ]
 
 # To store the data for plotting

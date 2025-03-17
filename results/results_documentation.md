@@ -1,32 +1,42 @@
 # Results Documentation
 
-## Contains the data and graphic forms of results derived from the analysis of processed data
+## Contains all processed results for graphing and figures
 
-### results/fivethirtyeight_results.csv
-- FiveThirtyEight held a NFL probability forecasting game for the 2019, 2020, 2022, and 2023 NFL seasons
-- Players would make a probabilistic prediction for every game and they would receive/lose points for their predictions
-- They used Brier Scores to calculate the points based on the result and the probabilistic prediction
-- This CSV contains the placements and percentiles of a hypothetical player that predicted every game using the moneyline probabilistic prediction
+### results/bradley_terry/
+- Folder that contains results of Bradley-Terry based probabilistic predictions for the four leagues
+    - {league}_bradley_terry_predictions.csv has the gamewise probabilistic predictions for all games
+    - bradley_terry_half_full_brier.csv contains Bradley-Terry based Brier score of all leagues based on second half only and full season
 
-### results/{league}_by_team.csv
-- Shows the different loss scores of each team across each league
-- brier_score: standard brier score 
-- log_loss: standard log loss
-- brier_skill_loss_50_50: brier skill loss score, using a naive 50/50 prediction method as reference
-- brier_skill_loss_home_prob_grouped: brier skill loss score, using the home win rate of all games involving the specific team as reference
-- brier_skill_loss_home_prob_overall: brier skill loss score, using the home win rate of all games as reference
+### resuls/elo/
+- results/elo/elo_half_full_brier.csv contains second half only and full season Brier scores for each of the four league based on Elo predictions
 
-### results/{league}_calibration_quantile.png
-- Calibration plot over all games in the league, using 10 quantile bins
+### results/moneyline/
+- Folder that contains results of moneyline based probabilistic predictions for the four leagues
+    - results/moneyline/modelwise/
+        - Folder that contains a file for each of the four leagues that has the Brier score of moneyline based and baseline prediction models (and Elo model for NFL)
+    - results/moneyline/seasonal/
+        - Folder that contains a file for each of the four leagues that has the seasonal Brier score, log loss, AUC, and three different Brier skill loss scores by season
+            - brier_skill_loss_50_50 (baseline is 50/50 coinflip model)
+            - brier_skill_loss_home_prob_grouped (baseline is home team's historical home win probability based model)
+            - brier_skill_loss_home_prob_overall (baseline is historical home win probability based model)
+    - results/moneyline/teamwise/
+        - Folder that contains a file for each of the four leagues that has the teamwise Brier score, log loss, AUC, and the same three Brier skill loss scores as above
+    - results/moneyline/moneyline_half_full_brier.csv contains second half only and full season Brier scores for each of the four league based on moneyline predictions
+    
+### results/ratingslib/
+- See [RatingsLib](https://github.com/ktalattinis/ratingslib) for documentation and more
+- Folder that contains results of RatingsLib based probabilistic predictions for the four leagues
+    - {league}_full_ratingslib_predictions.csv has the gamewise probabilistic predictions for all games using the Elo Point, Elo Win, Keener, Massey, and Offense-Defense ratings
+    - ratingslib_half_full_brier.csv contains RatingsLib based Brier score of all leagues and ratings based on second half only and full season
 
-### results/{league}_calibration_uniform.png
-- Calibration plot over all games in the league, using 10 uniformly distributed bins over (0-1)
-- Some extreme bins are missing, because there were no games that had those probabilities as predictions
+### results/binary_accuracy.csv
+- Contains binary accuracy of moneyline based predictions in the four leagues
 
-### results/{league}_seasonal.csv
-- Shows the different loss scores of each season across each league
-- brier_score: standard brier score 
-- log_loss: standard log loss
-- brier_skill_loss_50_50: brier skill loss score, using a naive 50/50 prediction method as reference
-- brier_skill_loss_home_prob_grouped: brier skill loss score, using the home win rate of all games from that season as reference
-- brier_skill_loss_home_prob_overall: brier skill loss score, using the home win rate of all games as reference
+### results/combined_half_full_brier.csv
+- Contains the second half only and full season Brier scores for moneyline, Elo, RatingsLib, and Bradley-Terry based prediction models
+
+### results/fivethirtyeight_competition.csv
+- Contains the placement and percentile of a hypothetical player using moneyline based probabilistic predictions in the FiveThirtyEight NFL prediction competition
+
+- ### results/nfl_teamwise_winrate.csv
+- Contains the win rate for all 32 NFL teams across all seasons in the range

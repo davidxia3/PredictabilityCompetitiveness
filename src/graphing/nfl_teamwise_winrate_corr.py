@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import pearsonr
 
-winrates_df = pd.read_csv("results/nfl_team_win_rates.csv")
-brier_scores_df = pd.read_csv("results/nfl_by_team.csv")
+winrates_df = pd.read_csv("results/nfl_teamwise_winrate.csv")
+brier_scores_df = pd.read_csv("results/moneyline/teamwise/nfl_teamwise.csv")
 
 merged_df = pd.merge(winrates_df, brier_scores_df, on='team')
 
@@ -28,4 +28,4 @@ plt.grid(True, linestyle='--', alpha=0.6)
 plt.legend(fontsize=12)
 plt.tight_layout()
 
-plt.savefig("figures/nfl_brier_vs_win_rate_with_correlation.png", dpi=300, bbox_inches='tight')
+plt.savefig("figures/nfl_brier_winrate_corr.png", dpi=300, bbox_inches='tight')

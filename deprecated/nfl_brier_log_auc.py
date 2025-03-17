@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.metrics import log_loss, roc_auc_score
 import numpy as np
 
-file_path = "processed_data/nfl_espn_combined_with_elo.csv"
+file_path = "processed_data/combined/nfl_espn_combined_with_elo.csv"
 df = pd.read_csv(file_path)
 
 grouped = df.groupby('tournament')

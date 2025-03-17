@@ -1,7 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-file_paths = ["results/mlb_seasonal.csv", "results/nhl_seasonal.csv", "results/nfl_seasonal.csv", "results/nba_seasonal.csv"]
+file_paths = ["results/moneyline/seasonal/mlb_seasonal.csv", "results/moneyline/seasonal/nhl_seasonal.csv",
+            "results/moneyline/seasonal/nfl_seasonal.csv", "results/moneyline/seasonal/nba_seasonal.csv"]
 leagues = ['MLB', 'NHL', 'NFL', 'NBA']
 colors = ['blue', 'orange', 'red', 'purple']
 
