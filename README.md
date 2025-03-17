@@ -9,8 +9,11 @@
 ### processed_data/
 - Contains the polished and refined version of data that is usable for analysis and graphing
 
+### results/
+- Contains the numerical results from analysis
+
 ### figures/
-- Contains the final graphical results for presentations
+- Contains the final graphical representation of numerical results for presentations
 
 ### src/
 - Contains all the scripts for scraping, processing, and analyzing data
