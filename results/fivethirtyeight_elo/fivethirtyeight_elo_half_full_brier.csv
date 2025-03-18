@@ -1,0 +1,3 @@
+Prediction_Method,Brier_Score
+nfl_full_fivethirtyeight_elo,0.21841753667476196
+nfl_half_fivethirtyeight_elo,0.2148098850183497

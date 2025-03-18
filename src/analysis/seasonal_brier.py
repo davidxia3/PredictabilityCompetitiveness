@@ -59,4 +59,4 @@ for league in leagues:
 
     df_results = df_results.round(4)
 
-    df_results.to_csv(f'results/moneyline/seasonal/{league}_seasonal.csv', index=False)
+    df_results.to_csv(f'results/moneyline/seasonal/{league}_seasonal_brier.csv', index=False)

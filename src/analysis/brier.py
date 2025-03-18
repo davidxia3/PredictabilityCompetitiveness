@@ -37,7 +37,7 @@ for league in leagues:
                 "season": season,
                 "moneyline_brier_score": avg_brier_score,
                 "baseline_brier_score": baseline_brier_score,
-                "elo_brier_score": elo_brier_score,
+                "fivethirtyeight_elo_brier_score": elo_brier_score,
             })
         else:
             results.append({

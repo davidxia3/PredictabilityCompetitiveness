@@ -7,13 +7,13 @@
     - {league}_bradley_terry_predictions.csv has the gamewise probabilistic predictions for all games
     - bradley_terry_half_full_brier.csv contains Bradley-Terry based Brier score of all leagues based on second half only and full season
 
-### resuls/elo/
-- results/elo/elo_half_full_brier.csv contains second half only and full season Brier scores for each of the four league based on Elo predictions
+### resuls/fivethirtyeight_elo/
+- results/fivethirtyeight_elo/fivethirtyeight_elo_half_full_brier.csv contains second half only and full season Brier scores for each of the four league based on FiveThirtyEight Elo predictions
 
 ### results/moneyline/
 - Folder that contains results of moneyline based probabilistic predictions for the four leagues
-    - results/moneyline/modelwise/
-        - Folder that contains a file for each of the four leagues that has the Brier score of moneyline based and baseline prediction models (and Elo model for NFL)
+    - results/moneyline/brier/
+        - Folder that contains a file for each of the four leagues that has the Brier score of moneyline based and baseline prediction models (and FivethirtyEight Elo model for NFL)
     - results/moneyline/seasonal/
         - Folder that contains a file for each of the four leagues that has the seasonal Brier score, log loss, AUC, and three different Brier skill loss scores by season
             - brier_skill_loss_50_50 (baseline is 50/50 coinflip model)
@@ -33,7 +33,7 @@
 - Contains binary accuracy of moneyline based predictions in the four leagues
 
 ### results/combined_half_full_brier.csv
-- Contains the second half only and full season Brier scores for moneyline, Elo, RatingsLib, and Bradley-Terry based prediction models
+- Contains the second half only and full season Brier scores for moneyline, FiveThirtyEight Elo, RatingsLib, and Bradley-Terry based prediction models
 
 ### results/fivethirtyeight_competition.csv
 - Contains the placement and percentile of a hypothetical player using moneyline based probabilistic predictions in the FiveThirtyEight NFL prediction competition

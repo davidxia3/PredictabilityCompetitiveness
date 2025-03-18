@@ -7,8 +7,8 @@ nfl_full_ml,0.2109030223767027
 nfl_half_ml,0.2037381490660377
 nba_full_ml,0.2030127346824812
 nba_half_ml,0.200966433581194
-nfl_full_elo,0.2184175366747619
-nfl_half_elo,0.2148098850183497
+nfl_full_fivethirtyeight_elo,0.2184175366747619
+nfl_half_fivethirtyeight_elo,0.2148098850183497
 nfl_full_elo_point,0.241049061494209
 nfl_full_elo_win,0.251039662380647
 nfl_full_keener,0.241110440669523
