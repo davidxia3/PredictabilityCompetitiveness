@@ -53,7 +53,7 @@ def get_loser(r):
     else:
         return np.nan
 
-leagues = ['nba', 'nhl', 'mlb']
+leagues = ['nfl', 'nba', 'nhl', 'mlb']
 
 for league in leagues:
     league_csv = pd.read_csv(f'processed_data/ratingslib_formatted/{league}_ratingslib_formatted.csv')
