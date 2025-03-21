@@ -5,6 +5,7 @@
 ### results/bradley_terry/
 - Folder that contains results of Bradley-Terry based probabilistic predictions for the four leagues
     - {league}_bradley_terry_predictions.csv has the gamewise probabilistic predictions for all games
+    - {league}_bradley_terry_ratings.csv has the gamewise Bradley-Terry ratings for all games
     - bradley_terry_half_full_brier.csv contains Bradley-Terry based Brier score of all leagues based on second half only and full season
 
 ### resuls/fivethirtyeight_elo/
