@@ -21,6 +21,8 @@
     - espn_id : unique game id that ESPN uses for game's webpage
     - game_type : type of game (e.g postseason, regular_season)
     - elo_prob_1 (NFL ONLY): the predicted probability that team_1 wins, derived from elo scores; None if elo didn't exist for the game
+- Also contains parallel version of each file with only second half of season games
+
 
 ### processed_data/ratingslib_formatted/
 - Contains the four final version of match results in the four leagues

@@ -3,9 +3,11 @@
 ## Contains all the scripts to graph processed data and create figures
 
 ### src/graphing/calibration.py
-- Creates the calibration plot of the four leagues using the betting market based probabilistic predictions
-- 10 uniform bins are used for each league
+- Creates the calibration plot of the four leagues using the betting market based, Bradley-Terry based, and Ratingslib based probabilistic predictions
+- 10 uniform bins are used for each league and method
+- Also creates a separate calibration plot for just second half of season games
 - Results are saved to figures/calibration/{league}_calibration.png
+- Second half of season only results are saved to figures/calibration/{league}_half_calibration.png
 
 ### src/graphing/nfl_brier_modelwise.py
 - Computes the brier score of four probabilistic prediction (betting market, Elo, home bias coinflip, 50/50 coinflip) models for NFL by season

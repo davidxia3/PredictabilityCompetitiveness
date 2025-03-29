@@ -27,3 +27,6 @@
 
 ### src/preprocessing/ratingslibformatter.py
 - Converts output of combined processing to a format that is easier for the RatingsLib package to use
+
+### src/preprocessing/second_half_season_filter.py
+- Creates a filtered version of prediction csv files that contain only games from the second half of every season

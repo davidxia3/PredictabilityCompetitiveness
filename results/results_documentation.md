@@ -7,6 +7,8 @@
     - {league}_bradley_terry_predictions.csv has the gamewise probabilistic predictions for all games
     - {league}_bradley_terry_ratings.csv has the gamewise Bradley-Terry ratings for all games
     - bradley_terry_half_full_brier.csv contains Bradley-Terry based Brier score of all leagues based on second half only and full season
+- Also contains parallel version of each file with only second half of season games
+
 
 ### resuls/fivethirtyeight_elo/
 - results/fivethirtyeight_elo/fivethirtyeight_elo_half_full_brier.csv contains second half only and full season Brier scores for each of the four league based on FiveThirtyEight Elo predictions
@@ -29,6 +31,7 @@
 - Folder that contains results of RatingsLib based probabilistic predictions for the four leagues
     - {league}_full_ratingslib_predictions.csv has the gamewise probabilistic predictions for all games using the Elo Point, Elo Win, Keener, Massey, and Offense-Defense ratings
     - ratingslib_half_full_brier.csv contains RatingsLib based Brier score of all leagues and ratings based on second half only and full season
+- Also contains parallel version of each file with only second half of season games
 
 ### results/binary_accuracy.csv
 - Contains binary accuracy of moneyline based predictions in the four leagues
