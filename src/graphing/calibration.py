@@ -60,7 +60,7 @@ for league in leagues:
 
         prob_true1, prob_pred1 = calibration_curve(actual_results, c1, n_bins=10, strategy='uniform')
 
-        plt.plot(prob_pred1, prob_true1, marker='o', label='Bradley Terry Model', color='blue',linewidth=3, markersize=10)
+        plt.plot(prob_pred1, prob_true1, marker='o', label='Bradley-Terry Model', color='blue',linewidth=3, markersize=10)
 
 
 
