@@ -36,6 +36,9 @@
 ### results/binary_accuracy.csv
 - Contains binary accuracy of moneyline based predictions in the four leagues
 
+### results/calibration_statistics.csv
+- Contains the counts and normalized counts of each bin of every plot in calibration plots
+
 ### results/combined_half_full_brier.csv
 - Contains the second half only and full season Brier scores for moneyline, FiveThirtyEight Elo, RatingsLib, and Bradley-Terry based prediction models
 

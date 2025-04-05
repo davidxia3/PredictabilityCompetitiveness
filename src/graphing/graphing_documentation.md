@@ -8,6 +8,7 @@
 - Also creates a separate calibration plot for just second half of season games
 - Results are saved to figures/calibration/{league}_calibration.png
 - Second half of season only results are saved to figures/calibration/{league}_half_calibration.png
+- Saves the counts and normalized counts of each bin of each plot to results/calibration_statistics.csv
 
 ### src/graphing/nfl_brier_modelwise.py
 - Computes the brier score of four probabilistic prediction (betting market, Elo, home bias coinflip, 50/50 coinflip) models for NFL by season
