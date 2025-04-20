@@ -29,11 +29,11 @@ for league in leagues:
     for half in halves:
 
         plt.figure(figsize=(10, 6))
-        plt.plot([0, 1], [0, 1], linestyle='--', color='gray', label='Perfect Calibration',linewidth=3, markersize=10)
+        plt.plot([0, 1], [0, 0], linestyle='--', color='gray', label='Perfect Calibration',linewidth=3, markersize=10)
         plt.xlim(0, 1)
-        plt.ylim(0, 1)
+        plt.ylim(-0.5, 0.5)
         plt.xlabel('Predicted Win Probability', fontsize=20)
-        plt.ylabel('Actual Win Frequency', fontsize=20)
+        plt.ylabel('Normalized Actual Win Frequency', fontsize=20)
         plt.legend(fontsize=15)
         plt.grid(True, linestyle='--', alpha=0.6)
         plt.tick_params(axis='both', which='major', labelsize=15)
@@ -73,8 +73,8 @@ for league in leagues:
             distribution_data.append(elo_prop_row)
             
 
-            plt.plot(prob_pred1, prob_true1, marker='o', label='Betting Market Model', color='green',linewidth=3, markersize=10)
-            plt.plot(prob_pred2, prob_true2, marker='o', label='Elo Model', color='magenta',linewidth=3, markersize=10)
+            plt.plot(prob_pred1, prob_true1 - prob_pred1, marker='o', label='Betting Market Model', color='green',linewidth=3, markersize=10)
+            plt.plot(prob_pred2, prob_true2 - prob_pred2, marker='o', label='Elo Model', color='magenta',linewidth=3, markersize=10)
 
         else:
             ml_df = ml_df[ml_df[['avg_prob_1']].notnull().all(axis=1)]
@@ -92,7 +92,7 @@ for league in leagues:
             ml_prop_row.update({f'bin_{i+1}': val for i, val in enumerate(ml_props)})
             distribution_data.append(ml_prop_row)
 
-            plt.plot(prob_pred1, prob_true1, marker='o', label='Betting Market Model', color='green',linewidth=3, markersize=10)
+            plt.plot(prob_pred1, prob_true1 - prob_pred1, marker='o', label='Betting Market Model', color='green',linewidth=3, markersize=10)
 
 
         bt_df = pd.read_csv(bradley_terry_path)
@@ -110,7 +110,7 @@ for league in leagues:
         bt_prop_row.update({f'bin_{i+1}': val for i, val in enumerate(bt_props)})
         distribution_data.append(bt_prop_row)
 
-        plt.plot(prob_pred1, prob_true1, marker='o', label='Bradley-Terry Model', color='blue',linewidth=3, markersize=10)
+        plt.plot(prob_pred1, prob_true1 - prob_pred1, marker='o', label='Bradley-Terry Model', color='blue',linewidth=3, markersize=10)
 
 
 
@@ -169,11 +169,10 @@ for league in leagues:
         od_prop_row.update({f'bin_{i+1}': val for i, val in enumerate(od_props)})
         distribution_data.append(od_prop_row)
 
-        plt.plot(prob_pred1, prob_true1, marker='o', label='Elo Point Model', color='crimson', linewidth=3, markersize=10)
-        plt.plot(prob_pred2, prob_true2, marker='o', label='Elo Win Model', color='firebrick', linewidth=3, markersize=10)
-        plt.plot(prob_pred3, prob_true3, marker='o', label='Keener Model', color='indianred', linewidth=3, markersize=10)
-        plt.plot(prob_pred4, prob_true4, marker='o', label='Massey Model', color='tomato', linewidth=3, markersize=10)
-        plt.plot(prob_pred5, prob_true5, marker='o', label='Offense-Defense Model', color='lightcoral', linewidth=3, markersize=10)
+        ratingslib_avg = [sum(x) / len(x) for x in zip(*[prob_true1, prob_true2, prob_true3, prob_true4, prob_true5])]
+
+
+        plt.plot(prob_pred1, ratingslib_avg - prob_pred1, marker='o', label='Ratingslib Average', color='red', linewidth=3, markersize=10)
 
 
         plt.legend()
