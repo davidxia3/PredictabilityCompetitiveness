@@ -2,6 +2,9 @@
 
 ## Contains all the scripts to graph processed data and create figures
 
+### brier_vs_log_loss.py
+- Compares the scaled performances of prediction methods using both the Brier Score and the Log Loss metrics 
+
 ### src/graphing/calibration.py
 - Creates the calibration plot of the four leagues using the betting market based, Bradley-Terry based, and Ratingslib based probabilistic predictions
 - 10 uniform bins are used for each league and method

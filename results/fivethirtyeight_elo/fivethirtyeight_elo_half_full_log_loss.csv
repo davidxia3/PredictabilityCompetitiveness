@@ -1,0 +1,3 @@
+Prediction_Method,Log_Loss
+nfl_full_fivethirtyeight_elo,0.6259673667025673
+nfl_half_fivethirtyeight_elo,0.6179399791093608

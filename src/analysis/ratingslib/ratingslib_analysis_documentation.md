@@ -12,3 +12,8 @@ See [RatingsLib](https://github.com/ktalattinis/ratingslib) for documentation an
 - Computes the Brier scores for predictions based on the Elo Point, Elo Win, Keener, Massey, and Offense-Defense ratings
 - Computes both second half only and full season Brier scores
 - Results are saved to results/ratingslib/ratingslib_half_full_brier.csv
+
+### src/analysis/ratingslib/ratingslib_half_full_log_loss.py
+- Computes the Log Loss for predictions based on the Elo Point, Elo Win, Keener, Massey, and Offense-Defense ratings
+- Computes both second half only and full season Log Loss
+- Results are saved to results/ratingslib/ratingslib_half_full_log_loss.csv

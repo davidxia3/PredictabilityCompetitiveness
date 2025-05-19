@@ -1,0 +1,9 @@
+Prediction_Method,Log_Loss
+nfl_full_bradley_terry,2.2825734830586
+nfl_half_bradley_terry,0.9783603581236634
+nhl_full_bradley_terry,1.0161024001935495
+nhl_half_bradley_terry,0.687123961586528
+mlb_full_bradley_terry,0.9436837363564043
+mlb_half_bradley_terry,0.8332541316380344
+nba_full_bradley_terry,0.9294706792773907
+nba_half_bradley_terry,0.6413899845753221

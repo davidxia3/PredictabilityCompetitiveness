@@ -10,9 +10,17 @@
 - Compiles the half and full Brier scores for moneyline, FiveThirtyEight Elo, RatingsLib, and Bradley-Terry
 - Results are saved to results/combined_half_full_brier.csv
 
+### src/analysis/combined_half_full_log_loss.py
+- Compiles the half and full Log Loss for moneyline, FiveThirtyEight Elo, RatingsLib, and Bradley-Terry
+- Results are saved to results/combined_half_full_log_loss.csv
+
 ### src/analysis/fivethirtyeight_elo_half_full_brier.py
 - Computes the Brier scores for each league based on second half only or the full season FiveThirtyEight Elo predictions
 - Results are saved to results/elo/elo_half_full_brier.csv
+
+### src/analysis/fivethirtyeight_elo_half_full_log_loss.py
+- Computes the Log Loss for each league based on second half only or the full season FiveThirtyEight Elo predictions
+- Results are saved to results/elo/elo_half_full_log_loss.csv
 
 ### fivethirtyeight_competition.py
 - Outputs the result if the moneyline based predictions were a competitor in the FiveThirtyEight NFL prediction games
@@ -25,6 +33,10 @@
 ### src/analysis/moneyline_half_full_brier.py
 - Computes the Brier scores for each league based on second half only or the full season moneyline predictions
 - Results are saved to results/moneyline/moneyline_half_full_brier.csv
+
+### src/analysis/moneyline_half_full_log_loss.py
+- Computes the Log Loss for each league based on second half only or the full season moneyline predictions
+- Results are saved to results/moneyline/moneyline_half_full_log_loss.csv
 
 ### src/analysis/moneyline_teamwise_brier.py
 - Uses moneyline based probabilistic predictions to compute the Brier scores for games involving each team

@@ -7,10 +7,16 @@
 - Shows the calibration plot of moneyline based probabilistic predictions
 - Uses 10 uniform bins
 
-### figures/nfl_brier_modelwise.png
+### brier_seasonal.png
+- Shows the Brier scores of the four leagues by season
+
+### brier_vs_log_loss.py
+- Compares the scaled performances of prediction methods using both the Brier Score and the Log Loss metrics 
+
+### figures/nfl_brier_seasonal.png
 - Shows Brier scores of four different models (betting market, Elo, home bias coinflip, 50/50 coinflip) for NFL by season
 
-### figures/nfl_brier_teamwise_sorted.png
+### figures/nfl_brier_teamwise.png
 - Shows Brier scores of the games involving each of the 32 NFL teams
 - Sorted in ascending order
 
@@ -20,6 +26,3 @@
 ### figures/predicted_home_win_box_plot.png
 - Shows a box plot for the moneyline based probabilistic home team prediction distribution of the four different leagues
 - Baselin 50% is shown in black
-
-### seasonal.png
-- Shows the Brier scores of the four leagues by season
