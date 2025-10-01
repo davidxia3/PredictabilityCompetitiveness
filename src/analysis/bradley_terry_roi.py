@@ -69,70 +69,51 @@ for league in leagues:
             seasonal_underdog_roi[tournament] = [0,0,0,0,0,0,0,0,0,0]
 
 
-        prob = bt_row["bradley_terry_prediction"]
+        bt_prob = bt_row["bradley_terry_prediction"]
         bin = int(prob * 10)
         if bin == 10:
             bin = 9
+
+        total_n += 1
         n[bin] += 1
-
-        total_n +=1
-
-
         seasonal_n[tournament][bin] += 1
 
-        if prob >= 0.5:
+        ml1 = ml_row["avg_moneyline_1"]
+        ml2 = ml_row["avg_moneyline_2"]
+        result = ml_row["result"]
 
-            total_favorite_invested += 100
-            if ml_row["result"] == 1:
-                total_favorite_revenue += 100 + (100 * (100 / abs(ml_row["avg_moneyline_1"])))
+        def payout(ml, win):
+            if ml < 0:
+                odds = 100 / abs(ml)
+            else:
+                odds = ml / 100
+            return (100 + 100 * odds) * win
 
-            total_underdog_invested += 100
-            if ml_row["result"] == 0:
-                total_underdog_revenue += 100 + (100 * (abs(ml_row["avg_moneyline_2"]) / 100))
-
-
-            favorite_invested[bin] += 100
-            if ml_row["result"] == 1:
-                favorite_revenue[bin] += 100 + (100 * (100 / abs(ml_row["avg_moneyline_1"])))
-            
-            underdog_invested[bin] += 100
-            if ml_row["result"] == 0:
-                underdog_revenue[bin] += 100 + (100 * (abs(ml_row["avg_moneyline_2"]) / 100))
-
-            
-            seasonal_favorite_invested[tournament][bin] += 100
-            if ml_row["result"] == 1:
-                seasonal_favorite_revenue[tournament][bin] += 100 + (100 * (100 / abs(ml_row["avg_moneyline_1"])))
-            
-            seasonal_underdog_invested[tournament][bin] += 100
-            if ml_row["result"] == 0:
-                seasonal_underdog_revenue[tournament][bin] += 100 + (100 * (abs(ml_row["avg_moneyline_2"]) / 100))
-
+        if bt_prob >= 0.5:  
+            game_favorite_revenue = payout(ml1, result)
+            game_underdog_revenue = payout(ml2, 1 - result)
         else:
-            total_favorite_invested += 100
-            if ml_row["result"] == 0:
-                total_favorite_revenue += 100 + (100 * (100 / abs(ml_row["avg_moneyline_2"])))
+            game_favorite_revenue = payout(ml2, 1 - result)
+            game_underdog_revenue = payout(ml1, result)
 
-            total_underdog_invested += 100
-            if ml_row["result"] == 1:
-                total_underdog_revenue += 100 + (100 * (abs(ml_row["avg_moneyline_1"]) / 100))
+        total_favorite_invested += 100
+        total_favorite_revenue += game_favorite_revenue
 
-            favorite_invested[bin] += 100
-            if ml_row["result"] == 0:
-                favorite_revenue[bin] += 100 + (100 * (100 / abs(ml_row["avg_moneyline_2"])))
+        total_underdog_invested += 100
+        total_underdog_revenue += game_underdog_revenue
 
-            underdog_invested[bin] += 100
-            if ml_row["result"] == 1:
-                underdog_revenue[bin] += 100 + (100 * (abs(ml_row["avg_moneyline_1"]) / 100))
+        favorite_invested[bin] += 100
+        favorite_revenue[bin] += game_favorite_revenue
 
-        
-            seasonal_favorite_invested[tournament][bin] += 100
-            if ml_row["result"] == 0:
-                seasonal_favorite_revenue[tournament][bin] += 100 + (100 * (100 / abs(ml_row["avg_moneyline_2"])))
+        underdog_invested[bin] += 100
+        underdog_revenue[bin] += game_underdog_revenue
 
-            seasonal_underdog_invested[tournament][bin] += 100
-            if ml_row["result"] == 1:
-                seasonal_underdog_revenue[tournament][bin] += 100 + (100 * (abs(ml_row["avg_moneyline_1"]) / 100))
+        seasonal_favorite_invested[tournament][bin] += 100
+        seasonal_favorite_revenue[tournament][bin] += game_favorite_revenue
+
+        seasonal_underdog_invested[tournament][bin] += 100
+        seasonal_underdog_revenue[tournament][bin] += game_underdog_revenue
+
 
     if total_favorite_invested == 0:
         total_favorite_roi = -2
