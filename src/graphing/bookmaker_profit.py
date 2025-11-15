@@ -20,3 +20,9 @@ for league in leagues:
     plt.savefig(f"figures/bookmaker_profit/{league}_bookmaker_profit.png")
 
     plt.close()
+
+    print(f"--{league}--")
+    print(f"mean: {df[col].mean()}")
+    print(f"std: {df[col].std()}")
+    print(f"median: {df[col].median()}")
+    print("-----\n")
